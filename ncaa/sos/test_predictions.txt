@@ -1,0 +1,9 @@
+ year | model | naive | diff | count 
+------+-------+-------+------+-------
+(0 rows)
+
+ model | naive | diff | count 
+-------+-------+------+-------
+       |       |      |     0
+(1 row)
+

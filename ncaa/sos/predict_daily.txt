@@ -1,0 +1,9 @@
+BEGIN
+SET
+    date    | site |      home      | div | score |       away       | div | score 
+------------+------+----------------+-----+-------+------------------+-----+-------
+ 2015-04-01 | home | Pitt.-Bradford |   3 |   1.4 | Penn St.-Altoona |   3 |   0.7
+(1 row)
+
+COPY 1
+COMMIT
