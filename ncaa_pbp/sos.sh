@@ -29,4 +29,4 @@ psql volleyball-w -f sos/division_ranking.sql > sos/division_ranking.txt
 
 psql volleyball-w -f sos/test_predictions.sql > sos/test_predictions.txt
 
-psql volleyball-w -f sos/predict_daily.sql > sos/predict_daily.txt
+psql volleyball-w -f sos/predict_weekly.sql > sos/predict_weekly.txt
