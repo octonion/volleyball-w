@@ -11,11 +11,11 @@ fi
 
 psql volleyball-w -f loaders_tsv/create_ncaa_pbp_schema.sql
 
-tail -q -n+2 tsv/ncaa_teams*_1.tsv >> /tmp/ncaa_teams.tsv
+tail -q -n+2 tsv/ncaa_teams*.tsv >> /tmp/ncaa_teams.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_teams.sql
 rm /tmp/ncaa_teams.tsv
 
-tail -q -n+2 tsv/ncaa_team_schedules_mt_*_1.tsv >> /tmp/ncaa_team_schedules.tsv
+tail -q -n+2 tsv/ncaa_team_schedules_mt_*.tsv >> /tmp/ncaa_team_schedules.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_team_schedules.sql
 rm /tmp/ncaa_team_schedules.tsv
 
@@ -23,11 +23,11 @@ rm /tmp/ncaa_team_schedules.tsv
 #psql volleyball-w -f loaders_tsv/load_ncaa_box_scores.sql
 #rm /tmp/ncaa_games_box_scores.tsv
 
-tail -q -n+2 tsv/ncaa_team_rosters_mt*_1.tsv >> /tmp/ncaa_team_rosters.tsv
+tail -q -n+2 tsv/ncaa_team_rosters_mt*.tsv >> /tmp/ncaa_team_rosters.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_team_rosters.sql
 rm /tmp/ncaa_team_rosters.tsv
 
-tail -q -n+2 tsv/ncaa_games_periods_mt*_1.tsv >> /tmp/ncaa_games_periods.tsv
+tail -q -n+2 tsv/ncaa_games_periods_mt*.tsv >> /tmp/ncaa_games_periods.tsv
 rpl "[" "{" /tmp/ncaa_games_periods.tsv
 rpl "]" "}" /tmp/ncaa_games_periods.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_games_periods.sql

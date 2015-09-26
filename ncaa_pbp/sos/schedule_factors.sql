@@ -59,11 +59,9 @@ insert into r
 (
 select
 r.team_id,
---r.school_div_id,
-null,
+r.team_div_id,
 r.opponent_id,
---r.opponent_div_id,
-null,
+r.opponent_div_id,
 r.game_date,
 r.year,
 r.field
