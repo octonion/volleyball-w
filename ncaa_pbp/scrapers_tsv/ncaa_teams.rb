@@ -15,7 +15,8 @@ ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
 
 # Header for team file
 
-ncaa_teams << ["year", "year_id", "team_id", "team_name", "team_url"]
+ncaa_teams << ["year", "year_id", "division",
+               "team_id", "team_name", "team_url"]
 
 # Base URL for relative team links
 
@@ -56,7 +57,7 @@ doc.search("a").each do |link|
 
     team_url = base_url+link_url
 
-    ncaa_teams << [year, year_id, team_id, team_name, team_url]
+    ncaa_teams << [year, year_id, division, team_id, team_name, team_url]
     found_teams += 1
 
   end
