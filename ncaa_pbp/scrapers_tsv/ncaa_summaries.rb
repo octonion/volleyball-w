@@ -5,6 +5,7 @@ require 'mechanize'
 
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
+agent.robots = false
 
 year = ARGV[0].to_i
 division = ARGV[1].to_i
@@ -45,8 +46,8 @@ ncaa_teams.each do |team|
 
   year = team[0]
   year_id = team[1]
-  team_id = team[2]
-  team_name = team[3]
+  team_id = team[3]
+  team_name = team[4]
 
   players_xpath = '//*[@id="stat_grid"]/tbody/tr'
 

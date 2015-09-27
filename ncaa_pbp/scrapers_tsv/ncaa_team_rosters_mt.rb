@@ -49,6 +49,7 @@ threads = []
 
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
+agent.robots = false
 
 teams.each_slice(tpt).with_index do |teams_slice,i|
 
@@ -60,8 +61,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       year = team[0]
       year_id = team[1]
-      team_id = team[2]
-      team_name = team[3]
+      team_id = team[3]
+      team_name = team[4]
 
       team_roster_url = "http://stats.ncaa.org/team/roster/#{year_id}?org_id=#{team_id}"
 

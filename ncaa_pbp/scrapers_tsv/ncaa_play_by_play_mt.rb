@@ -75,6 +75,7 @@ threads = []
 
 agent = Mechanize.new{ |agent| agent.history.max_size=0 }
 agent.user_agent = 'Mozilla/5.0'
+agent.robots = false
 
 game_ids.each_slice(gpt).with_index do |ids,i|
 
