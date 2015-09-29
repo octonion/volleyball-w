@@ -176,7 +176,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	13	Albany St. (GA)	09/12/2015	Lynn @ Melbourne, Fla.	20794	Lynn	http://stats.ncaa.org/team/index/12221?org_id=20794	true	Melbourne, Fla.	true	L 0 - 3	false	0 - 3	false	0	3	false		3900024	http://stats.ncaa.org/game/index/3900024?org_id=20794
 2016	12221	13	Albany St. (GA)	09/19/2015	Benedict	55	Benedict	http://stats.ncaa.org/team/index/12221?org_id=55	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3904915	http://stats.ncaa.org/game/index/3904915?org_id=13
 2016	12221	13	Albany St. (GA)	09/21/2015	@ Fort Valley St.	237	Fort Valley St.	http://stats.ncaa.org/team/index/12221?org_id=237	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3904643	http://stats.ncaa.org/game/index/3904643?org_id=237
-2016	12221	13	Albany St. (GA)	09/24/2015	LeMoyne-Owen		LeMoyne-Owen		false		true	-									
+2016	12221	13	Albany St. (GA)	09/24/2015	@ LeMoyne-Owen		LeMoyne-Owen		false		false	-									
 2016	12221	13	Albany St. (GA)	09/24/2015	Central St. (OH)	30049	Central St. (OH)	http://stats.ncaa.org/team/index/12221?org_id=30049	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3906809	http://stats.ncaa.org/game/index/3906809?org_id=13
 2016	12221	13	Albany St. (GA)	09/24/2015	@ Stillman	680	Stillman	http://stats.ncaa.org/team/index/12221?org_id=680	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3906808	http://stats.ncaa.org/game/index/3906808?org_id=13
 2016	12221	13	Albany St. (GA)	09/25/2015	Spring Hill	30191	Spring Hill	http://stats.ncaa.org/team/index/12221?org_id=30191	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3909242	http://stats.ncaa.org/game/index/3909242?org_id=30191
@@ -859,7 +859,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	70	Bowie St.	09/20/2015	@ Winston-Salem	791	Winston-Salem	http://stats.ncaa.org/team/index/12221?org_id=791	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3904253	http://stats.ncaa.org/game/index/3904253?org_id=791
 2016	12221	70	Bowie St.	09/24/2015	@ Virginia St.	743	Virginia St.	http://stats.ncaa.org/team/index/12221?org_id=743	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3906604	http://stats.ncaa.org/game/index/3906604?org_id=743
 2016	12221	70	Bowie St.	09/27/2015	@ Chowan	8875	Chowan	http://stats.ncaa.org/team/index/12221?org_id=8875	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3909718	http://stats.ncaa.org/game/index/3909718?org_id=8875
-2016	12221	70	Bowie St.	09/28/2015	@ Elizabeth City St.		Elizabeth City St.		false		false	-									
+2016	12221	70	Bowie St.	09/28/2015	@ Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12221?org_id=210	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3911085	http://stats.ncaa.org/game/index/3911085?org_id=210
 2016	12221	70	Bowie St.	10/03/2015	Saint Augustine's@Lincoln, PA		Saint Augustine'sLincoln, PA		false		false	-									
 2016	12221	70	Bowie St.	10/03/2015	Fayetteville St.@Lincoln, PA		Fayetteville St.Lincoln, PA		false		false	-									
 2016	12221	70	Bowie St.	10/04/2015	Shaw@Lincoln, PA		ShawLincoln, PA		false		false	-									
@@ -1673,7 +1673,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	8875	Chowan	09/24/2015	@ Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12221?org_id=210	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3906597	http://stats.ncaa.org/game/index/3906597?org_id=210
 2016	12221	8875	Chowan	09/26/2015	Southern Va.	30164	Southern Va.	http://stats.ncaa.org/team/index/12221?org_id=30164	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3909230	http://stats.ncaa.org/game/index/3909230?org_id=8875
 2016	12221	8875	Chowan	09/27/2015	Bowie St.	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3909718	http://stats.ncaa.org/game/index/3909718?org_id=8875
-2016	12221	8875	Chowan	09/28/2015	Lincoln (PA)		Lincoln (PA)		false		true	-									
+2016	12221	8875	Chowan	09/28/2015	Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/index/12221?org_id=357	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3911081	http://stats.ncaa.org/game/index/3911081?org_id=8875
 2016	12221	8875	Chowan	09/30/2015	@ Mount Olive		Mount Olive		false		false	-									
 2016	12221	8875	Chowan	10/03/2015	Johnson C. Smith		Johnson C. Smith		false		true	-									
 2016	12221	8875	Chowan	10/03/2015	Livingstone		Livingstone		false		true	-									
@@ -2530,7 +2530,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	210	Elizabeth City St.	09/20/2015	@ Saint Augustine's	594	Saint Augustine's	http://stats.ncaa.org/team/index/12221?org_id=594	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3903276	http://stats.ncaa.org/game/index/3903276?org_id=594
 2016	12221	210	Elizabeth City St.	09/24/2015	Chowan	8875	Chowan	http://stats.ncaa.org/team/index/12221?org_id=8875	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3906597	http://stats.ncaa.org/game/index/3906597?org_id=210
 2016	12221	210	Elizabeth City St.	09/27/2015	Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/index/12221?org_id=357	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3909864	http://stats.ncaa.org/game/index/3909864?org_id=210
-2016	12221	210	Elizabeth City St.	09/28/2015	Bowie St.		Bowie St.		false		true	-									
+2016	12221	210	Elizabeth City St.	09/28/2015	Bowie St.	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3911085	http://stats.ncaa.org/game/index/3911085?org_id=210
 2016	12221	210	Elizabeth City St.	10/03/2015	Winston-Salem@Murfreesboro, NC		Winston-SalemMurfreesboro, NC		false		false	-									
 2016	12221	210	Elizabeth City St.	10/03/2015	Johnson C. Smith@Murfreesboro, NC		Johnson C. SmithMurfreesboro, NC		false		false	-									
 2016	12221	210	Elizabeth City St.	10/04/2015	Livingstone@Murfreesboro, NC		LivingstoneMurfreesboro, NC		false		false	-									
@@ -3545,12 +3545,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	323	Johnson C. Smith	09/05/2015	Slippery Rock @ Misenheimer,NC	643	Slippery Rock	http://stats.ncaa.org/team/index/12221?org_id=643	true	Misenheimer,NC	true	L 0 - 3	false	0 - 3	false	0	3	false		3885542	http://stats.ncaa.org/game/index/3885542?org_id=323
 2016	12221	323	Johnson C. Smith	09/05/2015	Salem Int'l @ Misenheimer, NC	19117	Salem Int'l	http://stats.ncaa.org/team/index/12221?org_id=19117	true	Misenheimer, NC	true	L 0 - 3	false	0 - 3	false	0	3	false		3885543	http://stats.ncaa.org/game/index/3885543?org_id=323
 2016	12221	323	Johnson C. Smith	09/15/2015	@ Benedict	55	Benedict	http://stats.ncaa.org/team/index/12221?org_id=55	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3896871	http://stats.ncaa.org/game/index/3896871?org_id=55
-2016	12221	323	Johnson C. Smith	09/19/2015	Bowie St. @ Winston-Salem, NC	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	true	Winston-Salem, NC	true	L 2 - 3	false	2 - 3	false	2	3	false		3903061	http://stats.ncaa.org/game/index/3903061?org_id=323
 2016	12221	323	Johnson C. Smith	09/19/2015	Lincoln (PA) @ Winston-Salem, N.C.	357	Lincoln (PA)	http://stats.ncaa.org/team/index/12221?org_id=357	true	Winston-Salem, N.C.	true	W 3 - 2	true	3 - 2	false	3	2	false		3903063	http://stats.ncaa.org/game/index/3903063?org_id=323
+2016	12221	323	Johnson C. Smith	09/19/2015	Bowie St. @ Winston-Salem, NC	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	true	Winston-Salem, NC	true	L 2 - 3	false	2 - 3	false	2	3	false		3903061	http://stats.ncaa.org/game/index/3903061?org_id=323
 2016	12221	323	Johnson C. Smith	09/20/2015	Virginia Union @ Winston-Salem, N.C.	744	Virginia Union	http://stats.ncaa.org/team/index/12221?org_id=744	true	Winston-Salem, N.C.	true	L 1 - 3	false	1 - 3	false	1	3	false		3904270	http://stats.ncaa.org/game/index/3904270?org_id=323
 2016	12221	323	Johnson C. Smith	09/24/2015	Saint Augustine's	594	Saint Augustine's	http://stats.ncaa.org/team/index/12221?org_id=594	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3906694	http://stats.ncaa.org/game/index/3906694?org_id=323
 2016	12221	323	Johnson C. Smith	09/26/2015	Morris		Morris		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3908636	http://stats.ncaa.org/game/index/3908636?org_id=323
 2016	12221	323	Johnson C. Smith	09/28/2015	@ Shaw		Shaw		false		false	-									
+2016	12221	323	Johnson C. Smith	09/28/2015	@ Shaw	636	Shaw	http://stats.ncaa.org/team/index/12221?org_id=636	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3911090	http://stats.ncaa.org/game/index/3911090?org_id=636
 2016	12221	323	Johnson C. Smith	10/01/2015	TBA		TBA		false		true	-									
 2016	12221	323	Johnson C. Smith	10/03/2015	Elizabeth City St.@Murfreesboro, NC		Elizabeth City St.Murfreesboro, NC		false		false	-									
 2016	12221	323	Johnson C. Smith	10/03/2015	@ Chowan		Chowan		false		false	-									
@@ -4022,7 +4023,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	357	Lincoln (PA)	09/22/2015	@ Felician	23157	Felician	http://stats.ncaa.org/team/index/12221?org_id=23157	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3906484	http://stats.ncaa.org/game/index/3906484?org_id=23157
 2016	12221	357	Lincoln (PA)	09/24/2015	Virginia Union	744	Virginia Union	http://stats.ncaa.org/team/index/12221?org_id=744	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3906646	http://stats.ncaa.org/game/index/3906646?org_id=357
 2016	12221	357	Lincoln (PA)	09/27/2015	@ Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12221?org_id=210	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3909864	http://stats.ncaa.org/game/index/3909864?org_id=210
-2016	12221	357	Lincoln (PA)	09/28/2015	@ Chowan		Chowan		false		false	-									
+2016	12221	357	Lincoln (PA)	09/28/2015	@ Chowan	8875	Chowan	http://stats.ncaa.org/team/index/12221?org_id=8875	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3911081	http://stats.ncaa.org/game/index/3911081?org_id=8875
 2016	12221	357	Lincoln (PA)	09/30/2015	Cheyney		Cheyney		false		true	-									
 2016	12221	357	Lincoln (PA)	10/03/2015	Shaw		Shaw		false		true	-									
 2016	12221	357	Lincoln (PA)	10/03/2015	Saint Augustine's		Saint Augustine's		false		true	-									
@@ -4809,7 +4810,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	9012	Mo. Southern St.	09/17/2015	@ Ozarks (MO)		Ozarks (MO)		false		false	L 0 - 3	false	0 - 3	false	0	3	false		3899079	http://stats.ncaa.org/game/index/3899079?org_id=9012
 2016	12221	9012	Mo. Southern St.	09/22/2015	@ Drury	1057	Drury	http://stats.ncaa.org/team/index/12221?org_id=1057	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3905321	http://stats.ncaa.org/game/index/3905321?org_id=1057
 2016	12221	9012	Mo. Southern St.	09/25/2015	@ Mo. Western St.	9013	Mo. Western St.	http://stats.ncaa.org/team/index/12221?org_id=9013	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3907293	http://stats.ncaa.org/game/index/3907293?org_id=9013
-2016	12221	9012	Mo. Southern St.	09/26/2015	Northwest Mo. St.	507	Northwest Mo. St.	http://stats.ncaa.org/team/index/12221?org_id=507	false		true	-									
+2016	12221	9012	Mo. Southern St.	09/26/2015	@ Northwest Mo. St.	507	Northwest Mo. St.	http://stats.ncaa.org/team/index/12221?org_id=507	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3911026	http://stats.ncaa.org/game/index/3911026?org_id=507
 2016	12221	9012	Mo. Southern St.	10/02/2015	Emporia St.		Emporia St.		false		true	-									
 2016	12221	9012	Mo. Southern St.	10/03/2015	Washburn		Washburn		false		true	-									
 2016	12221	9012	Mo. Southern St.	10/03/2015	Ark.-Monticello		Ark.-Monticello		false		true	-									
@@ -5167,7 +5168,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30054	Newman	09/24/2015	St. Edward's	1334	St. Edward's	http://stats.ncaa.org/team/index/12221?org_id=1334	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3906678	http://stats.ncaa.org/game/index/3906678?org_id=30054
 2016	12221	30054	Newman	09/26/2015	Dallas Baptist	1045	Dallas Baptist	http://stats.ncaa.org/team/index/12221?org_id=1045	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3907839	http://stats.ncaa.org/game/index/3907839?org_id=30054
 2016	12221	30054	Newman	09/26/2015	Northwestern Okla.	30178	Northwestern Okla.	http://stats.ncaa.org/team/index/12221?org_id=30178	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3908491	http://stats.ncaa.org/game/index/3908491?org_id=30054
-2016	12221	30054	Newman	09/28/2015	Bethel (KS)		Bethel (KS)		false		true	-									
+2016	12221	30054	Newman	09/28/2015	Bethel (KS)		Bethel (KS)		false		true	W 3 - 1	true	3 - 1	false	3	1	false		3911141	http://stats.ncaa.org/game/index/3911141?org_id=30054
 2016	12221	30054	Newman	10/01/2015	St. Mary's (TX)		St. Mary's (TX)		false		true	-									
 2016	12221	30054	Newman	10/03/2015	Tex. A&M Int'l		Tex. A&M Int'l		false		true	-									
 2016	12221	30054	Newman	10/08/2015	@ Okla. Panhandle		Okla. Panhandle		false		false	-									
@@ -5316,7 +5317,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	507	Northwest Mo. St.	09/19/2015	Henderson St. @ St. Joseph, Mo.	1123	Henderson St.	http://stats.ncaa.org/team/index/12221?org_id=1123	true	St. Joseph, Mo.	true	W 3 - 0	true	3 - 0	false	3	0	false		3901222	http://stats.ncaa.org/game/index/3901222?org_id=507
 2016	12221	507	Northwest Mo. St.	09/19/2015	Okla. Baptist @ St. Joseph, Mo.	30202	Okla. Baptist	http://stats.ncaa.org/team/index/12221?org_id=30202	true	St. Joseph, Mo.	true	L 2 - 3	false	2 - 3	false	2	3	false		3902494	http://stats.ncaa.org/game/index/3902494?org_id=30202
 2016	12221	507	Northwest Mo. St.	09/25/2015	Southwest Baptist	2755	Southwest Baptist	http://stats.ncaa.org/team/index/12221?org_id=2755	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3907396	http://stats.ncaa.org/game/index/3907396?org_id=507
-2016	12221	507	Northwest Mo. St.	09/26/2015	Mo. Southern St.	9012	Mo. Southern St.	http://stats.ncaa.org/team/index/12221?org_id=9012	false		true	-									
+2016	12221	507	Northwest Mo. St.	09/26/2015	Mo. Southern St.	9012	Mo. Southern St.	http://stats.ncaa.org/team/index/12221?org_id=9012	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3911026	http://stats.ncaa.org/game/index/3911026?org_id=507
 2016	12221	507	Northwest Mo. St.	10/02/2015	Pittsburg St.		Pittsburg St.		false		true	-									
 2016	12221	507	Northwest Mo. St.	10/03/2015	Central Okla.		Central Okla.		false		true	-									
 2016	12221	507	Northwest Mo. St.	10/06/2015	Mo. Western St.		Mo. Western St.		false		true	-									
@@ -6232,7 +6233,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	594	Saint Augustine's	09/19/2015	Virginia St. @ Raleigh, N.C.	743	Virginia St.	http://stats.ncaa.org/team/index/12221?org_id=743	true	Raleigh, N.C.	true	W 3 - 0	true	3 - 0	false	3	0	false		3902532	http://stats.ncaa.org/game/index/3902532?org_id=594
 2016	12221	594	Saint Augustine's	09/20/2015	Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12221?org_id=210	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3903276	http://stats.ncaa.org/game/index/3903276?org_id=594
 2016	12221	594	Saint Augustine's	09/24/2015	@ Johnson C. Smith	323	Johnson C. Smith	http://stats.ncaa.org/team/index/12221?org_id=323	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3906694	http://stats.ncaa.org/game/index/3906694?org_id=323
-2016	12221	594	Saint Augustine's	09/28/2015	Winston-Salem		Winston-Salem		false		true	-									
+2016	12221	594	Saint Augustine's	09/28/2015	Winston-Salem	791	Winston-Salem	http://stats.ncaa.org/team/index/12221?org_id=791	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3911096	http://stats.ncaa.org/game/index/3911096?org_id=594
 2016	12221	594	Saint Augustine's	10/03/2015	@ Lincoln (PA)		Lincoln (PA)		false		false	-									
 2016	12221	594	Saint Augustine's	10/03/2015	Bowie St.@Lincoln, PA		Bowie St.Lincoln, PA		false		false	-									
 2016	12221	594	Saint Augustine's	10/04/2015	Virginia Union@Lincoln, PA		Virginia UnionLincoln, PA		false		false	-									
@@ -6472,16 +6473,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	636	Shaw	09/05/2015	Coker	1023	Coker	http://stats.ncaa.org/team/index/12221?org_id=1023	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3888682	http://stats.ncaa.org/game/index/3888682?org_id=636
 2016	12221	636	Shaw	09/09/2015	@ St. Andrews		St. Andrews		false		false	L 2 - 3	false	2 - 3	false	2	3	false		3893392	http://stats.ncaa.org/game/index/3893392?org_id=636
 2016	12221	636	Shaw	09/10/2015	Concordia (AL)		Concordia (AL)		false		true	W 3 - 1	true	3 - 1	false	3	1	false		3894917	http://stats.ncaa.org/game/index/3894917?org_id=636
-2016	12221	636	Shaw	09/12/2015	Saint Augustine's	594	Saint Augustine's	http://stats.ncaa.org/team/index/12221?org_id=594	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3909978	http://stats.ncaa.org/game/index/3909978?org_id=636
 2016	12221	636	Shaw	09/12/2015	Allen		Allen		false		true	W 3 - 1	true	3 - 1	false	3	1	false		3893343	http://stats.ncaa.org/game/index/3893343?org_id=636
+2016	12221	636	Shaw	09/12/2015	Saint Augustine's	594	Saint Augustine's	http://stats.ncaa.org/team/index/12221?org_id=594	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3909978	http://stats.ncaa.org/game/index/3909978?org_id=636
 2016	12221	636	Shaw	09/15/2015	@ Mount Olive	1245	Mount Olive	http://stats.ncaa.org/team/index/12221?org_id=1245	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3896600	http://stats.ncaa.org/game/index/3896600?org_id=1245
 2016	12221	636	Shaw	09/19/2015	Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/index/12221?org_id=210	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3902681	http://stats.ncaa.org/game/index/3902681?org_id=210
 2016	12221	636	Shaw	09/19/2015	Virginia St.	743	Virginia St.	http://stats.ncaa.org/team/index/12221?org_id=743	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3902000	http://stats.ncaa.org/game/index/3902000?org_id=636
 2016	12221	636	Shaw	09/20/2015	Chowan	8875	Chowan	http://stats.ncaa.org/team/index/12221?org_id=8875	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3903083	http://stats.ncaa.org/game/index/3903083?org_id=636
 2016	12221	636	Shaw	09/24/2015	@ Livingstone	359	Livingstone	http://stats.ncaa.org/team/index/12221?org_id=359	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3906591	http://stats.ncaa.org/game/index/3906591?org_id=359
-2016	12221	636	Shaw	09/28/2015	Johnson C. Smith		Johnson C. Smith		false		true	-									
-2016	12221	636	Shaw	10/03/2015	@ Lincoln (PA)		Lincoln (PA)		false		false	-									
+2016	12221	636	Shaw	09/28/2015	@ Johnson C. Smith		Johnson C. Smith		false		false	-									
+2016	12221	636	Shaw	09/28/2015	Johnson C. Smith	323	Johnson C. Smith	http://stats.ncaa.org/team/index/12221?org_id=323	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3911090	http://stats.ncaa.org/game/index/3911090?org_id=636
 2016	12221	636	Shaw	10/03/2015	Virginia Union@Lincoln, PA		Virginia UnionLincoln, PA		false		false	-									
+2016	12221	636	Shaw	10/03/2015	@ Lincoln (PA)		Lincoln (PA)		false		false	-									
 2016	12221	636	Shaw	10/04/2015	Bowie St.@Lincoln, PA		Bowie St.Lincoln, PA		false		false	-									
 2016	12221	636	Shaw	10/08/2015	@ Winston-Salem		Winston-Salem		false		false	-									
 2016	12221	636	Shaw	10/10/2015	Morris		Morris		false		true	-									
@@ -6495,8 +6497,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	636	Shaw	10/23/2015	@ Limestone		Limestone		false		false	-									
 2016	12221	636	Shaw	10/26/2015	@ Johnson C. Smith		Johnson C. Smith		false		false	-									
 2016	12221	636	Shaw	10/27/2015	@ Converse		Converse		false		false	-									
-2016	12221	636	Shaw	10/31/2015	Bluefield St.		Bluefield St.		false		true	-									
 2016	12221	636	Shaw	10/31/2015	Benedict		Benedict		false		true	-									
+2016	12221	636	Shaw	10/31/2015	Bluefield St.		Bluefield St.		false		true	-									
 2016	12221	636	Shaw	11/02/2015	Winston-Salem		Winston-Salem		false		true	-									
 2016	12221	636	Shaw	11/09/2015	Fayetteville St.		Fayetteville St.		false		true	-									
 2016	12221	636	Shaw	11/13/2015	Saint Augustine's		Saint Augustine's		false		true	-									
@@ -7926,7 +7928,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	743	Virginia St.	09/20/2015	@ Fayetteville St.	223	Fayetteville St.	http://stats.ncaa.org/team/index/12221?org_id=223	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3903669	http://stats.ncaa.org/game/index/3903669?org_id=743
 2016	12221	743	Virginia St.	09/24/2015	Bowie St.	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3906604	http://stats.ncaa.org/game/index/3906604?org_id=743
 2016	12221	743	Virginia St.	09/25/2015	Southern Va.		Southern Va.		false		true	-									
-2016	12221	743	Virginia St.	09/28/2015	Virginia Union		Virginia Union		false		true	-									
+2016	12221	743	Virginia St.	09/28/2015	Virginia Union	744	Virginia Union	http://stats.ncaa.org/team/index/12221?org_id=744	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3911124	http://stats.ncaa.org/game/index/3911124?org_id=743
 2016	12221	743	Virginia St.	09/29/2015	UVa-Wise		UVa-Wise		false		true	-									
 2016	12221	743	Virginia St.	10/03/2015	Winston-Salem@Murfreesboro, NC		Winston-SalemMurfreesboro, NC		false		false	-									
 2016	12221	743	Virginia St.	10/03/2015	Livingstone@Murfreesboro, NC		LivingstoneMurfreesboro, NC		false		false	-									
@@ -7949,7 +7951,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	744	Virginia Union	09/19/2015	@ Winston-Salem	791	Winston-Salem	http://stats.ncaa.org/team/index/12221?org_id=791	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3902440	http://stats.ncaa.org/game/index/3902440?org_id=791
 2016	12221	744	Virginia Union	09/20/2015	Johnson C. Smith @ Winston-Salem, N.C.	323	Johnson C. Smith	http://stats.ncaa.org/team/index/12221?org_id=323	true	Winston-Salem, N.C.	true	W 3 - 1	true	3 - 1	false	3	1	false		3904270	http://stats.ncaa.org/game/index/3904270?org_id=323
 2016	12221	744	Virginia Union	09/24/2015	@ Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/index/12221?org_id=357	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3906646	http://stats.ncaa.org/game/index/3906646?org_id=357
-2016	12221	744	Virginia Union	09/28/2015	@ Virginia St.		Virginia St.		false		false	-									
+2016	12221	744	Virginia Union	09/28/2015	@ Virginia St.	743	Virginia St.	http://stats.ncaa.org/team/index/12221?org_id=743	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3911124	http://stats.ncaa.org/game/index/3911124?org_id=743
 2016	12221	744	Virginia Union	10/03/2015	Shaw@Lincoln, PA		ShawLincoln, PA		false		false	-									
 2016	12221	744	Virginia Union	10/03/2015	Fayetteville St.@Lincoln, PA		Fayetteville St.Lincoln, PA		false		false	-									
 2016	12221	744	Virginia Union	10/04/2015	Saint Augustine's@Lincoln, PA		Saint Augustine'sLincoln, PA		false		false	-									
@@ -8628,7 +8630,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	791	Winston-Salem	09/19/2015	Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/index/12221?org_id=357	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3902446	http://stats.ncaa.org/game/index/3902446?org_id=791
 2016	12221	791	Winston-Salem	09/20/2015	Bowie St.	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3904253	http://stats.ncaa.org/game/index/3904253?org_id=791
 2016	12221	791	Winston-Salem	09/24/2015	Fayetteville St.	223	Fayetteville St.	http://stats.ncaa.org/team/index/12221?org_id=223	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3910502	http://stats.ncaa.org/game/index/3910502?org_id=791
-2016	12221	791	Winston-Salem	09/28/2015	@ Saint Augustine's		Saint Augustine's		false		false	-									
+2016	12221	791	Winston-Salem	09/28/2015	@ Saint Augustine's	594	Saint Augustine's	http://stats.ncaa.org/team/index/12221?org_id=594	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3911096	http://stats.ncaa.org/game/index/3911096?org_id=594
 2016	12221	791	Winston-Salem	10/03/2015	Elizabeth City St.@Murfreesboro, NC		Elizabeth City St.Murfreesboro, NC		false		false	-									
 2016	12221	791	Winston-Salem	10/03/2015	Virginia St.@Murfreesboro, NC		Virginia St.Murfreesboro, NC		false		false	-									
 2016	12221	791	Winston-Salem	10/04/2015	@ Chowan		Chowan		false		false	-									

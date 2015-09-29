@@ -123,7 +123,8 @@ game_ids.each_slice(gpt).with_index do |ids,i|
               player_id = parameters.split("=")[2]
             end
           else
-            field_values += [element.text.strip.to_i]
+            field_values += [element.text.strip]
+            #field_values += [element.text.strip.to_i]
           end
         end
 
