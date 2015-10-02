@@ -92,7 +92,12 @@ g <- cbind(fp,rp)
 dim(g)
 
 model <- cbind(team_score,opponent_score) ~ year+field+o_div+d_div+(1|offense)+(1|defense)
-fit <- glmer(model, data=g, REML=FALSE, family=binomial(logit), verbose=TRUE)
+fit <- glmer(model,
+             data=g,
+	     family=binomial(logit),
+	     verbose=TRUE,
+	     nAGQ=0,
+	     control=glmerControl(optimizer = "nloptwrap"))
 
 fit
 summary(fit)

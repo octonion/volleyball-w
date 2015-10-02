@@ -3,8 +3,8 @@
 #from sage.rings.arith import *
 from sage.all import *
 
-to = 1.647
-oo = 1.487
+to = 0.928
+oo = 0.809
 
 offense_home = 1.04287505917001
 defense_home = 0.958887635874489
@@ -43,7 +43,7 @@ tie = binomial(28, 14)*p**14*q**14
 
 w15 = w15 + tie*p**2/(1-2*p*q)
 
-#print w15
+%print w15
 
 win = w25**3 + binomial(3, 1)*w25**3*(1-w25) + binomial(4, 2)*w25**2*(1-w25)**2*w15
 
