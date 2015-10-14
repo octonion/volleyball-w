@@ -1,26 +1,26 @@
-[1] 295096      9
+[1] 295232      9
 [1] TRUE
-[1] 295096      6
+[1] 295232      6
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: binomial  ( logit )
 Formula: cbind(team_score, opponent_score) ~ year + field + o_div + d_div +  
     (1 | offense) + (1 | defense)
    Data: g
-     AIC      BIC   logLik deviance df.resid 
- 1536196  1536313  -768087  1536174   295085 
+      AIC       BIC    logLik  deviance  df.resid 
+1536880.7 1536997.2 -768429.3 1536858.7    295221 
 Random effects:
  Groups  Name        Std.Dev.
  offense (Intercept) 0.2931  
  defense (Intercept) 0.2931  
-Number of obs: 295096, groups:  offense, 3172; defense, 3172
+Number of obs: 295232, groups:  offense, 3172; defense, 3172
 Fixed Effects:
       (Intercept)           year2015           year2016       fieldneutral  
-       -4.194e-02          1.037e-09         -1.097e-09          4.194e-02  
+       -4.195e-02         -1.066e-09          1.064e-09          4.195e-02  
 fieldoffense_home             o_div2             o_div3             d_div2  
-        8.389e-02         -2.969e-01         -6.485e-01          2.969e-01  
+        8.390e-02         -2.969e-01         -6.490e-01          2.969e-01  
            d_div3  
-        6.485e-01  
+        6.490e-01  
 Generalized linear mixed model fit by maximum likelihood (Adaptive
   Gauss-Hermite Quadrature, nAGQ = 0) [glmerMod]
  Family: binomial  ( logit )
@@ -29,30 +29,30 @@ Formula: cbind(team_score, opponent_score) ~ year + field + o_div + d_div +
    Data: g
 Control: glmerControl(optimizer = "nloptwrap")
 
-     AIC      BIC   logLik deviance df.resid 
- 1536196  1536313  -768087  1536174   295085 
+      AIC       BIC    logLik  deviance  df.resid 
+1536880.7 1536997.2 -768429.3 1536858.7    295221 
 
 Scaled residuals: 
     Min      1Q  Median      3Q     Max 
--4.7440 -0.6575  0.0000  0.6575  4.7440 
+-4.7397 -0.6576  0.0000  0.6576  4.7397 
 
 Random effects:
  Groups  Name        Variance Std.Dev.
  offense (Intercept) 0.08589  0.2931  
  defense (Intercept) 0.08589  0.2931  
-Number of obs: 295096, groups:  offense, 3172; defense, 3172
+Number of obs: 295232, groups:  offense, 3172; defense, 3172
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)       -4.194e-02  1.680e-02   -2.50   0.0125 *  
-year2015           1.037e-09  1.811e-02    0.00   1.0000    
-year2016          -1.097e-09  1.809e-02    0.00   1.0000    
-fieldneutral       4.194e-02  1.533e-03   27.35   <2e-16 ***
-fieldoffense_home  8.389e-02  1.361e-03   61.61   <2e-16 ***
+(Intercept)       -4.195e-02  1.680e-02   -2.50   0.0125 *  
+year2015          -1.066e-09  1.811e-02    0.00   1.0000    
+year2016           1.064e-09  1.809e-02    0.00   1.0000    
+fieldneutral       4.195e-02  1.533e-03   27.36   <2e-16 ***
+fieldoffense_home  8.390e-02  1.361e-03   61.64   <2e-16 ***
 o_div2            -2.969e-01  2.457e-02  -12.08   <2e-16 ***
-o_div3            -6.485e-01  2.653e-02  -24.44   <2e-16 ***
+o_div3            -6.490e-01  2.653e-02  -24.46   <2e-16 ***
 d_div2             2.969e-01  2.457e-02   12.08   <2e-16 ***
-d_div3             6.485e-01  2.653e-02   24.44   <2e-16 ***
+d_div3             6.490e-01  2.653e-02   24.46   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -63,13 +63,13 @@ year2016    -0.539  0.502
 fieldneutrl -0.033 -0.001 -0.004                                   
 fildffns_hm -0.041  0.000  0.000  0.444                            
 o_div2      -0.208 -0.001 -0.002  0.001  0.004                     
-o_div3      -0.193 -0.001 -0.001  0.001  0.006  0.770              
+o_div3      -0.193 -0.001 -0.001  0.001  0.006  0.771              
 d_div2      -0.208 -0.001 -0.002 -0.002 -0.004 -0.697 -0.638       
-d_div3      -0.193 -0.001 -0.001 -0.005 -0.006 -0.638 -0.781  0.770
+d_div3      -0.193 -0.001 -0.001 -0.005 -0.006 -0.638 -0.781  0.771
 Analysis of Variance Table
       Df Sum Sq Mean Sq  F value
 year   2    0.0    0.00    0.000
-field  2 3818.6 1909.32 1909.321
-o_div  2  141.6   70.80   70.798
-d_div  2  709.5  354.75  354.747
+field  2 3821.8 1910.91 1910.912
+o_div  2  142.1   71.03   71.032
+d_div  2  711.0  355.52  355.517
 [1] TRUE

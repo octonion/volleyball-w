@@ -43,7 +43,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	929	Adams St.	10/03/2015	Colorado Mines	155	Colorado Mines	http://stats.ncaa.org/team/index/12221?org_id=155	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3915219	http://stats.ncaa.org/game/index/3915219?org_id=929
 2016	12221	929	Adams St.	10/09/2015	@ Western N.M.	1445	Western N.M.	http://stats.ncaa.org/team/index/12221?org_id=1445	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3920203	http://stats.ncaa.org/game/index/3920203?org_id=1445
 2016	12221	929	Adams St.	10/10/2015	@ N.M. Highlands	8577	N.M. Highlands	http://stats.ncaa.org/team/index/12221?org_id=8577	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3921897	http://stats.ncaa.org/game/index/3921897?org_id=8577
-2016	12221	929	Adams St.	10/13/2015	@ Fort Lewis		Fort Lewis		false		false	-									
+2016	12221	929	Adams St.	10/13/2015	@ Fort Lewis	1083	Fort Lewis	http://stats.ncaa.org/team/index/12221?org_id=1083	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3924047	http://stats.ncaa.org/game/index/3924047?org_id=1083
 2016	12221	929	Adams St.	10/16/2015	Westminster (UT)		Westminster (UT)		false		true	-									
 2016	12221	929	Adams St.	10/17/2015	Colorado Mesa		Colorado Mesa		false		true	-									
 2016	12221	929	Adams St.	10/23/2015	@ South Dakota Mines		South Dakota Mines		false		false	-									
@@ -189,7 +189,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	13	Albany St. (GA)	10/03/2015	@ Miles	422	Miles	http://stats.ncaa.org/team/index/12221?org_id=422	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3919578	http://stats.ncaa.org/game/index/3919578?org_id=422
 2016	12221	13	Albany St. (GA)	10/05/2015	@ Stillman	680	Stillman	http://stats.ncaa.org/team/index/12221?org_id=680	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3917196	http://stats.ncaa.org/game/index/3917196?org_id=680
 2016	12221	13	Albany St. (GA)	10/08/2015	@ Paine	535	Paine	http://stats.ncaa.org/team/index/12221?org_id=535	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919653	http://stats.ncaa.org/game/index/3919653?org_id=535
-2016	12221	13	Albany St. (GA)	10/13/2015	Clark Atlanta		Clark Atlanta		false		true	-									
+2016	12221	13	Albany St. (GA)	10/13/2015	Clark Atlanta	144	Clark Atlanta	http://stats.ncaa.org/team/index/12221?org_id=144	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924052	http://stats.ncaa.org/game/index/3924052?org_id=13
 2016	12221	13	Albany St. (GA)	10/19/2015	Fort Valley St.		Fort Valley St.		false		true	-									
 2016	12221	13	Albany St. (GA)	10/22/2015	@ Claflin		Claflin		false		false	-									
 2016	12221	13	Albany St. (GA)	10/23/2015	@ Benedict		Benedict		false		false	-									
@@ -895,7 +895,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30094	Brevard	10/03/2015	Tusculum	12830	Tusculum	http://stats.ncaa.org/team/index/12221?org_id=12830	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3914998	http://stats.ncaa.org/game/index/3914998?org_id=30094
 2016	12221	30094	Brevard	10/09/2015	@ Queens (NC)	11504	Queens (NC)	http://stats.ncaa.org/team/index/12221?org_id=11504	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919773	http://stats.ncaa.org/game/index/3919773?org_id=11504
 2016	12221	30094	Brevard	10/10/2015	@ Catawba	1001	Catawba	http://stats.ncaa.org/team/index/12221?org_id=1001	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920615	http://stats.ncaa.org/game/index/3920615?org_id=1001
-2016	12221	30094	Brevard	10/13/2015	UVa-Wise @ Banner Elk, N.C.	30181	UVa-Wise	http://stats.ncaa.org/team/index/12221?org_id=30181	true	Banner Elk, N.C.	true	W 3 - 2	true	3 - 2	false	3	2	false		3923774	http://stats.ncaa.org/game/index/3923774?org_id=30181
+2016	12221	30094	Brevard	10/13/2015	UVa-Wise @ Banner Elk, N.C.	30181	UVa-Wise	http://stats.ncaa.org/team/index/12221?org_id=30181	true	Banner Elk, N.C.	true	W 3 - 2	true	3 - 2	false	3	2	false		3924080	http://stats.ncaa.org/game/index/3924080?org_id=30094
 2016	12221	30094	Brevard	10/13/2015	@ Lees-McRae	13302	Lees-McRae	http://stats.ncaa.org/team/index/12221?org_id=13302	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3923954	http://stats.ncaa.org/game/index/3923954?org_id=13302
 2016	12221	30094	Brevard	10/16/2015	Lincoln Memorial		Lincoln Memorial		false		true	-									
 2016	12221	30094	Brevard	10/17/2015	Carson-Newman		Carson-Newman		false		true	-									
@@ -1798,7 +1798,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	144	Clark Atlanta	09/26/2015	Miles@Albany, GA		MilesAlbany, GA		false		false	-									
 2016	12221	144	Clark Atlanta	10/05/2015	Fort Valley St.	237	Fort Valley St.	http://stats.ncaa.org/team/index/12221?org_id=237	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3916948	http://stats.ncaa.org/game/index/3916948?org_id=144
 2016	12221	144	Clark Atlanta	10/08/2015	Benedict	55	Benedict	http://stats.ncaa.org/team/index/12221?org_id=55	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3919349	http://stats.ncaa.org/game/index/3919349?org_id=144
-2016	12221	144	Clark Atlanta	10/13/2015	@ Albany St. (GA)		Albany St. (GA)		false		false	-									
+2016	12221	144	Clark Atlanta	10/13/2015	@ Albany St. (GA)	13	Albany St. (GA)	http://stats.ncaa.org/team/index/12221?org_id=13	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924052	http://stats.ncaa.org/game/index/3924052?org_id=13
 2016	12221	144	Clark Atlanta	10/16/2015	North Greenville		North Greenville		false		true	-									
 2016	12221	144	Clark Atlanta	10/16/2015	Loyola (LA)		Loyola (LA)		false		true	-									
 2016	12221	144	Clark Atlanta	10/18/2015	Claflin		Claflin		false		true	-									
@@ -2947,7 +2947,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1083	Fort Lewis	10/03/2015	Colo. Christian	11403	Colo. Christian	http://stats.ncaa.org/team/index/12221?org_id=11403	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3915095	http://stats.ncaa.org/game/index/3915095?org_id=1083
 2016	12221	1083	Fort Lewis	10/09/2015	@ N.M. Highlands	8577	N.M. Highlands	http://stats.ncaa.org/team/index/12221?org_id=8577	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3920227	http://stats.ncaa.org/game/index/3920227?org_id=8577
 2016	12221	1083	Fort Lewis	10/10/2015	@ Western N.M.	1445	Western N.M.	http://stats.ncaa.org/team/index/12221?org_id=1445	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3921871	http://stats.ncaa.org/game/index/3921871?org_id=1445
-2016	12221	1083	Fort Lewis	10/13/2015	Adams St.		Adams St.		false		true	-									
+2016	12221	1083	Fort Lewis	10/13/2015	Adams St.	929	Adams St.	http://stats.ncaa.org/team/index/12221?org_id=929	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3924047	http://stats.ncaa.org/game/index/3924047?org_id=1083
 2016	12221	1083	Fort Lewis	10/16/2015	Colorado Mesa		Colorado Mesa		false		true	-									
 2016	12221	1083	Fort Lewis	10/17/2015	Westminster (UT)		Westminster (UT)		false		true	-									
 2016	12221	1083	Fort Lewis	10/23/2015	@ Black Hills St.		Black Hills St.		false		false	-									
@@ -7841,7 +7841,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30181	UVa-Wise	10/09/2015	Glenville St.	1098	Glenville St.	http://stats.ncaa.org/team/index/12221?org_id=1098	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919795	http://stats.ncaa.org/game/index/3919795?org_id=30181
 2016	12221	30181	UVa-Wise	10/10/2015	West Va. Wesleyan	9630	West Va. Wesleyan	http://stats.ncaa.org/team/index/12221?org_id=9630	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3922653	http://stats.ncaa.org/game/index/3922653?org_id=30181
 2016	12221	30181	UVa-Wise	10/13/2015	@ Lees-McRae		Lees-McRae		false		false	-									
-2016	12221	30181	UVa-Wise	10/13/2015	Brevard @ Banner Elk, N.C.	30094	Brevard	http://stats.ncaa.org/team/index/12221?org_id=30094	true	Banner Elk, N.C.	true	L 2 - 3	false	2 - 3	false	2	3	false		3923774	http://stats.ncaa.org/game/index/3923774?org_id=30181
+2016	12221	30181	UVa-Wise	10/13/2015	Brevard @ Banner Elk, N.C.	30094	Brevard	http://stats.ncaa.org/team/index/12221?org_id=30094	true	Banner Elk, N.C.	true	L 2 - 3	false	2 - 3	false	2	3	false		3924080	http://stats.ncaa.org/game/index/3924080?org_id=30094
 2016	12221	30181	UVa-Wise	10/13/2015	Lees-McRae	13302	Lees-McRae	http://stats.ncaa.org/team/index/12221?org_id=13302	false		true	-									
 2016	12221	30181	UVa-Wise	10/16/2015	Urbana		Urbana		false		true	-									
 2016	12221	30181	UVa-Wise	10/17/2015	Notre Dame (OH)		Notre Dame (OH)		false		true	-									
@@ -8320,7 +8320,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1438	West Liberty	10/02/2015	UVa-Wise	30181	UVa-Wise	http://stats.ncaa.org/team/index/12221?org_id=30181	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3913363	http://stats.ncaa.org/game/index/3913363?org_id=1438
 2016	12221	1438	West Liberty	10/09/2015	@ Fairmont St.	1076	Fairmont St.	http://stats.ncaa.org/team/index/12221?org_id=1076	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919780	http://stats.ncaa.org/game/index/3919780?org_id=1076
 2016	12221	1438	West Liberty	10/10/2015	@ Shepherd	10870	Shepherd	http://stats.ncaa.org/team/index/12221?org_id=10870	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3923092	http://stats.ncaa.org/game/index/3923092?org_id=10870
-2016	12221	1438	West Liberty	10/13/2015	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-									
+2016	12221	1438	West Liberty	10/13/2015	@ West Va. Wesleyan	9630	West Va. Wesleyan	http://stats.ncaa.org/team/index/12221?org_id=9630	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924055	http://stats.ncaa.org/game/index/3924055?org_id=9630
 2016	12221	1438	West Liberty	10/17/2015	@ Glenville St.		Glenville St.		false		false	-									
 2016	12221	1438	West Liberty	10/20/2015	@ Indiana (PA)		Indiana (PA)		false		false	-									
 2016	12221	1438	West Liberty	10/23/2015	Fairmont St.		Fairmont St.		false		true	-									
@@ -8382,7 +8382,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	9630	West Va. Wesleyan	10/06/2015	Glenville St.	1098	Glenville St.	http://stats.ncaa.org/team/index/12221?org_id=1098	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3917600	http://stats.ncaa.org/game/index/3917600?org_id=1098
 2016	12221	9630	West Va. Wesleyan	10/09/2015	@ Concord	1028	Concord	http://stats.ncaa.org/team/index/12221?org_id=1028	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3922664	http://stats.ncaa.org/game/index/3922664?org_id=1028
 2016	12221	9630	West Va. Wesleyan	10/10/2015	@ UVa-Wise	30181	UVa-Wise	http://stats.ncaa.org/team/index/12221?org_id=30181	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3922653	http://stats.ncaa.org/game/index/3922653?org_id=30181
-2016	12221	9630	West Va. Wesleyan	10/13/2015	West Liberty		West Liberty		false		true	-									
+2016	12221	9630	West Va. Wesleyan	10/13/2015	West Liberty	1438	West Liberty	http://stats.ncaa.org/team/index/12221?org_id=1438	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924055	http://stats.ncaa.org/game/index/3924055?org_id=9630
 2016	12221	9630	West Va. Wesleyan	10/17/2015	Wheeling Jesuit		Wheeling Jesuit		false		true	-									
 2016	12221	9630	West Va. Wesleyan	10/20/2015	@ Point Park		Point Park		false		false	-									
 2016	12221	9630	West Va. Wesleyan	10/23/2015	UVa-Wise		UVa-Wise		false		true	-									
@@ -8462,7 +8462,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1446	Western Ore.	10/03/2015	Northwest Nazarene	1274	Northwest Nazarene	http://stats.ncaa.org/team/index/12221?org_id=1274	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3915309	http://stats.ncaa.org/game/index/3915309?org_id=1446
 2016	12221	1446	Western Ore.	10/08/2015	@ Simon Fraser	30127	Simon Fraser	http://stats.ncaa.org/team/index/12221?org_id=30127	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922652	http://stats.ncaa.org/game/index/3922652?org_id=30127
 2016	12221	1446	Western Ore.	10/10/2015	@ Western Wash.	1448	Western Wash.	http://stats.ncaa.org/team/index/12221?org_id=1448	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922654	http://stats.ncaa.org/game/index/3922654?org_id=1448
-2016	12221	1446	Western Ore.	10/13/2015	Concordia Portland		Concordia Portland		false		true	-									
+2016	12221	1446	Western Ore.	10/13/2015	@ Concordia Portland		Concordia Portland		false		false	-									
 2016	12221	1446	Western Ore.	10/15/2015	@ Mont. St. Billings		Mont. St. Billings		false		false	-									
 2016	12221	1446	Western Ore.	10/22/2015	Seattle Pacific		Seattle Pacific		false		true	-									
 2016	12221	1446	Western Ore.	10/24/2015	Saint Martin's		Saint Martin's		false		true	-									
