@@ -5,6 +5,7 @@ import csv
 import datetime
 import psycopg2
 
+from scipy.special import errprint
 from scipy.special import comb
 from scipy.special import hyp2f1
 
@@ -13,6 +14,10 @@ try:
 except:
     print("Can't connect to database.")
     sys.exit()
+
+# Turn on error printing.
+
+errprint(1)
 
 today = datetime.datetime.now()
 start = today.strftime("%F")
