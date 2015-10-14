@@ -59,7 +59,7 @@ of.level=
       when not(ts.neutral_site) and ts.home_game then 'defense_home'
       when not(ts.neutral_site) and not(ts.home_game) then 'offense_home'
 end)
-where ts.game_date between current_date-1 and current_date+6
+where ts.game_date between current_date and current_date+6
 and t.team_name < o.team_name
 order by ts.team_name asc,ts.game_date asc
 ;
