@@ -59,7 +59,7 @@ of.level=
       when not(ts.neutral_site) and ts.home_game then 'defense_home'
       when not(ts.neutral_site) and not(ts.home_game) then 'offense_home'
 end)
-where ts.game_date between current_date and current_date+6
+where ts.game_date between current_date-1 and current_date+6
 and t.team_name < o.team_name
 order by ts.team_name asc,ts.game_date asc
 ;
@@ -73,8 +73,10 @@ rows = cur.fetchall()
 csvfile = open('predict_weekly.csv', 'w', newline='')
 predict = csv.writer(csvfile)
 
-header = ["game_date","site","team","tdiv","opponent","odiv","win","lose",
-          "w3","w4","w5","l3","l4","l5","e_m"]
+header = ["game_date","site","team","tdiv","opponent","odiv",
+          "win","lose","w3","w4","w5","l3","l4","l5",
+          "e_m","e_w3","e_w4","e_w5","e_l3","e_l4","e_l5"]
+
 predict.writerow(header)
 
 for row in rows:
@@ -223,6 +225,13 @@ for row in rows:
 
     e_l15 = e_le15*le15/l15 + e_lm15*lm15/l15
 
+    e_w3 = 3*e_w25
+    e_w4 = 3*e_w25 + e_l25
+    e_w5 = 2*e_w25 + 2*e_l25 + e_w15
+    e_l3 = 3*e_l25
+    e_l4 = 3*e_l25 + e_w25
+    e_l5 = 2*e_l25 + 2*e_w25 + e_l15
+
     # Match probabilities
     
     win = w25**3 + comb(3,1)*(w25**3)*l25 + comb(4,2)*(w25**2)*(l25**2)*w15
@@ -245,8 +254,15 @@ for row in rows:
     l4 = "%4.3f" % (comb(3,1)*l25**3*w25)
     l5 = "%4.3f" % (comb(4,2)*l25**2*w25**2*l15)
     e_m = "%4.1f" % (e_m)
-    data = [game_date,site,team,tdiv,opponent,odiv,win,lose,w3,w4,w5,l3,l4,l5,
-            e_m]
+    e_w3 = "%4.1f" % (e_w3)
+    e_w4 = "%4.1f" % (e_w4)
+    e_w5 = "%4.1f" % (e_w5)
+    e_l3 = "%4.1f" % (e_l3)
+    e_l4 = "%4.1f" % (e_l4)
+    e_l5 = "%4.1f" % (e_l5)
+    data = [game_date,site,team,tdiv,opponent,odiv,
+            win,lose,w3,w4,w5,l3,l4,l5,
+            e_m,e_w3,e_w4,e_w5,e_l3,e_l4,e_l5]
     predict.writerow(data)
 
 csvfile.close()
