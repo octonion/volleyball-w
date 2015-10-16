@@ -50,7 +50,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	2	Abilene Christian	10/06/2015	Incarnate Word	2743	Incarnate Word	http://stats.ncaa.org/team/index/12221?org_id=2743	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3917536	http://stats.ncaa.org/game/index/3917536?org_id=2
 2016	12221	2	Abilene Christian	10/08/2015	Lamar	346	Lamar	http://stats.ncaa.org/team/index/12221?org_id=346	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919404	http://stats.ncaa.org/game/index/3919404?org_id=2
 2016	12221	2	Abilene Christian	10/10/2015	Sam Houston St.	624	Sam Houston St.	http://stats.ncaa.org/team/index/12221?org_id=624	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3920937	http://stats.ncaa.org/game/index/3920937?org_id=2
-2016	12221	2	Abilene Christian	10/15/2015	@ Houston Baptist		Houston Baptist		false		false	-									
+2016	12221	2	Abilene Christian	10/15/2015	@ Houston Baptist	287	Houston Baptist	http://stats.ncaa.org/team/index/12221?org_id=287	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3925921	http://stats.ncaa.org/game/index/3925921?org_id=287
 2016	12221	2	Abilene Christian	10/17/2015	@ A&M-Corpus Chris		A&M-Corpus Chris		false		false	-									
 2016	12221	2	Abilene Christian	10/22/2015	New Orleans		New Orleans		false		true	-									
 2016	12221	2	Abilene Christian	10/24/2015	Southeastern La.		Southeastern La.		false		true	-									
@@ -80,7 +80,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	721	Air Force	10/01/2015	@ San Jose St.	630	San Jose St.	http://stats.ncaa.org/team/index/12221?org_id=630	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3912918	http://stats.ncaa.org/game/index/3912918?org_id=630
 2016	12221	721	Air Force	10/08/2015	@ Wyoming	811	Wyoming	http://stats.ncaa.org/team/index/12221?org_id=811	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919494	http://stats.ncaa.org/game/index/3919494?org_id=811
 2016	12221	721	Air Force	10/10/2015	@ Colorado St.	156	Colorado St.	http://stats.ncaa.org/team/index/12221?org_id=156	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920839	http://stats.ncaa.org/game/index/3920839?org_id=156
-2016	12221	721	Air Force	10/15/2015	UNLV		UNLV		false		true	-									
+2016	12221	721	Air Force	10/15/2015	UNLV	465	UNLV	http://stats.ncaa.org/team/index/12221?org_id=465	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925890	http://stats.ncaa.org/game/index/3925890?org_id=721
 2016	12221	721	Air Force	10/17/2015	Fresno St.		Fresno St.		false		true	-									
 2016	12221	721	Air Force	10/22/2015	@ San Diego St.		San Diego St.		false		false	-									
 2016	12221	721	Air Force	10/24/2015	@ Nevada		Nevada		false		false	-									
@@ -288,7 +288,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	23	American	10/06/2015	@ Navy	726	Navy	http://stats.ncaa.org/team/index/12221?org_id=726	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3917589	http://stats.ncaa.org/game/index/3917589?org_id=726
 2016	12221	23	American	10/09/2015	@ Colgate	153	Colgate	http://stats.ncaa.org/team/index/12221?org_id=153	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3919911	http://stats.ncaa.org/game/index/3919911?org_id=153
 2016	12221	23	American	10/10/2015	@ Lehigh	352	Lehigh	http://stats.ncaa.org/team/index/12221?org_id=352	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921096	http://stats.ncaa.org/game/index/3921096?org_id=352
-2016	12221	23	American	10/14/2015	@ Loyola Maryland		Loyola Maryland		false		false	-									
+2016	12221	23	American	10/14/2015	@ Loyola Maryland	369	Loyola Maryland	http://stats.ncaa.org/team/index/12221?org_id=369	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925437	http://stats.ncaa.org/game/index/3925437?org_id=369
 2016	12221	23	American	10/16/2015	Bethune-Cookman		Bethune-Cookman		false		true	-									
 2016	12221	23	American	10/21/2015	@ George Washington		George Washington		false		false	-									
 2016	12221	23	American	10/23/2015	Bucknell		Bucknell		false		true	-									
@@ -586,7 +586,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	77	BYU	10/02/2015	@ San Diego	627	San Diego	http://stats.ncaa.org/team/index/12221?org_id=627	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3913699	http://stats.ncaa.org/game/index/3913699?org_id=627
 2016	12221	77	BYU	10/08/2015	@ Pacific	534	Pacific	http://stats.ncaa.org/team/index/12221?org_id=534	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3923770	http://stats.ncaa.org/game/index/3923770?org_id=534
 2016	12221	77	BYU	10/10/2015	@ St. Mary's (CA)	610	St. Mary's (CA)	http://stats.ncaa.org/team/index/12221?org_id=610	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3923751	http://stats.ncaa.org/game/index/3923751?org_id=610
-2016	12221	77	BYU	10/15/2015	Gonzaga		Gonzaga		false		true	-									
+2016	12221	77	BYU	10/15/2015	Gonzaga	260	Gonzaga	http://stats.ncaa.org/team/index/12221?org_id=260	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925923	http://stats.ncaa.org/game/index/3925923?org_id=77
 2016	12221	77	BYU	10/17/2015	Portland		Portland		false		true	-									
 2016	12221	77	BYU	10/22/2015	@ Pepperdine		Pepperdine		false		false	-									
 2016	12221	77	BYU	10/24/2015	@ Loyola Marymount		Loyola Marymount		false		false	-									
@@ -646,7 +646,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	51	Baylor	10/03/2015	@ Oklahoma	522	Oklahoma	http://stats.ncaa.org/team/index/12221?org_id=522	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3915262	http://stats.ncaa.org/game/index/3915262?org_id=522
 2016	12221	51	Baylor	10/07/2015	Texas	703	Texas	http://stats.ncaa.org/team/index/12221?org_id=703	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3918715	http://stats.ncaa.org/game/index/3918715?org_id=51
 2016	12221	51	Baylor	10/09/2015	Texas St.	670	Texas St.	http://stats.ncaa.org/team/index/12221?org_id=670	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920089	http://stats.ncaa.org/game/index/3920089?org_id=51
-2016	12221	51	Baylor	10/14/2015	Kansas		Kansas		false		true	-									
+2016	12221	51	Baylor	10/14/2015	Kansas	328	Kansas	http://stats.ncaa.org/team/index/12221?org_id=328	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3924711	http://stats.ncaa.org/game/index/3924711?org_id=51
 2016	12221	51	Baylor	10/17/2015	@ West Virginia		West Virginia		false		false	-									
 2016	12221	51	Baylor	10/21/2015	@ TCU		TCU		false		false	-									
 2016	12221	51	Baylor	10/25/2015	Iowa St.		Iowa St.		false		true	-									
@@ -759,7 +759,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	66	Boise St.	10/03/2015	Fresno St.	96	Fresno St.	http://stats.ncaa.org/team/index/12221?org_id=96	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3915388	http://stats.ncaa.org/game/index/3915388?org_id=66
 2016	12221	66	Boise St.	10/06/2015	@ Utah St.	731	Utah St.	http://stats.ncaa.org/team/index/12221?org_id=731	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3917593	http://stats.ncaa.org/game/index/3917593?org_id=731
 2016	12221	66	Boise St.	10/08/2015	San Jose St.	630	San Jose St.	http://stats.ncaa.org/team/index/12221?org_id=630	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919603	http://stats.ncaa.org/game/index/3919603?org_id=66
-2016	12221	66	Boise St.	10/15/2015	@ Nevada		Nevada		false		false	-									
+2016	12221	66	Boise St.	10/15/2015	@ Nevada	466	Nevada	http://stats.ncaa.org/team/index/12221?org_id=466	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3925956	http://stats.ncaa.org/game/index/3925956?org_id=466
 2016	12221	66	Boise St.	10/17/2015	@ San Diego St.		San Diego St.		false		false	-									
 2016	12221	66	Boise St.	10/22/2015	Colorado St.		Colorado St.		false		true	-									
 2016	12221	66	Boise St.	10/24/2015	Wyoming		Wyoming		false		true	-									
@@ -789,7 +789,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	67	Boston College	10/04/2015	@ Louisville	367	Louisville	http://stats.ncaa.org/team/index/12221?org_id=367	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3915570	http://stats.ncaa.org/game/index/3915570?org_id=367
 2016	12221	67	Boston College	10/09/2015	Virginia Tech	742	Virginia Tech	http://stats.ncaa.org/team/index/12221?org_id=742	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920016	http://stats.ncaa.org/game/index/3920016?org_id=67
 2016	12221	67	Boston College	10/11/2015	Pittsburgh	545	Pittsburgh	http://stats.ncaa.org/team/index/12221?org_id=545	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3922285	http://stats.ncaa.org/game/index/3922285?org_id=67
-2016	12221	67	Boston College	10/14/2015	Syracuse		Syracuse		false		true	-									
+2016	12221	67	Boston College	10/14/2015	Syracuse	688	Syracuse	http://stats.ncaa.org/team/index/12221?org_id=688	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924444	http://stats.ncaa.org/game/index/3924444?org_id=67
 2016	12221	67	Boston College	10/16/2015	Virginia		Virginia		false		true	-									
 2016	12221	67	Boston College	10/23/2015	@ Miami (FL)		Miami (FL)		false		false	-									
 2016	12221	67	Boston College	10/25/2015	@ Florida St.		Florida St.		false		false	-									
@@ -878,7 +878,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	80	Brown	10/03/2015	Columbia	158	Columbia	http://stats.ncaa.org/team/index/12221?org_id=158	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3914875	http://stats.ncaa.org/game/index/3914875?org_id=80
 2016	12221	80	Brown	10/09/2015	@ Harvard	275	Harvard	http://stats.ncaa.org/team/index/12221?org_id=275	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3919989	http://stats.ncaa.org/game/index/3919989?org_id=275
 2016	12221	80	Brown	10/10/2015	@ Dartmouth	172	Dartmouth	http://stats.ncaa.org/team/index/12221?org_id=172	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922918	http://stats.ncaa.org/game/index/3922918?org_id=172
-2016	12221	80	Brown	10/14/2015	Rhode Island		Rhode Island		false		true	-									
+2016	12221	80	Brown	10/14/2015	Rhode Island	572	Rhode Island	http://stats.ncaa.org/team/index/12221?org_id=572	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924524	http://stats.ncaa.org/game/index/3924524?org_id=572
 2016	12221	80	Brown	10/16/2015	Princeton		Princeton		false		true	-									
 2016	12221	80	Brown	10/17/2015	Penn		Penn		false		true	-									
 2016	12221	80	Brown	10/23/2015	Yale		Yale		false		true	-									
@@ -1021,7 +1021,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	94	CSU Bakersfield	10/03/2015	@ Seattle	1356	Seattle	http://stats.ncaa.org/team/index/12221?org_id=1356	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3914909	http://stats.ncaa.org/game/index/3914909?org_id=1356
 2016	12221	94	CSU Bakersfield	10/08/2015	UTRGV	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919509	http://stats.ncaa.org/game/index/3919509?org_id=94
 2016	12221	94	CSU Bakersfield	10/10/2015	New Mexico St.	472	New Mexico St.	http://stats.ncaa.org/team/index/12221?org_id=472	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3921125	http://stats.ncaa.org/game/index/3921125?org_id=94
-2016	12221	94	CSU Bakersfield	10/15/2015	@ Chicago St.		Chicago St.		false		false	-									
+2016	12221	94	CSU Bakersfield	10/15/2015	@ Chicago St.	136	Chicago St.	http://stats.ncaa.org/team/index/12221?org_id=136	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925915	http://stats.ncaa.org/game/index/3925915?org_id=136
 2016	12221	94	CSU Bakersfield	10/17/2015	@ UMKC		UMKC		false		false	-									
 2016	12221	94	CSU Bakersfield	10/24/2015	Grand Canyon		Grand Canyon		false		true	-									
 2016	12221	94	CSU Bakersfield	10/29/2015	Seattle		Seattle		false		true	-									
@@ -1220,7 +1220,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1004	Central Ark.	10/03/2015	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/index/12221?org_id=655	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914096	http://stats.ncaa.org/game/index/3914096?org_id=1004
 2016	12221	1004	Central Ark.	10/08/2015	@ McNeese St.	402	McNeese St.	http://stats.ncaa.org/team/index/12221?org_id=402	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3919492	http://stats.ncaa.org/game/index/3919492?org_id=402
 2016	12221	1004	Central Ark.	10/10/2015	@ Nicholls St.	483	Nicholls St.	http://stats.ncaa.org/team/index/12221?org_id=483	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920448	http://stats.ncaa.org/game/index/3920448?org_id=483
-2016	12221	1004	Central Ark.	10/15/2015	@ Lamar		Lamar		false		false	-									
+2016	12221	1004	Central Ark.	10/15/2015	@ Lamar	346	Lamar	http://stats.ncaa.org/team/index/12221?org_id=346	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925893	http://stats.ncaa.org/game/index/3925893?org_id=346
 2016	12221	1004	Central Ark.	10/17/2015	@ Sam Houston St.		Sam Houston St.		false		false	-									
 2016	12221	1004	Central Ark.	10/29/2015	Northwestern St.		Northwestern St.		false		true	-									
 2016	12221	1004	Central Ark.	10/31/2015	Stephen F. Austin		Stephen F. Austin		false		true	-									
@@ -1274,7 +1274,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	129	Central Mich.	10/03/2015	Kent St.	331	Kent St.	http://stats.ncaa.org/team/index/12221?org_id=331	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3917017	http://stats.ncaa.org/game/index/3917017?org_id=129
 2016	12221	129	Central Mich.	10/09/2015	Ball St.	47	Ball St.	http://stats.ncaa.org/team/index/12221?org_id=47	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919994	http://stats.ncaa.org/game/index/3919994?org_id=129
 2016	12221	129	Central Mich.	10/10/2015	Toledo	709	Toledo	http://stats.ncaa.org/team/index/12221?org_id=709	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921723	http://stats.ncaa.org/game/index/3921723?org_id=129
-2016	12221	129	Central Mich.	10/15/2015	@ Miami (OH)		Miami (OH)		false		false	-									
+2016	12221	129	Central Mich.	10/15/2015	@ Miami (OH)	414	Miami (OH)	http://stats.ncaa.org/team/index/12221?org_id=414	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3925883	http://stats.ncaa.org/game/index/3925883?org_id=414
 2016	12221	129	Central Mich.	10/16/2015	@ Bowling Green		Bowling Green		false		false	-									
 2016	12221	129	Central Mich.	10/23/2015	Akron		Akron		false		true	-									
 2016	12221	129	Central Mich.	10/24/2015	Buffalo		Buffalo		false		true	-									
@@ -1390,7 +1390,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	136	Chicago St.	10/03/2015	@ UTRGV	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3914025	http://stats.ncaa.org/game/index/3914025?org_id=536
 2016	12221	136	Chicago St.	10/09/2015	UMKC	2707	UMKC	http://stats.ncaa.org/team/index/12221?org_id=2707	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920256	http://stats.ncaa.org/game/index/3920256?org_id=136
 2016	12221	136	Chicago St.	10/13/2015	@ Valparaiso	735	Valparaiso	http://stats.ncaa.org/team/index/12221?org_id=735	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3923950	http://stats.ncaa.org/game/index/3923950?org_id=735
-2016	12221	136	Chicago St.	10/15/2015	CSU Bakersfield		CSU Bakersfield		false		true	-									
+2016	12221	136	Chicago St.	10/15/2015	CSU Bakersfield	94	CSU Bakersfield	http://stats.ncaa.org/team/index/12221?org_id=94	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925915	http://stats.ncaa.org/game/index/3925915?org_id=136
 2016	12221	136	Chicago St.	10/17/2015	Grand Canyon		Grand Canyon		false		true	-									
 2016	12221	136	Chicago St.	10/22/2015	@ Seattle		Seattle		false		false	-									
 2016	12221	136	Chicago St.	10/24/2015	@ Utah Valley		Utah Valley		false		false	-									
@@ -1451,7 +1451,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	141	Citadel	10/02/2015	Furman	244	Furman	http://stats.ncaa.org/team/index/12221?org_id=244	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3920389	http://stats.ncaa.org/game/index/3920389?org_id=141
 2016	12221	141	Citadel	10/10/2015	Chattanooga	693	Chattanooga	http://stats.ncaa.org/team/index/12221?org_id=693	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3923272	http://stats.ncaa.org/game/index/3923272?org_id=141
 2016	12221	141	Citadel	10/11/2015	Wofford	2915	Wofford	http://stats.ncaa.org/team/index/12221?org_id=2915	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3922112	http://stats.ncaa.org/game/index/3922112?org_id=141
-2016	12221	141	Citadel	10/14/2015	@ UNCG		UNCG		false		false	-									
+2016	12221	141	Citadel	10/14/2015	@ UNCG	459	UNCG	http://stats.ncaa.org/team/index/12221?org_id=459	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924501	http://stats.ncaa.org/game/index/3924501?org_id=459
 2016	12221	141	Citadel	10/16/2015	@ Western Caro.		Western Caro.		false		false	-									
 2016	12221	141	Citadel	10/20/2015	Savannah St.		Savannah St.		false		true	-									
 2016	12221	141	Citadel	10/23/2015	@ ETSU		ETSU		false		false	-									
@@ -1598,7 +1598,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	153	Colgate	10/09/2015	American	23	American	http://stats.ncaa.org/team/index/12221?org_id=23	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3919911	http://stats.ncaa.org/game/index/3919911?org_id=153
 2016	12221	153	Colgate	10/10/2015	Loyola Maryland	369	Loyola Maryland	http://stats.ncaa.org/team/index/12221?org_id=369	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3921111	http://stats.ncaa.org/game/index/3921111?org_id=153
 2016	12221	153	Colgate	10/12/2015	Bucknell	83	Bucknell	http://stats.ncaa.org/team/index/12221?org_id=83	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3923298	http://stats.ncaa.org/game/index/3923298?org_id=153
-2016	12221	153	Colgate	10/15/2015	@ Lafayette		Lafayette		false		false	-									
+2016	12221	153	Colgate	10/15/2015	@ Lafayette	342	Lafayette	http://stats.ncaa.org/team/index/12221?org_id=342	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925826	http://stats.ncaa.org/game/index/3925826?org_id=342
 2016	12221	153	Colgate	10/23/2015	@ Holy Cross		Holy Cross		false		false	-									
 2016	12221	153	Colgate	10/24/2015	@ Army West Point		Army West Point		false		false	-									
 2016	12221	153	Colgate	10/30/2015	Lehigh		Lehigh		false		true	-									
@@ -1925,7 +1925,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	178	Delaware St.	09/25/2015	@ Fairleigh Dickinson	222	Fairleigh Dickinson	http://stats.ncaa.org/team/index/12221?org_id=222	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3907102	http://stats.ncaa.org/game/index/3907102?org_id=222
 2016	12221	178	Delaware St.	09/27/2015	@ Howard	290	Howard	http://stats.ncaa.org/team/index/12221?org_id=290	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3909986	http://stats.ncaa.org/game/index/3909986?org_id=290
 2016	12221	178	Delaware St.	10/09/2015	Coppin St.	165	Coppin St.	http://stats.ncaa.org/team/index/12221?org_id=165	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920042	http://stats.ncaa.org/game/index/3920042?org_id=178
-2016	12221	178	Delaware St.	10/11/2015	@ Morgan St.		Morgan St.		false		false	-									
+2016	12221	178	Delaware St.	10/11/2015	@ Morgan St.	446	Morgan St.	http://stats.ncaa.org/team/index/12221?org_id=446	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925118	http://stats.ncaa.org/game/index/3925118?org_id=446
 2016	12221	178	Delaware St.	10/16/2015	@ UMES		UMES		false		false	-									
 2016	12221	178	Delaware St.	10/18/2015	@ Norfolk St.		Norfolk St.		false		false	-									
 2016	12221	178	Delaware St.	10/23/2015	@ Stony Brook		Stony Brook		false		false	-									
@@ -2080,7 +2080,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	198	ETSU	09/30/2015	UNCG	459	UNCG	http://stats.ncaa.org/team/index/12221?org_id=459	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3912129	http://stats.ncaa.org/game/index/3912129?org_id=198
 2016	12221	198	ETSU	10/03/2015	Mercer	406	Mercer	http://stats.ncaa.org/team/index/12221?org_id=406	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914984	http://stats.ncaa.org/game/index/3914984?org_id=406
 2016	12221	198	ETSU	10/09/2015	@ Samford	625	Samford	http://stats.ncaa.org/team/index/12221?org_id=625	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919953	http://stats.ncaa.org/game/index/3919953?org_id=625
-2016	12221	198	ETSU	10/14/2015	@ Western Caro.		Western Caro.		false		false	-									
+2016	12221	198	ETSU	10/14/2015	@ Western Caro.	769	Western Caro.	http://stats.ncaa.org/team/index/12221?org_id=769	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924517	http://stats.ncaa.org/game/index/3924517?org_id=769
 2016	12221	198	ETSU	10/16/2015	@ Chattanooga		Chattanooga		false		false	-									
 2016	12221	198	ETSU	10/17/2015	Wofford		Wofford		false		true	-									
 2016	12221	198	ETSU	10/23/2015	Citadel		Citadel		false		true	-									
@@ -2230,7 +2230,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	207	Eastern Wash.	10/03/2015	Idaho	295	Idaho	http://stats.ncaa.org/team/index/12221?org_id=295	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3915242	http://stats.ncaa.org/game/index/3915242?org_id=207
 2016	12221	207	Eastern Wash.	10/08/2015	Sacramento St.	102	Sacramento St.	http://stats.ncaa.org/team/index/12221?org_id=102	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919517	http://stats.ncaa.org/game/index/3919517?org_id=207
 2016	12221	207	Eastern Wash.	10/10/2015	Portland St.	550	Portland St.	http://stats.ncaa.org/team/index/12221?org_id=550	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3922049	http://stats.ncaa.org/game/index/3922049?org_id=207
-2016	12221	207	Eastern Wash.	10/15/2015	@ Montana St.		Montana St.		false		false	-									
+2016	12221	207	Eastern Wash.	10/15/2015	@ Montana St.	440	Montana St.	http://stats.ncaa.org/team/index/12221?org_id=440	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3925981	http://stats.ncaa.org/game/index/3925981?org_id=440
 2016	12221	207	Eastern Wash.	10/17/2015	@ Montana		Montana		false		false	-									
 2016	12221	207	Eastern Wash.	10/22/2015	@ Idaho St.		Idaho St.		false		false	-									
 2016	12221	207	Eastern Wash.	10/24/2015	@ Weber St.		Weber St.		false		false	-									
@@ -2461,7 +2461,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	235	Florida	10/04/2015	@ Arkansas	31	Arkansas	http://stats.ncaa.org/team/index/12221?org_id=31	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3916108	http://stats.ncaa.org/game/index/3916108?org_id=31
 2016	12221	235	Florida	10/09/2015	Texas A&M	697	Texas A&M	http://stats.ncaa.org/team/index/12221?org_id=697	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920324	http://stats.ncaa.org/game/index/3920324?org_id=235
 2016	12221	235	Florida	10/11/2015	Auburn	37	Auburn	http://stats.ncaa.org/team/index/12221?org_id=37	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3922385	http://stats.ncaa.org/game/index/3922385?org_id=235
-2016	12221	235	Florida	10/14/2015	@ Tennessee		Tennessee		false		false	-									
+2016	12221	235	Florida	10/14/2015	@ Tennessee	694	Tennessee	http://stats.ncaa.org/team/index/12221?org_id=694	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924777	http://stats.ncaa.org/game/index/3924777?org_id=694
 2016	12221	235	Florida	10/18/2015	@ Kentucky		Kentucky		false		false	-									
 2016	12221	235	Florida	10/23/2015	Arkansas		Arkansas		false		true	-									
 2016	12221	235	Florida	10/25/2015	Missouri		Missouri		false		true	-									
@@ -2582,7 +2582,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	96	Fresno St.	10/03/2015	@ Boise St.	66	Boise St.	http://stats.ncaa.org/team/index/12221?org_id=66	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3915388	http://stats.ncaa.org/game/index/3915388?org_id=66
 2016	12221	96	Fresno St.	10/08/2015	Nevada	466	Nevada	http://stats.ncaa.org/team/index/12221?org_id=466	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919622	http://stats.ncaa.org/game/index/3919622?org_id=96
 2016	12221	96	Fresno St.	10/10/2015	San Diego St.	626	San Diego St.	http://stats.ncaa.org/team/index/12221?org_id=626	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3921988	http://stats.ncaa.org/game/index/3921988?org_id=96
-2016	12221	96	Fresno St.	10/15/2015	@ New Mexico		New Mexico		false		false	-									
+2016	12221	96	Fresno St.	10/15/2015	@ New Mexico	473	New Mexico	http://stats.ncaa.org/team/index/12221?org_id=473	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925895	http://stats.ncaa.org/game/index/3925895?org_id=473
 2016	12221	96	Fresno St.	10/17/2015	@ Air Force		Air Force		false		false	-									
 2016	12221	96	Fresno St.	10/20/2015	UNLV		UNLV		false		true	-									
 2016	12221	96	Fresno St.	10/24/2015	@ San Jose St.		San Jose St.		false		false	-									
@@ -2640,7 +2640,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	253	Ga. Southern	10/03/2015	@ Texas St.	670	Texas St.	http://stats.ncaa.org/team/index/12221?org_id=670	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3917699	http://stats.ncaa.org/game/index/3917699?org_id=670
 2016	12221	253	Ga. Southern	10/07/2015	Georgia St.	254	Georgia St.	http://stats.ncaa.org/team/index/12221?org_id=254	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3918477	http://stats.ncaa.org/game/index/3918477?org_id=253
 2016	12221	253	Ga. Southern	10/10/2015	Arkansas St.	30	Arkansas St.	http://stats.ncaa.org/team/index/12221?org_id=30	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3921478	http://stats.ncaa.org/game/index/3921478?org_id=253
-2016	12221	253	Ga. Southern	10/15/2015	@ La.-Monroe		La.-Monroe		false		false	-									
+2016	12221	253	Ga. Southern	10/15/2015	@ La.-Monroe	498	La.-Monroe	http://stats.ncaa.org/team/index/12221?org_id=498	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925876	http://stats.ncaa.org/game/index/3925876?org_id=498
 2016	12221	253	Ga. Southern	10/16/2015	@ La.-Lafayette		La.-Lafayette		false		false	-									
 2016	12221	253	Ga. Southern	10/23/2015	Appalachian St.		Appalachian St.		false		true	-									
 2016	12221	253	Ga. Southern	10/24/2015	Texas-Arlington		Texas-Arlington		false		true	-									
@@ -2669,7 +2669,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1092	Gardner-Webb	10/03/2015	@ Radford	563	Radford	http://stats.ncaa.org/team/index/12221?org_id=563	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3914593	http://stats.ncaa.org/game/index/3914593?org_id=563
 2016	12221	1092	Gardner-Webb	10/09/2015	Presbyterian	1320	Presbyterian	http://stats.ncaa.org/team/index/12221?org_id=1320	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919940	http://stats.ncaa.org/game/index/3919940?org_id=1092
 2016	12221	1092	Gardner-Webb	10/10/2015	Winthrop	792	Winthrop	http://stats.ncaa.org/team/index/12221?org_id=792	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3920871	http://stats.ncaa.org/game/index/3920871?org_id=1092
-2016	12221	1092	Gardner-Webb	10/14/2015	@ N.C. Central		N.C. Central		false		false	-									
+2016	12221	1092	Gardner-Webb	10/14/2015	@ N.C. Central	489	N.C. Central	http://stats.ncaa.org/team/index/12221?org_id=489	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924518	http://stats.ncaa.org/game/index/3924518?org_id=489
 2016	12221	1092	Gardner-Webb	10/16/2015	UNC Asheville		UNC Asheville		false		true	-									
 2016	12221	1092	Gardner-Webb	10/17/2015	South Carolina St.		South Carolina St.		false		true	-									
 2016	12221	1092	Gardner-Webb	10/23/2015	@ Coastal Caro.		Coastal Caro.		false		false	-									
@@ -2786,7 +2786,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	257	Georgia	10/02/2015	LSU	365	LSU	http://stats.ncaa.org/team/index/12221?org_id=365	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3916247	http://stats.ncaa.org/game/index/3916247?org_id=257
 2016	12221	257	Georgia	10/09/2015	@ Ole Miss	433	Ole Miss	http://stats.ncaa.org/team/index/12221?org_id=433	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920220	http://stats.ncaa.org/game/index/3920220?org_id=433
 2016	12221	257	Georgia	10/11/2015	@ Mississippi St.	430	Mississippi St.	http://stats.ncaa.org/team/index/12221?org_id=430	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922719	http://stats.ncaa.org/game/index/3922719?org_id=430
-2016	12221	257	Georgia	10/14/2015	South Carolina		South Carolina		false		true	-									
+2016	12221	257	Georgia	10/14/2015	South Carolina	648	South Carolina	http://stats.ncaa.org/team/index/12221?org_id=648	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924917	http://stats.ncaa.org/game/index/3924917?org_id=257
 2016	12221	257	Georgia	10/18/2015	Missouri		Missouri		false		true	-									
 2016	12221	257	Georgia	10/21/2015	@ Auburn		Auburn		false		false	-									
 2016	12221	257	Georgia	10/25/2015	@ Alabama		Alabama		false		false	-									
@@ -2877,7 +2877,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	260	Gonzaga	10/03/2015	@ Santa Clara	631	Santa Clara	http://stats.ncaa.org/team/index/12221?org_id=631	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3914928	http://stats.ncaa.org/game/index/3914928?org_id=631
 2016	12221	260	Gonzaga	10/08/2015	Loyola Marymount	370	Loyola Marymount	http://stats.ncaa.org/team/index/12221?org_id=370	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3919464	http://stats.ncaa.org/game/index/3919464?org_id=260
 2016	12221	260	Gonzaga	10/10/2015	Pepperdine	541	Pepperdine	http://stats.ncaa.org/team/index/12221?org_id=541	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920915	http://stats.ncaa.org/game/index/3920915?org_id=260
-2016	12221	260	Gonzaga	10/15/2015	@ BYU		BYU		false		false	-									
+2016	12221	260	Gonzaga	10/15/2015	@ BYU	77	BYU	http://stats.ncaa.org/team/index/12221?org_id=77	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925923	http://stats.ncaa.org/game/index/3925923?org_id=77
 2016	12221	260	Gonzaga	10/17/2015	@ San Diego		San Diego		false		false	-									
 2016	12221	260	Gonzaga	10/24/2015	Portland		Portland		false		true	-									
 2016	12221	260	Gonzaga	10/29/2015	Santa Clara		Santa Clara		false		true	-									
@@ -2939,7 +2939,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1104	Grand Canyon	10/03/2015	@ Utah Valley	30024	Utah Valley	http://stats.ncaa.org/team/index/12221?org_id=30024	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3914352	http://stats.ncaa.org/game/index/3914352?org_id=30024
 2016	12221	1104	Grand Canyon	10/08/2015	New Mexico St.	472	New Mexico St.	http://stats.ncaa.org/team/index/12221?org_id=472	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3922480	http://stats.ncaa.org/game/index/3922480?org_id=1104
 2016	12221	1104	Grand Canyon	10/10/2015	UTRGV	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3922781	http://stats.ncaa.org/game/index/3922781?org_id=1104
-2016	12221	1104	Grand Canyon	10/15/2015	@ UMKC		UMKC		false		false	-									
+2016	12221	1104	Grand Canyon	10/15/2015	@ UMKC	2707	UMKC	http://stats.ncaa.org/team/index/12221?org_id=2707	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925884	http://stats.ncaa.org/game/index/3925884?org_id=2707
 2016	12221	1104	Grand Canyon	10/17/2015	@ Chicago St.		Chicago St.		false		false	-									
 2016	12221	1104	Grand Canyon	10/24/2015	@ CSU Bakersfield		CSU Bakersfield		false		false	-									
 2016	12221	1104	Grand Canyon	10/29/2015	Utah Valley		Utah Valley		false		true	-									
@@ -3214,16 +3214,17 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	287	Houston Baptist	09/08/2015	Prairie View	553	Prairie View	http://stats.ncaa.org/team/index/12221?org_id=553	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3888037	http://stats.ncaa.org/game/index/3888037?org_id=287
 2016	12221	287	Houston Baptist	09/11/2015	@ South Ala.	646	South Ala.	http://stats.ncaa.org/team/index/12221?org_id=646	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3891497	http://stats.ncaa.org/game/index/3891497?org_id=646
 2016	12221	287	Houston Baptist	09/12/2015	Samford @ Mobile, Ala.	625	Samford	http://stats.ncaa.org/team/index/12221?org_id=625	true	Mobile, Ala.	true	W 3 - 2	true	3 - 2	false	3	2	false		3892002	http://stats.ncaa.org/game/index/3892002?org_id=625
+2016	12221	287	Houston Baptist	09/12/2015	McNeese St. @ Mobile, Ala.	402	McNeese St.	http://stats.ncaa.org/team/index/12221?org_id=402	true	Mobile, Ala.	true	W 3 - 1	true	3 - 1	false	3	1	false		3924276	http://stats.ncaa.org/game/index/3924276?org_id=287
 2016	12221	287	Houston Baptist	09/18/2015	North Texas @ Tulsa, Okla.	497	North Texas	http://stats.ncaa.org/team/index/12221?org_id=497	true	Tulsa, Okla.	true	L 0 - 3	false	0 - 3	false	0	3	false		3900779	http://stats.ncaa.org/game/index/3900779?org_id=497
-2016	12221	287	Houston Baptist	09/19/2015	@ Tulsa	719	Tulsa	http://stats.ncaa.org/team/index/12221?org_id=719	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3901200	http://stats.ncaa.org/game/index/3901200?org_id=719
 2016	12221	287	Houston Baptist	09/19/2015	Oral Roberts @ Tulsa, Okla.	527	Oral Roberts	http://stats.ncaa.org/team/index/12221?org_id=527	true	Tulsa, Okla.	true	L 1 - 3	false	1 - 3	false	1	3	false		3904178	http://stats.ncaa.org/game/index/3904178?org_id=287
+2016	12221	287	Houston Baptist	09/19/2015	@ Tulsa	719	Tulsa	http://stats.ncaa.org/team/index/12221?org_id=719	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3901200	http://stats.ncaa.org/game/index/3901200?org_id=719
 2016	12221	287	Houston Baptist	09/24/2015	New Orleans	474	New Orleans	http://stats.ncaa.org/team/index/12221?org_id=474	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3906684	http://stats.ncaa.org/game/index/3906684?org_id=287
 2016	12221	287	Houston Baptist	09/26/2015	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/index/12221?org_id=655	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3908033	http://stats.ncaa.org/game/index/3908033?org_id=287
 2016	12221	287	Houston Baptist	09/29/2015	@ Central Ark.	1004	Central Ark.	http://stats.ncaa.org/team/index/12221?org_id=1004	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3911785	http://stats.ncaa.org/game/index/3911785?org_id=1004
 2016	12221	287	Houston Baptist	10/03/2015	A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/index/12221?org_id=26172	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3914081	http://stats.ncaa.org/game/index/3914081?org_id=287
 2016	12221	287	Houston Baptist	10/08/2015	@ Northwestern St.	508	Northwestern St.	http://stats.ncaa.org/team/index/12221?org_id=508	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919437	http://stats.ncaa.org/game/index/3919437?org_id=508
 2016	12221	287	Houston Baptist	10/10/2015	@ Stephen F. Austin	676	Stephen F. Austin	http://stats.ncaa.org/team/index/12221?org_id=676	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3920794	http://stats.ncaa.org/game/index/3920794?org_id=676
-2016	12221	287	Houston Baptist	10/15/2015	Abilene Christian		Abilene Christian		false		true	-									
+2016	12221	287	Houston Baptist	10/15/2015	Abilene Christian	2	Abilene Christian	http://stats.ncaa.org/team/index/12221?org_id=2	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3925921	http://stats.ncaa.org/game/index/3925921?org_id=287
 2016	12221	287	Houston Baptist	10/17/2015	Incarnate Word		Incarnate Word		false		true	-									
 2016	12221	287	Houston Baptist	10/22/2015	@ McNeese St.		McNeese St.		false		false	-									
 2016	12221	287	Houston Baptist	10/24/2015	@ Nicholls St.		Nicholls St.		false		false	-									
@@ -3255,7 +3256,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	290	Howard	10/04/2015	@ Coppin St.	165	Coppin St.	http://stats.ncaa.org/team/index/12221?org_id=165	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3916831	http://stats.ncaa.org/game/index/3916831?org_id=165
 2016	12221	290	Howard	10/09/2015	Hampton	270	Hampton	http://stats.ncaa.org/team/index/12221?org_id=270	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920215	http://stats.ncaa.org/game/index/3920215?org_id=290
 2016	12221	290	Howard	10/11/2015	Norfolk St.	485	Norfolk St.	http://stats.ncaa.org/team/index/12221?org_id=485	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3922577	http://stats.ncaa.org/game/index/3922577?org_id=290
-2016	12221	290	Howard	10/15/2015	Bethune-Cookman		Bethune-Cookman		false		true	-									
+2016	12221	290	Howard	10/15/2015	@ Bethune-Cookman		Bethune-Cookman		false		false	-									
 2016	12221	290	Howard	10/18/2015	Coppin St.		Coppin St.		false		true	-									
 2016	12221	290	Howard	10/23/2015	UMES		UMES		false		true	-									
 2016	12221	290	Howard	10/25/2015	@ Delaware St.		Delaware St.		false		false	-									
@@ -3275,7 +3276,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	308	IPFW	09/12/2015	@ Indiana St.	305	Indiana St.	http://stats.ncaa.org/team/index/12221?org_id=305	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3893160	http://stats.ncaa.org/game/index/3893160?org_id=308
 2016	12221	308	IPFW	09/16/2015	@ Ball St.	47	Ball St.	http://stats.ncaa.org/team/index/12221?org_id=47	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3897330	http://stats.ncaa.org/game/index/3897330?org_id=308
 2016	12221	308	IPFW	09/18/2015	Green Bay @ Oxford, Ohio	794	Green Bay	http://stats.ncaa.org/team/index/12221?org_id=794	true	Oxford, Ohio	true	L 2 - 3	false	2 - 3	false	2	3	false		3900336	http://stats.ncaa.org/game/index/3900336?org_id=308
-2016	12221	308	IPFW	09/19/2015	Northern Ky. @ Oxford, Ohio	505	Northern Ky.	http://stats.ncaa.org/team/index/12221?org_id=505	true	Oxford, Ohio	true	W 3 - 0	true	3 - 0	false	3	0	false		3905941	http://stats.ncaa.org/game/index/3905941?org_id=308
+2016	12221	308	IPFW	09/19/2015	Northern Ky. @ Oxford, Ohio	505	Northern Ky.	http://stats.ncaa.org/team/index/12221?org_id=505	true	Oxford, Ohio	true	W 3 - 0	true	3 - 0	false	3	0	false		3924143	http://stats.ncaa.org/game/index/3924143?org_id=505
 2016	12221	308	IPFW	09/19/2015	@ Miami (OH)	414	Miami (OH)	http://stats.ncaa.org/team/index/12221?org_id=414	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3902378	http://stats.ncaa.org/game/index/3902378?org_id=308
 2016	12221	308	IPFW	09/25/2015	Denver	183	Denver	http://stats.ncaa.org/team/index/12221?org_id=183	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3907175	http://stats.ncaa.org/game/index/3907175?org_id=308
 2016	12221	308	IPFW	09/29/2015	@ IUPUI	2699	IUPUI	http://stats.ncaa.org/team/index/12221?org_id=2699	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3911492	http://stats.ncaa.org/game/index/3911492?org_id=2699
@@ -3342,7 +3343,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	295	Idaho	10/03/2015	@ Eastern Wash.	207	Eastern Wash.	http://stats.ncaa.org/team/index/12221?org_id=207	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3915242	http://stats.ncaa.org/game/index/3915242?org_id=207
 2016	12221	295	Idaho	10/08/2015	Portland St.	550	Portland St.	http://stats.ncaa.org/team/index/12221?org_id=550	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3919523	http://stats.ncaa.org/game/index/3919523?org_id=295
 2016	12221	295	Idaho	10/10/2015	Sacramento St.	102	Sacramento St.	http://stats.ncaa.org/team/index/12221?org_id=102	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3923040	http://stats.ncaa.org/game/index/3923040?org_id=102
-2016	12221	295	Idaho	10/15/2015	@ Montana		Montana		false		false	-									
+2016	12221	295	Idaho	10/15/2015	@ Montana	441	Montana	http://stats.ncaa.org/team/index/12221?org_id=441	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3925951	http://stats.ncaa.org/game/index/3925951?org_id=441
 2016	12221	295	Idaho	10/17/2015	@ Montana St.		Montana St.		false		false	-									
 2016	12221	295	Idaho	10/22/2015	@ Weber St.		Weber St.		false		false	-									
 2016	12221	295	Idaho	10/24/2015	@ Idaho St.		Idaho St.		false		false	-									
@@ -3372,7 +3373,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	294	Idaho St.	10/03/2015	Portland St.	550	Portland St.	http://stats.ncaa.org/team/index/12221?org_id=550	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3915308	http://stats.ncaa.org/game/index/3915308?org_id=294
 2016	12221	294	Idaho St.	10/08/2015	@ Northern Colo.	502	Northern Colo.	http://stats.ncaa.org/team/index/12221?org_id=502	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3919508	http://stats.ncaa.org/game/index/3919508?org_id=502
 2016	12221	294	Idaho St.	10/10/2015	@ North Dakota	494	North Dakota	http://stats.ncaa.org/team/index/12221?org_id=494	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920796	http://stats.ncaa.org/game/index/3920796?org_id=494
-2016	12221	294	Idaho St.	10/15/2015	@ Southern Utah		Southern Utah		false		false	-									
+2016	12221	294	Idaho St.	10/15/2015	@ Southern Utah	667	Southern Utah	http://stats.ncaa.org/team/index/12221?org_id=667	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925925	http://stats.ncaa.org/game/index/3925925?org_id=667
 2016	12221	294	Idaho St.	10/17/2015	@ Northern Ariz.		Northern Ariz.		false		false	-									
 2016	12221	294	Idaho St.	10/22/2015	Eastern Wash.		Eastern Wash.		false		true	-									
 2016	12221	294	Idaho St.	10/24/2015	Idaho		Idaho		false		true	-									
@@ -3792,7 +3793,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	328	Kansas	10/03/2015	West Virginia	768	West Virginia	http://stats.ncaa.org/team/index/12221?org_id=768	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914701	http://stats.ncaa.org/game/index/3914701?org_id=328
 2016	12221	328	Kansas	10/07/2015	@ Texas Tech	700	Texas Tech	http://stats.ncaa.org/team/index/12221?org_id=700	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919577	http://stats.ncaa.org/game/index/3919577?org_id=328
 2016	12221	328	Kansas	10/10/2015	Iowa St.	311	Iowa St.	http://stats.ncaa.org/team/index/12221?org_id=311	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921242	http://stats.ncaa.org/game/index/3921242?org_id=328
-2016	12221	328	Kansas	10/14/2015	@ Baylor		Baylor		false		false	-									
+2016	12221	328	Kansas	10/14/2015	@ Baylor	51	Baylor	http://stats.ncaa.org/team/index/12221?org_id=51	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3924711	http://stats.ncaa.org/game/index/3924711?org_id=51
 2016	12221	328	Kansas	10/21/2015	Oklahoma		Oklahoma		false		true	-									
 2016	12221	328	Kansas	10/23/2015	@ Texas		Texas		false		false	-									
 2016	12221	328	Kansas	10/28/2015	@ Iowa St.		Iowa St.		false		false	-									
@@ -4050,7 +4051,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	498	La.-Monroe	10/07/2015	La.-Lafayette	671	La.-Lafayette	http://stats.ncaa.org/team/index/12221?org_id=671	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3923176	http://stats.ncaa.org/game/index/3923176?org_id=498
 2016	12221	498	La.-Monroe	10/09/2015	@ Troy	716	Troy	http://stats.ncaa.org/team/index/12221?org_id=716	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919884	http://stats.ncaa.org/game/index/3919884?org_id=716
 2016	12221	498	La.-Monroe	10/10/2015	@ South Ala.	646	South Ala.	http://stats.ncaa.org/team/index/12221?org_id=646	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921632	http://stats.ncaa.org/game/index/3921632?org_id=646
-2016	12221	498	La.-Monroe	10/15/2015	Ga. Southern		Ga. Southern		false		true	-									
+2016	12221	498	La.-Monroe	10/15/2015	Ga. Southern	253	Ga. Southern	http://stats.ncaa.org/team/index/12221?org_id=253	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925876	http://stats.ncaa.org/game/index/3925876?org_id=498
 2016	12221	498	La.-Monroe	10/16/2015	Troy		Troy		false		true	-									
 2016	12221	498	La.-Monroe	10/19/2015	Grambling		Grambling		false		true	-									
 2016	12221	498	La.-Monroe	10/23/2015	@ Arkansas St.		Arkansas St.		false		false	-									
@@ -4078,7 +4079,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	342	Lafayette	10/03/2015	Bucknell	83	Bucknell	http://stats.ncaa.org/team/index/12221?org_id=83	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3914312	http://stats.ncaa.org/game/index/3914312?org_id=342
 2016	12221	342	Lafayette	10/09/2015	@ Army West Point	725	Army West Point	http://stats.ncaa.org/team/index/12221?org_id=725	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919811	http://stats.ncaa.org/game/index/3919811?org_id=725
 2016	12221	342	Lafayette	10/10/2015	@ Holy Cross	285	Holy Cross	http://stats.ncaa.org/team/index/12221?org_id=285	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921379	http://stats.ncaa.org/game/index/3921379?org_id=285
-2016	12221	342	Lafayette	10/15/2015	Colgate		Colgate		false		true	-									
+2016	12221	342	Lafayette	10/15/2015	Colgate	153	Colgate	http://stats.ncaa.org/team/index/12221?org_id=153	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925826	http://stats.ncaa.org/game/index/3925826?org_id=342
 2016	12221	342	Lafayette	10/17/2015	@ Navy		Navy		false		false	-									
 2016	12221	342	Lafayette	10/21/2015	Lehigh		Lehigh		false		true	-									
 2016	12221	342	Lafayette	10/23/2015	@ Loyola Maryland		Loyola Maryland		false		false	-									
@@ -4108,7 +4109,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	346	Lamar	10/08/2015	@ Abilene Christian	2	Abilene Christian	http://stats.ncaa.org/team/index/12221?org_id=2	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919404	http://stats.ncaa.org/game/index/3919404?org_id=2
 2016	12221	346	Lamar	10/10/2015	@ Incarnate Word	2743	Incarnate Word	http://stats.ncaa.org/team/index/12221?org_id=2743	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3921044	http://stats.ncaa.org/game/index/3921044?org_id=2743
 2016	12221	346	Lamar	10/13/2015	Sam Houston St.	624	Sam Houston St.	http://stats.ncaa.org/team/index/12221?org_id=624	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3924062	http://stats.ncaa.org/game/index/3924062?org_id=346
-2016	12221	346	Lamar	10/15/2015	Central Ark.		Central Ark.		false		true	-									
+2016	12221	346	Lamar	10/15/2015	Central Ark.	1004	Central Ark.	http://stats.ncaa.org/team/index/12221?org_id=1004	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925893	http://stats.ncaa.org/game/index/3925893?org_id=346
 2016	12221	346	Lamar	10/22/2015	Northwestern St.		Northwestern St.		false		true	-									
 2016	12221	346	Lamar	10/24/2015	Stephen F. Austin		Stephen F. Austin		false		true	-									
 2016	12221	346	Lamar	10/29/2015	@ A&M-Corpus Chris		A&M-Corpus Chris		false		false	-									
@@ -4374,7 +4375,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	369	Loyola Maryland	10/04/2015	Holy Cross	285	Holy Cross	http://stats.ncaa.org/team/index/12221?org_id=285	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3915673	http://stats.ncaa.org/game/index/3915673?org_id=369
 2016	12221	369	Loyola Maryland	10/09/2015	@ Bucknell	83	Bucknell	http://stats.ncaa.org/team/index/12221?org_id=83	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920098	http://stats.ncaa.org/game/index/3920098?org_id=83
 2016	12221	369	Loyola Maryland	10/10/2015	@ Colgate	153	Colgate	http://stats.ncaa.org/team/index/12221?org_id=153	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3921111	http://stats.ncaa.org/game/index/3921111?org_id=153
-2016	12221	369	Loyola Maryland	10/14/2015	American		American		false		true	-									
+2016	12221	369	Loyola Maryland	10/14/2015	American	23	American	http://stats.ncaa.org/team/index/12221?org_id=23	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925437	http://stats.ncaa.org/game/index/3925437?org_id=369
 2016	12221	369	Loyola Maryland	10/16/2015	@ Navy		Navy		false		false	-									
 2016	12221	369	Loyola Maryland	10/23/2015	Lafayette		Lafayette		false		true	-									
 2016	12221	369	Loyola Maryland	10/24/2015	Lehigh		Lehigh		false		true	-									
@@ -4402,7 +4403,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	370	Loyola Marymount	10/03/2015	St. Mary's (CA) @ Malibu, CA	610	St. Mary's (CA)	http://stats.ncaa.org/team/index/12221?org_id=610	true	Malibu, CA	true	W 3 - 0	true	3 - 0	false	3	0	false		3915204	http://stats.ncaa.org/game/index/3915204?org_id=370
 2016	12221	370	Loyola Marymount	10/08/2015	@ Gonzaga	260	Gonzaga	http://stats.ncaa.org/team/index/12221?org_id=260	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3919464	http://stats.ncaa.org/game/index/3919464?org_id=260
 2016	12221	370	Loyola Marymount	10/10/2015	@ Portland	551	Portland	http://stats.ncaa.org/team/index/12221?org_id=551	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920924	http://stats.ncaa.org/game/index/3920924?org_id=551
-2016	12221	370	Loyola Marymount	10/15/2015	San Francisco		San Francisco		false		true	-									
+2016	12221	370	Loyola Marymount	10/15/2015	San Francisco	629	San Francisco	http://stats.ncaa.org/team/index/12221?org_id=629	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925930	http://stats.ncaa.org/game/index/3925930?org_id=370
 2016	12221	370	Loyola Marymount	10/17/2015	Santa Clara		Santa Clara		false		true	-									
 2016	12221	370	Loyola Marymount	10/22/2015	San Diego		San Diego		false		true	-									
 2016	12221	370	Loyola Marymount	10/24/2015	BYU		BYU		false		true	-									
@@ -4460,12 +4461,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	386	Marist	09/20/2015	Iona	310	Iona	http://stats.ncaa.org/team/index/12221?org_id=310	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3903357	http://stats.ncaa.org/game/index/3903357?org_id=386
 2016	12221	386	Marist	09/23/2015	NJIT	471	NJIT	http://stats.ncaa.org/team/index/12221?org_id=471	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3906137	http://stats.ncaa.org/game/index/3906137?org_id=386
 2016	12221	386	Marist	09/26/2015	@ Rider	576	Rider	http://stats.ncaa.org/team/index/12221?org_id=576	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3908316	http://stats.ncaa.org/game/index/3908316?org_id=576
-2016	12221	386	Marist	09/27/2015	@ Saint Peter's		Saint Peter's		false		false	-									
+2016	12221	386	Marist	09/27/2015	@ Saint Peter's	617	Saint Peter's	http://stats.ncaa.org/team/index/12221?org_id=617	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924125	http://stats.ncaa.org/game/index/3924125?org_id=617
 2016	12221	386	Marist	10/03/2015	@ Canisius	116	Canisius	http://stats.ncaa.org/team/index/12221?org_id=116	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3914153	http://stats.ncaa.org/game/index/3914153?org_id=116
 2016	12221	386	Marist	10/04/2015	@ Niagara	482	Niagara	http://stats.ncaa.org/team/index/12221?org_id=482	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3915652	http://stats.ncaa.org/game/index/3915652?org_id=482
 2016	12221	386	Marist	10/10/2015	Quinnipiac	562	Quinnipiac	http://stats.ncaa.org/team/index/12221?org_id=562	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920696	http://stats.ncaa.org/game/index/3920696?org_id=386
 2016	12221	386	Marist	10/11/2015	Fairfield	220	Fairfield	http://stats.ncaa.org/team/index/12221?org_id=220	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3922399	http://stats.ncaa.org/game/index/3922399?org_id=386
-2016	12221	386	Marist	10/14/2015	@ Quinnipiac		Quinnipiac		false		false	-									
+2016	12221	386	Marist	10/14/2015	@ Quinnipiac	562	Quinnipiac	http://stats.ncaa.org/team/index/12221?org_id=562	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3924580	http://stats.ncaa.org/game/index/3924580?org_id=562
 2016	12221	386	Marist	10/17/2015	@ Siena		Siena		false		false	-									
 2016	12221	386	Marist	10/24/2015	Saint Peter's		Saint Peter's		false		true	-									
 2016	12221	386	Marist	10/25/2015	Rider		Rider		false		true	-									
@@ -4555,8 +4556,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	392	Maryland	10/03/2015	@ Purdue	559	Purdue	http://stats.ncaa.org/team/index/12221?org_id=559	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3916345	http://stats.ncaa.org/game/index/3916345?org_id=559
 2016	12221	392	Maryland	10/09/2015	Minnesota	428	Minnesota	http://stats.ncaa.org/team/index/12221?org_id=428	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919906	http://stats.ncaa.org/game/index/3919906?org_id=392
 2016	12221	392	Maryland	10/10/2015	Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/index/12221?org_id=796	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3921697	http://stats.ncaa.org/game/index/3921697?org_id=392
-2016	12221	392	Maryland	10/14/2015	@ Michigan St.		Michigan St.		false		false	-									
-2016	12221	392	Maryland	10/15/2015	@ Michigan		Michigan		false		false	-									
+2016	12221	392	Maryland	10/14/2015	@ Michigan St.	416	Michigan St.	http://stats.ncaa.org/team/index/12221?org_id=416	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3925102	http://stats.ncaa.org/game/index/3925102?org_id=416
+2016	12221	392	Maryland	10/15/2015	@ Michigan	418	Michigan	http://stats.ncaa.org/team/index/12221?org_id=418	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925832	http://stats.ncaa.org/game/index/3925832?org_id=418
 2016	12221	392	Maryland	10/21/2015	@ Rutgers		Rutgers		false		false	-									
 2016	12221	392	Maryland	10/24/2015	Rutgers		Rutgers		false		true	-									
 2016	12221	392	Maryland	10/30/2015	@ Iowa		Iowa		false		false	-									
@@ -4576,6 +4577,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	402	McNeese St.	09/01/2015	UT Martin @ Oxford, MS	695	UT Martin	http://stats.ncaa.org/team/index/12221?org_id=695	true	Oxford, MS	true	W 3 - 2	true	3 - 2	false	3	2	false		3896100	http://stats.ncaa.org/game/index/3896100?org_id=402
 2016	12221	402	McNeese St.	09/11/2015	Samford @ Mobile, Ala.	625	Samford	http://stats.ncaa.org/team/index/12221?org_id=625	true	Mobile, Ala.	true	L 2 - 3	false	2 - 3	false	2	3	false		3891277	http://stats.ncaa.org/game/index/3891277?org_id=402
 2016	12221	402	McNeese St.	09/12/2015	@ South Ala.	646	South Ala.	http://stats.ncaa.org/team/index/12221?org_id=646	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3892321	http://stats.ncaa.org/game/index/3892321?org_id=646
+2016	12221	402	McNeese St.	09/12/2015	Houston Baptist @ Mobile, Ala.	287	Houston Baptist	http://stats.ncaa.org/team/index/12221?org_id=287	true	Mobile, Ala.	true	L 1 - 3	false	1 - 3	false	1	3	false		3924276	http://stats.ncaa.org/game/index/3924276?org_id=287
 2016	12221	402	McNeese St.	09/15/2015	Prairie View	553	Prairie View	http://stats.ncaa.org/team/index/12221?org_id=553	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3896701	http://stats.ncaa.org/game/index/3896701?org_id=402
 2016	12221	402	McNeese St.	09/18/2015	@ Wyoming	811	Wyoming	http://stats.ncaa.org/team/index/12221?org_id=811	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3900203	http://stats.ncaa.org/game/index/3900203?org_id=811
 2016	12221	402	McNeese St.	09/18/2015	Idaho St. @ Laramie, Wyo.	294	Idaho St.	http://stats.ncaa.org/team/index/12221?org_id=294	true	Laramie, Wyo.	true	L 0 - 3	false	0 - 3	false	0	3	false		3900434	http://stats.ncaa.org/game/index/3900434?org_id=294
@@ -4587,7 +4589,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	402	McNeese St.	10/03/2015	@ Sam Houston St.	624	Sam Houston St.	http://stats.ncaa.org/team/index/12221?org_id=624	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3915258	http://stats.ncaa.org/game/index/3915258?org_id=624
 2016	12221	402	McNeese St.	10/06/2015	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/index/12221?org_id=655	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3917622	http://stats.ncaa.org/game/index/3917622?org_id=402
 2016	12221	402	McNeese St.	10/08/2015	Central Ark.	1004	Central Ark.	http://stats.ncaa.org/team/index/12221?org_id=1004	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3919492	http://stats.ncaa.org/game/index/3919492?org_id=402
-2016	12221	402	McNeese St.	10/13/2015	Texas Southern		Texas Southern		false		true	-									
+2016	12221	402	McNeese St.	10/13/2015	Texas Southern	699	Texas Southern	http://stats.ncaa.org/team/index/12221?org_id=699	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925206	http://stats.ncaa.org/game/index/3925206?org_id=402
 2016	12221	402	McNeese St.	10/17/2015	@ Nicholls St.		Nicholls St.		false		false	-									
 2016	12221	402	McNeese St.	10/20/2015	La.-Lafayette		La.-Lafayette		false		true	-									
 2016	12221	402	McNeese St.	10/22/2015	Houston Baptist		Houston Baptist		false		true	-									
@@ -4650,7 +4652,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	406	Mercer	10/03/2015	@ ETSU	198	ETSU	http://stats.ncaa.org/team/index/12221?org_id=198	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3914984	http://stats.ncaa.org/game/index/3914984?org_id=406
 2016	12221	406	Mercer	10/09/2015	Western Caro.	769	Western Caro.	http://stats.ncaa.org/team/index/12221?org_id=769	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919862	http://stats.ncaa.org/game/index/3919862?org_id=406
 2016	12221	406	Mercer	10/10/2015	Wofford	2915	Wofford	http://stats.ncaa.org/team/index/12221?org_id=2915	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3921099	http://stats.ncaa.org/game/index/3921099?org_id=406
-2016	12221	406	Mercer	10/14/2015	@ Savannah St.		Savannah St.		false		false	-									
+2016	12221	406	Mercer	10/14/2015	@ Savannah St.	632	Savannah St.	http://stats.ncaa.org/team/index/12221?org_id=632	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924454	http://stats.ncaa.org/game/index/3924454?org_id=632
 2016	12221	406	Mercer	10/16/2015	Samford		Samford		false		true	-									
 2016	12221	406	Mercer	10/17/2015	Furman		Furman		false		true	-									
 2016	12221	406	Mercer	10/24/2015	@ Wofford		Wofford		false		false	-									
@@ -4709,7 +4711,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	414	Miami (OH)	10/03/2015	Akron	5	Akron	http://stats.ncaa.org/team/index/12221?org_id=5	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914723	http://stats.ncaa.org/game/index/3914723?org_id=5
 2016	12221	414	Miami (OH)	10/08/2015	Bowling Green	71	Bowling Green	http://stats.ncaa.org/team/index/12221?org_id=71	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919398	http://stats.ncaa.org/game/index/3919398?org_id=414
 2016	12221	414	Miami (OH)	10/10/2015	@ Northern Ill.	503	Northern Ill.	http://stats.ncaa.org/team/index/12221?org_id=503	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922928	http://stats.ncaa.org/game/index/3922928?org_id=503
-2016	12221	414	Miami (OH)	10/15/2015	Central Mich.		Central Mich.		false		true	-									
+2016	12221	414	Miami (OH)	10/15/2015	Central Mich.	129	Central Mich.	http://stats.ncaa.org/team/index/12221?org_id=129	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3925883	http://stats.ncaa.org/game/index/3925883?org_id=414
 2016	12221	414	Miami (OH)	10/16/2015	Eastern Mich.		Eastern Mich.		false		true	-									
 2016	12221	414	Miami (OH)	10/23/2015	@ Ball St.		Ball St.		false		false	-									
 2016	12221	414	Miami (OH)	10/24/2015	@ Toledo		Toledo		false		false	-									
@@ -4736,8 +4738,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	418	Michigan	10/03/2015	Michigan St.	416	Michigan St.	http://stats.ncaa.org/team/index/12221?org_id=416	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3916206	http://stats.ncaa.org/game/index/3916206?org_id=418
 2016	12221	418	Michigan	10/07/2015	@ Iowa	312	Iowa	http://stats.ncaa.org/team/index/12221?org_id=312	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3918977	http://stats.ncaa.org/game/index/3918977?org_id=312
 2016	12221	418	Michigan	10/10/2015	@ Nebraska	463	Nebraska	http://stats.ncaa.org/team/index/12221?org_id=463	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3921884	http://stats.ncaa.org/game/index/3921884?org_id=463
-2016	12221	418	Michigan	10/14/2015	Rutgers		Rutgers		false		true	-									
-2016	12221	418	Michigan	10/15/2015	Maryland		Maryland		false		true	-									
+2016	12221	418	Michigan	10/14/2015	Rutgers	587	Rutgers	http://stats.ncaa.org/team/index/12221?org_id=587	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3924664	http://stats.ncaa.org/game/index/3924664?org_id=418
+2016	12221	418	Michigan	10/15/2015	Maryland	392	Maryland	http://stats.ncaa.org/team/index/12221?org_id=392	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925832	http://stats.ncaa.org/game/index/3925832?org_id=418
 2016	12221	418	Michigan	10/21/2015	Penn St.		Penn St.		false		true	-									
 2016	12221	418	Michigan	10/24/2015	Ohio St.		Ohio St.		false		true	-									
 2016	12221	418	Michigan	10/30/2015	@ Northwestern		Northwestern		false		false	-									
@@ -4767,7 +4769,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	416	Michigan St.	10/03/2015	@ Michigan	418	Michigan	http://stats.ncaa.org/team/index/12221?org_id=418	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3916206	http://stats.ncaa.org/game/index/3916206?org_id=418
 2016	12221	416	Michigan St.	10/07/2015	@ Nebraska	463	Nebraska	http://stats.ncaa.org/team/index/12221?org_id=463	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919133	http://stats.ncaa.org/game/index/3919133?org_id=463
 2016	12221	416	Michigan St.	10/10/2015	@ Iowa	312	Iowa	http://stats.ncaa.org/team/index/12221?org_id=312	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921737	http://stats.ncaa.org/game/index/3921737?org_id=312
-2016	12221	416	Michigan St.	10/14/2015	Maryland		Maryland		false		true	-									
+2016	12221	416	Michigan St.	10/14/2015	Maryland	392	Maryland	http://stats.ncaa.org/team/index/12221?org_id=392	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3925102	http://stats.ncaa.org/game/index/3925102?org_id=416
 2016	12221	416	Michigan St.	10/17/2015	Rutgers		Rutgers		false		true	-									
 2016	12221	416	Michigan St.	10/21/2015	Ohio St.		Ohio St.		false		true	-									
 2016	12221	416	Michigan St.	10/24/2015	Penn St.		Penn St.		false		true	-									
@@ -4856,7 +4858,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	428	Minnesota	10/03/2015	Illinois	301	Illinois	http://stats.ncaa.org/team/index/12221?org_id=301	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3915322	http://stats.ncaa.org/game/index/3915322?org_id=301
 2016	12221	428	Minnesota	10/09/2015	@ Maryland	392	Maryland	http://stats.ncaa.org/team/index/12221?org_id=392	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919906	http://stats.ncaa.org/game/index/3919906?org_id=392
 2016	12221	428	Minnesota	10/11/2015	@ Rutgers	587	Rutgers	http://stats.ncaa.org/team/index/12221?org_id=587	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3922449	http://stats.ncaa.org/game/index/3922449?org_id=587
-2016	12221	428	Minnesota	10/14/2015	@ Wisconsin		Wisconsin		false		false	-									
+2016	12221	428	Minnesota	10/14/2015	@ Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/index/12221?org_id=796	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3924688	http://stats.ncaa.org/game/index/3924688?org_id=796
 2016	12221	428	Minnesota	10/17/2015	Wisconsin		Wisconsin		false		true	-									
 2016	12221	428	Minnesota	10/23/2015	@ Nebraska		Nebraska		false		false	-									
 2016	12221	428	Minnesota	10/24/2015	@ Iowa		Iowa		false		false	-									
@@ -5015,7 +5017,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	441	Montana	10/03/2015	@ Northern Colo.	502	Northern Colo.	http://stats.ncaa.org/team/index/12221?org_id=502	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3914633	http://stats.ncaa.org/game/index/3914633?org_id=502
 2016	12221	441	Montana	10/08/2015	Northern Ariz.	501	Northern Ariz.	http://stats.ncaa.org/team/index/12221?org_id=501	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919461	http://stats.ncaa.org/game/index/3919461?org_id=441
 2016	12221	441	Montana	10/10/2015	Southern Utah	667	Southern Utah	http://stats.ncaa.org/team/index/12221?org_id=667	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3921838	http://stats.ncaa.org/game/index/3921838?org_id=441
-2016	12221	441	Montana	10/15/2015	Idaho		Idaho		false		true	-									
+2016	12221	441	Montana	10/15/2015	Idaho	295	Idaho	http://stats.ncaa.org/team/index/12221?org_id=295	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3925951	http://stats.ncaa.org/game/index/3925951?org_id=441
 2016	12221	441	Montana	10/17/2015	Eastern Wash.		Eastern Wash.		false		true	-									
 2016	12221	441	Montana	10/22/2015	@ Portland St.		Portland St.		false		false	-									
 2016	12221	441	Montana	10/24/2015	@ Sacramento St.		Sacramento St.		false		false	-									
@@ -5039,7 +5041,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	440	Montana St.	10/03/2015	@ North Dakota	494	North Dakota	http://stats.ncaa.org/team/index/12221?org_id=494	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3916318	http://stats.ncaa.org/game/index/3916318?org_id=494
 2016	12221	440	Montana St.	10/08/2015	Southern Utah	667	Southern Utah	http://stats.ncaa.org/team/index/12221?org_id=667	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919495	http://stats.ncaa.org/game/index/3919495?org_id=440
 2016	12221	440	Montana St.	10/10/2015	Northern Ariz.	501	Northern Ariz.	http://stats.ncaa.org/team/index/12221?org_id=501	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920835	http://stats.ncaa.org/game/index/3920835?org_id=440
-2016	12221	440	Montana St.	10/15/2015	Eastern Wash.		Eastern Wash.		false		true	-									
+2016	12221	440	Montana St.	10/15/2015	Eastern Wash.	207	Eastern Wash.	http://stats.ncaa.org/team/index/12221?org_id=207	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3925981	http://stats.ncaa.org/game/index/3925981?org_id=440
 2016	12221	440	Montana St.	10/17/2015	Idaho		Idaho		false		true	-									
 2016	12221	440	Montana St.	10/22/2015	@ Sacramento St.		Sacramento St.		false		false	-									
 2016	12221	440	Montana St.	10/24/2015	@ Portland St.		Portland St.		false		false	-									
@@ -5097,7 +5099,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	446	Morgan St.	09/27/2015	@ Norfolk St.	485	Norfolk St.	http://stats.ncaa.org/team/index/12221?org_id=485	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3909988	http://stats.ncaa.org/game/index/3909988?org_id=485
 2016	12221	446	Morgan St.	10/02/2015	Howard	290	Howard	http://stats.ncaa.org/team/index/12221?org_id=290	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3913464	http://stats.ncaa.org/game/index/3913464?org_id=446
 2016	12221	446	Morgan St.	10/09/2015	UMES	393	UMES	http://stats.ncaa.org/team/index/12221?org_id=393	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919859	http://stats.ncaa.org/game/index/3919859?org_id=393
-2016	12221	446	Morgan St.	10/11/2015	Delaware St.		Delaware St.		false		true	-									
+2016	12221	446	Morgan St.	10/11/2015	Delaware St.	178	Delaware St.	http://stats.ncaa.org/team/index/12221?org_id=178	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925118	http://stats.ncaa.org/game/index/3925118?org_id=446
 2016	12221	446	Morgan St.	10/16/2015	@ Coppin St.		Coppin St.		false		false	-									
 2016	12221	446	Morgan St.	10/23/2015	Hampton		Hampton		false		true	-									
 2016	12221	446	Morgan St.	10/25/2015	Norfolk St.		Norfolk St.		false		true	-									
@@ -5173,7 +5175,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	489	N.C. Central	10/04/2015	Savannah St.	632	Savannah St.	http://stats.ncaa.org/team/index/12221?org_id=632	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3915703	http://stats.ncaa.org/game/index/3915703?org_id=489
 2016	12221	489	N.C. Central	10/09/2015	@ Florida A&M	228	Florida A&M	http://stats.ncaa.org/team/index/12221?org_id=228	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921770	http://stats.ncaa.org/game/index/3921770?org_id=228
 2016	12221	489	N.C. Central	10/11/2015	@ Bethune-Cookman	61	Bethune-Cookman	http://stats.ncaa.org/team/index/12221?org_id=61	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922075	http://stats.ncaa.org/game/index/3922075?org_id=61
-2016	12221	489	N.C. Central	10/14/2015	Gardner-Webb		Gardner-Webb		false		true	-									
+2016	12221	489	N.C. Central	10/14/2015	Gardner-Webb	1092	Gardner-Webb	http://stats.ncaa.org/team/index/12221?org_id=1092	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924518	http://stats.ncaa.org/game/index/3924518?org_id=489
 2016	12221	489	N.C. Central	10/20/2015	@ Campbell		Campbell		false		false	-									
 2016	12221	489	N.C. Central	10/23/2015	N.C. A&T		N.C. A&T		false		true	-									
 2016	12221	489	N.C. Central	10/30/2015	@ South Carolina St.		South Carolina St.		false		false	-									
@@ -5201,7 +5203,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	471	NJIT	10/04/2015	Stetson	678	Stetson	http://stats.ncaa.org/team/index/12221?org_id=678	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3915549	http://stats.ncaa.org/game/index/3915549?org_id=471
 2016	12221	471	NJIT	10/09/2015	@ Jacksonville	316	Jacksonville	http://stats.ncaa.org/team/index/12221?org_id=316	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3920139	http://stats.ncaa.org/game/index/3920139?org_id=316
 2016	12221	471	NJIT	10/10/2015	@ North Florida	2711	North Florida	http://stats.ncaa.org/team/index/12221?org_id=2711	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920470	http://stats.ncaa.org/game/index/3920470?org_id=2711
-2016	12221	471	NJIT	10/14/2015	Saint Peter's		Saint Peter's		false		true	-									
+2016	12221	471	NJIT	10/14/2015	Saint Peter's	617	Saint Peter's	http://stats.ncaa.org/team/index/12221?org_id=617	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924489	http://stats.ncaa.org/game/index/3924489?org_id=471
 2016	12221	471	NJIT	10/16/2015	Kennesaw St.		Kennesaw St.		false		true	-									
 2016	12221	471	NJIT	10/18/2015	USC Upstate		USC Upstate		false		true	-									
 2016	12221	471	NJIT	10/24/2015	@ Lipscomb		Lipscomb		false		false	-									
@@ -5290,7 +5292,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	466	Nevada	10/03/2015	Wyoming	811	Wyoming	http://stats.ncaa.org/team/index/12221?org_id=811	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3914640	http://stats.ncaa.org/game/index/3914640?org_id=811
 2016	12221	466	Nevada	10/08/2015	@ Fresno St.	96	Fresno St.	http://stats.ncaa.org/team/index/12221?org_id=96	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919622	http://stats.ncaa.org/game/index/3919622?org_id=96
 2016	12221	466	Nevada	10/10/2015	@ UNLV	465	UNLV	http://stats.ncaa.org/team/index/12221?org_id=465	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921225	http://stats.ncaa.org/game/index/3921225?org_id=465
-2016	12221	466	Nevada	10/15/2015	Boise St.		Boise St.		false		true	-									
+2016	12221	466	Nevada	10/15/2015	Boise St.	66	Boise St.	http://stats.ncaa.org/team/index/12221?org_id=66	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3925956	http://stats.ncaa.org/game/index/3925956?org_id=466
 2016	12221	466	Nevada	10/17/2015	Utah St.		Utah St.		false		true	-									
 2016	12221	466	Nevada	10/22/2015	New Mexico		New Mexico		false		true	-									
 2016	12221	466	Nevada	10/24/2015	Air Force		Air Force		false		true	-									
@@ -5347,7 +5349,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	473	New Mexico	10/03/2015	@ San Jose St.	630	San Jose St.	http://stats.ncaa.org/team/index/12221?org_id=630	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3914759	http://stats.ncaa.org/game/index/3914759?org_id=630
 2016	12221	473	New Mexico	10/08/2015	@ Colorado St.	156	Colorado St.	http://stats.ncaa.org/team/index/12221?org_id=156	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919493	http://stats.ncaa.org/game/index/3919493?org_id=156
 2016	12221	473	New Mexico	10/10/2015	@ Wyoming	811	Wyoming	http://stats.ncaa.org/team/index/12221?org_id=811	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920870	http://stats.ncaa.org/game/index/3920870?org_id=811
-2016	12221	473	New Mexico	10/15/2015	Fresno St.		Fresno St.		false		true	-									
+2016	12221	473	New Mexico	10/15/2015	Fresno St.	96	Fresno St.	http://stats.ncaa.org/team/index/12221?org_id=96	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925895	http://stats.ncaa.org/game/index/3925895?org_id=473
 2016	12221	473	New Mexico	10/17/2015	UNLV		UNLV		false		true	-									
 2016	12221	473	New Mexico	10/22/2015	@ Nevada		Nevada		false		false	-									
 2016	12221	473	New Mexico	10/24/2015	@ San Diego St.		San Diego St.		false		false	-									
@@ -5411,7 +5413,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	474	New Orleans	10/06/2015	@ Nicholls St.	483	Nicholls St.	http://stats.ncaa.org/team/index/12221?org_id=483	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3917544	http://stats.ncaa.org/game/index/3917544?org_id=483
 2016	12221	474	New Orleans	10/08/2015	Southern U.	665	Southern U.	http://stats.ncaa.org/team/index/12221?org_id=665	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919526	http://stats.ncaa.org/game/index/3919526?org_id=474
 2016	12221	474	New Orleans	10/10/2015	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/index/12221?org_id=655	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920917	http://stats.ncaa.org/game/index/3920917?org_id=474
-2016	12221	474	New Orleans	10/15/2015	Northwestern St.		Northwestern St.		false		true	-									
+2016	12221	474	New Orleans	10/15/2015	Northwestern St.	508	Northwestern St.	http://stats.ncaa.org/team/index/12221?org_id=508	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3925866	http://stats.ncaa.org/game/index/3925866?org_id=474
 2016	12221	474	New Orleans	10/17/2015	Stephen F. Austin		Stephen F. Austin		false		true	-									
 2016	12221	474	New Orleans	10/19/2015	UTRGV		UTRGV		false		true	-									
 2016	12221	474	New Orleans	10/22/2015	@ Abilene Christian		Abilene Christian		false		false	-									
@@ -5590,7 +5592,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	494	North Dakota	10/08/2015	Weber St.	758	Weber St.	http://stats.ncaa.org/team/index/12221?org_id=758	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919511	http://stats.ncaa.org/game/index/3919511?org_id=494
 2016	12221	494	North Dakota	10/10/2015	Idaho St.	294	Idaho St.	http://stats.ncaa.org/team/index/12221?org_id=294	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920796	http://stats.ncaa.org/game/index/3920796?org_id=494
 2016	12221	494	North Dakota	10/13/2015	North Dakota St.	493	North Dakota St.	http://stats.ncaa.org/team/index/12221?org_id=493	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924065	http://stats.ncaa.org/game/index/3924065?org_id=494
-2016	12221	494	North Dakota	10/15/2015	@ Portland St.		Portland St.		false		false	-									
+2016	12221	494	North Dakota	10/15/2015	@ Portland St.	550	Portland St.	http://stats.ncaa.org/team/index/12221?org_id=550	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925945	http://stats.ncaa.org/game/index/3925945?org_id=550
 2016	12221	494	North Dakota	10/17/2015	@ Northern Colo.		Northern Colo.		false		false	-									
 2016	12221	494	North Dakota	10/22/2015	@ Northern Ariz.		Northern Ariz.		false		false	-									
 2016	12221	494	North Dakota	10/24/2015	@ Southern Utah		Southern Utah		false		false	-									
@@ -5741,7 +5743,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	501	Northern Ariz.	10/03/2015	@ Southern Utah	667	Southern Utah	http://stats.ncaa.org/team/index/12221?org_id=667	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3915338	http://stats.ncaa.org/game/index/3915338?org_id=667
 2016	12221	501	Northern Ariz.	10/08/2015	@ Montana	441	Montana	http://stats.ncaa.org/team/index/12221?org_id=441	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919461	http://stats.ncaa.org/game/index/3919461?org_id=441
 2016	12221	501	Northern Ariz.	10/10/2015	@ Montana St.	440	Montana St.	http://stats.ncaa.org/team/index/12221?org_id=440	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920835	http://stats.ncaa.org/game/index/3920835?org_id=440
-2016	12221	501	Northern Ariz.	10/15/2015	Weber St.		Weber St.		false		true	-									
+2016	12221	501	Northern Ariz.	10/15/2015	Weber St.	758	Weber St.	http://stats.ncaa.org/team/index/12221?org_id=758	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3925976	http://stats.ncaa.org/game/index/3925976?org_id=501
 2016	12221	501	Northern Ariz.	10/17/2015	Idaho St.		Idaho St.		false		true	-									
 2016	12221	501	Northern Ariz.	10/22/2015	North Dakota		North Dakota		false		true	-									
 2016	12221	501	Northern Ariz.	10/24/2015	Northern Colo.		Northern Colo.		false		true	-									
@@ -5770,6 +5772,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	502	Northern Colo.	10/03/2015	Montana	441	Montana	http://stats.ncaa.org/team/index/12221?org_id=441	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3914633	http://stats.ncaa.org/game/index/3914633?org_id=502
 2016	12221	502	Northern Colo.	10/08/2015	Idaho St.	294	Idaho St.	http://stats.ncaa.org/team/index/12221?org_id=294	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3919508	http://stats.ncaa.org/game/index/3919508?org_id=502
 2016	12221	502	Northern Colo.	10/10/2015	Weber St.	758	Weber St.	http://stats.ncaa.org/team/index/12221?org_id=758	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921113	http://stats.ncaa.org/game/index/3921113?org_id=502
+2016	12221	502	Northern Colo.	10/15/2015	@ Sacramento St.	102	Sacramento St.	http://stats.ncaa.org/team/index/12221?org_id=102	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3925952	http://stats.ncaa.org/game/index/3925952?org_id=102
 2016	12221	502	Northern Colo.	10/15/2015	@ Sacramento St.		Sacramento St.		false		false	-									
 2016	12221	502	Northern Colo.	10/17/2015	North Dakota		North Dakota		false		true	-									
 2016	12221	502	Northern Colo.	10/22/2015	@ Southern Utah		Southern Utah		false		false	-									
@@ -5819,7 +5822,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	505	Northern Ky.	09/12/2015	@ Evansville	219	Evansville	http://stats.ncaa.org/team/index/12221?org_id=219	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3893409	http://stats.ncaa.org/game/index/3893409?org_id=219
 2016	12221	505	Northern Ky.	09/12/2015	Jackson St.	314	Jackson St.	http://stats.ncaa.org/team/index/12221?org_id=314	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3895279	http://stats.ncaa.org/game/index/3895279?org_id=505
 2016	12221	505	Northern Ky.	09/18/2015	@ Miami (OH)	414	Miami (OH)	http://stats.ncaa.org/team/index/12221?org_id=414	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3902398	http://stats.ncaa.org/game/index/3902398?org_id=414
-2016	12221	505	Northern Ky.	09/19/2015	IPFW @ Oxford, Ohio	308	IPFW	http://stats.ncaa.org/team/index/12221?org_id=308	true	Oxford, Ohio	true	L 0 - 3	false	0 - 3	false	0	3	false		3905941	http://stats.ncaa.org/game/index/3905941?org_id=308
+2016	12221	505	Northern Ky.	09/19/2015	IPFW @ Oxford, Ohio	308	IPFW	http://stats.ncaa.org/team/index/12221?org_id=308	true	Oxford, Ohio	true	L 0 - 3	false	0 - 3	false	0	3	false		3924143	http://stats.ncaa.org/game/index/3924143?org_id=505
 2016	12221	505	Northern Ky.	09/25/2015	Valparaiso	735	Valparaiso	http://stats.ncaa.org/team/index/12221?org_id=735	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3911229	http://stats.ncaa.org/game/index/3911229?org_id=505
 2016	12221	505	Northern Ky.	09/26/2015	Ill.-Chicago	302	Ill.-Chicago	http://stats.ncaa.org/team/index/12221?org_id=302	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3908286	http://stats.ncaa.org/game/index/3908286?org_id=505
 2016	12221	505	Northern Ky.	10/02/2015	@ Green Bay	794	Green Bay	http://stats.ncaa.org/team/index/12221?org_id=794	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3913554	http://stats.ncaa.org/game/index/3913554?org_id=794
@@ -5888,7 +5891,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	508	Northwestern St.	10/08/2015	Houston Baptist	287	Houston Baptist	http://stats.ncaa.org/team/index/12221?org_id=287	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919437	http://stats.ncaa.org/game/index/3919437?org_id=508
 2016	12221	508	Northwestern St.	10/10/2015	A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/index/12221?org_id=26172	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920925	http://stats.ncaa.org/game/index/3920925?org_id=508
 2016	12221	508	Northwestern St.	10/13/2015	Stephen F. Austin	676	Stephen F. Austin	http://stats.ncaa.org/team/index/12221?org_id=676	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924009	http://stats.ncaa.org/game/index/3924009?org_id=508
-2016	12221	508	Northwestern St.	10/15/2015	@ New Orleans		New Orleans		false		false	-									
+2016	12221	508	Northwestern St.	10/15/2015	@ New Orleans	474	New Orleans	http://stats.ncaa.org/team/index/12221?org_id=474	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3925866	http://stats.ncaa.org/game/index/3925866?org_id=474
 2016	12221	508	Northwestern St.	10/17/2015	@ Southeastern La.		Southeastern La.		false		false	-									
 2016	12221	508	Northwestern St.	10/22/2015	@ Lamar		Lamar		false		false	-									
 2016	12221	508	Northwestern St.	10/24/2015	@ Sam Houston St.		Sam Houston St.		false		false	-									
@@ -6184,7 +6187,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	528	Oregon St.	10/04/2015	Colorado	157	Colorado	http://stats.ncaa.org/team/index/12221?org_id=157	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3916420	http://stats.ncaa.org/game/index/3916420?org_id=528
 2016	12221	528	Oregon St.	10/09/2015	@ Stanford	674	Stanford	http://stats.ncaa.org/team/index/12221?org_id=674	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920156	http://stats.ncaa.org/game/index/3920156?org_id=674
 2016	12221	528	Oregon St.	10/11/2015	@ California	107	California	http://stats.ncaa.org/team/index/12221?org_id=107	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3922999	http://stats.ncaa.org/game/index/3922999?org_id=528
-2016	12221	528	Oregon St.	10/14/2015	@ Washington		Washington		false		false	-									
+2016	12221	528	Oregon St.	10/14/2015	@ Washington	756	Washington	http://stats.ncaa.org/team/index/12221?org_id=756	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924692	http://stats.ncaa.org/game/index/3924692?org_id=756
 2016	12221	528	Oregon St.	10/16/2015	@ Washington St.		Washington St.		false		false	-									
 2016	12221	528	Oregon St.	10/23/2015	Southern California		Southern California		false		true	-									
 2016	12221	528	Oregon St.	10/25/2015	UCLA		UCLA		false		true	-									
@@ -6304,7 +6307,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	541	Pepperdine	10/03/2015	Pacific	534	Pacific	http://stats.ncaa.org/team/index/12221?org_id=534	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3914673	http://stats.ncaa.org/game/index/3914673?org_id=534
 2016	12221	541	Pepperdine	10/08/2015	@ Portland	551	Portland	http://stats.ncaa.org/team/index/12221?org_id=551	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3919516	http://stats.ncaa.org/game/index/3919516?org_id=551
 2016	12221	541	Pepperdine	10/10/2015	@ Gonzaga	260	Gonzaga	http://stats.ncaa.org/team/index/12221?org_id=260	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920915	http://stats.ncaa.org/game/index/3920915?org_id=260
-2016	12221	541	Pepperdine	10/15/2015	Santa Clara		Santa Clara		false		true	-									
+2016	12221	541	Pepperdine	10/15/2015	Santa Clara	631	Santa Clara	http://stats.ncaa.org/team/index/12221?org_id=631	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925983	http://stats.ncaa.org/game/index/3925983?org_id=541
 2016	12221	541	Pepperdine	10/17/2015	San Francisco		San Francisco		false		true	-									
 2016	12221	541	Pepperdine	10/22/2015	BYU		BYU		false		true	-									
 2016	12221	541	Pepperdine	10/24/2015	San Diego		San Diego		false		true	-									
@@ -6366,7 +6369,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	551	Portland	10/03/2015	@ San Francisco	629	San Francisco	http://stats.ncaa.org/team/index/12221?org_id=629	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3914665	http://stats.ncaa.org/game/index/3914665?org_id=629
 2016	12221	551	Portland	10/08/2015	Pepperdine	541	Pepperdine	http://stats.ncaa.org/team/index/12221?org_id=541	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3919516	http://stats.ncaa.org/game/index/3919516?org_id=551
 2016	12221	551	Portland	10/10/2015	Loyola Marymount	370	Loyola Marymount	http://stats.ncaa.org/team/index/12221?org_id=370	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920924	http://stats.ncaa.org/game/index/3920924?org_id=551
-2016	12221	551	Portland	10/15/2015	@ San Diego		San Diego		false		false	-									
+2016	12221	551	Portland	10/15/2015	@ San Diego	627	San Diego	http://stats.ncaa.org/team/index/12221?org_id=627	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925946	http://stats.ncaa.org/game/index/3925946?org_id=627
 2016	12221	551	Portland	10/17/2015	@ BYU		BYU		false		false	-									
 2016	12221	551	Portland	10/24/2015	@ Gonzaga		Gonzaga		false		false	-									
 2016	12221	551	Portland	10/29/2015	San Francisco		San Francisco		false		true	-									
@@ -6397,7 +6400,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	550	Portland St.	10/03/2015	@ Idaho St.	294	Idaho St.	http://stats.ncaa.org/team/index/12221?org_id=294	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3915308	http://stats.ncaa.org/game/index/3915308?org_id=294
 2016	12221	550	Portland St.	10/08/2015	@ Idaho	295	Idaho	http://stats.ncaa.org/team/index/12221?org_id=295	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3919523	http://stats.ncaa.org/game/index/3919523?org_id=295
 2016	12221	550	Portland St.	10/10/2015	@ Eastern Wash.	207	Eastern Wash.	http://stats.ncaa.org/team/index/12221?org_id=207	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3922049	http://stats.ncaa.org/game/index/3922049?org_id=207
-2016	12221	550	Portland St.	10/15/2015	North Dakota		North Dakota		false		true	-									
+2016	12221	550	Portland St.	10/15/2015	North Dakota	494	North Dakota	http://stats.ncaa.org/team/index/12221?org_id=494	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925945	http://stats.ncaa.org/game/index/3925945?org_id=550
 2016	12221	550	Portland St.	10/17/2015	@ Sacramento St.		Sacramento St.		false		false	-									
 2016	12221	550	Portland St.	10/22/2015	Montana		Montana		false		true	-									
 2016	12221	550	Portland St.	10/24/2015	Montana St.		Montana St.		false		true	-									
@@ -6570,7 +6573,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	562	Quinnipiac	10/04/2015	Saint Peter's	617	Saint Peter's	http://stats.ncaa.org/team/index/12221?org_id=617	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3915902	http://stats.ncaa.org/game/index/3915902?org_id=562
 2016	12221	562	Quinnipiac	10/10/2015	@ Marist	386	Marist	http://stats.ncaa.org/team/index/12221?org_id=386	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920696	http://stats.ncaa.org/game/index/3920696?org_id=386
 2016	12221	562	Quinnipiac	10/11/2015	@ Siena	639	Siena	http://stats.ncaa.org/team/index/12221?org_id=639	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3922195	http://stats.ncaa.org/game/index/3922195?org_id=639
-2016	12221	562	Quinnipiac	10/14/2015	Marist		Marist		false		true	-									
+2016	12221	562	Quinnipiac	10/14/2015	Marist	386	Marist	http://stats.ncaa.org/team/index/12221?org_id=386	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3924580	http://stats.ncaa.org/game/index/3924580?org_id=562
 2016	12221	562	Quinnipiac	10/17/2015	@ Iona		Iona		false		false	-									
 2016	12221	562	Quinnipiac	10/18/2015	@ Manhattan		Manhattan		false		false	-									
 2016	12221	562	Quinnipiac	10/22/2015	Fairfield		Fairfield		false		true	-									
@@ -6628,7 +6631,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	572	Rhode Island	10/04/2015	@ Dayton	175	Dayton	http://stats.ncaa.org/team/index/12221?org_id=175	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3915718	http://stats.ncaa.org/game/index/3915718?org_id=175
 2016	12221	572	Rhode Island	10/09/2015	La Salle	340	La Salle	http://stats.ncaa.org/team/index/12221?org_id=340	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919769	http://stats.ncaa.org/game/index/3919769?org_id=572
 2016	12221	572	Rhode Island	10/10/2015	Duquesne	194	Duquesne	http://stats.ncaa.org/team/index/12221?org_id=194	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3921605	http://stats.ncaa.org/game/index/3921605?org_id=572
-2016	12221	572	Rhode Island	10/14/2015	@ Brown		Brown		false		false	-									
+2016	12221	572	Rhode Island	10/14/2015	@ Brown	80	Brown	http://stats.ncaa.org/team/index/12221?org_id=80	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924524	http://stats.ncaa.org/game/index/3924524?org_id=572
 2016	12221	572	Rhode Island	10/17/2015	Fordham		Fordham		false		true	-									
 2016	12221	572	Rhode Island	10/23/2015	@ George Washington		George Washington		false		false	-									
 2016	12221	572	Rhode Island	10/24/2015	@ George Mason		George Mason		false		false	-									
@@ -6656,13 +6659,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	574	Rice	10/02/2015	@ North Texas	497	North Texas	http://stats.ncaa.org/team/index/12221?org_id=497	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3914285	http://stats.ncaa.org/game/index/3914285?org_id=497
 2016	12221	574	Rice	10/04/2015	@ Charlotte	458	Charlotte	http://stats.ncaa.org/team/index/12221?org_id=458	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3915666	http://stats.ncaa.org/game/index/3915666?org_id=458
 2016	12221	574	Rice	10/11/2015	Middle Tenn.	419	Middle Tenn.	http://stats.ncaa.org/team/index/12221?org_id=419	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3922379	http://stats.ncaa.org/game/index/3922379?org_id=574
-2016	12221	574	Rice	10/16/2015	@ UTSA		UTSA		false		false	-									
+2016	12221	574	Rice	10/15/2015	UTSA	706	UTSA	http://stats.ncaa.org/team/index/12221?org_id=706	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3925880	http://stats.ncaa.org/game/index/3925880?org_id=574
+2016	12221	574	Rice	10/16/2015	UTSA		UTSA		false		true	-									
 2016	12221	574	Rice	10/18/2015	@ UTEP		UTEP		false		false	-									
 2016	12221	574	Rice	10/21/2015	North Texas		North Texas		false		true	-									
 2016	12221	574	Rice	10/23/2015	@ Middle Tenn.		Middle Tenn.		false		false	-									
 2016	12221	574	Rice	10/25/2015	@ Louisiana Tech		Louisiana Tech		false		false	-									
 2016	12221	574	Rice	10/29/2015	Southern Miss.		Southern Miss.		false		true	-									
 2016	12221	574	Rice	10/31/2015	Western Ky.		Western Ky.		false		true	-									
+2016	12221	574	Rice	11/04/2015	@ UTSA		UTSA		false		false	-									
 2016	12221	574	Rice	11/08/2015	@ Marshall		Marshall		false		false	-									
 2016	12221	574	Rice	11/12/2015	UTEP		UTEP		false		true	-									
 2016	12221	574	Rice	11/14/2015	@ UAB		UAB		false		false	-									
@@ -6745,7 +6750,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	587	Rutgers	10/03/2015	@ Indiana	306	Indiana	http://stats.ncaa.org/team/index/12221?org_id=306	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3915125	http://stats.ncaa.org/game/index/3915125?org_id=306
 2016	12221	587	Rutgers	10/09/2015	Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/index/12221?org_id=796	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920039	http://stats.ncaa.org/game/index/3920039?org_id=587
 2016	12221	587	Rutgers	10/11/2015	Minnesota	428	Minnesota	http://stats.ncaa.org/team/index/12221?org_id=428	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3922449	http://stats.ncaa.org/game/index/3922449?org_id=587
-2016	12221	587	Rutgers	10/14/2015	@ Michigan		Michigan		false		false	-									
+2016	12221	587	Rutgers	10/14/2015	@ Michigan	418	Michigan	http://stats.ncaa.org/team/index/12221?org_id=418	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3924664	http://stats.ncaa.org/game/index/3924664?org_id=418
 2016	12221	587	Rutgers	10/17/2015	@ Michigan St.		Michigan St.		false		false	-									
 2016	12221	587	Rutgers	10/21/2015	Maryland		Maryland		false		true	-									
 2016	12221	587	Rutgers	10/24/2015	@ Maryland		Maryland		false		false	-									
@@ -6824,8 +6829,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	102	Sacramento St.	09/04/2015	Norfolk St. @ Buies Creek, N.C.	485	Norfolk St.	http://stats.ncaa.org/team/index/12221?org_id=485	true	Buies Creek, N.C.	true	W 3 - 0	true	3 - 0	false	3	0	false		3883266	http://stats.ncaa.org/game/index/3883266?org_id=102
 2016	12221	102	Sacramento St.	09/05/2015	UNCW @ Buies Creek, N.C.	460	UNCW	http://stats.ncaa.org/team/index/12221?org_id=460	true	Buies Creek, N.C.	true	W 3 - 1	true	3 - 1	false	3	1	false		3884099	http://stats.ncaa.org/game/index/3884099?org_id=102
 2016	12221	102	Sacramento St.	09/05/2015	@ Campbell	115	Campbell	http://stats.ncaa.org/team/index/12221?org_id=115	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3887709	http://stats.ncaa.org/game/index/3887709?org_id=115
-2016	12221	102	Sacramento St.	09/11/2015	UC Riverside @ Fresno, Calif.	111	UC Riverside	http://stats.ncaa.org/team/index/12221?org_id=111	true	Fresno, Calif.	true	W 3 - 1	true	3 - 1	false	3	1	false		3891684	http://stats.ncaa.org/game/index/3891684?org_id=102
 2016	12221	102	Sacramento St.	09/11/2015	Central Mich. @ Fresno, Calif.	129	Central Mich.	http://stats.ncaa.org/team/index/12221?org_id=129	true	Fresno, Calif.	true	W 3 - 1	true	3 - 1	false	3	1	false		3894229	http://stats.ncaa.org/game/index/3894229?org_id=102
+2016	12221	102	Sacramento St.	09/11/2015	UC Riverside @ Fresno, Calif.	111	UC Riverside	http://stats.ncaa.org/team/index/12221?org_id=111	true	Fresno, Calif.	true	W 3 - 1	true	3 - 1	false	3	1	false		3891684	http://stats.ncaa.org/game/index/3891684?org_id=102
 2016	12221	102	Sacramento St.	09/12/2015	@ Fresno St.	96	Fresno St.	http://stats.ncaa.org/team/index/12221?org_id=96	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3893533	http://stats.ncaa.org/game/index/3893533?org_id=102
 2016	12221	102	Sacramento St.	09/12/2015	Cal St. Fullerton @ Fresno, Calif.	97	Cal St. Fullerton	http://stats.ncaa.org/team/index/12221?org_id=97	true	Fresno, Calif.	true	W 3 - 0	true	3 - 0	false	3	0	false		3911052	http://stats.ncaa.org/game/index/3911052?org_id=97
 2016	12221	102	Sacramento St.	09/15/2015	@ UC Davis	108	UC Davis	http://stats.ncaa.org/team/index/12221?org_id=108	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3896661	http://stats.ncaa.org/game/index/3896661?org_id=108
@@ -6838,7 +6843,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	102	Sacramento St.	10/03/2015	@ Weber St.	758	Weber St.	http://stats.ncaa.org/team/index/12221?org_id=758	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3915213	http://stats.ncaa.org/game/index/3915213?org_id=758
 2016	12221	102	Sacramento St.	10/08/2015	@ Eastern Wash.	207	Eastern Wash.	http://stats.ncaa.org/team/index/12221?org_id=207	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919517	http://stats.ncaa.org/game/index/3919517?org_id=207
 2016	12221	102	Sacramento St.	10/10/2015	@ Idaho	295	Idaho	http://stats.ncaa.org/team/index/12221?org_id=295	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3923040	http://stats.ncaa.org/game/index/3923040?org_id=102
-2016	12221	102	Sacramento St.	10/15/2015	Northern Colo.		Northern Colo.		false		true	-									
+2016	12221	102	Sacramento St.	10/15/2015	Northern Colo.	502	Northern Colo.	http://stats.ncaa.org/team/index/12221?org_id=502	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3925952	http://stats.ncaa.org/game/index/3925952?org_id=102
+2016	12221	102	Sacramento St.	10/15/2015	@ Northern Colo.		Northern Colo.		false		false	-									
 2016	12221	102	Sacramento St.	10/17/2015	Portland St.		Portland St.		false		true	-									
 2016	12221	102	Sacramento St.	10/22/2015	Montana St.		Montana St.		false		true	-									
 2016	12221	102	Sacramento St.	10/24/2015	Montana		Montana		false		true	-									
@@ -6945,13 +6951,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	617	Saint Peter's	09/15/2015	Fordham	236	Fordham	http://stats.ncaa.org/team/index/12221?org_id=236	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3898782	http://stats.ncaa.org/game/index/3898782?org_id=617
 2016	12221	617	Saint Peter's	09/16/2015	Rider	576	Rider	http://stats.ncaa.org/team/index/12221?org_id=576	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3898790	http://stats.ncaa.org/game/index/3898790?org_id=617
 2016	12221	617	Saint Peter's	09/26/2015	Siena	639	Siena	http://stats.ncaa.org/team/index/12221?org_id=639	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3909166	http://stats.ncaa.org/game/index/3909166?org_id=617
-2016	12221	617	Saint Peter's	09/27/2015	@ Marist		Marist		false		false	-									
+2016	12221	617	Saint Peter's	09/27/2015	Marist	386	Marist	http://stats.ncaa.org/team/index/12221?org_id=386	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924125	http://stats.ncaa.org/game/index/3924125?org_id=617
 2016	12221	617	Saint Peter's	09/30/2015	NJIT	471	NJIT	http://stats.ncaa.org/team/index/12221?org_id=471	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3916222	http://stats.ncaa.org/game/index/3916222?org_id=617
 2016	12221	617	Saint Peter's	10/03/2015	@ Fairfield	220	Fairfield	http://stats.ncaa.org/team/index/12221?org_id=220	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3915698	http://stats.ncaa.org/game/index/3915698?org_id=220
 2016	12221	617	Saint Peter's	10/04/2015	@ Quinnipiac	562	Quinnipiac	http://stats.ncaa.org/team/index/12221?org_id=562	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3915902	http://stats.ncaa.org/game/index/3915902?org_id=562
 2016	12221	617	Saint Peter's	10/10/2015	@ Iona	310	Iona	http://stats.ncaa.org/team/index/12221?org_id=310	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3922875	http://stats.ncaa.org/game/index/3922875?org_id=310
 2016	12221	617	Saint Peter's	10/11/2015	@ Manhattan	381	Manhattan	http://stats.ncaa.org/team/index/12221?org_id=381	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922631	http://stats.ncaa.org/game/index/3922631?org_id=381
-2016	12221	617	Saint Peter's	10/14/2015	@ NJIT		NJIT		false		false	-									
+2016	12221	617	Saint Peter's	10/14/2015	@ NJIT	471	NJIT	http://stats.ncaa.org/team/index/12221?org_id=471	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924489	http://stats.ncaa.org/game/index/3924489?org_id=471
 2016	12221	617	Saint Peter's	10/17/2015	Canisius		Canisius		false		true	-									
 2016	12221	617	Saint Peter's	10/18/2015	Niagara		Niagara		false		true	-									
 2016	12221	617	Saint Peter's	10/21/2015	Manhattan		Manhattan		false		true	-									
@@ -7035,7 +7041,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	627	San Diego	10/02/2015	BYU	77	BYU	http://stats.ncaa.org/team/index/12221?org_id=77	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3913699	http://stats.ncaa.org/game/index/3913699?org_id=627
 2016	12221	627	San Diego	10/08/2015	@ St. Mary's (CA)	610	St. Mary's (CA)	http://stats.ncaa.org/team/index/12221?org_id=610	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3923175	http://stats.ncaa.org/game/index/3923175?org_id=610
 2016	12221	627	San Diego	10/10/2015	@ Pacific	534	Pacific	http://stats.ncaa.org/team/index/12221?org_id=534	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921016	http://stats.ncaa.org/game/index/3921016?org_id=534
-2016	12221	627	San Diego	10/15/2015	Portland		Portland		false		true	-									
+2016	12221	627	San Diego	10/15/2015	Portland	551	Portland	http://stats.ncaa.org/team/index/12221?org_id=551	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925946	http://stats.ncaa.org/game/index/3925946?org_id=627
 2016	12221	627	San Diego	10/17/2015	Gonzaga		Gonzaga		false		true	-									
 2016	12221	627	San Diego	10/20/2015	San Diego St.		San Diego St.		false		true	-									
 2016	12221	627	San Diego	10/22/2015	@ Loyola Marymount		Loyola Marymount		false		false	-									
@@ -7066,7 +7072,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	626	San Diego St.	10/03/2015	Colorado St.	156	Colorado St.	http://stats.ncaa.org/team/index/12221?org_id=156	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3914795	http://stats.ncaa.org/game/index/3914795?org_id=626
 2016	12221	626	San Diego St.	10/08/2015	@ UNLV	465	UNLV	http://stats.ncaa.org/team/index/12221?org_id=465	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919488	http://stats.ncaa.org/game/index/3919488?org_id=465
 2016	12221	626	San Diego St.	10/10/2015	@ Fresno St.	96	Fresno St.	http://stats.ncaa.org/team/index/12221?org_id=96	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3921988	http://stats.ncaa.org/game/index/3921988?org_id=96
-2016	12221	626	San Diego St.	10/15/2015	Utah St.		Utah St.		false		true	-									
+2016	12221	626	San Diego St.	10/15/2015	Utah St.	731	Utah St.	http://stats.ncaa.org/team/index/12221?org_id=731	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925894	http://stats.ncaa.org/game/index/3925894?org_id=626
 2016	12221	626	San Diego St.	10/17/2015	Boise St.		Boise St.		false		true	-									
 2016	12221	626	San Diego St.	10/20/2015	@ San Diego		San Diego		false		false	-									
 2016	12221	626	San Diego St.	10/22/2015	Air Force		Air Force		false		true	-									
@@ -7098,7 +7104,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	629	San Francisco	10/01/2015	Gonzaga	260	Gonzaga	http://stats.ncaa.org/team/index/12221?org_id=260	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3912964	http://stats.ncaa.org/game/index/3912964?org_id=629
 2016	12221	629	San Francisco	10/03/2015	Portland	551	Portland	http://stats.ncaa.org/team/index/12221?org_id=551	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914665	http://stats.ncaa.org/game/index/3914665?org_id=629
 2016	12221	629	San Francisco	10/09/2015	Santa Clara	631	Santa Clara	http://stats.ncaa.org/team/index/12221?org_id=631	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3920205	http://stats.ncaa.org/game/index/3920205?org_id=629
-2016	12221	629	San Francisco	10/15/2015	@ Loyola Marymount		Loyola Marymount		false		false	-									
+2016	12221	629	San Francisco	10/15/2015	@ Loyola Marymount	370	Loyola Marymount	http://stats.ncaa.org/team/index/12221?org_id=370	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925930	http://stats.ncaa.org/game/index/3925930?org_id=370
 2016	12221	629	San Francisco	10/17/2015	@ Pepperdine		Pepperdine		false		false	-									
 2016	12221	629	San Francisco	10/22/2015	St. Mary's (CA)		St. Mary's (CA)		false		true	-									
 2016	12221	629	San Francisco	10/24/2015	Pacific		Pacific		false		true	-									
@@ -7129,7 +7135,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	630	San Jose St.	10/03/2015	New Mexico	473	New Mexico	http://stats.ncaa.org/team/index/12221?org_id=473	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3914759	http://stats.ncaa.org/game/index/3914759?org_id=630
 2016	12221	630	San Jose St.	10/08/2015	@ Boise St.	66	Boise St.	http://stats.ncaa.org/team/index/12221?org_id=66	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919603	http://stats.ncaa.org/game/index/3919603?org_id=66
 2016	12221	630	San Jose St.	10/10/2015	@ Utah St.	731	Utah St.	http://stats.ncaa.org/team/index/12221?org_id=731	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921803	http://stats.ncaa.org/game/index/3921803?org_id=731
-2016	12221	630	San Jose St.	10/15/2015	Wyoming		Wyoming		false		true	-									
+2016	12221	630	San Jose St.	10/15/2015	Wyoming	811	Wyoming	http://stats.ncaa.org/team/index/12221?org_id=811	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3925931	http://stats.ncaa.org/game/index/3925931?org_id=630
 2016	12221	630	San Jose St.	10/17/2015	Colorado St.		Colorado St.		false		true	-									
 2016	12221	630	San Jose St.	10/22/2015	UNLV		UNLV		false		true	-									
 2016	12221	630	San Jose St.	10/24/2015	Fresno St.		Fresno St.		false		true	-									
@@ -7159,7 +7165,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	631	Santa Clara	10/01/2015	Portland	551	Portland	http://stats.ncaa.org/team/index/12221?org_id=551	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3914944	http://stats.ncaa.org/game/index/3914944?org_id=631
 2016	12221	631	Santa Clara	10/03/2015	Gonzaga	260	Gonzaga	http://stats.ncaa.org/team/index/12221?org_id=260	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3914928	http://stats.ncaa.org/game/index/3914928?org_id=631
 2016	12221	631	Santa Clara	10/09/2015	@ San Francisco	629	San Francisco	http://stats.ncaa.org/team/index/12221?org_id=629	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920205	http://stats.ncaa.org/game/index/3920205?org_id=629
-2016	12221	631	Santa Clara	10/15/2015	@ Pepperdine		Pepperdine		false		false	-									
+2016	12221	631	Santa Clara	10/15/2015	@ Pepperdine	541	Pepperdine	http://stats.ncaa.org/team/index/12221?org_id=541	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3925983	http://stats.ncaa.org/game/index/3925983?org_id=541
 2016	12221	631	Santa Clara	10/17/2015	@ Loyola Marymount		Loyola Marymount		false		false	-									
 2016	12221	631	Santa Clara	10/22/2015	Pacific		Pacific		false		true	-									
 2016	12221	631	Santa Clara	10/24/2015	St. Mary's (CA)		St. Mary's (CA)		false		true	-									
@@ -7194,7 +7200,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	632	Savannah St.	10/04/2015	@ N.C. Central	489	N.C. Central	http://stats.ncaa.org/team/index/12221?org_id=489	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3915703	http://stats.ncaa.org/game/index/3915703?org_id=489
 2016	12221	632	Savannah St.	10/06/2015	North Florida	2711	North Florida	http://stats.ncaa.org/team/index/12221?org_id=2711	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3917324	http://stats.ncaa.org/game/index/3917324?org_id=632
 2016	12221	632	Savannah St.	10/09/2015	@ South Carolina St.	647	South Carolina St.	http://stats.ncaa.org/team/index/12221?org_id=647	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920459	http://stats.ncaa.org/game/index/3920459?org_id=647
-2016	12221	632	Savannah St.	10/14/2015	Mercer		Mercer		false		true	-									
+2016	12221	632	Savannah St.	10/14/2015	Mercer	406	Mercer	http://stats.ncaa.org/team/index/12221?org_id=406	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924454	http://stats.ncaa.org/game/index/3924454?org_id=632
 2016	12221	632	Savannah St.	10/20/2015	@ Citadel		Citadel		false		false	-									
 2016	12221	632	Savannah St.	10/21/2015	Alabama St.		Alabama St.		false		true	-									
 2016	12221	632	Savannah St.	10/23/2015	@ Bethune-Cookman		Bethune-Cookman		false		false	-									
@@ -7220,7 +7226,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1356	Seattle	10/01/2015	Grand Canyon	1104	Grand Canyon	http://stats.ncaa.org/team/index/12221?org_id=1104	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3912923	http://stats.ncaa.org/game/index/3912923?org_id=1356
 2016	12221	1356	Seattle	10/03/2015	CSU Bakersfield	94	CSU Bakersfield	http://stats.ncaa.org/team/index/12221?org_id=94	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3914909	http://stats.ncaa.org/game/index/3914909?org_id=1356
 2016	12221	1356	Seattle	10/10/2015	@ Utah Valley	30024	Utah Valley	http://stats.ncaa.org/team/index/12221?org_id=30024	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3923091	http://stats.ncaa.org/game/index/3923091?org_id=30024
-2016	12221	1356	Seattle	10/15/2015	@ UTRGV		UTRGV		false		false	-									
+2016	12221	1356	Seattle	10/15/2015	@ UTRGV	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3925896	http://stats.ncaa.org/game/index/3925896?org_id=536
 2016	12221	1356	Seattle	10/17/2015	@ New Mexico St.		New Mexico St.		false		false	-									
 2016	12221	1356	Seattle	10/22/2015	Chicago St.		Chicago St.		false		true	-									
 2016	12221	1356	Seattle	10/24/2015	UMKC		UMKC		false		true	-									
@@ -7249,7 +7255,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	635	Seton Hall	10/07/2015	@ Providence	556	Providence	http://stats.ncaa.org/team/index/12221?org_id=556	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3919160	http://stats.ncaa.org/game/index/3919160?org_id=556
 2016	12221	635	Seton Hall	10/09/2015	Butler	87	Butler	http://stats.ncaa.org/team/index/12221?org_id=87	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920153	http://stats.ncaa.org/game/index/3920153?org_id=635
 2016	12221	635	Seton Hall	10/10/2015	Xavier	812	Xavier	http://stats.ncaa.org/team/index/12221?org_id=812	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3922803	http://stats.ncaa.org/game/index/3922803?org_id=635
-2016	12221	635	Seton Hall	10/14/2015	@ St. John's (NY)		St. John's (NY)		false		false	-									
+2016	12221	635	Seton Hall	10/14/2015	@ St. John's (NY)	603	St. John's (NY)	http://stats.ncaa.org/team/index/12221?org_id=603	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3924645	http://stats.ncaa.org/game/index/3924645?org_id=603
 2016	12221	635	Seton Hall	10/17/2015	Villanova		Villanova		false		true	-									
 2016	12221	635	Seton Hall	10/23/2015	@ Marquette		Marquette		false		false	-									
 2016	12221	635	Seton Hall	10/24/2015	@ DePaul		DePaul		false		false	-									
@@ -7335,7 +7341,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	648	South Carolina	10/04/2015	@ Mississippi St.	430	Mississippi St.	http://stats.ncaa.org/team/index/12221?org_id=430	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3916491	http://stats.ncaa.org/game/index/3916491?org_id=648
 2016	12221	648	South Carolina	10/09/2015	Auburn	37	Auburn	http://stats.ncaa.org/team/index/12221?org_id=37	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919852	http://stats.ncaa.org/game/index/3919852?org_id=648
 2016	12221	648	South Carolina	10/11/2015	Texas A&M	697	Texas A&M	http://stats.ncaa.org/team/index/12221?org_id=697	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3922798	http://stats.ncaa.org/game/index/3922798?org_id=648
-2016	12221	648	South Carolina	10/14/2015	@ Georgia		Georgia		false		false	-									
+2016	12221	648	South Carolina	10/14/2015	@ Georgia	257	Georgia	http://stats.ncaa.org/team/index/12221?org_id=257	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924917	http://stats.ncaa.org/game/index/3924917?org_id=257
 2016	12221	648	South Carolina	10/18/2015	@ Tennessee		Tennessee		false		false	-									
 2016	12221	648	South Carolina	10/25/2015	Arkansas		Arkansas		false		true	-									
 2016	12221	648	South Carolina	10/30/2015	Florida		Florida		false		true	-									
@@ -7510,7 +7516,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	655	Southeastern La.	10/03/2015	@ Central Ark.	1004	Central Ark.	http://stats.ncaa.org/team/index/12221?org_id=1004	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3914096	http://stats.ncaa.org/game/index/3914096?org_id=1004
 2016	12221	655	Southeastern La.	10/06/2015	@ McNeese St.	402	McNeese St.	http://stats.ncaa.org/team/index/12221?org_id=402	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3917622	http://stats.ncaa.org/game/index/3917622?org_id=402
 2016	12221	655	Southeastern La.	10/10/2015	@ New Orleans	474	New Orleans	http://stats.ncaa.org/team/index/12221?org_id=474	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920917	http://stats.ncaa.org/game/index/3920917?org_id=474
-2016	12221	655	Southeastern La.	10/15/2015	Stephen F. Austin		Stephen F. Austin		false		true	-									
+2016	12221	655	Southeastern La.	10/15/2015	Stephen F. Austin	676	Stephen F. Austin	http://stats.ncaa.org/team/index/12221?org_id=676	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3925873	http://stats.ncaa.org/game/index/3925873?org_id=655
 2016	12221	655	Southeastern La.	10/17/2015	Northwestern St.		Northwestern St.		false		true	-									
 2016	12221	655	Southeastern La.	10/22/2015	@ Incarnate Word		Incarnate Word		false		false	-									
 2016	12221	655	Southeastern La.	10/24/2015	@ Abilene Christian		Abilene Christian		false		false	-									
@@ -7664,7 +7670,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	667	Southern Utah	10/03/2015	Northern Ariz.	501	Northern Ariz.	http://stats.ncaa.org/team/index/12221?org_id=501	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3915338	http://stats.ncaa.org/game/index/3915338?org_id=667
 2016	12221	667	Southern Utah	10/08/2015	@ Montana St.	440	Montana St.	http://stats.ncaa.org/team/index/12221?org_id=440	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3919495	http://stats.ncaa.org/game/index/3919495?org_id=440
 2016	12221	667	Southern Utah	10/10/2015	@ Montana	441	Montana	http://stats.ncaa.org/team/index/12221?org_id=441	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921838	http://stats.ncaa.org/game/index/3921838?org_id=441
-2016	12221	667	Southern Utah	10/15/2015	Idaho St.		Idaho St.		false		true	-									
+2016	12221	667	Southern Utah	10/15/2015	Idaho St.	294	Idaho St.	http://stats.ncaa.org/team/index/12221?org_id=294	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3925925	http://stats.ncaa.org/game/index/3925925?org_id=667
 2016	12221	667	Southern Utah	10/17/2015	Weber St.		Weber St.		false		true	-									
 2016	12221	667	Southern Utah	10/22/2015	Northern Colo.		Northern Colo.		false		true	-									
 2016	12221	667	Southern Utah	10/24/2015	North Dakota		North Dakota		false		true	-									
@@ -7725,7 +7731,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	603	St. John's (NY)	10/03/2015	Georgetown	251	Georgetown	http://stats.ncaa.org/team/index/12221?org_id=251	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3914848	http://stats.ncaa.org/game/index/3914848?org_id=603
 2016	12221	603	St. John's (NY)	10/07/2015	Villanova	739	Villanova	http://stats.ncaa.org/team/index/12221?org_id=739	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3918611	http://stats.ncaa.org/game/index/3918611?org_id=603
 2016	12221	603	St. John's (NY)	10/10/2015	@ Providence	556	Providence	http://stats.ncaa.org/team/index/12221?org_id=556	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921489	http://stats.ncaa.org/game/index/3921489?org_id=603
-2016	12221	603	St. John's (NY)	10/14/2015	Seton Hall		Seton Hall		false		true	-									
+2016	12221	603	St. John's (NY)	10/14/2015	Seton Hall	635	Seton Hall	http://stats.ncaa.org/team/index/12221?org_id=635	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3924645	http://stats.ncaa.org/game/index/3924645?org_id=603
 2016	12221	603	St. John's (NY)	10/16/2015	@ DePaul		DePaul		false		false	-									
 2016	12221	603	St. John's (NY)	10/17/2015	@ Marquette		Marquette		false		false	-									
 2016	12221	603	St. John's (NY)	10/23/2015	@ Georgetown		Georgetown		false		false	-									
@@ -7816,7 +7822,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	676	Stephen F. Austin	10/08/2015	A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/index/12221?org_id=26172	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3919450	http://stats.ncaa.org/game/index/3919450?org_id=676
 2016	12221	676	Stephen F. Austin	10/10/2015	Houston Baptist	287	Houston Baptist	http://stats.ncaa.org/team/index/12221?org_id=287	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3920794	http://stats.ncaa.org/game/index/3920794?org_id=676
 2016	12221	676	Stephen F. Austin	10/13/2015	@ Northwestern St.	508	Northwestern St.	http://stats.ncaa.org/team/index/12221?org_id=508	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924009	http://stats.ncaa.org/game/index/3924009?org_id=508
-2016	12221	676	Stephen F. Austin	10/15/2015	@ Southeastern La.		Southeastern La.		false		false	-									
+2016	12221	676	Stephen F. Austin	10/15/2015	@ Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/index/12221?org_id=655	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3925873	http://stats.ncaa.org/game/index/3925873?org_id=655
 2016	12221	676	Stephen F. Austin	10/17/2015	@ New Orleans		New Orleans		false		false	-									
 2016	12221	676	Stephen F. Austin	10/22/2015	@ Sam Houston St.		Sam Houston St.		false		false	-									
 2016	12221	676	Stephen F. Austin	10/24/2015	@ Lamar		Lamar		false		false	-									
@@ -7901,7 +7907,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	688	Syracuse	10/04/2015	@ Notre Dame	513	Notre Dame	http://stats.ncaa.org/team/index/12221?org_id=513	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3915611	http://stats.ncaa.org/game/index/3915611?org_id=513
 2016	12221	688	Syracuse	10/09/2015	Pittsburgh	545	Pittsburgh	http://stats.ncaa.org/team/index/12221?org_id=545	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3920059	http://stats.ncaa.org/game/index/3920059?org_id=688
 2016	12221	688	Syracuse	10/11/2015	Virginia Tech	742	Virginia Tech	http://stats.ncaa.org/team/index/12221?org_id=742	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3922314	http://stats.ncaa.org/game/index/3922314?org_id=688
-2016	12221	688	Syracuse	10/14/2015	@ Boston College		Boston College		false		false	-									
+2016	12221	688	Syracuse	10/14/2015	@ Boston College	67	Boston College	http://stats.ncaa.org/team/index/12221?org_id=67	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924444	http://stats.ncaa.org/game/index/3924444?org_id=67
 2016	12221	688	Syracuse	10/18/2015	Virginia		Virginia		false		true	-									
 2016	12221	688	Syracuse	10/23/2015	@ Florida St.		Florida St.		false		false	-									
 2016	12221	688	Syracuse	10/25/2015	@ Miami (FL)		Miami (FL)		false		false	-									
@@ -7961,7 +7967,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	690	Temple	10/04/2015	Cincinnati	140	Cincinnati	http://stats.ncaa.org/team/index/12221?org_id=140	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3915791	http://stats.ncaa.org/game/index/3915791?org_id=690
 2016	12221	690	Temple	10/09/2015	@ SMU	663	SMU	http://stats.ncaa.org/team/index/12221?org_id=663	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920079	http://stats.ncaa.org/game/index/3920079?org_id=663
 2016	12221	690	Temple	10/11/2015	@ Tulsa	719	Tulsa	http://stats.ncaa.org/team/index/12221?org_id=719	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3922283	http://stats.ncaa.org/game/index/3922283?org_id=719
-2016	12221	690	Temple	10/14/2015	@ UConn		UConn		false		false	-									
+2016	12221	690	Temple	10/14/2015	@ UConn	164	UConn	http://stats.ncaa.org/team/index/12221?org_id=164	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3924432	http://stats.ncaa.org/game/index/3924432?org_id=164
 2016	12221	690	Temple	10/18/2015	East Carolina		East Carolina		false		true	-									
 2016	12221	690	Temple	10/23/2015	Houston		Houston		false		true	-									
 2016	12221	690	Temple	10/25/2015	Tulane		Tulane		false		true	-									
@@ -7996,7 +8002,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	694	Tennessee	10/04/2015	@ Missouri	434	Missouri	http://stats.ncaa.org/team/index/12221?org_id=434	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3916084	http://stats.ncaa.org/game/index/3916084?org_id=434
 2016	12221	694	Tennessee	10/07/2015	@ LSU	365	LSU	http://stats.ncaa.org/team/index/12221?org_id=365	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3918810	http://stats.ncaa.org/game/index/3918810?org_id=365
 2016	12221	694	Tennessee	10/11/2015	Arkansas	31	Arkansas	http://stats.ncaa.org/team/index/12221?org_id=31	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3922431	http://stats.ncaa.org/game/index/3922431?org_id=694
-2016	12221	694	Tennessee	10/14/2015	Florida		Florida		false		true	-									
+2016	12221	694	Tennessee	10/14/2015	Florida	235	Florida	http://stats.ncaa.org/team/index/12221?org_id=235	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924777	http://stats.ncaa.org/game/index/3924777?org_id=694
 2016	12221	694	Tennessee	10/18/2015	South Carolina		South Carolina		false		true	-									
 2016	12221	694	Tennessee	10/23/2015	@ Ole Miss		Ole Miss		false		false	-									
 2016	12221	694	Tennessee	10/25/2015	@ Mississippi St.		Mississippi St.		false		false	-									
@@ -8130,6 +8136,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	699	Texas Southern	09/11/2015	@ A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/index/12221?org_id=26172	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3892561	http://stats.ncaa.org/game/index/3892561?org_id=26172
 2016	12221	699	Texas Southern	09/12/2015	UTRGV @ CORPUS CHRISTI, TX	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	true	CORPUS CHRISTI, TX	true	L 0 - 3	false	0 - 3	false	0	3	false		3893172	http://stats.ncaa.org/game/index/3893172?org_id=536
 2016	12221	699	Texas Southern	09/12/2015	@ A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/index/12221?org_id=26172	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3892425	http://stats.ncaa.org/game/index/3892425?org_id=26172
+2016	12221	699	Texas Southern	09/15/2015	Huston-Tillotson		Huston-Tillotson		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925740	http://stats.ncaa.org/game/index/3925740?org_id=699
 2016	12221	699	Texas Southern	09/18/2015	Illinois @ Tempe, Ariz.	301	Illinois	http://stats.ncaa.org/team/index/12221?org_id=301	true	Tempe, Ariz.	true	L 0 - 3	false	0 - 3	false	0	3	false		3904062	http://stats.ncaa.org/game/index/3904062?org_id=301
 2016	12221	699	Texas Southern	09/19/2015	@ Arizona St.	28	Arizona St.	http://stats.ncaa.org/team/index/12221?org_id=28	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3902096	http://stats.ncaa.org/game/index/3902096?org_id=28
 2016	12221	699	Texas Southern	09/19/2015	UNLV @ Tempe, Ariz.	465	UNLV	http://stats.ncaa.org/team/index/12221?org_id=465	true	Tempe, Ariz.	true	L 0 - 3	false	0 - 3	false	0	3	false		3903213	http://stats.ncaa.org/game/index/3903213?org_id=465
@@ -8137,7 +8144,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	699	Texas Southern	10/03/2015	@ Southern U.	665	Southern U.	http://stats.ncaa.org/team/index/12221?org_id=665	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3915217	http://stats.ncaa.org/game/index/3915217?org_id=665
 2016	12221	699	Texas Southern	10/06/2015	@ Prairie View	553	Prairie View	http://stats.ncaa.org/team/index/12221?org_id=553	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3919159	http://stats.ncaa.org/game/index/3919159?org_id=553
 2016	12221	699	Texas Southern	10/09/2015	Grambling	261	Grambling	http://stats.ncaa.org/team/index/12221?org_id=261	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3923208	http://stats.ncaa.org/game/index/3923208?org_id=699
-2016	12221	699	Texas Southern	10/13/2015	@ McNeese St.		McNeese St.		false		false	-									
+2016	12221	699	Texas Southern	10/13/2015	@ McNeese St.	402	McNeese St.	http://stats.ncaa.org/team/index/12221?org_id=402	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925206	http://stats.ncaa.org/game/index/3925206?org_id=402
 2016	12221	699	Texas Southern	10/16/2015	Alabama A&M@Jackson, MS		Alabama A&MJackson, MS		false		false	-									
 2016	12221	699	Texas Southern	10/17/2015	Mississippi Val.@Jackson, MS		Mississippi Val.Jackson, MS		false		false	-									
 2016	12221	699	Texas Southern	10/17/2015	Alabama St.@Jackson, MS		Alabama St.Jackson, MS		false		false	-									
@@ -8166,7 +8173,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	670	Texas St.	10/03/2015	Ga. Southern	253	Ga. Southern	http://stats.ncaa.org/team/index/12221?org_id=253	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3917699	http://stats.ncaa.org/game/index/3917699?org_id=670
 2016	12221	670	Texas St.	10/06/2015	Texas-Arlington	702	Texas-Arlington	http://stats.ncaa.org/team/index/12221?org_id=702	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3917575	http://stats.ncaa.org/game/index/3917575?org_id=670
 2016	12221	670	Texas St.	10/09/2015	@ Baylor	51	Baylor	http://stats.ncaa.org/team/index/12221?org_id=51	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920089	http://stats.ncaa.org/game/index/3920089?org_id=51
-2016	12221	670	Texas St.	10/15/2015	@ Texas-Arlington		Texas-Arlington		false		false	-									
+2016	12221	670	Texas St.	10/15/2015	@ Texas-Arlington	702	Texas-Arlington	http://stats.ncaa.org/team/index/12221?org_id=702	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3925865	http://stats.ncaa.org/game/index/3925865?org_id=702
 2016	12221	670	Texas St.	10/17/2015	@ Arkansas St.		Arkansas St.		false		false	-									
 2016	12221	670	Texas St.	10/22/2015	@ Troy		Troy		false		false	-									
 2016	12221	670	Texas St.	10/24/2015	@ South Ala.		South Ala.		false		false	-									
@@ -8194,7 +8201,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	700	Texas Tech	09/30/2015	@ Baylor	51	Baylor	http://stats.ncaa.org/team/index/12221?org_id=51	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3912429	http://stats.ncaa.org/game/index/3912429?org_id=51
 2016	12221	700	Texas Tech	10/07/2015	Kansas	328	Kansas	http://stats.ncaa.org/team/index/12221?org_id=328	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3919577	http://stats.ncaa.org/game/index/3919577?org_id=328
 2016	12221	700	Texas Tech	10/10/2015	TCU	698	TCU	http://stats.ncaa.org/team/index/12221?org_id=698	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3923637	http://stats.ncaa.org/game/index/3923637?org_id=698
-2016	12221	700	Texas Tech	10/14/2015	@ West Virginia		West Virginia		false		false	-									
+2016	12221	700	Texas Tech	10/14/2015	@ West Virginia	768	West Virginia	http://stats.ncaa.org/team/index/12221?org_id=768	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3924562	http://stats.ncaa.org/game/index/3924562?org_id=768
 2016	12221	700	Texas Tech	10/17/2015	@ Texas		Texas		false		false	-									
 2016	12221	700	Texas Tech	10/24/2015	Kansas St.		Kansas St.		false		true	-									
 2016	12221	700	Texas Tech	10/28/2015	@ Oklahoma		Oklahoma		false		false	-									
@@ -8225,7 +8232,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	702	Texas-Arlington	10/03/2015	Little Rock	32	Little Rock	http://stats.ncaa.org/team/index/12221?org_id=32	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3914248	http://stats.ncaa.org/game/index/3914248?org_id=702
 2016	12221	702	Texas-Arlington	10/06/2015	@ Texas St.	670	Texas St.	http://stats.ncaa.org/team/index/12221?org_id=670	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3917575	http://stats.ncaa.org/game/index/3917575?org_id=670
 2016	12221	702	Texas-Arlington	10/10/2015	@ Appalachian St.	27	Appalachian St.	http://stats.ncaa.org/team/index/12221?org_id=27	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921463	http://stats.ncaa.org/game/index/3921463?org_id=27
-2016	12221	702	Texas-Arlington	10/15/2015	Texas St.		Texas St.		false		true	-									
+2016	12221	702	Texas-Arlington	10/15/2015	Texas St.	670	Texas St.	http://stats.ncaa.org/team/index/12221?org_id=670	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3925865	http://stats.ncaa.org/game/index/3925865?org_id=702
 2016	12221	702	Texas-Arlington	10/23/2015	@ Georgia St.		Georgia St.		false		false	-									
 2016	12221	702	Texas-Arlington	10/24/2015	@ Ga. Southern		Ga. Southern		false		false	-									
 2016	12221	702	Texas-Arlington	10/30/2015	Troy		Troy		false		true	-									
@@ -8609,7 +8616,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	164	UConn	10/04/2015	Memphis	404	Memphis	http://stats.ncaa.org/team/index/12221?org_id=404	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3919132	http://stats.ncaa.org/game/index/3919132?org_id=164
 2016	12221	164	UConn	10/09/2015	@ Tulsa	719	Tulsa	http://stats.ncaa.org/team/index/12221?org_id=719	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3920034	http://stats.ncaa.org/game/index/3920034?org_id=719
 2016	12221	164	UConn	10/11/2015	@ SMU	663	SMU	http://stats.ncaa.org/team/index/12221?org_id=663	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3922200	http://stats.ncaa.org/game/index/3922200?org_id=663
-2016	12221	164	UConn	10/14/2015	Temple		Temple		false		true	-									
+2016	12221	164	UConn	10/14/2015	Temple	690	Temple	http://stats.ncaa.org/team/index/12221?org_id=690	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3924432	http://stats.ncaa.org/game/index/3924432?org_id=164
 2016	12221	164	UConn	10/16/2015	East Carolina		East Carolina		false		true	-									
 2016	12221	164	UConn	10/23/2015	Tulane		Tulane		false		true	-									
 2016	12221	164	UConn	10/25/2015	Houston		Houston		false		true	-									
@@ -8694,7 +8701,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	2707	UMKC	10/01/2015	@ UTRGV	536	UTRGV	http://stats.ncaa.org/team/index/12221?org_id=536	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3912878	http://stats.ncaa.org/game/index/3912878?org_id=536
 2016	12221	2707	UMKC	10/03/2015	@ New Mexico St.	472	New Mexico St.	http://stats.ncaa.org/team/index/12221?org_id=472	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3915067	http://stats.ncaa.org/game/index/3915067?org_id=472
 2016	12221	2707	UMKC	10/09/2015	@ Chicago St.	136	Chicago St.	http://stats.ncaa.org/team/index/12221?org_id=136	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920256	http://stats.ncaa.org/game/index/3920256?org_id=136
-2016	12221	2707	UMKC	10/15/2015	Grand Canyon		Grand Canyon		false		true	-									
+2016	12221	2707	UMKC	10/15/2015	Grand Canyon	1104	Grand Canyon	http://stats.ncaa.org/team/index/12221?org_id=1104	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3925884	http://stats.ncaa.org/game/index/3925884?org_id=2707
 2016	12221	2707	UMKC	10/17/2015	CSU Bakersfield		CSU Bakersfield		false		true	-									
 2016	12221	2707	UMKC	10/22/2015	@ Utah Valley		Utah Valley		false		false	-									
 2016	12221	2707	UMKC	10/24/2015	@ Seattle		Seattle		false		false	-									
@@ -8778,7 +8785,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	459	UNCG	09/30/2015	@ ETSU	198	ETSU	http://stats.ncaa.org/team/index/12221?org_id=198	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3912129	http://stats.ncaa.org/game/index/3912129?org_id=198
 2016	12221	459	UNCG	10/03/2015	Western Caro.	769	Western Caro.	http://stats.ncaa.org/team/index/12221?org_id=769	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3915176	http://stats.ncaa.org/game/index/3915176?org_id=459
 2016	12221	459	UNCG	10/10/2015	Furman	244	Furman	http://stats.ncaa.org/team/index/12221?org_id=244	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921573	http://stats.ncaa.org/game/index/3921573?org_id=459
-2016	12221	459	UNCG	10/14/2015	Citadel		Citadel		false		true	-									
+2016	12221	459	UNCG	10/14/2015	Citadel	141	Citadel	http://stats.ncaa.org/team/index/12221?org_id=141	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924501	http://stats.ncaa.org/game/index/3924501?org_id=459
 2016	12221	459	UNCG	10/16/2015	Wofford		Wofford		false		true	-									
 2016	12221	459	UNCG	10/18/2015	@ Western Caro.		Western Caro.		false		false	-									
 2016	12221	459	UNCG	10/23/2015	Chattanooga		Chattanooga		false		true	-									
@@ -8865,7 +8872,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	465	UNLV	10/03/2015	@ Utah St.	731	Utah St.	http://stats.ncaa.org/team/index/12221?org_id=731	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3914099	http://stats.ncaa.org/game/index/3914099?org_id=731
 2016	12221	465	UNLV	10/08/2015	San Diego St.	626	San Diego St.	http://stats.ncaa.org/team/index/12221?org_id=626	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919488	http://stats.ncaa.org/game/index/3919488?org_id=465
 2016	12221	465	UNLV	10/10/2015	Nevada	466	Nevada	http://stats.ncaa.org/team/index/12221?org_id=466	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921225	http://stats.ncaa.org/game/index/3921225?org_id=465
-2016	12221	465	UNLV	10/15/2015	@ Air Force		Air Force		false		false	-									
+2016	12221	465	UNLV	10/15/2015	@ Air Force	721	Air Force	http://stats.ncaa.org/team/index/12221?org_id=721	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925890	http://stats.ncaa.org/game/index/3925890?org_id=721
 2016	12221	465	UNLV	10/17/2015	@ New Mexico		New Mexico		false		false	-									
 2016	12221	465	UNLV	10/20/2015	@ Fresno St.		Fresno St.		false		false	-									
 2016	12221	465	UNLV	10/22/2015	@ San Jose St.		San Jose St.		false		false	-									
@@ -8992,7 +8999,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	536	UTRGV	10/03/2015	Chicago St.	136	Chicago St.	http://stats.ncaa.org/team/index/12221?org_id=136	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3914025	http://stats.ncaa.org/game/index/3914025?org_id=536
 2016	12221	536	UTRGV	10/08/2015	@ CSU Bakersfield	94	CSU Bakersfield	http://stats.ncaa.org/team/index/12221?org_id=94	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919509	http://stats.ncaa.org/game/index/3919509?org_id=94
 2016	12221	536	UTRGV	10/10/2015	@ Grand Canyon	1104	Grand Canyon	http://stats.ncaa.org/team/index/12221?org_id=1104	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3922781	http://stats.ncaa.org/game/index/3922781?org_id=1104
-2016	12221	536	UTRGV	10/15/2015	Seattle		Seattle		false		true	-									
+2016	12221	536	UTRGV	10/15/2015	Seattle	1356	Seattle	http://stats.ncaa.org/team/index/12221?org_id=1356	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3925896	http://stats.ncaa.org/game/index/3925896?org_id=536
 2016	12221	536	UTRGV	10/17/2015	Utah Valley		Utah Valley		false		true	-									
 2016	12221	536	UTRGV	10/19/2015	@ New Orleans		New Orleans		false		false	-									
 2016	12221	536	UTRGV	10/24/2015	New Mexico St.		New Mexico St.		false		true	-									
@@ -9021,12 +9028,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	706	UTSA	10/02/2015	@ UAB	9	UAB	http://stats.ncaa.org/team/index/12221?org_id=9	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3913495	http://stats.ncaa.org/game/index/3913495?org_id=9
 2016	12221	706	UTSA	10/09/2015	@ Western Ky.	772	Western Ky.	http://stats.ncaa.org/team/index/12221?org_id=772	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3920238	http://stats.ncaa.org/game/index/3920238?org_id=772
 2016	12221	706	UTSA	10/11/2015	@ UTEP	704	UTEP	http://stats.ncaa.org/team/index/12221?org_id=704	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3922420	http://stats.ncaa.org/game/index/3922420?org_id=704
-2016	12221	706	UTSA	10/16/2015	Rice		Rice		false		true	-									
+2016	12221	706	UTSA	10/15/2015	@ Rice	574	Rice	http://stats.ncaa.org/team/index/12221?org_id=574	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3925880	http://stats.ncaa.org/game/index/3925880?org_id=574
+2016	12221	706	UTSA	10/16/2015	@ Rice		Rice		false		false	-									
 2016	12221	706	UTSA	10/18/2015	Marshall		Marshall		false		true	-									
 2016	12221	706	UTSA	10/21/2015	Charlotte		Charlotte		false		true	-									
 2016	12221	706	UTSA	10/25/2015	UTEP		UTEP		false		true	-									
 2016	12221	706	UTSA	10/30/2015	@ Fla. Atlantic		Fla. Atlantic		false		false	-									
 2016	12221	706	UTSA	11/01/2015	@ FIU		FIU		false		false	-									
+2016	12221	706	UTSA	11/04/2015	Rice		Rice		false		true	-									
 2016	12221	706	UTSA	11/06/2015	Louisiana Tech		Louisiana Tech		false		true	-									
 2016	12221	706	UTSA	11/08/2015	UAB		UAB		false		true	-									
 2016	12221	706	UTSA	11/12/2015	@ Southern Miss.		Southern Miss.		false		false	-									
@@ -9082,7 +9091,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	731	Utah St.	10/03/2015	UNLV	465	UNLV	http://stats.ncaa.org/team/index/12221?org_id=465	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3914099	http://stats.ncaa.org/game/index/3914099?org_id=731
 2016	12221	731	Utah St.	10/06/2015	Boise St.	66	Boise St.	http://stats.ncaa.org/team/index/12221?org_id=66	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3917593	http://stats.ncaa.org/game/index/3917593?org_id=731
 2016	12221	731	Utah St.	10/10/2015	San Jose St.	630	San Jose St.	http://stats.ncaa.org/team/index/12221?org_id=630	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3921803	http://stats.ncaa.org/game/index/3921803?org_id=731
-2016	12221	731	Utah St.	10/15/2015	@ San Diego St.		San Diego St.		false		false	-									
+2016	12221	731	Utah St.	10/15/2015	@ San Diego St.	626	San Diego St.	http://stats.ncaa.org/team/index/12221?org_id=626	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3925894	http://stats.ncaa.org/game/index/3925894?org_id=626
 2016	12221	731	Utah St.	10/17/2015	@ Nevada		Nevada		false		false	-									
 2016	12221	731	Utah St.	10/22/2015	Wyoming		Wyoming		false		true	-									
 2016	12221	731	Utah St.	10/24/2015	Colorado St.		Colorado St.		false		true	-									
@@ -9325,7 +9334,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	756	Washington	10/04/2015	@ Southern California	657	Southern California	http://stats.ncaa.org/team/index/12221?org_id=657	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3916059	http://stats.ncaa.org/game/index/3916059?org_id=657
 2016	12221	756	Washington	10/07/2015	Arizona	29	Arizona	http://stats.ncaa.org/team/index/12221?org_id=29	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3919234	http://stats.ncaa.org/game/index/3919234?org_id=756
 2016	12221	756	Washington	10/09/2015	Arizona St.	28	Arizona St.	http://stats.ncaa.org/team/index/12221?org_id=28	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920185	http://stats.ncaa.org/game/index/3920185?org_id=756
-2016	12221	756	Washington	10/14/2015	Oregon St.		Oregon St.		false		true	-									
+2016	12221	756	Washington	10/14/2015	Oregon St.	528	Oregon St.	http://stats.ncaa.org/team/index/12221?org_id=528	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3924692	http://stats.ncaa.org/game/index/3924692?org_id=756
 2016	12221	756	Washington	10/16/2015	Oregon		Oregon		false		true	-									
 2016	12221	756	Washington	10/21/2015	@ Stanford		Stanford		false		false	-									
 2016	12221	756	Washington	10/23/2015	@ California		California		false		false	-									
@@ -9388,7 +9397,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	758	Weber St.	10/03/2015	Sacramento St.	102	Sacramento St.	http://stats.ncaa.org/team/index/12221?org_id=102	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3915213	http://stats.ncaa.org/game/index/3915213?org_id=758
 2016	12221	758	Weber St.	10/08/2015	@ North Dakota	494	North Dakota	http://stats.ncaa.org/team/index/12221?org_id=494	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3919511	http://stats.ncaa.org/game/index/3919511?org_id=494
 2016	12221	758	Weber St.	10/10/2015	@ Northern Colo.	502	Northern Colo.	http://stats.ncaa.org/team/index/12221?org_id=502	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3921113	http://stats.ncaa.org/game/index/3921113?org_id=502
-2016	12221	758	Weber St.	10/15/2015	@ Northern Ariz.		Northern Ariz.		false		false	-									
+2016	12221	758	Weber St.	10/15/2015	@ Northern Ariz.	501	Northern Ariz.	http://stats.ncaa.org/team/index/12221?org_id=501	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3925976	http://stats.ncaa.org/game/index/3925976?org_id=501
 2016	12221	758	Weber St.	10/17/2015	@ Southern Utah		Southern Utah		false		false	-									
 2016	12221	758	Weber St.	10/22/2015	Idaho		Idaho		false		true	-									
 2016	12221	758	Weber St.	10/24/2015	Eastern Wash.		Eastern Wash.		false		true	-									
@@ -9416,7 +9425,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	768	West Virginia	10/03/2015	@ Kansas	328	Kansas	http://stats.ncaa.org/team/index/12221?org_id=328	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3914701	http://stats.ncaa.org/game/index/3914701?org_id=328
 2016	12221	768	West Virginia	10/07/2015	Robert Morris	579	Robert Morris	http://stats.ncaa.org/team/index/12221?org_id=579	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3918670	http://stats.ncaa.org/game/index/3918670?org_id=768
 2016	12221	768	West Virginia	10/10/2015	@ Kansas St.	327	Kansas St.	http://stats.ncaa.org/team/index/12221?org_id=327	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920960	http://stats.ncaa.org/game/index/3920960?org_id=327
-2016	12221	768	West Virginia	10/14/2015	Texas Tech		Texas Tech		false		true	-									
+2016	12221	768	West Virginia	10/14/2015	Texas Tech	700	Texas Tech	http://stats.ncaa.org/team/index/12221?org_id=700	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924562	http://stats.ncaa.org/game/index/3924562?org_id=768
 2016	12221	768	West Virginia	10/17/2015	Baylor		Baylor		false		true	-									
 2016	12221	768	West Virginia	10/21/2015	@ Iowa St.		Iowa St.		false		false	-									
 2016	12221	768	West Virginia	10/24/2015	Oklahoma		Oklahoma		false		true	-									
@@ -9450,7 +9459,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	769	Western Caro.	10/03/2015	@ UNCG	459	UNCG	http://stats.ncaa.org/team/index/12221?org_id=459	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3915176	http://stats.ncaa.org/game/index/3915176?org_id=459
 2016	12221	769	Western Caro.	10/09/2015	@ Mercer	406	Mercer	http://stats.ncaa.org/team/index/12221?org_id=406	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919862	http://stats.ncaa.org/game/index/3919862?org_id=406
 2016	12221	769	Western Caro.	10/10/2015	@ Samford	625	Samford	http://stats.ncaa.org/team/index/12221?org_id=625	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3920840	http://stats.ncaa.org/game/index/3920840?org_id=625
-2016	12221	769	Western Caro.	10/14/2015	ETSU		ETSU		false		true	-									
+2016	12221	769	Western Caro.	10/14/2015	ETSU	198	ETSU	http://stats.ncaa.org/team/index/12221?org_id=198	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3924517	http://stats.ncaa.org/game/index/3924517?org_id=769
 2016	12221	769	Western Caro.	10/16/2015	Citadel		Citadel		false		true	-									
 2016	12221	769	Western Caro.	10/18/2015	UNCG		UNCG		false		true	-									
 2016	12221	769	Western Caro.	10/23/2015	@ Wofford		Wofford		false		false	-									
@@ -9660,7 +9669,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	796	Wisconsin	10/04/2015	Northwestern	509	Northwestern	http://stats.ncaa.org/team/index/12221?org_id=509	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3915749	http://stats.ncaa.org/game/index/3915749?org_id=796
 2016	12221	796	Wisconsin	10/09/2015	@ Rutgers	587	Rutgers	http://stats.ncaa.org/team/index/12221?org_id=587	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3920039	http://stats.ncaa.org/game/index/3920039?org_id=587
 2016	12221	796	Wisconsin	10/10/2015	@ Maryland	392	Maryland	http://stats.ncaa.org/team/index/12221?org_id=392	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3921697	http://stats.ncaa.org/game/index/3921697?org_id=392
-2016	12221	796	Wisconsin	10/14/2015	Minnesota		Minnesota		false		true	-									
+2016	12221	796	Wisconsin	10/14/2015	Minnesota	428	Minnesota	http://stats.ncaa.org/team/index/12221?org_id=428	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3924688	http://stats.ncaa.org/game/index/3924688?org_id=796
 2016	12221	796	Wisconsin	10/17/2015	@ Minnesota		Minnesota		false		false	-									
 2016	12221	796	Wisconsin	10/23/2015	@ Iowa		Iowa		false		false	-									
 2016	12221	796	Wisconsin	10/24/2015	@ Nebraska		Nebraska		false		false	-									
@@ -9757,7 +9766,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	811	Wyoming	10/08/2015	Air Force	721	Air Force	http://stats.ncaa.org/team/index/12221?org_id=721	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3919494	http://stats.ncaa.org/game/index/3919494?org_id=811
 2016	12221	811	Wyoming	10/10/2015	New Mexico	473	New Mexico	http://stats.ncaa.org/team/index/12221?org_id=473	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3920870	http://stats.ncaa.org/game/index/3920870?org_id=811
 2016	12221	811	Wyoming	10/13/2015	@ Colorado St.	156	Colorado St.	http://stats.ncaa.org/team/index/12221?org_id=156	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3924078	http://stats.ncaa.org/game/index/3924078?org_id=156
-2016	12221	811	Wyoming	10/15/2015	@ San Jose St.		San Jose St.		false		false	-									
+2016	12221	811	Wyoming	10/15/2015	@ San Jose St.	630	San Jose St.	http://stats.ncaa.org/team/index/12221?org_id=630	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3925931	http://stats.ncaa.org/game/index/3925931?org_id=630
 2016	12221	811	Wyoming	10/22/2015	@ Utah St.		Utah St.		false		false	-									
 2016	12221	811	Wyoming	10/24/2015	@ Boise St.		Boise St.		false		false	-									
 2016	12221	811	Wyoming	10/29/2015	Nevada		Nevada		false		true	-									
