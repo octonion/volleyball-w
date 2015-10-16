@@ -88,7 +88,8 @@ insert into ncaa_pbp.results
  opponent_id,
  opponent_div_id,
  field,
- team_score, opponent_score,
+ team_score,
+ opponent_score,
  set_number)
 (
 select

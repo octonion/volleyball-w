@@ -26,6 +26,9 @@ where
 and r.team_div_id is not null
 and r.opponent_div_id is not null
 and not(r.team_score,r.opponent_score)=(0,0)
+
+-- Exclude November,December
+--and extract(month from r.game_date) not in (11,12)
 ;")
 
 games <- fetch(query,n=-1)

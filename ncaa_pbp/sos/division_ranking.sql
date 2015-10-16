@@ -1,8 +1,8 @@
 begin;
 
 create temporary table r (
-       school_id	 integer,
-       div	 	 integer,
+       team_id	       	 integer,
+       div	 	 text,
        year	 	 integer,
        str	 	 float,
        ofs	 	 float,
@@ -11,16 +11,16 @@ create temporary table r (
 );
 
 insert into r
-(school_id,div,year,str,ofs,dfs,sos)
+(team_id,div,year,str,ofs,dfs,sos)
 (
 select
 t.team_id,
-t.division as div,
+'D' || t.division as div,
 sf.year,
-(sf.strength*o.exp_factor/d.exp_factor)::numeric(9,3) as str,
-(offensive*o.exp_factor)::numeric(9,3) as ofs,
-(defensive*d.exp_factor)::numeric(9,3) as dfs,
-schedule_strength::numeric(9,3) as sos
+(sf.strength*o.exp_factor/d.exp_factor)::numeric(4,3) as str,
+(offensive*o.exp_factor)::numeric(4,3) as ofs,
+(defensive*d.exp_factor)::numeric(4,3) as dfs,
+schedule_strength::numeric(4,3) as sos
 from ncaa_pbp._schedule_factors sf
 left outer join ncaa_pbp.teams t
   on (t.team_id,t.year)=(sf.school_id,sf.year)
@@ -28,7 +28,8 @@ left outer join ncaa_pbp._factors o
   on (o.parameter,o.level)=('o_div',t.division::text)
 left outer join ncaa_pbp._factors d
   on (d.parameter,d.level)=('d_div',t.division::text)
-where sf.year in (2016)
+where
+TRUE
 and t.team_id is not null
 order by ofs desc);
 
@@ -57,7 +58,6 @@ group by year,div
 order by year asc,str desc;
 
 select * from r
-where div is null
-and year=2016;
+where div is null;
 
 commit;
