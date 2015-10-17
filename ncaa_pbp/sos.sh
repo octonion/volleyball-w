@@ -27,6 +27,7 @@ cp /tmp/current_ranking.csv sos/
 
 psql volleyball-w -f sos/division_ranking.sql > sos/division_ranking.txt
 
-psql volleyball-w -f sos/test_predictions.sql > sos/test_predictions.txt
+psql volleyball-w -f sos/test_predictions_matches.sql > sos/test_predictions_matches.txt
 
-psql volleyball-w -f sos/predict_weekly.sql > sos/predict_weekly.txt
+cd python
+./predict.py
