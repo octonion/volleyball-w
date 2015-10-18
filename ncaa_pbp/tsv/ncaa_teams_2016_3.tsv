@@ -27,7 +27,6 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	3	26107	Becker	http://stats.ncaa.org/team/index/12221?org_id=26107
 2016	12221	3	53	Beloit	http://stats.ncaa.org/team/index/12221?org_id=53
 2016	12221	3	296	Benedictine (IL)	http://stats.ncaa.org/team/index/12221?org_id=296
-2016	12221	3	30171	Berea	http://stats.ncaa.org/team/index/12221?org_id=30171
 2016	12221	3	973	Berry	http://stats.ncaa.org/team/index/12221?org_id=973
 2016	12221	3	59	Bethany (WV)	http://stats.ncaa.org/team/index/12221?org_id=59
 2016	12221	3	30038	Bethany Lutheran	http://stats.ncaa.org/team/index/12221?org_id=30038
@@ -41,11 +40,11 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	3	76	Bridgewater St.	http://stats.ncaa.org/team/index/12221?org_id=76
 2016	12221	3	78	Brockport	http://stats.ncaa.org/team/index/12221?org_id=78
 2016	12221	3	79	Brooklyn	http://stats.ncaa.org/team/index/12221?org_id=79
-2016	12221	3	30188	Bryn Athyn	http://stats.ncaa.org/team/index/12221?org_id=30188
 2016	12221	3	82	Bryn Mawr	http://stats.ncaa.org/team/index/12221?org_id=82
 2016	12221	3	84	Buena Vista	http://stats.ncaa.org/team/index/12221?org_id=84
 2016	12221	3	85	Buffalo St.	http://stats.ncaa.org/team/index/12221?org_id=85
 2016	12221	3	480	CCNY	http://stats.ncaa.org/team/index/12221?org_id=480
+2016	12221	3	122	CWRU	http://stats.ncaa.org/team/index/12221?org_id=122
 2016	12221	3	88	Cabrini	http://stats.ncaa.org/team/index/12221?org_id=88
 2016	12221	3	1305	Cairn	http://stats.ncaa.org/team/index/12221?org_id=1305
 2016	12221	3	105	Cal Lutheran	http://stats.ncaa.org/team/index/12221?org_id=105
@@ -56,7 +55,6 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	3	119	Carnegie Mellon	http://stats.ncaa.org/team/index/12221?org_id=119
 2016	12221	3	120	Carroll (WI)	http://stats.ncaa.org/team/index/12221?org_id=120
 2016	12221	3	121	Carthage	http://stats.ncaa.org/team/index/12221?org_id=121
-2016	12221	3	122	Case	http://stats.ncaa.org/team/index/12221?org_id=122
 2016	12221	3	123	Castleton	http://stats.ncaa.org/team/index/12221?org_id=123
 2016	12221	3	124	Catholic	http://stats.ncaa.org/team/index/12221?org_id=124
 2016	12221	3	23624	Cazenovia	http://stats.ncaa.org/team/index/12221?org_id=23624
@@ -336,7 +334,6 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	3	1379	Southern Vt.	http://stats.ncaa.org/team/index/12221?org_id=1379
 2016	12221	3	8746	Southwestern (TX)	http://stats.ncaa.org/team/index/12221?org_id=8746
 2016	12221	3	23260	Spalding	http://stats.ncaa.org/team/index/12221?org_id=23260
-2016	12221	3	26973	Spelman	http://stats.ncaa.org/team/index/12221?org_id=26973
 2016	12221	3	673	Springfield	http://stats.ncaa.org/team/index/12221?org_id=673
 2016	12221	3	597	St. Catherine	http://stats.ncaa.org/team/index/12221?org_id=597
 2016	12221	3	9684	St. Elizabeth	http://stats.ncaa.org/team/index/12221?org_id=9684

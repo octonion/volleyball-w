@@ -17,6 +17,7 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	2	33	Armstrong	http://stats.ncaa.org/team/index/12221?org_id=33
 2016	12221	2	35	Ashland	http://stats.ncaa.org/team/index/12221?org_id=35
 2016	12221	2	36	Assumption	http://stats.ncaa.org/team/index/12221?org_id=36
+2016	12221	2	39	Augusta	http://stats.ncaa.org/team/index/12221?org_id=39
 2016	12221	2	41	Augustana (SD)	http://stats.ncaa.org/team/index/12221?org_id=41
 2016	12221	2	30146	Azusa Pacific	http://stats.ncaa.org/team/index/12221?org_id=30146
 2016	12221	2	2685	BYU-Hawaii	http://stats.ncaa.org/team/index/12221?org_id=2685
@@ -107,7 +108,6 @@ year	year_id	division	team_id	team_name	team_url
 2016	12221	2	1085	Francis Marion	http://stats.ncaa.org/team/index/12221?org_id=1085
 2016	12221	2	241	Franklin Pierce	http://stats.ncaa.org/team/index/12221?org_id=241
 2016	12221	2	30147	Fresno Pacific	http://stats.ncaa.org/team/index/12221?org_id=30147
-2016	12221	2	39	GRU Augusta	http://stats.ncaa.org/team/index/12221?org_id=39
 2016	12221	2	246	Gannon	http://stats.ncaa.org/team/index/12221?org_id=246
 2016	12221	2	1096	Georgia College	http://stats.ncaa.org/team/index/12221?org_id=1096
 2016	12221	2	9004	Georgian Court	http://stats.ncaa.org/team/index/12221?org_id=9004
