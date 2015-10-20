@@ -1,0 +1,1070 @@
+year,team_id,team_name,wins,losses,ties,total_games
+2016,26172,A&M-Corpus Chris,13,4,15,32
+2016,2,Abilene Christian,0,14,15,29
+2016,30123,Academy of Art,4,7,17,28
+2016,929,Adams St.,2,10,14,26
+2016,3,Adelphi,9,4,15,28
+2016,4,Adrian,6,3,17,26
+2016,11324,Agnes Scott,5,4,15,24
+2016,721,Air Force,8,9,16,33
+2016,5,Akron,7,8,14,29
+2016,10,Ala.-Huntsville,11,3,19,33
+2016,8,Alabama,6,8,18,32
+2016,6,Alabama A&M,1,15,17,33
+2016,7,Alabama St.,6,10,15,31
+2016,11,Alas. Anchorage,12,0,16,28
+2016,12,Alas. Fairbanks,0,10,17,27
+2016,14,Albany (NY),6,7,11,24
+2016,13,Albany St. (GA),3,7,18,28
+2016,2798,Albertus Magnus,2,7,13,22
+2016,15,Albion,11,4,15,30
+2016,16,Albright,3,10,11,24
+2016,17,Alcorn,3,11,15,29
+2016,934,Alderson Broaddus,6,9,17,32
+2016,18,Alfred,1,12,17,30
+2016,30170,Alfred St.,10,0,13,23
+2016,19,Allegheny,10,6,12,28
+2016,21,Alma,5,10,13,28
+2016,938,Alvernia,8,9,14,31
+2016,28746,Alverno,4,10,14,28
+2016,23,American,9,5,17,31
+2016,22,American Int'l,6,6,13,25
+2016,24,Amherst,9,1,14,24
+2016,939,Anderson (IN),4,10,14,28
+2016,13028,Anderson (SC),7,5,16,28
+2016,25,Angelo St.,15,3,15,33
+2016,26,Anna Maria,6,6,19,31
+2016,27,Appalachian St.,10,4,13,27
+2016,966,Arcadia,3,8,17,28
+2016,29,Arizona,10,3,19,32
+2016,28,Arizona St.,12,0,19,31
+2016,30105,Ark.-Fort Smith,9,3,15,27
+2016,8411,Ark.-Monticello,6,4,19,29
+2016,2678,Ark.-Pine Bluff,2,14,17,33
+2016,31,Arkansas,11,2,17,30
+2016,30,Arkansas St.,12,1,13,26
+2016,947,Arkansas Tech,9,5,16,30
+2016,33,Armstrong,6,4,16,26
+2016,725,Army West Point,10,5,14,29
+2016,35,Ashland,7,4,15,26
+2016,36,Assumption,4,8,13,25
+2016,37,Auburn,8,4,18,30
+2016,38,Augsburg,11,4,13,28
+2016,40,Augustana (IL),7,6,18,31
+2016,41,Augustana (SD),10,2,16,28
+2016,42,Aurora,8,8,14,30
+2016,953,Austin,10,4,26,40
+2016,43,Austin Peay,5,11,16,32
+2016,44,Averett,12,7,17,36
+2016,30146,Azusa Pacific,7,4,18,29
+2016,45,Babson,11,4,17,32
+2016,46,Baldwin Wallace,17,3,9,29
+2016,47,Ball St.,8,8,14,30
+2016,962,Bard,7,8,16,31
+2016,49,Barry,4,3,19,26
+2016,15646,Barton,5,7,14,26
+2016,58,Baruch,7,12,15,34
+2016,50,Bates,4,5,15,24
+2016,26520,Bay Path,5,5,10,20
+2016,51,Baylor,11,2,17,30
+2016,26107,Becker,6,6,16,28
+2016,52,Bellarmine,6,7,17,30
+2016,14927,Belmont,5,8,15,28
+2016,2683,Belmont Abbey,7,5,18,30
+2016,53,Beloit,3,10,11,24
+2016,54,Bemidji St.,4,9,16,29
+2016,55,Benedict,4,4,20,28
+2016,296,Benedictine (IL),6,7,17,30
+2016,56,Bentley,8,4,15,27
+2016,30171,Berea,4,6,4,14
+2016,973,Berry,12,3,14,29
+2016,59,Bethany (WV),14,5,17,36
+2016,30038,Bethany Lutheran,2,10,12,24
+2016,60,Bethel (MN),11,6,12,29
+2016,61,Bethune-Cookman,3,11,14,28
+2016,62,Binghamton,3,12,12,27
+2016,28593,Birmingham-So.,10,2,14,26
+2016,30134,Black Hills St.,4,7,15,26
+2016,64,Blackburn,0,14,13,27
+2016,984,Bloomfield,9,1,17,27
+2016,985,Bluefield St.,5,4,20,29
+2016,987,Bluffton,10,6,14,30
+2016,66,Boise St.,8,6,16,30
+2016,67,Boston College,8,5,19,32
+2016,69,Bowdoin,6,3,15,24
+2016,70,Bowie St.,4,10,19,33
+2016,71,Bowling Green,4,10,15,29
+2016,72,Bradley,5,8,17,30
+2016,73,Brandeis,3,11,15,29
+2016,30094,Brevard,3,8,17,28
+2016,74,Bridgeport,6,6,19,31
+2016,75,Bridgewater (VA),3,11,15,29
+2016,76,Bridgewater St.,7,9,13,29
+2016,78,Brockport,16,1,15,32
+2016,79,Brooklyn,4,7,16,27
+2016,80,Brown,6,6,14,26
+2016,81,Bryant,9,8,15,32
+2016,30188,Bryn Athyn,6,4,11,21
+2016,82,Bryn Mawr,5,8,11,24
+2016,83,Bucknell,6,5,16,27
+2016,84,Buena Vista,12,8,14,34
+2016,86,Buffalo,1,12,15,28
+2016,85,Buffalo St.,8,8,14,30
+2016,87,Butler,5,10,15,30
+2016,77,BYU,11,2,16,29
+2016,2685,BYU-Hawaii,4,6,18,28
+2016,88,Cabrini,9,5,18,32
+2016,1305,Cairn,0,11,10,21
+2016,105,Cal Lutheran,12,2,14,28
+2016,90,Cal Poly,8,3,16,27
+2016,91,Cal Poly Pomona,8,5,15,28
+2016,92,Cal St. Dom. Hills,3,10,15,28
+2016,98,Cal St. East Bay,3,8,17,28
+2016,97,Cal St. Fullerton,0,13,15,28
+2016,100,Cal St. L.A.,10,3,16,29
+2016,30055,Cal St. Monterey Bay,3,7,15,25
+2016,93,Cal St. San B'dino,10,2,16,28
+2016,30198,Cal St. San Marcos,3,10,15,28
+2016,103,Cal St. Stanislaus,8,3,15,26
+2016,995,Caldwell,9,4,19,32
+2016,107,California,6,6,19,31
+2016,106,California (PA),4,8,20,32
+2016,30135,California Baptist,9,2,17,28
+2016,89,Caltech,0,8,17,25
+2016,114,Calvin,12,3,14,29
+2016,996,Cameron,11,0,16,27
+2016,115,Campbell,5,9,14,28
+2016,116,Canisius,4,11,15,30
+2016,117,Capital,4,13,12,29
+2016,118,Carleton,9,5,9,23
+2016,119,Carnegie Mellon,16,2,13,31
+2016,120,Carroll (WI),4,11,13,28
+2016,1000,Carson-Newman,9,2,20,31
+2016,121,Carthage,13,2,21,36
+2016,122,Case,14,1,13,28
+2016,123,Castleton,6,4,12,22
+2016,1001,Catawba,7,7,15,29
+2016,124,Catholic,9,7,16,32
+2016,23624,Cazenovia,4,7,14,25
+2016,480,CCNY,4,15,17,36
+2016,14795,Cedar Crest,1,12,10,23
+2016,30124,Cedarville,6,8,18,32
+2016,125,Centenary (LA),3,12,18,33
+2016,12884,Centenary (NJ),1,8,12,21
+2016,126,Central (IA),9,6,18,33
+2016,1004,Central Ark.,6,9,13,28
+2016,127,Central Conn. St.,8,5,14,27
+2016,129,Central Mich.,5,9,15,29
+2016,130,Central Mo.,13,2,16,31
+2016,1009,Central Okla.,13,1,18,32
+2016,30049,Central St. (OH),0,8,21,29
+2016,1010,Central Wash.,6,4,17,27
+2016,132,Centre,6,8,15,29
+2016,1012,Chadron St.,2,8,16,26
+2016,133,Chaminade,10,1,17,28
+2016,134,Chapman,7,3,14,24
+2016,1013,Charleston (WV),5,6,18,29
+2016,48,Charleston So.,4,14,14,32
+2016,458,Charlotte,4,8,15,27
+2016,10972,Chatham,1,13,16,30
+2016,693,Chattanooga,13,2,14,29
+2016,21323,Chestnut Hill,4,11,19,34
+2016,135,Cheyney,1,8,24,33
+2016,137,Chicago,12,4,14,30
+2016,136,Chicago St.,1,14,13,28
+2016,95,Chico St.,11,4,15,30
+2016,8875,Chowan,6,3,16,25
+2016,139,Chris. Newport,14,2,14,30
+2016,1015,Christian Bros.,5,6,16,27
+2016,140,Cincinnati,9,4,18,31
+2016,141,Citadel,6,11,17,34
+2016,30058,Claflin,6,6,20,32
+2016,142,Claremont-M-S,12,3,14,29
+2016,143,Clarion,7,7,21,35
+2016,145,Clark (MA),12,1,14,27
+2016,144,Clark Atlanta,1,2,20,23
+2016,146,Clarkson,12,3,18,33
+2016,147,Clemson,5,8,19,32
+2016,148,Cleveland St.,13,3,14,30
+2016,722,Coast Guard,7,4,17,28
+2016,149,Coastal Caro.,10,4,12,26
+2016,30083,Cobleskill St.,4,9,13,26
+2016,150,Coe,14,7,15,36
+2016,1023,Coker,2,7,19,28
+2016,1014,Col. of Charleston,8,7,15,30
+2016,151,Colby,6,4,15,25
+2016,152,Colby-Sawyer,2,15,17,34
+2016,153,Colgate,4,10,13,27
+2016,11403,Colo. Christian,8,5,17,30
+2016,157,Colorado,8,5,19,32
+2016,154,Colorado Col.,14,1,21,36
+2016,11416,Colorado Mesa,4,7,15,26
+2016,155,Colorado Mines,8,3,17,28
+2016,156,Colorado St.,9,3,17,29
+2016,2720,Colorado St.-Pueblo,4,8,14,26
+2016,158,Columbia,3,7,13,23
+2016,159,Columbus St.,2,9,19,30
+2016,1028,Concord,1,14,19,34
+2016,30199,Concordia (CA),5,7,17,29
+2016,162,Concordia (NY),2,2,16,20
+2016,24400,Concordia (TX),3,4,15,22
+2016,160,Concordia Chicago,6,9,15,30
+2016,30200,Concordia Portland,9,2,17,28
+2016,1036,Concordia Wisconsin,9,6,15,30
+2016,161,Concordia-M'head,9,3,14,26
+2016,9081,Concordia-St. Paul,9,3,16,28
+2016,163,Connecticut Col.,4,3,17,24
+2016,8935,Converse,3,7,17,27
+2016,165,Coppin St.,4,8,11,23
+2016,167,Cornell,4,7,13,24
+2016,166,Cornell College,4,10,13,27
+2016,30111,Covenant,4,8,16,28
+2016,169,Creighton,7,7,17,31
+2016,30035,Crown (MN),4,7,18,29
+2016,94,CSU Bakersfield,3,10,13,26
+2016,101,CSUN,2,11,11,24
+2016,170,Curry,5,6,13,24
+2016,1059,D'Youville,3,12,11,26
+2016,30174,Daemen,6,7,16,29
+2016,1044,Dallas,7,7,18,32
+2016,1045,Dallas Baptist,6,4,16,26
+2016,2691,Daniel Webster,3,9,16,28
+2016,172,Dartmouth,4,6,13,23
+2016,173,Davidson,6,8,14,28
+2016,174,Davis & Elkins,1,11,15,27
+2016,175,Dayton,8,5,17,30
+2016,1050,Defiance,4,13,11,28
+2016,180,Delaware,8,6,15,29
+2016,178,Delaware St.,2,12,14,28
+2016,179,Delaware Valley,1,6,15,22
+2016,182,Denison,7,5,13,25
+2016,183,Denver,13,3,16,32
+2016,176,DePaul,11,2,18,31
+2016,177,DePauw,9,5,13,27
+2016,20,DeSales,11,5,15,31
+2016,185,Dickinson,5,10,11,26
+2016,30095,Dixie St.,5,7,17,29
+2016,30118,Dominican (CA),3,6,17,26
+2016,1332,Dominican (IL),14,6,14,34
+2016,8956,Dominican (NY),1,13,18,32
+2016,2692,Dowling,9,4,18,31
+2016,189,Drake,10,8,17,35
+2016,1057,Drury,11,2,16,29
+2016,192,Dubuque,7,7,20,34
+2016,193,Duke,6,6,18,30
+2016,194,Duquesne,6,9,13,28
+2016,195,Earlham,4,13,10,27
+2016,196,East Carolina,7,5,19,31
+2016,8965,East Central,3,8,17,28
+2016,197,East Stroudsburg,5,9,18,32
+2016,1062,East Tex. Baptist,10,3,13,26
+2016,203,East. Mennonite,6,7,12,25
+2016,8968,Eastern,15,3,18,36
+2016,200,Eastern Conn. St.,5,7,17,29
+2016,201,Eastern Ill.,6,9,15,30
+2016,202,Eastern Ky.,2,15,15,32
+2016,204,Eastern Mich.,8,6,15,29
+2016,206,Eastern N.M.,6,8,18,32
+2016,1064,Eastern Nazarene,3,12,14,29
+2016,207,Eastern Wash.,7,6,14,27
+2016,208,Eckerd,5,6,16,27
+2016,1066,Edgewood,9,9,16,34
+2016,209,Edinboro,13,2,20,35
+2016,210,Elizabeth City St.,0,7,12,19
+2016,211,Elizabethtown,10,7,16,33
+2016,212,Elmhurst,12,5,16,33
+2016,213,Elmira,7,4,17,28
+2016,532,Elms,2,10,12,24
+2016,1068,Elon,3,11,16,30
+2016,9680,Embry-Riddle (FL),9,2,20,31
+2016,214,Emerson,6,6,13,25
+2016,30193,Emmanuel (GA),7,6,16,29
+2016,215,Emmanuel (MA),2,8,16,26
+2016,217,Emory,15,2,15,32
+2016,216,Emory & Henry,5,7,17,29
+2016,1071,Emporia St.,6,5,17,28
+2016,8981,Endicott,11,5,14,30
+2016,1072,Erskine,5,5,15,25
+2016,198,ETSU,10,5,14,29
+2016,218,Eureka,2,11,14,27
+2016,219,Evansville,6,9,17,32
+2016,220,Fairfield,5,7,16,28
+2016,222,Fairleigh Dickinson,6,8,16,30
+2016,1076,Fairmont St.,8,5,17,30
+2016,27892,Farmingdale St.,5,5,16,26
+2016,223,Fayetteville St.,3,6,15,24
+2016,221,FDU-Florham,14,3,18,35
+2016,23157,Felician,2,12,17,31
+2016,224,Ferris St.,12,1,16,29
+2016,225,Ferrum,7,6,18,31
+2016,28755,FGCU,9,6,16,31
+2016,1079,Findlay,9,3,18,30
+2016,30032,Finlandia,5,7,12,24
+2016,231,FIU,8,5,14,27
+2016,229,Fla. Atlantic,9,5,14,28
+2016,233,Fla. Southern,12,0,18,30
+2016,30092,Flagler,8,3,16,27
+2016,235,Florida,9,1,18,28
+2016,228,Florida A&M,1,13,13,27
+2016,234,Florida St.,8,4,19,31
+2016,230,Florida Tech,7,3,18,28
+2016,11538,Fontbonne,8,10,13,31
+2016,236,Fordham,6,11,14,31
+2016,9011,Fort Hays St.,8,6,19,33
+2016,1083,Fort Lewis,2,8,15,25
+2016,237,Fort Valley St.,1,3,20,24
+2016,238,Framingham St.,12,2,17,31
+2016,1085,Francis Marion,9,4,16,29
+2016,30069,Franciscan,5,10,16,31
+2016,239,Frank. & Marsh.,8,6,14,28
+2016,2694,Franklin,6,9,15,30
+2016,241,Franklin Pierce,8,5,14,27
+2016,242,Fredonia,15,3,16,34
+2016,30147,Fresno Pacific,1,7,17,25
+2016,96,Fresno St.,8,6,18,32
+2016,243,Frostburg St.,9,7,16,32
+2016,244,Furman,7,4,15,26
+2016,253,Ga. Southern,5,9,14,28
+2016,245,Gallaudet,6,3,23,32
+2016,246,Gannon,9,3,20,32
+2016,1092,Gardner-Webb,4,12,15,31
+2016,30084,Geneva,14,1,18,33
+2016,1094,George Fox,4,6,14,24
+2016,248,George Mason,5,10,14,29
+2016,249,George Washington,11,5,14,30
+2016,251,Georgetown,6,8,17,31
+2016,257,Georgia,5,7,18,30
+2016,1096,Georgia College,6,6,16,28
+2016,254,Georgia St.,4,9,13,26
+2016,255,Georgia Tech,10,3,19,32
+2016,9004,Georgian Court,6,7,21,34
+2016,258,Gettysburg,8,7,12,27
+2016,1098,Glenville St.,1,8,23,32
+2016,8366,Goldey-Beacom,4,7,17,28
+2016,260,Gonzaga,11,4,16,31
+2016,1099,Gordon,8,7,13,28
+2016,1467,Goucher,6,9,15,30
+2016,261,Grambling,3,9,21,33
+2016,1104,Grand Canyon,2,11,13,26
+2016,262,Grand Valley St.,8,4,14,26
+2016,794,Green Bay,10,6,13,29
+2016,11062,Green Mountain,0,11,10,21
+2016,263,Greensboro,5,10,16,31
+2016,1111,Greenville,8,5,16,29
+2016,264,Grinnell,0,11,10,21
+2016,265,Grove City,5,10,16,31
+2016,39,GRU Augusta,8,3,21,32
+2016,1112,Guilford,3,9,12,24
+2016,266,Gust. Adolphus,12,2,14,28
+2016,12399,Gwynedd Mercy,5,10,13,28
+2016,267,Hamilton,1,8,15,24
+2016,268,Hamline,7,6,13,26
+2016,270,Hampton,0,13,12,25
+2016,1115,Hanover,9,7,13,29
+2016,271,Hardin-Simmons,7,6,16,29
+2016,1116,Harding,5,9,16,30
+2016,272,Hartford,0,15,14,29
+2016,273,Hartwick,4,13,14,31
+2016,275,Harvard,4,7,13,24
+2016,276,Haverford,9,5,15,29
+2016,277,Hawaii,11,1,15,27
+2016,2697,Hawaii Hilo,3,2,18,23
+2016,2696,Hawaii Pacific,8,3,17,28
+2016,278,Heidelberg,12,5,12,29
+2016,1123,Henderson St.,1,14,14,29
+2016,1124,Hendrix,10,6,14,30
+2016,19651,High Point,11,6,13,30
+2016,8398,Hilbert,0,11,18,29
+2016,280,Hillsdale,10,1,18,29
+2016,281,Hiram,12,5,13,30
+2016,283,Hofstra,11,6,14,31
+2016,284,Hollins,2,11,11,24
+2016,285,Holy Cross,3,11,15,29
+2016,1126,Holy Family,2,11,17,30
+2016,30175,Holy Names,1,10,18,29
+2016,8404,Hood,6,7,19,32
+2016,286,Hope,11,5,13,29
+2016,30160,Houghton,8,6,17,31
+2016,288,Houston,10,2,20,32
+2016,287,Houston Baptist,7,8,15,30
+2016,290,Howard,4,12,12,28
+2016,2741,Howard Payne,0,8,17,25
+2016,291,Humboldt St.,5,4,15,24
+2016,292,Hunter,6,6,22,34
+2016,1130,Huntingdon,5,11,20,36
+2016,1133,Husson,5,11,13,29
+2016,295,Idaho,4,10,14,28
+2016,294,Idaho St.,9,6,15,30
+2016,300,Ill. Wesleyan,10,4,17,31
+2016,302,Ill.-Chicago,8,7,16,31
+2016,30050,Ill.-Springfield,3,10,18,31
+2016,301,Illinois,10,2,19,31
+2016,297,Illinois Col.,5,7,16,28
+2016,299,Illinois St.,10,4,17,31
+2016,303,Immaculata,6,4,10,20
+2016,2743,Incarnate Word,2,8,15,25
+2016,306,Indiana,10,2,20,32
+2016,307,Indiana (PA),11,2,19,32
+2016,305,Indiana St.,11,5,17,33
+2016,310,Iona,2,11,17,30
+2016,312,Iowa,10,4,19,33
+2016,311,Iowa St.,8,4,16,28
+2016,30173,Iowa Wesleyan,0,8,15,23
+2016,308,IPFW,3,13,16,32
+2016,313,Ithaca,13,1,14,28
+2016,2699,IUPUI,9,5,16,30
+2016,314,Jackson St.,0,16,14,30
+2016,316,Jacksonville,3,10,13,26
+2016,315,Jacksonville St.,7,10,18,35
+2016,317,James Madison,12,3,14,29
+2016,320,John Carroll,5,9,14,28
+2016,321,John Jay,3,5,16,24
+2016,322,Johns Hopkins,6,7,14,27
+2016,22626,Johnson & Wales (RI),7,4,16,27
+2016,323,Johnson C. Smith,3,8,15,26
+2016,324,Johnson St.,4,6,8,18
+2016,325,Juniata,15,0,17,32
+2016,326,Kalamazoo,1,13,12,26
+2016,328,Kansas,14,0,14,28
+2016,327,Kansas St.,8,5,15,28
+2016,329,Kean,8,10,18,36
+2016,330,Keene St.,11,4,15,30
+2016,1157,Kennesaw St.,9,3,13,25
+2016,331,Kent St.,6,7,15,28
+2016,334,Kentucky,8,5,17,30
+2016,332,Kentucky St.,4,3,19,26
+2016,335,Kenyon,6,6,13,25
+2016,1159,Keuka,3,9,15,27
+2016,30047,Keystone,9,3,14,26
+2016,30051,King (TN),5,8,17,30
+2016,336,King's (PA),11,4,16,31
+2016,337,Knox,7,10,10,27
+2016,339,Kutztown,2,12,20,34
+2016,333,Ky. Wesleyan,0,9,20,29
+2016,1163,La Roche,7,6,13,26
+2016,340,La Salle,6,11,14,31
+2016,341,La Verne,8,2,17,27
+2016,671,La.-Lafayette,3,11,15,29
+2016,498,La.-Monroe,10,5,17,32
+2016,342,Lafayette,10,4,13,27
+2016,1162,LaGrange,8,7,18,33
+2016,2746,Lake Erie,4,6,16,26
+2016,344,Lake Forest,4,12,10,26
+2016,345,Lake Superior St.,0,9,15,24
+2016,1164,Lakeland,7,9,14,30
+2016,346,Lamar,10,5,15,30
+2016,30085,Lancaster Bible,5,7,18,30
+2016,1167,Lander,12,2,20,34
+2016,347,Lane,0,12,16,28
+2016,8486,Lasell,4,12,17,33
+2016,348,Lawrence,2,16,9,27
+2016,349,Le Moyne,10,3,13,26
+2016,351,Lebanon Valley,10,5,15,30
+2016,30013,Lee,4,4,19,27
+2016,13302,Lees-McRae,2,10,15,27
+2016,352,Lehigh,9,8,14,31
+2016,279,Lehman,7,5,14,26
+2016,350,LeMoyne-Owen,3,4,18,25
+2016,1170,Lenoir-Rhyne,6,4,17,27
+2016,24317,Lesley,5,6,12,23
+2016,8490,LeTourneau,4,10,18,32
+2016,354,Lewis,12,1,15,28
+2016,22235,Lewis & Clark,6,4,13,23
+2016,355,Liberty,5,8,14,27
+2016,1174,Limestone,7,3,13,23
+2016,357,Lincoln (PA),1,5,13,19
+2016,1176,Lincoln Memorial,4,6,18,28
+2016,30136,Lindenwood (MO),8,3,20,31
+2016,1179,Linfield,4,8,13,25
+2016,28600,Lipscomb,8,6,15,29
+2016,32,Little Rock,6,6,14,26
+2016,361,LIU Brooklyn,1,10,15,26
+2016,362,LIU Post,9,3,20,32
+2016,359,Livingstone,2,6,22,30
+2016,360,Lock Haven,7,5,21,33
+2016,99,Long Beach St.,11,3,17,31
+2016,364,Loras,9,8,17,34
+2016,366,Louisiana Tech,6,9,15,30
+2016,367,Louisville,7,4,19,30
+2016,371,Loyola Chicago,12,2,17,31
+2016,369,Loyola Maryland,5,12,14,31
+2016,370,Loyola Marymount,9,3,18,30
+2016,365,LSU,4,8,17,29
+2016,30177,Lubbock Christian,7,6,15,28
+2016,372,Luther,7,7,20,34
+2016,373,Lycoming,12,5,15,32
+2016,374,Lynchburg,5,9,11,25
+2016,30065,Lyndon St.,2,5,12,19
+2016,20794,Lynn,5,5,16,26
+2016,376,Macalester,11,3,16,30
+2016,377,MacMurray,9,8,17,34
+2016,378,Maine Maritime,8,7,14,29
+2016,30137,Malone,4,10,18,32
+2016,1192,Manchester,5,7,14,26
+2016,381,Manhattan,8,7,17,32
+2016,382,Manhattanville,8,3,15,26
+2016,1194,Maranatha Baptist,8,5,12,25
+2016,1196,Marian (WI),2,13,13,28
+2016,385,Marietta,7,7,14,28
+2016,386,Marist,8,6,15,29
+2016,387,Marquette,8,5,18,31
+2016,1199,Mars Hill,4,7,18,29
+2016,388,Marshall,10,5,14,29
+2016,8597,Martin Luther,1,15,13,29
+2016,30075,Mary,7,6,16,29
+2016,389,Mary Baldwin,2,16,13,31
+2016,1203,Mary Hardin-Baylor,6,7,13,26
+2016,390,Mary Washington,13,4,13,30
+2016,392,Maryland,10,5,19,34
+2016,394,Marymount (VA),12,5,10,27
+2016,395,Maryville (MO),5,7,18,30
+2016,396,Maryville (TN),4,6,16,26
+2016,397,Marywood,0,12,12,24
+2016,399,Mass. Maritime,1,11,12,24
+2016,773,McDaniel,9,4,13,26
+2016,30138,McKendree,8,5,15,28
+2016,486,MCLA,12,3,16,31
+2016,8530,McMurry,6,4,17,27
+2016,402,McNeese St.,4,10,16,30
+2016,30040,Me.-Presque Isle,2,15,11,28
+2016,23725,Medaille,8,4,12,24
+2016,403,Medgar Evers,0,13,12,25
+2016,404,Memphis,10,4,19,33
+2016,406,Mercer,4,8,16,28
+2016,724,Merchant Marine,8,4,14,26
+2016,407,Mercy,4,10,19,33
+2016,408,Mercyhurst,6,7,20,33
+2016,409,Meredith,10,6,14,30
+2016,410,Merrimack,4,6,16,26
+2016,411,Messiah,11,0,18,29
+2016,412,Methodist,7,6,16,29
+2016,413,Metro St.,4,8,17,29
+2016,415,Miami (FL),7,4,19,30
+2016,414,Miami (OH),9,5,15,29
+2016,418,Michigan,10,2,19,31
+2016,416,Michigan St.,8,3,20,31
+2016,417,Michigan Tech,11,1,17,29
+2016,419,Middle Tenn.,3,13,14,30
+2016,420,Middlebury,8,2,13,23
+2016,1222,Midwestern St.,4,10,18,32
+2016,422,Miles,2,7,17,26
+2016,423,Millersville,7,4,23,34
+2016,424,Millikin,10,5,21,36
+2016,425,Mills,0,9,8,17
+2016,426,Millsaps,6,6,15,27
+2016,797,Milwaukee,3,11,15,29
+2016,427,Minn. Duluth,10,2,17,29
+2016,383,Minn. St. Mankato,9,4,15,28
+2016,1240,Minn. St. Moorhead,9,1,18,28
+2016,27854,Minn.-Crookston,6,7,15,28
+2016,1226,Minn.-Morris,9,7,15,31
+2016,428,Minnesota,9,2,19,30
+2016,30125,Minot St.,3,9,15,27
+2016,16142,Misericordia,6,11,15,32
+2016,429,Mississippi Col.,2,11,17,30
+2016,430,Mississippi St.,10,4,18,32
+2016,432,Mississippi Val.,1,14,18,33
+2016,434,Missouri,12,1,18,31
+2016,435,Missouri S&T,8,5,18,31
+2016,669,Missouri St.,10,4,17,31
+2016,398,MIT,14,1,15,30
+2016,30042,Mitchell,2,4,11,17
+2016,9012,Mo. Southern St.,0,11,18,29
+2016,9013,Mo. Western St.,9,2,19,30
+2016,436,Mo.-St. Louis,5,7,17,29
+2016,437,Molloy,2,12,15,29
+2016,438,Monmouth (IL),6,9,12,27
+2016,205,Mont. St. Billings,2,10,17,29
+2016,441,Montana,4,9,15,28
+2016,440,Montana St.,2,7,15,24
+2016,442,Montclair St.,7,5,18,30
+2016,1238,Montevallo,8,6,18,32
+2016,443,Moravian,7,9,17,33
+2016,444,Morehead St.,4,12,14,30
+2016,446,Morgan St.,3,11,12,26
+2016,30067,Morrisville St.,6,9,14,29
+2016,30036,Mount Aloysius,6,6,11,23
+2016,449,Mount Holyoke,5,6,12,23
+2016,27901,Mount Ida,4,9,17,30
+2016,30033,Mount Mary,1,7,12,20
+2016,1245,Mount Olive,2,8,17,27
+2016,452,Mount Union,11,5,11,27
+2016,20220,MSOE,9,8,13,30
+2016,8567,Mt. St. Joseph,7,12,12,31
+2016,1468,Mt. St. Mary (NY),1,14,18,33
+2016,451,Mt. St. Vincent,3,8,18,29
+2016,453,Muhlenberg,10,5,13,28
+2016,454,Murray St.,11,1,15,27
+2016,455,Muskingum,13,5,12,30
+2016,488,N.C. A&T,2,7,12,21
+2016,489,N.C. Central,2,15,13,30
+2016,491,N.C. Wesleyan,4,9,15,28
+2016,8577,N.M. Highlands,3,8,17,28
+2016,726,Navy,2,12,15,29
+2016,461,Nazareth,10,6,19,35
+2016,462,Neb. Wesleyan,4,4,4,12
+2016,1156,Neb.-Kearney,11,3,19,33
+2016,463,Nebraska,10,1,19,30
+2016,1254,Neumann,7,10,17,34
+2016,466,Nevada,6,8,16,30
+2016,469,New Hampshire,9,7,11,27
+2016,470,New Haven,8,6,16,30
+2016,319,New Jersey City,6,6,15,27
+2016,473,New Mexico,8,6,17,31
+2016,472,New Mexico St.,10,5,16,31
+2016,474,New Orleans,8,6,20,34
+2016,476,New Rochelle,7,4,14,25
+2016,1257,Newberry,6,6,16,28
+2016,21772,Newbury,7,6,12,25
+2016,30054,Newman,11,4,18,33
+2016,482,Niagara,5,7,16,28
+2016,483,Nicholls St.,5,8,15,28
+2016,471,NJIT,4,11,18,33
+2016,485,Norfolk St.,1,13,11,25
+2016,487,North Ala.,10,2,18,30
+2016,457,North Carolina,4,6,19,29
+2016,490,North Carolina St.,11,2,19,32
+2016,492,North Central (IL),13,3,19,35
+2016,30039,North Central (MN),4,9,14,27
+2016,494,North Dakota,12,6,15,33
+2016,493,North Dakota St.,9,5,16,30
+2016,2711,North Florida,12,3,16,31
+2016,9223,North Greenville,9,5,18,32
+2016,496,North Park,7,8,15,30
+2016,497,North Texas,10,7,14,31
+2016,500,Northeastern,4,13,14,31
+2016,501,Northern Ariz.,11,3,15,29
+2016,502,Northern Colo.,4,11,14,29
+2016,503,Northern Ill.,5,8,15,28
+2016,505,Northern Ky.,5,9,14,28
+2016,506,Northern Mich.,10,3,17,30
+2016,1266,Northern St.,11,0,17,28
+2016,1267,Northland,4,8,9,21
+2016,507,Northwest Mo. St.,8,3,17,28
+2016,1274,Northwest Nazarene,5,6,17,28
+2016,509,Northwestern,9,3,19,31
+2016,30178,Northwestern Okla.,2,10,16,28
+2016,508,Northwestern St.,2,12,15,29
+2016,30031,Northwestern-St. Paul,9,7,16,32
+2016,510,Northwood (MI),4,9,15,28
+2016,511,Norwich,2,8,12,22
+2016,513,Notre Dame,5,8,19,32
+2016,8600,Notre Dame (MD),5,4,15,24
+2016,30126,Notre Dame (OH),1,10,18,29
+2016,30056,Notre Dame de Namur,5,7,17,29
+2016,24639,Nova Southeastern,9,2,18,29
+2016,1277,Nyack,1,10,16,27
+2016,477,NYIT,9,1,20,30
+2016,479,NYU,9,7,15,31
+2016,514,Oakland,7,9,14,30
+2016,1278,Oakland City,4,3,3,10
+2016,515,Oberlin,6,7,11,24
+2016,516,Occidental,2,5,17,24
+2016,2713,Oglethorpe,2,10,18,30
+2016,519,Ohio,11,3,16,30
+2016,30119,Ohio Dominican,7,6,16,29
+2016,517,Ohio Northern,13,4,10,27
+2016,518,Ohio St.,11,2,19,32
+2016,15207,Ohio Valley,5,10,17,32
+2016,520,Ohio Wesleyan,15,1,13,29
+2016,30202,Okla. Baptist,8,7,15,30
+2016,24342,Okla. Panhandle,1,12,21,34
+2016,522,Oklahoma,6,7,15,28
+2016,524,Old Westbury,3,4,18,25
+2016,433,Ole Miss,14,2,17,33
+2016,525,Olivet,9,3,16,28
+2016,464,Omaha,6,8,15,29
+2016,527,Oral Roberts,7,7,15,29
+2016,529,Oregon,7,3,19,29
+2016,528,Oregon St.,2,9,19,30
+2016,530,Oswego St.,13,6,15,34
+2016,531,Otterbein,7,6,17,30
+2016,1289,Ouachita Baptist,6,4,18,28
+2016,2682,P.R.-Bayamon,2,2,0,4
+2016,24361,P.R.-Mayaguez,2,2,6,10
+2016,533,Pace,6,8,19,33
+2016,534,Pacific,10,3,17,30
+2016,2751,Pacific (OR),2,8,14,24
+2016,1297,Pacific Lutheran,6,5,13,24
+2016,535,Paine,5,4,20,29
+2016,30045,Palm Beach Atl.,8,2,19,29
+2016,540,Penn,6,6,14,26
+2016,30190,Penn College,1,11,9,21
+2016,539,Penn St.,12,0,19,31
+2016,30081,Penn St. Harrisburg,7,6,14,27
+2016,30114,Penn St.-Abington,4,8,17,29
+2016,25719,Penn St.-Altoona,5,8,13,26
+2016,538,Penn St.-Behrend,8,8,12,28
+2016,30044,Penn St.-Berks,6,6,15,27
+2016,541,Pepperdine,9,4,18,31
+2016,542,Pfeiffer,1,8,13,22
+2016,543,Philadelphia U.,6,4,16,26
+2016,21830,Piedmont,7,7,18,32
+2016,544,Pine Manor,3,8,11,22
+2016,1315,Pitt.-Bradford,4,12,10,26
+2016,11839,Pitt.-Greensburg,0,10,10,20
+2016,546,Pitt.-Johnstown,10,2,23,35
+2016,1314,Pittsburg St.,0,13,16,29
+2016,545,Pittsburgh,11,2,19,32
+2016,547,Plattsburgh St.,6,8,12,26
+2016,548,Plymouth St.,11,4,13,28
+2016,30149,Point Loma,6,4,18,28
+2016,549,Pomona-Pitzer,6,4,16,26
+2016,551,Portland,11,3,17,31
+2016,550,Portland St.,4,9,15,28
+2016,1318,Post,10,5,16,31
+2016,553,Prairie View,0,14,17,31
+2016,1320,Presbyterian,3,12,13,28
+2016,554,Princeton,5,4,14,23
+2016,555,Principia,6,6,15,27
+2016,556,Providence,9,7,16,32
+2016,557,Puget Sound,5,6,13,24
+2016,30029,Purchase,0,8,15,23
+2016,559,Purdue,10,2,19,31
+2016,11504,Queens (NC),4,7,18,29
+2016,560,Queens (NY),3,7,16,26
+2016,561,Quincy,6,7,15,28
+2016,562,Quinnipiac,1,13,17,31
+2016,563,Radford,7,7,13,27
+2016,564,Ramapo,8,4,14,26
+2016,566,Randolph,2,13,12,27
+2016,565,Randolph-Macon,13,3,13,29
+2016,567,Redlands,4,6,16,26
+2016,568,Regis (CO),5,6,17,28
+2016,569,Regis (MA),8,9,13,30
+2016,572,Rhode Island,10,3,14,27
+2016,571,Rhode Island Col.,6,5,17,28
+2016,573,Rhodes,5,9,14,28
+2016,574,Rice,11,4,14,29
+2016,576,Rider,8,9,15,32
+2016,577,Ripon,4,11,9,24
+2016,580,RIT,10,7,22,39
+2016,18422,Rivier,10,4,17,31
+2016,578,Roanoke,14,0,13,27
+2016,579,Robert Morris,6,8,15,29
+2016,30150,Roberts Wesleyan,1,9,15,25
+2016,581,Rochester (NY),9,7,15,31
+2016,582,Rockford,6,9,11,26
+2016,1328,Rockhurst,13,1,15,29
+2016,583,Roger Williams,8,7,13,28
+2016,584,Rollins,1,9,19,29
+2016,585,Rose-Hulman,8,10,14,32
+2016,15882,Rosemont,2,9,16,27
+2016,259,Rowan,7,7,21,35
+2016,586,Rust,0,6,9,15
+2016,587,Rutgers,3,10,19,32
+2016,588,Rutgers-Camden,4,8,15,27
+2016,589,Rutgers-Newark,7,3,17,27
+2016,11276,S.C. Aiken,9,2,18,29
+2016,102,Sacramento St.,14,2,15,31
+2016,590,Sacred Heart,6,6,16,28
+2016,11036,Sage Colleges,9,5,18,32
+2016,591,Saginaw Valley,10,2,16,28
+2016,594,Saint Augustine's,6,5,13,24
+2016,595,Saint Benedict,10,4,11,25
+2016,600,Saint Francis (PA),2,14,13,29
+2016,608,Saint Leo,6,4,19,29
+2016,609,Saint Louis,12,5,13,30
+2016,1343,Saint Martin's,2,7,18,27
+2016,612,Saint Mary's (MN),12,2,15,29
+2016,613,Saint Michael's,6,4,14,24
+2016,617,Saint Peter's,1,8,19,28
+2016,1347,Saint Rose,4,6,13,23
+2016,30064,Saint Vincent,4,8,20,32
+2016,30041,Salem,2,7,9,18
+2016,19117,Salem Int'l,4,9,16,29
+2016,621,Salem St.,3,9,14,26
+2016,622,Salisbury,13,6,11,30
+2016,623,Salve Regina,5,10,12,27
+2016,624,Sam Houston St.,7,8,15,30
+2016,625,Samford,7,5,14,26
+2016,627,San Diego,8,5,17,30
+2016,626,San Diego St.,4,10,17,31
+2016,628,San Fran. St.,4,7,16,27
+2016,629,San Francisco,13,2,16,31
+2016,630,San Jose St.,8,5,18,31
+2016,631,Santa Clara,10,4,16,30
+2016,30163,Sarah Lawrence,1,11,16,28
+2016,632,Savannah St.,0,17,14,31
+2016,1355,Schreiner,2,13,18,33
+2016,633,Scranton,13,5,18,36
+2016,1356,Seattle,10,5,13,28
+2016,634,Seattle Pacific,4,8,16,28
+2016,635,Seton Hall,6,7,18,31
+2016,30063,Seton Hill,13,3,20,36
+2016,652,Sewanee,8,4,11,23
+2016,636,Shaw,6,5,21,32
+2016,637,Shenandoah,7,7,13,27
+2016,10870,Shepherd,5,7,19,31
+2016,638,Shippensburg,11,3,21,35
+2016,30151,Shorter,5,4,16,25
+2016,639,Siena,5,6,17,28
+2016,640,Simmons,4,7,16,27
+2016,30127,Simon Fraser,6,5,17,28
+2016,641,Simpson,8,8,17,33
+2016,30128,Sioux Falls,8,6,15,29
+2016,660,SIUE,3,9,14,26
+2016,642,Skidmore,5,11,17,33
+2016,643,Slippery Rock,7,9,20,36
+2016,644,Smith,2,11,15,28
+2016,663,SMU,10,2,20,32
+2016,645,Sonoma St.,6,3,17,26
+2016,646,South Ala.,6,6,15,27
+2016,648,South Carolina,7,7,17,31
+2016,647,South Carolina St.,0,9,13,22
+2016,650,South Dakota,6,8,15,29
+2016,30139,South Dakota Mines,3,9,17,29
+2016,649,South Dakota St.,1,16,15,32
+2016,651,South Fla.,3,10,19,32
+2016,654,Southeast Mo. St.,4,10,16,30
+2016,655,Southeastern La.,7,8,15,30
+2016,1371,Southeastern Okla.,3,11,14,28
+2016,1376,Southern Ark.,5,6,21,32
+2016,657,Southern California,13,0,19,32
+2016,658,Southern Conn. St.,2,13,19,34
+2016,659,Southern Ill.,9,5,17,31
+2016,661,Southern Ind.,10,2,20,32
+2016,662,Southern Me.,6,7,17,30
+2016,664,Southern Miss.,13,5,15,33
+2016,468,Southern N.H.,6,8,13,27
+2016,30152,Southern Nazarene,5,10,17,32
+2016,665,Southern U.,0,12,17,29
+2016,667,Southern Utah,9,5,15,29
+2016,30164,Southern Va.,4,10,14,28
+2016,1379,Southern Vt.,1,7,10,18
+2016,30192,Southern Wesleyan,8,4,13,25
+2016,2755,Southwest Baptist,2,9,18,29
+2016,8736,Southwest Minn. St.,10,3,15,28
+2016,8746,Southwestern (TX),14,1,17,32
+2016,8744,Southwestern Okla.,6,4,20,30
+2016,23260,Spalding,5,9,17,31
+2016,30191,Spring Hill,12,6,12,30
+2016,673,Springfield,12,2,16,30
+2016,593,St. Anselm,6,5,13,24
+2016,597,St. Catherine,9,6,16,31
+2016,598,St. Cloud St.,5,6,17,28
+2016,1334,St. Edward's,4,8,16,28
+2016,9684,St. Elizabeth,8,3,19,30
+2016,599,St. Francis Brooklyn,2,14,14,30
+2016,601,St. John Fisher,7,6,19,32
+2016,603,St. John's (NY),11,5,17,33
+2016,8687,St. Joseph (CT),5,6,18,29
+2016,30072,St. Joseph's (Brkln),2,3,17,22
+2016,604,St. Joseph's (IN),4,6,18,28
+2016,1340,St. Joseph's (L.I.),6,7,18,31
+2016,605,St. Joseph's (ME),14,0,17,31
+2016,607,St. Lawrence,9,8,18,35
+2016,610,St. Mary's (CA),5,7,16,28
+2016,8688,St. Mary's (IN),8,4,16,28
+2016,611,St. Mary's (MD),7,5,15,27
+2016,1346,St. Mary's (TX),3,9,16,28
+2016,614,St. Norbert,6,10,14,30
+2016,615,St. Olaf,8,9,11,28
+2016,618,St. Scholastica,9,7,11,27
+2016,620,St. Thomas (MN),6,7,13,26
+2016,674,Stanford,7,2,19,28
+2016,675,Staten Island,5,5,14,24
+2016,676,Stephen F. Austin,9,8,16,33
+2016,678,Stetson,5,9,14,28
+2016,679,Stevens,7,8,17,32
+2016,21852,Stevenson,11,6,16,33
+2016,680,Stillman,4,9,22,35
+2016,681,Stockton,15,2,17,34
+2016,682,Stonehill,6,5,15,26
+2016,683,Stony Brook,4,12,14,30
+2016,684,Suffolk,3,9,16,28
+2016,1390,Sul Ross St.,3,7,16,26
+2016,958,Summit,1,13,13,27
+2016,30165,SUNY Canton,13,3,19,35
+2016,168,SUNY Cortland,6,11,20,37
+2016,247,SUNY Geneseo,8,9,16,33
+2016,478,SUNY Maritime,4,6,20,30
+2016,475,SUNY New Paltz,12,7,14,33
+2016,526,SUNY Oneonta,8,7,19,34
+2016,9500,SUNY Poly,8,2,18,28
+2016,552,SUNY Potsdam,4,12,15,31
+2016,685,Susquehanna,12,6,16,34
+2016,686,Swarthmore,11,3,13,27
+2016,688,Syracuse,10,2,19,31
+2016,689,Tampa,9,3,19,31
+2016,1395,Tarleton St.,12,3,16,31
+2016,698,TCU,10,4,14,28
+2016,690,Temple,10,3,19,32
+2016,694,Tennessee,14,1,18,33
+2016,691,Tennessee St.,5,9,14,28
+2016,692,Tennessee Tech,3,12,14,29
+2016,30090,Tex. A&M Int'l,3,6,13,22
+2016,199,Tex. A&M-Commerce,10,4,14,28
+2016,696,Tex. A&M-Kingsville,7,7,19,33
+2016,30088,Tex. Permian Basin,2,9,15,26
+2016,703,Texas,11,1,15,27
+2016,697,Texas A&M,7,4,18,29
+2016,1400,Texas Lutheran,9,1,16,26
+2016,699,Texas Southern,1,11,13,25
+2016,670,Texas St.,8,8,13,29
+2016,700,Texas Tech,12,4,14,30
+2016,701,Texas Woman's,9,3,17,29
+2016,702,Texas-Arlington,11,4,13,28
+2016,23121,Texas-Dallas,13,2,14,29
+2016,30028,Texas-Tyler,6,5,17,28
+2016,707,Thiel,1,15,14,30
+2016,1402,Thomas More,7,3,17,27
+2016,1403,Tiffin,6,4,16,26
+2016,709,Toledo,3,11,15,29
+2016,711,Towson,13,2,16,31
+2016,28749,Transylvania,9,4,12,25
+2016,30002,Trevecca Nazarene,7,6,15,28
+2016,30037,Trine,6,8,13,27
+2016,713,Trinity (CT),3,5,13,21
+2016,715,Trinity (TX),8,7,19,34
+2016,23413,Trinity Washington,0,6,12,18
+2016,716,Troy,5,10,16,31
+2016,499,Truman,7,5,15,27
+2016,717,Tufts,5,3,16,24
+2016,718,Tulane,6,6,20,32
+2016,719,Tulsa,5,8,19,32
+2016,12830,Tusculum,6,4,18,28
+2016,720,Tuskegee,5,4,19,28
+2016,1255,U New England,3,4,15,22
+2016,9,UAB,7,10,15,32
+2016,108,UC Davis,5,10,11,26
+2016,109,UC Irvine,6,7,15,28
+2016,111,UC Riverside,6,8,15,29
+2016,112,UC San Diego,8,5,16,29
+2016,104,UC Santa Barbara,4,8,11,23
+2016,113,UC Santa Cruz,4,7,9,20
+2016,9754,UC-Colo. Springs,9,5,13,27
+2016,128,UCF,7,6,19,32
+2016,110,UCLA,9,2,19,30
+2016,164,UConn,6,6,19,31
+2016,309,UIndy,4,9,15,28
+2016,401,UMass Boston,3,8,14,25
+2016,656,UMass Dartmouth,7,9,15,31
+2016,368,UMass Lowell,2,13,14,29
+2016,391,UMBC,6,8,12,26
+2016,393,UMES,11,3,14,28
+2016,2707,UMKC,8,6,12,26
+2016,456,UNC Asheville,8,5,13,26
+2016,537,UNC Pembroke,3,12,17,32
+2016,459,UNCG,10,7,14,31
+2016,460,UNCW,10,3,15,28
+2016,504,UNI,7,7,17,31
+2016,727,Union (NY),11,3,19,33
+2016,30153,Union (TN),4,6,20,30
+2016,465,UNLV,7,5,18,30
+2016,728,Upper Iowa,7,7,15,29
+2016,30104,Urbana,6,8,16,30
+2016,730,Ursinus,5,7,13,25
+2016,30140,Ursuline,4,11,16,31
+2016,10411,USC Upstate,12,5,13,30
+2016,28594,USciences,2,6,16,24
+2016,695,UT Martin,5,13,15,33
+2016,732,Utah,7,5,19,31
+2016,731,Utah St.,4,11,17,32
+2016,30024,Utah Valley,5,9,13,27
+2016,704,UTEP,6,10,16,32
+2016,733,Utica,2,11,22,35
+2016,536,UTRGV,7,8,14,29
+2016,706,UTSA,10,5,14,29
+2016,30181,UVa-Wise,6,6,19,31
+2016,745,Va. Wesleyan,12,6,13,31
+2016,734,Valdosta St.,8,0,18,26
+2016,30166,Valley Forge,4,7,11,22
+2016,735,Valparaiso,14,2,16,32
+2016,737,Vassar,7,6,16,29
+2016,740,VCU,6,9,15,30
+2016,739,Villanova,11,3,17,31
+2016,746,Virginia,9,3,19,31
+2016,743,Virginia St.,5,6,15,26
+2016,742,Virginia Tech,9,4,19,32
+2016,744,Virginia Union,5,4,16,25
+2016,749,Wake Forest,8,5,19,32
+2016,30141,Walsh,4,8,15,27
+2016,750,Wartburg,12,3,17,32
+2016,751,Wash. & Jeff.,6,6,14,26
+2016,752,Wash. & Lee,9,6,16,31
+2016,2814,Washburn,13,0,18,31
+2016,756,Washington,11,0,19,30
+2016,753,Washington Col.,10,5,12,27
+2016,754,Washington St.,11,2,19,32
+2016,755,Washington-St. Louis,14,1,17,32
+2016,757,Wayne St. (MI),5,8,14,27
+2016,1433,Wayne St. (NE),11,2,17,30
+2016,1434,Waynesburg,1,14,17,32
+2016,758,Weber St.,5,7,16,28
+2016,759,Webster,6,7,20,33
+2016,760,Wellesley,6,7,15,28
+2016,761,Wells,6,7,15,28
+2016,762,Wentworth,4,9,14,27
+2016,763,Wesley,8,5,16,29
+2016,764,Wesleyan (CT),4,5,12,21
+2016,14718,Wesleyan (GA),0,13,11,24
+2016,358,West Ala.,4,8,19,31
+2016,765,West Chester,11,3,20,34
+2016,11740,West Florida,11,2,19,32
+2016,766,West Ga.,2,8,18,28
+2016,1438,West Liberty,8,8,16,32
+2016,767,West Tex. A&M,4,8,22,34
+2016,9630,West Va. Wesleyan,5,7,18,30
+2016,768,West Virginia,5,7,17,29
+2016,1439,West Virginia St.,3,7,16,26
+2016,769,Western Caro.,7,11,14,32
+2016,770,Western Conn. St.,8,6,17,31
+2016,771,Western Ill.,3,12,17,32
+2016,772,Western Ky.,14,2,15,31
+2016,774,Western Mich.,5,11,15,31
+2016,1445,Western N.M.,9,3,15,27
+2016,775,Western New Eng.,7,4,14,25
+2016,1446,Western Ore.,4,9,16,29
+2016,2759,Western St.,3,11,15,29
+2016,1448,Western Wash.,9,2,17,28
+2016,777,Westfield St.,6,7,16,29
+2016,1450,Westminster (MO),9,5,18,32
+2016,1451,Westminster (PA),4,13,18,35
+2016,30209,Westminster (UT),4,6,15,25
+2016,778,Wheaton (IL),4,10,15,29
+2016,779,Wheaton (MA),6,9,13,28
+2016,12799,Wheeling Jesuit,14,3,19,36
+2016,780,Whitman,2,8,12,22
+2016,781,Whittier,7,5,16,28
+2016,1454,Whitworth,9,3,14,26
+2016,782,Wichita St.,10,5,17,32
+2016,783,Widener,9,6,16,31
+2016,784,Wilkes,9,9,20,38
+2016,785,Willamette,7,4,13,24
+2016,786,William & Mary,6,8,15,29
+2016,30120,William Jewell,4,9,16,29
+2016,17094,William Peace,11,4,17,32
+2016,789,Williams,7,4,14,25
+2016,1460,Wilmington (DE),9,5,17,31
+2016,1461,Wilmington (OH),0,13,11,24
+2016,1462,Wingate,11,2,17,30
+2016,790,Winona St.,7,5,15,27
+2016,791,Winston-Salem,6,4,20,30
+2016,792,Winthrop,5,11,14,30
+2016,8911,Wis. Lutheran,6,12,8,26
+2016,793,Wis.-Eau Claire,10,6,18,34
+2016,795,Wis.-La Crosse,11,4,12,27
+2016,798,Wis.-Oshkosh,13,3,18,34
+2016,799,Wis.-Parkside,8,5,16,29
+2016,800,Wis.-Platteville,9,8,14,31
+2016,801,Wis.-River Falls,7,10,18,35
+2016,802,Wis.-Stevens Point,15,2,15,32
+2016,803,Wis.-Stout,10,9,14,33
+2016,804,Wis.-Superior,10,6,15,31
+2016,805,Wis.-Whitewater,14,3,15,32
+2016,796,Wisconsin,8,3,19,30
+2016,806,Wittenberg,12,1,10,23
+2016,787,Wm. Paterson,7,5,17,29
+2016,2915,Wofford,7,9,17,33
+2016,807,Wooster,10,4,12,26
+2016,809,Worcester St.,5,5,17,27
+2016,808,WPI,8,4,15,27
+2016,810,Wright St.,11,6,14,31
+2016,811,Wyoming,11,2,17,30
+2016,812,Xavier,6,6,17,29
+2016,813,Yale,6,4,14,24
+2016,814,Yeshiva,1,5,13,19
+2016,2730,York (NY),2,9,14,25
+2016,815,York (PA),9,12,12,33
+2016,817,Youngstown St.,5,10,16,31
