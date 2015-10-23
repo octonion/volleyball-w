@@ -64,7 +64,7 @@ r.team_won is not null
 and r.team_id > r.opponent_id
 
 -- Test November,December
---and extract(month from r.game_date) in (11,12)
+and extract(month from r.game_date) in (11,12)
 
 -- Ignore neutral games
 --and not(r.neutral_site)
@@ -147,7 +147,7 @@ r.team_won is not null
 and r.team_id > r.opponent_id
 
 -- Test November,December
---and extract(month from r.game_date) in (11,12)
+and extract(month from r.game_date) in (11,12)
 
 -- Ignore neutral games
 --and not(r.neutral_site)
@@ -224,7 +224,7 @@ r.team_won is not null
 and r.team_id > r.opponent_id
 
 -- Test November,December
---and extract(month from r.game_date) in (11,12)
+and extract(month from r.game_date) in (11,12)
 
 -- Ignore neutral games
 --and not(r.neutral_site)

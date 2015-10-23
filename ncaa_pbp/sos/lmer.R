@@ -18,17 +18,22 @@ r.team_div_id as o_div,
 r.opponent_id as opponent,
 r.opponent_div_id as d_div,
 r.team_score as team_score,
-r.opponent_score as opponent_score
+r.opponent_score as opponent_score,
+r.team_score::float/(r.team_score+r.opponent_score)::float as pp
 from ncaa_pbp.results r
 
 where
     r.year between 2014 and 2016
 and r.team_div_id is not null
 and r.opponent_div_id is not null
+
+--and r.team_div_id in (1,2)
+--and r.opponent_div_id in (1,2)
+
 and not(r.team_score,r.opponent_score)=(0,0)
 
 -- Exclude November,December
---and extract(month from r.game_date) not in (11,12)
+and extract(month from r.game_date) not in (11,12)
 ;")
 
 games <- fetch(query,n=-1)
@@ -91,10 +96,12 @@ parameter_levels <- as.data.frame(do.call("rbind",pll))
 dbWriteTable(con,c("ncaa_pbp","_parameter_levels"),parameter_levels,row.names=TRUE)
 
 g <- cbind(fp,rp)
+g$pp <- pp
 
 dim(g)
 
 model <- cbind(team_score,opponent_score) ~ year+field+o_div+d_div+(1|offense)+(1|defense)
+#model <- pp ~ year+field+o_div+d_div+(1|offense)+(1|defense)
 fit <- glmer(model,
              data=g,
 	     family=binomial(logit),
