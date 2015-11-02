@@ -21,18 +21,19 @@ tail -q -n+2 tsv/ncaa_team_schedules_mt_*.tsv >> /tmp/ncaa_team_schedules.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_team_schedules.sql
 rm /tmp/ncaa_team_schedules.tsv
 
-tail -q -n+2 tsv/ncaa_player_summaries_2016_[123].tsv >> /tmp/ncaa_player_summaries.tsv
-rpl -q " " "" /tmp/ncaa_player_summaries.tsv
-rpl -q '""' '' /tmp/ncaa_player_summaries.tsv
-psql volleyball-w -f loaders_tsv/load_ncaa_player_summaries.sql
-rm /tmp/ncaa_player_summaries.tsv
+#tail -q -n+2 tsv/ncaa_player_summaries_2016_[123].tsv >> /tmp/ncaa_player_summaries.tsv
+#rpl -q " " "" /tmp/ncaa_player_summaries.tsv
+#rpl -q '""' '' /tmp/ncaa_player_summaries.tsv
+#psql volleyball-w -f loaders_tsv/load_ncaa_player_summaries.sql
+#rm /tmp/ncaa_player_summaries.tsv
 
 #cp tsv/ncaa_games_box_scores_mt_2016*.tsv.gz /tmp/data
+cp tsv/ncaa_games_box_scores_mt_2016*.tsv /tmp/data
 #pigz -d /tmp/data/ncaa_games_box_scores_mt_*.tsv.gz
-#tail -q -n+2 /tmp/data/ncaa_games_box_scores_mt_*.tsv >> /tmp/ncaa_games_box_scores.tsv
-#psql volleyball-w -f loaders_tsv/load_ncaa_box_scores.sql
-#rm /tmp/ncaa_games_box_scores.tsv
-#rm /tmp/data/ncaa_games_box_scores_mt_*.tsv
+tail -q -n+2 /tmp/data/ncaa_games_box_scores_mt_*.tsv >> /tmp/ncaa_games_box_scores.tsv
+psql volleyball-w -f loaders_tsv/load_ncaa_box_scores.sql
+rm /tmp/ncaa_games_box_scores.tsv
+rm /tmp/data/ncaa_games_box_scores_mt_*.tsv
 
 tail -q -n+2 tsv/ncaa_team_rosters_mt*.tsv >> /tmp/ncaa_team_rosters.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_team_rosters.sql
