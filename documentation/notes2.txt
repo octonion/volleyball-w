@@ -1,0 +1,17 @@
+
+serving:
+
+ace, service error
+kill, attack error, 0 attack -> +1 attempt
+kill, attack error, 0 attack -> +1 attempt
+...
+
+
+
+
+attacks = kill, attack error, 0-attack
+
+USC: 36, 19, 116
+
+UW: 47, 16, 142
+
