@@ -1,0 +1,51 @@
+
+
+Point:
+
+p = pr(point)
+
+k = Pr(kill)
+e = Pr(error)
+z = Pr(0-attack) = 1-(k+e)
+
+oe = Pr(opponent error)
+ok = Pr(opponent kill)
+oz = Pr(opponent 0-attack) = 1-(ok+oe)
+
+p = k + z*(oe + oz*p)
+p = k + z*oe + z*oz*p
+p*(1-z*oz) = k + z*oe
+
+p = (k+z*oe)/(1-z*oz)
+
+k = kills/attacks
+e = error/attacks
+z = 1-(k+e)
+
+k = 36/116 = 0.3103
+e = 19/116 = 0.1638
+z = 0.5259
+
+attacks = 116
+
+ok = 47/142 = 0.3310
+oe = 16/142 = 0.1127
+oz = 0.5563
+
+attacks = 142
+
+p = (k+z*oe)/(1-z*oz)
+p = (0.3103 + 0.5259*0.1127)/(1-0.5259*0.5563)
+p = 0.5224
+
+p = (0.3310 + 0.5563*0.1638)/(1-0.5563*0.5259)
+p = 0.5967
+
+26,25,25
+24,21,15
+
+60
+76
+
+76*0.4776 + 60*0.5967
+

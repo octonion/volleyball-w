@@ -1,0 +1,91 @@
+
+kills + aces + opponent errors/service errors/ball handling errors
+
+aces = receiving errors
+
+serve: ace, service error, in play
+in play: team kill, team error, in play; opponent kill, opponent error, in play
+
+kill, attack error, 0 attack
+
+Article 1. An attack attempt (ATT) is recorded any time a player attempts
+to attack (hit strategically) the ball into the opponent's court. The
+ball may be spiked, set, tipped or hit as an overhead contact. There are
+three possible outcomes of an attack attempt:
+
+(1) There can be a kill.
+(2) There can be an attack error.
+(3) The ball can stay in play. This is referred to as a "0 attack" (zero
+attack).
+
+Philosophy. Any ball that is played over the net in an attempt to score
+a point should be considered an attack. Any ball played over the net simply
+to keep the ball alive should not be considered an attack attempt.
+
+The exceptions to an attack attempt are:
+
+(1) An attempt is not charged on a ball played over the net on serve
+reception that is kept in play by the opposing team. This is called
+an overpass.
+
+(2) An attempt is not charged on a free ball played over the net
+when, in the opinion of the statistician, the free ball is passed only
+to keep the ball in play.
+
+(3) An attempt is not charged to a player if, in the opinion of the statistician,
+
+the set is bad and the player plays the ball over the net
+only to keep the ball in play.
+
+(4) An attempt is not charged to a player if, in the opinion of the statistician,
+the player passes the ball over the net only to keep it in
+play.
+
+However, if in any of the four above-mentioned instances the action
+results directly in a point for the team playing the ball, a kill (see Article
+2), and therefore an attack attempt, must be awarded.
+
+It is possible to spot errors or major discrepancies in your statistics
+compilations by completing these cross-checks:
+
+(1) A team’s total service aces must equal the opponent’s total reception
+errors. If a team had 10 service aces, then the opposing team
+must have 10 reception errors. (Team reception errors should be
+included in the total of reception errors.)
+
+(2) A team's total assists are nearly equal to, but never more than, that
+team's kills. The difference would be due to the opposing team's
+overpasses that Team A kills. The possibility of assists and kills being
+equal exists, but is unlikely.
+
+(3) A team's total team blocks must not exceed the opposing team's
+hitting errors.
+
+(4) The total number of individual blocks is the sum of block solos
+and block assists. Each counts one point. The total number of
+team blocks is the sum of block solos and half the number of
+block assists
+
+(5) When a ball is attacked, there are only a certain number of situations
+that can occur. There can be a kill, an attack error or the ball
+can stay in play ("0 attack").
+There are certain statistical combinations that can occur, depending
+on the outcome of the attack attempt. There can be a block
+solo or block assists (also an attack error), a blocking error (also a
+kill), a dig (also a "0 attack"), or the ball can be kept in play off the
+block attempt (also a "0 attack").
+The check is: A team's attacks are nearly equal to its own kills plus
+errors plus the opposing team’s digs. The difference would be due
+to balls that are returned by the opposing team with a blocking
+motion, but stay on the attacking team's side of the court and are
+kept in play ("put backs").
+
+(6) A team's total digs cannot exceed the number of "zero attacks" by
+its opponent occurring in the match. Each team has only a certain
+number of opportunities to record digs during the course of
+play. For instance, Team A attacks the ball 100 times during the
+match—35 result in kills and 10 in attack errors. This leaves 55 attack
+attempts (100-[35+10]) that can be dug by Team B. It is not
+likely that every ball will be dug, as some may be blocked back to
+Team A's side by Team B and kept in play by Team A. (We refer to
+these as “put backs” as they do not count as blocks statistically.)
