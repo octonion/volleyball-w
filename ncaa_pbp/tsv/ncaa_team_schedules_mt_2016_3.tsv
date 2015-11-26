@@ -1460,13 +1460,20 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	105	Cal Lutheran	09/04/2015	Puget Sound @ La Verne, CA	557	Puget Sound	http://stats.ncaa.org/team/index/12221?org_id=557	true	La Verne, CA	true	W 3 - 0	true	3 - 0	false	3	0	false		3895595	http://stats.ncaa.org/game/index/3895595?org_id=105
 2016	12221	105	Cal Lutheran	09/05/2015	Colby-Sawyer @ Claremont, CA	152	Colby-Sawyer	http://stats.ncaa.org/team/index/12221?org_id=152	true	Claremont, CA	true	W 3 - 0	true	3 - 0	false	3	0	false		3888691	http://stats.ncaa.org/game/index/3888691?org_id=152
 2016	12221	105	Cal Lutheran	09/05/2015	Carthage @ Claremont, CA	121	Carthage	http://stats.ncaa.org/team/index/12221?org_id=121	true	Claremont, CA	true	L 1 - 3	false	1 - 3	false	1	3	false		3895610	http://stats.ncaa.org/game/index/3895610?org_id=105
+<<<<<<< HEAD
 2016	12221	105	Cal Lutheran	09/11/2015	Providence Christian		Providence Christian		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3894335	http://stats.ncaa.org/game/index/3894335?org_id=105
+=======
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	105	Cal Lutheran	09/11/2015	UC Santa Cruz	113	UC Santa Cruz	http://stats.ncaa.org/team/index/12221?org_id=113	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3891669	http://stats.ncaa.org/game/index/3891669?org_id=105
+2016	12221	105	Cal Lutheran	09/11/2015	Providence Christian		Providence Christian		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3894335	http://stats.ncaa.org/game/index/3894335?org_id=105
 2016	12221	105	Cal Lutheran	09/12/2015	LIFE Pacific		LIFE Pacific		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3894336	http://stats.ncaa.org/game/index/3894336?org_id=105
 2016	12221	105	Cal Lutheran	09/12/2015	Willamette	785	Willamette	http://stats.ncaa.org/team/index/12221?org_id=785	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3893493	http://stats.ncaa.org/game/index/3893493?org_id=105
 2016	12221	105	Cal Lutheran	09/15/2015	La Verne	341	La Verne	http://stats.ncaa.org/team/index/12221?org_id=341	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3900078	http://stats.ncaa.org/game/index/3900078?org_id=105
 2016	12221	105	Cal Lutheran	09/18/2015	@ Emory	217	Emory	http://stats.ncaa.org/team/index/12221?org_id=217	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3900368	http://stats.ncaa.org/game/index/3900368?org_id=217
+<<<<<<< HEAD
 2016	12221	105	Cal Lutheran	09/18/2015	Wheaton (IL) @ Atlanta, GA	778	Wheaton (IL)	http://stats.ncaa.org/team/index/12221?org_id=778	true	Atlanta, GA	true	W 3 - 0	true	3 - 0	false	3	0	false		3900167	http://stats.ncaa.org/game/index/3900167?org_id=105
+=======
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	105	Cal Lutheran	09/19/2015	Calvin @ Atlanta, GA	114	Calvin	http://stats.ncaa.org/team/index/12221?org_id=114	true	Atlanta, GA	true	W 3 - 2	true	3 - 2	false	3	2	false		3902007	http://stats.ncaa.org/game/index/3902007?org_id=105
 2016	12221	105	Cal Lutheran	09/19/2015	Washington-St. Louis @ Atlanta, Ga.	755	Washington-St. Louis	http://stats.ncaa.org/team/index/12221?org_id=755	true	Atlanta, Ga.	true	W 3 - 1	true	3 - 1	false	3	1	false		3901173	http://stats.ncaa.org/game/index/3901173?org_id=105
 2016	12221	105	Cal Lutheran	09/22/2015	@ Whittier	781	Whittier	http://stats.ncaa.org/team/index/12221?org_id=781	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3905441	http://stats.ncaa.org/game/index/3905441?org_id=105
@@ -1491,7 +1498,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	105	Cal Lutheran	11/15/2015	Washington-St. Louis	755	Washington-St. Louis	http://stats.ncaa.org/team/index/12221?org_id=755	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3951197	http://stats.ncaa.org/game/index/3951197?org_id=105
 2016	12221	105	Cal Lutheran	11/19/2015	Bowdoin @ Grand Rapids, Mich.	69	Bowdoin	http://stats.ncaa.org/team/index/12221?org_id=69	true	Grand Rapids, Mich.	true	W 3 - 1	true	3 - 1	false	3	1	false		3953826	http://stats.ncaa.org/game/index/3953826?org_id=105
 2016	12221	105	Cal Lutheran	11/20/2015	Carthage @ Grand Rapids, Mich.	121	Carthage	http://stats.ncaa.org/team/index/12221?org_id=121	true	Grand Rapids, Mich.	true	W 3 - 2	true	3 - 2	false	3	2	false		3954878	http://stats.ncaa.org/game/index/3954878?org_id=105
+<<<<<<< HEAD
 2016	12221	105	Cal Lutheran	11/21/2015	Wittenberg @ Grand Rapids, Mich.	806	Wittenberg	http://stats.ncaa.org/team/index/12221?org_id=806	true	Grand Rapids, Mich.	true	W 3 - 0	true	3 - 0	false	3	0	false		3955966	http://stats.ncaa.org/game/index/3955966?org_id=806
+=======
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	89	Caltech	09/08/2015	@ West Coast Baptist		West Coast Baptist		false		false	L 1 - 3	false	1 - 3	false	1	3	false		3910822	http://stats.ncaa.org/game/index/3910822?org_id=89
 2016	12221	89	Caltech	09/10/2015	@ Claremont-M-S	142	Claremont-M-S	http://stats.ncaa.org/team/index/12221?org_id=142	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3890490	http://stats.ncaa.org/game/index/3890490?org_id=142
 2016	12221	89	Caltech	09/12/2015	@ Antelope Valley		Antelope Valley		false		false	L 0 - 3	false	0 - 3	false	0	3	false		3904548	http://stats.ncaa.org/game/index/3904548?org_id=89
@@ -5377,7 +5387,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	344	Lake Forest	10/17/2015	Cornell College	166	Cornell College	http://stats.ncaa.org/team/index/12221?org_id=166	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3928338	http://stats.ncaa.org/game/index/3928338?org_id=344
 2016	12221	344	Lake Forest	10/21/2015	@ Carroll (WI)	120	Carroll (WI)	http://stats.ncaa.org/team/index/12221?org_id=120	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3932027	http://stats.ncaa.org/game/index/3932027?org_id=120
 2016	12221	344	Lake Forest	10/24/2015	Beloit	53	Beloit	http://stats.ncaa.org/team/index/12221?org_id=53	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3934308	http://stats.ncaa.org/game/index/3934308?org_id=344
+<<<<<<< HEAD
 2016	12221	344	Lake Forest	10/31/2015	@ Ripon	577	Ripon	http://stats.ncaa.org/team/index/12221?org_id=577	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3957246	http://stats.ncaa.org/game/index/3957246?org_id=577
+=======
+2016	12221	344	Lake Forest	10/31/2015	@ Ripon	577	Ripon	http://stats.ncaa.org/team/index/12221?org_id=577	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3940723	http://stats.ncaa.org/game/index/3940723?org_id=577
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	1164	Lakeland	09/01/2015	Finlandia	30032	Finlandia	http://stats.ncaa.org/team/index/12221?org_id=30032	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3881669	http://stats.ncaa.org/game/index/3881669?org_id=1164
 2016	12221	1164	Lakeland	09/04/2015	Luther @ Winona, Minn.	372	Luther	http://stats.ncaa.org/team/index/12221?org_id=372	true	Winona, Minn.	true	W 3 - 0	true	3 - 0	false	3	0	false		3883965	http://stats.ncaa.org/game/index/3883965?org_id=372
 2016	12221	1164	Lakeland	09/04/2015	St. Norbert @ Winona, Minn.	614	St. Norbert	http://stats.ncaa.org/team/index/12221?org_id=614	true	Winona, Minn.	true	L 0 - 3	false	0 - 3	false	0	3	false		3885720	http://stats.ncaa.org/game/index/3885720?org_id=614
@@ -6427,10 +6441,16 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	8530	McMurry	10/24/2015	Dallas Christian		Dallas Christian		false		true	W 3 - 1	true	3 - 1	false	3	1	false		3934968	http://stats.ncaa.org/game/index/3934968?org_id=8530
 2016	12221	8530	McMurry	10/30/2015	@ Centenary (LA)	125	Centenary (LA)	http://stats.ncaa.org/team/index/12221?org_id=125	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3939225	http://stats.ncaa.org/game/index/3939225?org_id=125
 2016	12221	8530	McMurry	10/30/2015	Austin	953	Austin	http://stats.ncaa.org/team/index/12221?org_id=953	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3939688	http://stats.ncaa.org/game/index/3939688?org_id=953
+<<<<<<< HEAD
 2016	12221	8530	McMurry	10/31/2015	Dillard @ Shreveport, La.		Dillard		true	Shreveport, La.	true	W 3 - 1	true	3 - 1	false	3	1	false		3942147	http://stats.ncaa.org/game/index/3942147?org_id=8530
 2016	12221	8530	McMurry	10/31/2015	Rust @ Shreveport, La.	586	Rust	http://stats.ncaa.org/team/index/12221?org_id=586	true	Shreveport, La.	true	W 3 - 0	true	3 - 0	false	3	0	false		3941448	http://stats.ncaa.org/game/index/3941448?org_id=8530
 2016	12221	8530	McMurry	11/20/2015	Okla. Baptist @ Bartlesville	30202	Okla. Baptist	http://stats.ncaa.org/team/index/12221?org_id=30202	true	Bartlesville	true	L 0 - 3	false	0 - 3	false	0	3	false		3954283	http://stats.ncaa.org/game/index/3954283?org_id=30202
 2016	12221	8530	McMurry	11/20/2015	Colo. Christian @ Bartlesville, OK	11403	Colo. Christian	http://stats.ncaa.org/team/index/12221?org_id=11403	true	Bartlesville, OK	true	L 0 - 3	false	0 - 3	false	0	3	false		3957214	http://stats.ncaa.org/game/index/3957214?org_id=11403
+=======
+2016	12221	8530	McMurry	10/31/2015	Rust @ Shreveport, La.	586	Rust	http://stats.ncaa.org/team/index/12221?org_id=586	true	Shreveport, La.	true	W 3 - 0	true	3 - 0	false	3	0	false		3941448	http://stats.ncaa.org/game/index/3941448?org_id=8530
+2016	12221	8530	McMurry	10/31/2015	Dillard @ Shreveport, La.		Dillard		true	Shreveport, La.	true	W 3 - 1	true	3 - 1	false	3	1	false		3942147	http://stats.ncaa.org/game/index/3942147?org_id=8530
+2016	12221	8530	McMurry	11/20/2015	Okla. Baptist @ Bartlesville	30202	Okla. Baptist	http://stats.ncaa.org/team/index/12221?org_id=30202	true	Bartlesville	true	L 0 - 3	false	0 - 3	false	0	3	false		3954283	http://stats.ncaa.org/game/index/3954283?org_id=30202
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	30040	Me.-Presque Isle	09/04/2015	@ Husson	1133	Husson	http://stats.ncaa.org/team/index/12221?org_id=1133	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3890606	http://stats.ncaa.org/game/index/3890606?org_id=1133
 2016	12221	30040	Me.-Presque Isle	09/05/2015	Unity @ Bangor, ME		Unity		true	Bangor, ME	true	L 1 - 3	false	1 - 3	false	1	3	false		3904855	http://stats.ncaa.org/game/index/3904855?org_id=30040
 2016	12221	30040	Me.-Presque Isle	09/05/2015	Me.-Fort Kent @ Bangor, ME		Me.-Fort Kent		true	Bangor, ME	true	L 0 - 3	false	0 - 3	false	0	3	false		3904563	http://stats.ncaa.org/game/index/3904563?org_id=30040
@@ -7504,7 +7524,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30039	North Central (MN)	10/07/2015	Martin Luther	8597	Martin Luther	http://stats.ncaa.org/team/index/12221?org_id=8597	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3930358	http://stats.ncaa.org/game/index/3930358?org_id=30039
 2016	12221	30039	North Central (MN)	10/09/2015	Mount Mary @ Hancock, MI	30033	Mount Mary	http://stats.ncaa.org/team/index/12221?org_id=30033	true	Hancock, MI	true	W 3 - 0	true	3 - 0	false	3	0	false		3920133	http://stats.ncaa.org/game/index/3920133?org_id=30039
 2016	12221	30039	North Central (MN)	10/09/2015	@ Finlandia	30032	Finlandia	http://stats.ncaa.org/team/index/12221?org_id=30032	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3920122	http://stats.ncaa.org/game/index/3920122?org_id=30032
+<<<<<<< HEAD
 2016	12221	30039	North Central (MN)	10/10/2015	Grace Bible (MI)		Grace Bible (MI)		false		true	-									
+=======
+2016	12221	30039	North Central (MN)	10/10/2015	Grace Bible (MI)@Hancock, MI		Grace Bible (MI)Hancock, MI		false		false	-									
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	30039	North Central (MN)	10/16/2015	Blackburn @ Dubuque, Iowa	64	Blackburn	http://stats.ncaa.org/team/index/12221?org_id=64	true	Dubuque, Iowa	true	L 2 - 3	false	2 - 3	false	2	3	false		3929410	http://stats.ncaa.org/game/index/3929410?org_id=64
 2016	12221	30039	North Central (MN)	10/16/2015	@ Dubuque	192	Dubuque	http://stats.ncaa.org/team/index/12221?org_id=192	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3927259	http://stats.ncaa.org/game/index/3927259?org_id=192
 2016	12221	30039	North Central (MN)	10/20/2015	Northland	1267	Northland	http://stats.ncaa.org/team/index/12221?org_id=1267	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3931279	http://stats.ncaa.org/game/index/3931279?org_id=30039
@@ -8630,7 +8654,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	577	Ripon	10/17/2015	Monmouth (IL)	438	Monmouth (IL)	http://stats.ncaa.org/team/index/12221?org_id=438	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3929456	http://stats.ncaa.org/game/index/3929456?org_id=577
 2016	12221	577	Ripon	10/24/2015	@ Lawrence	348	Lawrence	http://stats.ncaa.org/team/index/12221?org_id=348	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3934610	http://stats.ncaa.org/game/index/3934610?org_id=348
 2016	12221	577	Ripon	10/30/2015	Beloit	53	Beloit	http://stats.ncaa.org/team/index/12221?org_id=53	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3939489	http://stats.ncaa.org/game/index/3939489?org_id=577
+<<<<<<< HEAD
 2016	12221	577	Ripon	10/31/2015	Lake Forest	344	Lake Forest	http://stats.ncaa.org/team/index/12221?org_id=344	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3957246	http://stats.ncaa.org/game/index/3957246?org_id=577
+=======
+2016	12221	577	Ripon	10/31/2015	Lake Forest	344	Lake Forest	http://stats.ncaa.org/team/index/12221?org_id=344	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3940723	http://stats.ncaa.org/game/index/3940723?org_id=577
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	577	Ripon	11/06/2015	St. Norbert @ Mount Vernon, Iowa	614	St. Norbert	http://stats.ncaa.org/team/index/12221?org_id=614	true	Mount Vernon, Iowa	true	L 1 - 3	false	1 - 3	false	1	3	false		3944806	http://stats.ncaa.org/game/index/3944806?org_id=577
 2016	12221	18422	Rivier	09/04/2015	FDU-Florham @ Virginia Beach	221	FDU-Florham	http://stats.ncaa.org/team/index/12221?org_id=221	true	Virginia Beach	true	L 0 - 3	false	0 - 3	false	0	3	false		3887364	http://stats.ncaa.org/game/index/3887364?org_id=221
 2016	12221	18422	Rivier	09/04/2015	@ Va. Wesleyan	745	Va. Wesleyan	http://stats.ncaa.org/team/index/12221?org_id=745	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3887768	http://stats.ncaa.org/game/index/3887768?org_id=18422
@@ -12384,8 +12412,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	805	Wis.-Whitewater	11/12/2015	Northwestern-St. Paul	30031	Northwestern-St. Paul	http://stats.ncaa.org/team/index/12221?org_id=30031	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3948320	http://stats.ncaa.org/game/index/3948320?org_id=805
 2016	12221	806	Wittenberg	09/01/2015	@ Otterbein	531	Otterbein	http://stats.ncaa.org/team/index/12221?org_id=531	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3888886	http://stats.ncaa.org/game/index/3888886?org_id=531
 2016	12221	806	Wittenberg	09/04/2015	St. Thomas (MN)	620	St. Thomas (MN)	http://stats.ncaa.org/team/index/12221?org_id=620	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3888914	http://stats.ncaa.org/game/index/3888914?org_id=806
-2016	12221	806	Wittenberg	09/05/2015	Juniata	325	Juniata	http://stats.ncaa.org/team/index/12221?org_id=325	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3888928	http://stats.ncaa.org/game/index/3888928?org_id=806
 2016	12221	806	Wittenberg	09/05/2015	Johns Hopkins	322	Johns Hopkins	http://stats.ncaa.org/team/index/12221?org_id=322	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3888919	http://stats.ncaa.org/game/index/3888919?org_id=806
+<<<<<<< HEAD
+=======
+2016	12221	806	Wittenberg	09/05/2015	Juniata	325	Juniata	http://stats.ncaa.org/team/index/12221?org_id=325	false		true	L 2 - 3	false	2 - 3	false	2	3	false		3888928	http://stats.ncaa.org/game/index/3888928?org_id=806
+2016	12221	806	Wittenberg	09/11/2015	Lynchburg @ Lexington, Va.	374	Lynchburg	http://stats.ncaa.org/team/index/12221?org_id=374	true	Lexington, Va.	true	W 3 - 0	true	3 - 0	false	3	0	false		3892958	http://stats.ncaa.org/game/index/3892958?org_id=374
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	806	Wittenberg	09/11/2015	@ Wash. & Lee	752	Wash. & Lee	http://stats.ncaa.org/team/index/12221?org_id=752	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3891354	http://stats.ncaa.org/game/index/3891354?org_id=752
 2016	12221	806	Wittenberg	09/11/2015	Lynchburg @ Lexington, Va.	374	Lynchburg	http://stats.ncaa.org/team/index/12221?org_id=374	true	Lexington, Va.	true	W 3 - 0	true	3 - 0	false	3	0	false		3892958	http://stats.ncaa.org/game/index/3892958?org_id=374
 2016	12221	806	Wittenberg	09/12/2015	Berry @ Lexington, Va.	973	Berry	http://stats.ncaa.org/team/index/12221?org_id=973	true	Lexington, Va.	true	W 3 - 1	true	3 - 1	false	3	1	false		3892957	http://stats.ncaa.org/game/index/3892957?org_id=973
@@ -12406,14 +12438,22 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	806	Wittenberg	10/24/2015	Oberlin	515	Oberlin	http://stats.ncaa.org/team/index/12221?org_id=515	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3933722	http://stats.ncaa.org/game/index/3933722?org_id=806
 2016	12221	806	Wittenberg	10/27/2015	@ DePauw	177	DePauw	http://stats.ncaa.org/team/index/12221?org_id=177	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3937577	http://stats.ncaa.org/game/index/3937577?org_id=177
 2016	12221	806	Wittenberg	11/06/2015	Allegheny	19	Allegheny	http://stats.ncaa.org/team/index/12221?org_id=19	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3944783	http://stats.ncaa.org/game/index/3944783?org_id=806
+<<<<<<< HEAD
 2016	12221	806	Wittenberg	11/07/2015	DePauw	177	DePauw	http://stats.ncaa.org/team/index/12221?org_id=177	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3947119	http://stats.ncaa.org/game/index/3947119?org_id=806
 2016	12221	806	Wittenberg	11/07/2015	Hiram	281	Hiram	http://stats.ncaa.org/team/index/12221?org_id=281	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3945248	http://stats.ncaa.org/game/index/3945248?org_id=806
+=======
+2016	12221	806	Wittenberg	11/07/2015	Hiram	281	Hiram	http://stats.ncaa.org/team/index/12221?org_id=281	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3945248	http://stats.ncaa.org/game/index/3945248?org_id=806
+2016	12221	806	Wittenberg	11/07/2015	DePauw	177	DePauw	http://stats.ncaa.org/team/index/12221?org_id=177	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3947119	http://stats.ncaa.org/game/index/3947119?org_id=806
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	806	Wittenberg	11/13/2015	Bluffton @ Huntingdon, Pa.	987	Bluffton	http://stats.ncaa.org/team/index/12221?org_id=987	true	Huntingdon, Pa.	true	W 3 - 1	true	3 - 1	false	3	1	false		3949271	http://stats.ncaa.org/game/index/3949271?org_id=987
 2016	12221	806	Wittenberg	11/14/2015	Heidelberg @ Huntingdon, Pa.	278	Heidelberg	http://stats.ncaa.org/team/index/12221?org_id=278	true	Huntingdon, Pa.	true	W 3 - 0	true	3 - 0	false	3	0	false		3951943	http://stats.ncaa.org/game/index/3951943?org_id=278
 2016	12221	806	Wittenberg	11/15/2015	@ Juniata	325	Juniata	http://stats.ncaa.org/team/index/12221?org_id=325	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3951088	http://stats.ncaa.org/game/index/3951088?org_id=325
 2016	12221	806	Wittenberg	11/19/2015	Clarkson @ Grand Rapids, Mich.	146	Clarkson	http://stats.ncaa.org/team/index/12221?org_id=146	true	Grand Rapids, Mich.	true	W 3 - 0	true	3 - 0	false	3	0	false		3953772	http://stats.ncaa.org/game/index/3953772?org_id=806
 2016	12221	806	Wittenberg	11/20/2015	Hendrix @ Grand Rapids, Mich.	1124	Hendrix	http://stats.ncaa.org/team/index/12221?org_id=1124	true	Grand Rapids, Mich.	true	W 3 - 1	true	3 - 1	false	3	1	false		3954404	http://stats.ncaa.org/game/index/3954404?org_id=806
+<<<<<<< HEAD
 2016	12221	806	Wittenberg	11/21/2015	Cal Lutheran @ Grand Rapids, Mich.	105	Cal Lutheran	http://stats.ncaa.org/team/index/12221?org_id=105	true	Grand Rapids, Mich.	true	L 0 - 3	false	0 - 3	false	0	3	false		3955966	http://stats.ncaa.org/game/index/3955966?org_id=806
+=======
+>>>>>>> 166f48491436403f4e5ca59a388b2a3fa2ac7e86
 2016	12221	787	Wm. Paterson	09/03/2015	Lehman	279	Lehman	http://stats.ncaa.org/team/index/12221?org_id=279	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3887301	http://stats.ncaa.org/game/index/3887301?org_id=787
 2016	12221	787	Wm. Paterson	09/05/2015	St. Elizabeth	9684	St. Elizabeth	http://stats.ncaa.org/team/index/12221?org_id=9684	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3887680	http://stats.ncaa.org/game/index/3887680?org_id=787
 2016	12221	787	Wm. Paterson	09/05/2015	St. Joseph's (Brkln)	30072	St. Joseph's (Brkln)	http://stats.ncaa.org/team/index/12221?org_id=30072	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3887663	http://stats.ncaa.org/game/index/3887663?org_id=787
