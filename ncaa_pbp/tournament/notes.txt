@@ -1,0 +1,17 @@
+seed,school_name
+1,Minnesota
+8,Penn State
+9,Florida
+16,Louisville
+2,USC
+7,Texas A&M 
+10,Stanford
+15,Missouri
+3,Texas
+6,Nebraska
+11,Kansas
+14,Ohio State
+4,Washington
+5,Wisconsin
+12,UCLA
+13,BYU
