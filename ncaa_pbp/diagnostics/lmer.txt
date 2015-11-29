@@ -16,7 +16,7 @@ Random effects:
 Number of obs: 280268, groups:  offense, 3170; defense, 3170
 Fixed Effects:
       (Intercept)           year2015           year2016  fielddefense_home  
-        7.788e-09         -7.722e-09         -6.075e-09         -4.135e-02  
+        7.789e-09         -7.723e-09         -6.075e-09         -4.135e-02  
 fieldoffense_home             o_div2             o_div3             d_div2  
         4.135e-02         -2.964e-01         -6.365e-01          2.964e-01  
            d_div3  
@@ -44,8 +44,8 @@ Number of obs: 280268, groups:  offense, 3170; defense, 3170
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        7.788e-09  1.685e-02    0.00        1    
-year2015          -7.722e-09  1.814e-02    0.00        1    
+(Intercept)        7.789e-09  1.685e-02    0.00        1    
+year2015          -7.723e-09  1.814e-02    0.00        1    
 year2016          -6.075e-09  1.812e-02    0.00        1    
 fielddefense_home -4.135e-02  1.569e-03  -26.36   <2e-16 ***
 fieldoffense_home  4.135e-02  1.569e-03   26.36   <2e-16 ***
