@@ -34,9 +34,12 @@ insert into ncaa_pbp.m
 (school_id,c,tof,tdf,ofd,dfd)
 (select
 r.school_id as school_id,
-exp(i.estimate)*y.exp_factor as c,
+--exp(i.estimate)*y.exp_factor as c,
+1.0 as c,
+
 hdof.exp_factor*h.offensive as tof,
 h.defensive*hddf.exp_factor as tdf,
+
 o.exp_factor as ofd,
 d.exp_factor as dfd
 from ncaa_pbp.rounds r
@@ -52,10 +55,10 @@ join ncaa_pbp._factors o
   on (o.parameter,o.level)=('field','offense_home')
 join ncaa_pbp._factors d
   on (d.parameter,d.level)=('field','defense_home')
-join ncaa_pbp._factors y
-  on (y.parameter,y.level)=('year',r.year::text)
-join ncaa_pbp._basic_factors i
-  on (i.factor)=('(Intercept)')
+--join ncaa_pbp._factors y
+--  on (y.parameter,y.level)=('year',r.year::text)
+--join ncaa_pbp._basic_factors i
+--  on (i.factor)=('(Intercept)')
 
 );
 

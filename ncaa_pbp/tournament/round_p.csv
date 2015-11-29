@@ -1,65 +1,65 @@
 rd,name,p
-2,Southern California,0.999
-2,Stanford,0.988
-2,Washington,0.911
-2,Florida,0.786
-2,Kansas,0.772
-2,Penn St.,0.645
-2,BYU,0.580
-2,Nebraska,0.535
-2,Texas,0.465
-2,UCLA,0.420
-2,Minnesota,0.355
-2,Ohio St.,0.228
-2,Louisville,0.214
-2,Wisconsin,0.089
-2,Missouri,0.012
-2,Texas A&M ,0.001
-3,Southern California,0.852
-3,Washington,0.834
-3,Penn St.,0.537
-3,Nebraska,0.374
-3,Texas,0.311
-3,Kansas,0.283
-3,Minnesota,0.258
-3,Florida,0.191
-3,Stanford,0.148
-3,BYU,0.078
-3,Wisconsin,0.046
-3,UCLA,0.042
-3,Ohio St.,0.032
-3,Louisville,0.015
-3,Missouri,0.000
-3,Texas A&M ,0.000
-4,Washington,0.714
-4,Southern California,0.529
-4,Penn St.,0.285
-4,Minnesota,0.102
-4,Nebraska,0.098
-4,Texas,0.074
-4,Kansas,0.048
-4,Florida,0.046
-4,Stanford,0.037
-4,BYU,0.032
-4,Wisconsin,0.018
-4,UCLA,0.014
-4,Ohio St.,0.002
-4,Louisville,0.001
-4,Texas A&M ,0.000
-4,Missouri,0.000
-5,Washington,0.496
-5,Southern California,0.246
-5,Penn St.,0.128
-5,Nebraska,0.034
-5,Minnesota,0.033
-5,Texas,0.024
-5,Kansas,0.011
-5,Florida,0.009
-5,BYU,0.007
-5,Stanford,0.006
-5,Wisconsin,0.004
-5,UCLA,0.002
-5,Louisville,0.000
-5,Texas A&M ,0.000
+2,Southern California,0.942
+2,Stanford,0.874
+2,Washington,0.750
+2,Florida,0.654
+2,Kansas,0.645
+2,Penn St.,0.574
+2,BYU,0.540
+2,Nebraska,0.518
+2,Texas,0.482
+2,UCLA,0.460
+2,Minnesota,0.426
+2,Ohio St.,0.355
+2,Louisville,0.346
+2,Wisconsin,0.250
+2,Missouri,0.126
+2,Texas A&M ,0.058
+3,Southern California,0.689
+3,Washington,0.568
+3,Penn St.,0.406
+3,Nebraska,0.323
+3,Texas,0.293
+3,Stanford,0.291
+3,Kansas,0.279
+3,Minnesota,0.274
+3,Florida,0.240
+3,BYU,0.173
+3,UCLA,0.132
+3,Wisconsin,0.127
+3,Ohio St.,0.104
+3,Louisville,0.080
+3,Texas A&M ,0.011
+3,Missouri,0.009
+4,Southern California,0.409
+4,Washington,0.408
+4,Penn St.,0.226
+4,Nebraska,0.142
+4,Minnesota,0.133
+4,Texas,0.124
+4,Stanford,0.114
+4,Kansas,0.103
+4,Florida,0.095
+4,BYU,0.082
+4,Wisconsin,0.059
+4,UCLA,0.057
+4,Ohio St.,0.026
+4,Louisville,0.021
+4,Missouri,0.001
+4,Texas A&M ,0.001
+5,Washington,0.259
+5,Southern California,0.229
+5,Penn St.,0.125
+5,Nebraska,0.065
+5,Minnesota,0.064
+5,Texas,0.055
+5,Stanford,0.042
+5,Kansas,0.040
+5,Florida,0.037
+5,BYU,0.031
+5,Wisconsin,0.022
+5,UCLA,0.020
+5,Ohio St.,0.007
+5,Louisville,0.005
 5,Missouri,0.000
-5,Ohio St.,0.000
+5,Texas A&M ,0.000
