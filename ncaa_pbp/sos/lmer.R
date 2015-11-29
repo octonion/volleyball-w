@@ -50,7 +50,7 @@ year <- as.factor(year)
 #contrasts(year)<-'contr.sum'
 
 field <- as.factor(field)
-#field <- relevel(field, ref = "neutral")
+field <- relevel(field, ref = "neutral")
 
 o_div <- as.factor(o_div)
 d_div <- as.factor(d_div)

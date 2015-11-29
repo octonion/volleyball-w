@@ -8,9 +8,11 @@ create or replace function vbp
 returns float
 as $$
 
+import math
+
 from scipy.special import comb
 
-r = mu1/mu2
+r = math.sqrt(mu1/mu2)
 
 p = r/(1+r)
 q = 1-p

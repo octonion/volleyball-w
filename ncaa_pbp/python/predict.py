@@ -4,6 +4,7 @@ import sys
 import csv
 import datetime
 import psycopg2
+import math
 
 from scipy.special import comb
 
@@ -19,17 +20,17 @@ end = today + datetime.timedelta(days=6)
 
 select = """
 select
-ts.game_date,
+ts.game_date as game_date,
 (case when ts.neutral_site then 'Neutral'
       when not(ts.neutral_site) and ts.home_game then 'Home'
       when not(ts.neutral_site) and not(ts.home_game) then 'Away'
-end),
-t.team_name,
-'D'||t.division as t_div,
-(tf.exp_factor*td.exp_factor*sft.offensive),
-o.team_name,
-'D'||o.division as o_div,
-(of.exp_factor*od.exp_factor*sfo.offensive)
+end) as site,
+t.team_name as team,
+'D'||t.division as tdiv,
+(tf.exp_factor*td.exp_factor*sft.offensive) as to,
+o.team_name as opponent,
+'D'||o.division as odiv,
+(of.exp_factor*od.exp_factor*sfo.offensive) as oo
 --ts.neutral_site,
 --ts.home_game,
 --tf.exp_factor,
@@ -90,7 +91,7 @@ for row in rows:
     odiv = row[6]
     oo = row[7]
 
-    r = to/oo
+    r = math.sqrt(to/oo)
 
     p = r/(1+r)
     q = 1-p
