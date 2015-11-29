@@ -171,70 +171,160 @@ r2.seed,
 from ncaa_pbp.rounds r1
 join ncaa_pbp.rounds r2
   on (r2.year=r1.year and not(r2.school_id=r1.school_id))
-join (select generate_series(1, 4) round_id) gs
+join (select generate_series(1, 6) round_id) gs
   on TRUE
 where
   r1.year=2016
 );
 
-/*
--- 1st round seeds have home
+-- Rounds 1&2 seeds have home
 
 update ncaa_pbp.matrix_field
 set field='home'
 where
-    round_id=1
+    round_id in (1,2)
 and school_seed is not null;
 
 update ncaa_pbp.matrix_field
 set field='away'
 where
-    round_id=1
+    round_id in (1,2)
 and opponent_seed is not null;
 
--- 2nd, 3rd round seeds 1-2 have home
+-- Rounds 3&4 Kentucky has home
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
-and round_id in (2,3)
-and school_seed in (1,2);
+and round_id in (3,4)
+and school_id in (334);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
-and round_id in (2,3)
-and opponent_seed in (1,2);
+and round_id in (3,4)
+and opponent_id in (334);
 
--- 4th round seeds 1 have home
+-- Rounds 3&4 Louisville has home except vs Kentucky (away),
+-- Western Ky. (neutral)
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
-and round_id in (4)
-and school_seed in (1);
+and round_id in (3,4)
+and school_id in (367)
+and opponent_id not in (334,772);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
-and round_id in (4)
-and opponent_seed in (1);
+and round_id in (3,4)
+and opponent_id in (367)
+and school_id not in (334,772);
 
--- Rounds 5 and 6 are in NC
+-- Rounds 3&4 Western Ky. has home except vs Kentucky (away),
+-- Louisville (neutral)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (772)
+and opponent_id not in (334,367);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (772)
+and school_id not in (334,367);
+
+-- Rounds 3&4 Iowa St. has home
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (311);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (311);
+
+-- Rounds 3&4 San Diego has home
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (627);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (627);
+
+-- Rounds 3&4 Southern California has home except vs San Diego (away)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (657)
+and opponent_id not in (627);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (657)
+and school_id not in (627);
+
+-- Rounds 3&4 Texas has home
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (703);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (703);
+
+-- Rounds 3&4 SMU has home except vs Texas (away)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (3,4)
+and school_id in (663)
+and opponent_id not in (703);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (3,4)
+and opponent_id in (663)
+and school_id not in (703);
+
+-- Rounds 5&6 Nebraska has home
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
 and round_id in (5,6)
-and school_id in (193,457,460)
-and not opponent_id in (193,457,460);
+and school_id in (463);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
 and round_id in (5,6)
-and opponent_id in (193,457,460)
-and not school_id in (193,457,460);
-*/
+and opponent_id in (463);
 
 commit;
