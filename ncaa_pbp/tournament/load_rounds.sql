@@ -177,19 +177,49 @@ where
   r1.year=2016
 );
 
--- Rounds 1&2 seeds have home
+-- Rounds 1&2 seeds have home except for Creighton (UNC hosting)
 
 update ncaa_pbp.matrix_field
 set field='home'
 where
     round_id in (1,2)
-and school_seed is not null;
+and school_seed is not null
+and school_id not in (169);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where
     round_id in (1,2)
-and opponent_seed is not null;
+and opponent_seed is not null
+and opponent_id not in (169);
+
+-- Round 1 UNC is hosting (not Creighton)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where
+    round_id in (1,2)
+and school_id in (457);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where
+    round_id in (1,2)
+and opponent_id in (457);
+
+-- Round 2 UNCW has home (they only advance if they beat UNC)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (2)
+and school_id in (460);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (2)
+and opponent_id in (460);
 
 -- Rounds 3&4 Kentucky has home
 
@@ -295,18 +325,34 @@ and round_id in (3,4)
 and opponent_id in (663)
 and school_id not in (703);
 
--- Rounds 5&6 Nebraska has home
+-- Rounds 5&6 Creighton has home
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
 and round_id in (5,6)
-and school_id in (463);
+and school_id in (169);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
 and round_id in (5,6)
-and opponent_id in (463);
+and opponent_id in (169);
+
+-- Rounds 5&6 Nebraska has home except vs Creighton (away)
+
+update ncaa_pbp.matrix_field
+set field='home'
+where year=2016
+and round_id in (5,6)
+and school_id in (463)
+and not opponent_id in (169);
+
+update ncaa_pbp.matrix_field
+set field='away'
+where year=2016
+and round_id in (5,6)
+and opponent_id in (463)
+and not school_id in (169);
 
 commit;

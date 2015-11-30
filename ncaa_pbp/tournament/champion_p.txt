@@ -1,14 +1,14 @@
 BEGIN
         team_name         |   p   
 --------------------------+-------
- Washington               | 0.252
- Southern California      | 0.195
+ Washington               | 0.253
+ Southern California      | 0.192
  Penn St.                 | 0.175
  Minnesota                | 0.082
  Nebraska                 | 0.079
  Texas                    | 0.078
  Florida                  | 0.027
- Kansas                   | 0.023
+ Kansas                   | 0.024
  Wisconsin                | 0.022
  BYU                      | 0.020
  UCLA                     | 0.015

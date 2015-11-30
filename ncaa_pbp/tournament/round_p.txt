@@ -1,28 +1,28 @@
 BEGIN
  rd |           name           |   p   
 ----+--------------------------+-------
+  2 | Penn St.                 | 1.000
   2 | Minnesota                | 1.000
   2 | Texas                    | 1.000
-  2 | Penn St.                 | 1.000
   2 | Ohio St.                 | 1.000
   2 | Nebraska                 | 0.999
   2 | Florida                  | 0.998
   2 | Louisville               | 0.997
-  2 | Washington               | 0.996
   2 | Southern California      | 0.996
+  2 | Washington               | 0.996
   2 | Kansas                   | 0.995
   2 | UCLA                     | 0.980
   2 | Stanford                 | 0.948
   2 | BYU                      | 0.945
   2 | Illinois                 | 0.939
+  2 | North Carolina           | 0.913
   2 | Wisconsin                | 0.866
-  2 | North Carolina           | 0.863
   2 | Texas A&M                | 0.858
-  2 | Creighton                | 0.786
   2 | Kentucky                 | 0.759
   2 | San Diego                | 0.752
   2 | Missouri                 | 0.724
   2 | Hawaii                   | 0.713
+  2 | Creighton                | 0.701
   2 | Marquette                | 0.686
   2 | Iowa St.                 | 0.680
   2 | Kansas St.               | 0.650
@@ -43,14 +43,14 @@ BEGIN
   2 | Wichita St.              | 0.350
   2 | Miami (FL)               | 0.320
   2 | UNI                      | 0.314
+  2 | Coastal Caro.            | 0.299
   2 | TCU                      | 0.287
   2 | Missouri St.             | 0.276
   2 | Northern Ariz.           | 0.248
   2 | American                 | 0.241
-  2 | Coastal Caro.            | 0.214
   2 | Texas A&M Corpus Christi | 0.142
-  2 | UNCW                     | 0.137
   2 | Oregon                   | 0.134
+  2 | UNCW                     | 0.087
   2 | Southern Ill.            | 0.061
   2 | Ohio                     | 0.055
   2 | New Mexico St.           | 0.052
@@ -61,10 +61,10 @@ BEGIN
   2 | Belmont                  | 0.003
   2 | New Hampshire            | 0.002
   2 | Harvard                  | 0.001
-  2 | Jackson St.              | 0.000
   2 | Fairfield                | 0.000
-  2 | Robert Morris            | 0.000
+  2 | Jackson St.              | 0.000
   2 | Howard                   | 0.000
+  2 | Robert Morris            | 0.000
   3 | Minnesota                | 0.977
   3 | Penn St.                 | 0.974
   3 | Washington               | 0.955
@@ -78,13 +78,13 @@ BEGIN
   3 | Florida                  | 0.796
   3 | BYU                      | 0.795
   3 | Wisconsin                | 0.783
-  3 | North Carolina           | 0.610
+  3 | North Carolina           | 0.782
   3 | Louisville               | 0.538
   3 | Hawaii                   | 0.494
   3 | Illinois                 | 0.458
   3 | Texas A&M                | 0.350
-  3 | Creighton                | 0.313
   3 | Kentucky                 | 0.168
+  3 | Creighton                | 0.146
   3 | TCU                      | 0.141
   3 | Florida St.              | 0.124
   3 | Arizona                  | 0.124
@@ -101,9 +101,9 @@ BEGIN
   3 | Missouri                 | 0.054
   3 | Loyola Marymount         | 0.053
   3 | SMU                      | 0.051
-  3 | UNCW                     | 0.042
-  3 | Coastal Caro.            | 0.035
+  3 | UNCW                     | 0.044
   3 | Michigan St.             | 0.033
+  3 | Coastal Caro.            | 0.029
   3 | Miami (FL)               | 0.026
   3 | Marquette                | 0.021
   3 | Dayton                   | 0.021
@@ -130,7 +130,7 @@ BEGIN
   3 | Robert Morris            | 0.000
   3 | New Hampshire            | 0.000
   4 | Penn St.                 | 0.854
-  4 | Southern California      | 0.842
+  4 | Southern California      | 0.828
   4 | Washington               | 0.818
   4 | Minnesota                | 0.684
   4 | Texas                    | 0.648
@@ -144,21 +144,20 @@ BEGIN
   4 | Illinois                 | 0.164
   4 | Louisville               | 0.149
   4 | Ohio St.                 | 0.144
+  4 | North Carolina           | 0.119
   4 | Hawaii                   | 0.100
-  4 | North Carolina           | 0.093
   4 | Florida St.              | 0.049
-  4 | San Diego                | 0.045
+  4 | San Diego                | 0.042
   4 | Colorado St.             | 0.030
   4 | Arizona                  | 0.029
   4 | Arizona St.              | 0.027
   4 | Texas A&M                | 0.026
   4 | Iowa St.                 | 0.023
   4 | Kentucky                 | 0.021
-  4 | SMU                      | 0.019
   4 | Purdue                   | 0.019
+  4 | SMU                      | 0.019
   4 | Oregon                   | 0.018
   4 | Western Ky.              | 0.016
-  4 | Creighton                | 0.016
   4 | Kansas St.               | 0.014
   4 | Michigan St.             | 0.013
   4 | Santa Clara              | 0.013
@@ -166,34 +165,35 @@ BEGIN
   4 | Michigan                 | 0.010
   4 | Loyola Marymount         | 0.009
   4 | Missouri                 | 0.009
+  4 | Creighton                | 0.008
   4 | Dayton                   | 0.007
-  4 | Arkansas St.             | 0.003
   4 | Marquette                | 0.003
   4 | Miami (FL)               | 0.003
+  4 | Arkansas St.             | 0.003
+  4 | Northern Ariz.           | 0.002
   4 | New Mexico St.           | 0.002
   4 | Wichita St.              | 0.002
-  4 | Northern Ariz.           | 0.002
-  4 | Ohio                     | 0.001
   4 | UNCW                     | 0.001
+  4 | Ohio                     | 0.001
   4 | Villanova                | 0.001
   4 | Coastal Caro.            | 0.001
-  4 | American                 | 0.000
-  4 | Harvard                  | 0.000
+  4 | Cleveland St.            | 0.000
   4 | Missouri St.             | 0.000
+  4 | Harvard                  | 0.000
   4 | Denver                   | 0.000
   4 | UNI                      | 0.000
   4 | Howard                   | 0.000
   4 | Furman                   | 0.000
   4 | Belmont                  | 0.000
-  4 | Cleveland St.            | 0.000
   4 | Southern Ill.            | 0.000
   4 | New Hampshire            | 0.000
   4 | Robert Morris            | 0.000
   4 | Jackson St.              | 0.000
+  4 | American                 | 0.000
   4 | Texas A&M Corpus Christi | 0.000
   4 | Fairfield                | 0.000
   4 | Lipscomb                 | 0.000
-  5 | Southern California      | 0.658
+  5 | Southern California      | 0.647
   5 | Washington               | 0.585
   5 | Penn St.                 | 0.540
   5 | Texas                    | 0.445
@@ -201,71 +201,71 @@ BEGIN
   5 | Nebraska                 | 0.229
   5 | Florida                  | 0.198
   5 | Wisconsin                | 0.173
-  5 | Kansas                   | 0.167
+  5 | Kansas                   | 0.170
   5 | UCLA                     | 0.143
   5 | BYU                      | 0.120
-  5 | Stanford                 | 0.116
+  5 | Stanford                 | 0.118
   5 | Illinois                 | 0.055
   5 | Ohio St.                 | 0.048
+  5 | North Carolina           | 0.043
   5 | Louisville               | 0.040
-  5 | North Carolina           | 0.033
   5 | Hawaii                   | 0.030
-  5 | San Diego                | 0.018
+  5 | San Diego                | 0.016
   5 | Florida St.              | 0.013
-  5 | SMU                      | 0.006
   5 | Arizona St.              | 0.006
-  5 | Purdue                   | 0.005
+  5 | SMU                      | 0.006
   5 | Kentucky                 | 0.005
+  5 | Purdue                   | 0.005
   5 | Colorado St.             | 0.004
   5 | Arizona                  | 0.004
   5 | Oregon                   | 0.003
-  5 | Creighton                | 0.003
   5 | Western Ky.              | 0.003
   5 | Michigan St.             | 0.003
   5 | Texas A&M                | 0.003
   5 | Iowa St.                 | 0.003
   5 | Santa Clara              | 0.003
   5 | Kansas St.               | 0.002
-  5 | Michigan                 | 0.002
   5 | TCU                      | 0.002
-  5 | Dayton                   | 0.001
+  5 | Michigan                 | 0.002
   5 | Missouri                 | 0.001
   5 | Loyola Marymount         | 0.001
-  5 | Wichita St.              | 0.000
+  5 | Dayton                   | 0.001
+  5 | Creighton                | 0.001
   5 | Arkansas St.             | 0.000
   5 | Denver                   | 0.000
   5 | Missouri St.             | 0.000
   5 | Miami (FL)               | 0.000
-  5 | Belmont                  | 0.000
-  5 | UNCW                     | 0.000
+  5 | Fairfield                | 0.000
   5 | Northern Ariz.           | 0.000
   5 | Marquette                | 0.000
-  5 | Howard                   | 0.000
+  5 | Cleveland St.            | 0.000
   5 | Harvard                  | 0.000
   5 | Ohio                     | 0.000
+  5 | Wichita St.              | 0.000
+  5 | Belmont                  | 0.000
+  5 | UNCW                     | 0.000
   5 | UNI                      | 0.000
   5 | Villanova                | 0.000
+  5 | Howard                   | 0.000
+  5 | New Mexico St.           | 0.000
   5 | Jackson St.              | 0.000
   5 | Southern Ill.            | 0.000
-  5 | Fairfield                | 0.000
-  5 | Cleveland St.            | 0.000
-  5 | Texas A&M Corpus Christi | 0.000
-  5 | New Mexico St.           | 0.000
   5 | Furman                   | 0.000
+  5 | Texas A&M Corpus Christi | 0.000
   5 | Robert Morris            | 0.000
-  5 | Lipscomb                 | 0.000
   5 | New Hampshire            | 0.000
+  5 | Lipscomb                 | 0.000
   5 | American                 | 0.000
   5 | Coastal Caro.            | 0.000
-  6 | Washington               | 0.377
+  6 | Washington               | 0.379
   6 | Penn St.                 | 0.354
-  6 | Southern California      | 0.327
+  6 | Southern California      | 0.321
   6 | Texas                    | 0.201
   6 | Minnesota                | 0.193
   6 | Nebraska                 | 0.132
   6 | Florida                  | 0.079
   6 | Wisconsin                | 0.067
-  6 | Kansas                   | 0.055
+  6 | Kansas                   | 0.056
   6 | UCLA                     | 0.051
   6 | BYU                      | 0.048
   6 | Stanford                 | 0.036
@@ -273,15 +273,15 @@ BEGIN
   6 | Louisville               | 0.014
   6 | Ohio St.                 | 0.013
   6 | Hawaii                   | 0.009
-  6 | North Carolina           | 0.007
-  6 | Florida St.              | 0.003
+  6 | North Carolina           | 0.008
   6 | San Diego                | 0.003
-  6 | Purdue                   | 0.001
-  6 | Arizona                  | 0.001
-  6 | Arizona St.              | 0.001
-  6 | Kentucky                 | 0.001
+  6 | Florida St.              | 0.003
   6 | SMU                      | 0.001
-  6 | Western Ky.              | 0.000
+  6 | Purdue                   | 0.001
+  6 | Arizona St.              | 0.001
+  6 | Arizona                  | 0.001
+  6 | Kentucky                 | 0.001
+  6 | Northern Ariz.           | 0.000
   6 | Coastal Caro.            | 0.000
   6 | American                 | 0.000
   6 | Kansas St.               | 0.000
@@ -300,7 +300,7 @@ BEGIN
   6 | Harvard                  | 0.000
   6 | Creighton                | 0.000
   6 | Marquette                | 0.000
-  6 | Northern Ariz.           | 0.000
+  6 | Western Ky.              | 0.000
   6 | Michigan                 | 0.000
   6 | Oregon                   | 0.000
   6 | Loyola Marymount         | 0.000
@@ -321,14 +321,14 @@ BEGIN
   6 | Fairfield                | 0.000
   6 | Texas A&M                | 0.000
   6 | Texas A&M Corpus Christi | 0.000
-  7 | Washington               | 0.252
-  7 | Southern California      | 0.195
+  7 | Washington               | 0.253
+  7 | Southern California      | 0.192
   7 | Penn St.                 | 0.175
   7 | Minnesota                | 0.082
   7 | Nebraska                 | 0.079
   7 | Texas                    | 0.078
   7 | Florida                  | 0.027
-  7 | Kansas                   | 0.023
+  7 | Kansas                   | 0.024
   7 | Wisconsin                | 0.022
   7 | BYU                      | 0.020
   7 | UCLA                     | 0.015
