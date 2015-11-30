@@ -9,7 +9,7 @@ create table ncaa_pbp.rounds (
 	round_id			integer,
 	seed				integer,
 	division_id			integer,
-	school_id				integer,
+	school_id			integer,
 	team_name			text,
 	bracket				int[],
 	p				float,
@@ -21,7 +21,7 @@ copy ncaa_pbp.rounds from '/tmp/rounds.csv' with delimiter as ',' csv header quo
 drop table if exists ncaa_pbp.m;
 
 create table ncaa_pbp.m (
-       school_id				integer,
+       school_id			integer,
        c				float,
        tof				float,
        tdf				float,
@@ -205,53 +205,35 @@ where year=2016
 and round_id in (3,4)
 and opponent_id in (334);
 
--- Rounds 3&4 Louisville has home except vs Kentucky (away),
--- Western Ky. (neutral)
-
-update ncaa_pbp.matrix_field
-set field='home'
-where year=2016
-and round_id in (3,4)
-and school_id in (367)
-and opponent_id not in (334,772);
-
-update ncaa_pbp.matrix_field
-set field='away'
-where year=2016
-and round_id in (3,4)
-and opponent_id in (367)
-and school_id not in (334,772);
-
 -- Rounds 3&4 Western Ky. has home except vs Kentucky (away),
--- Louisville (neutral)
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
 and round_id in (3,4)
 and school_id in (772)
-and opponent_id not in (334,367);
+and opponent_id not in (334);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
 and round_id in (3,4)
 and opponent_id in (772)
-and school_id not in (334,367);
+and school_id not in (334);
 
--- Rounds 3&4 Iowa St. has home
+-- Rounds 3&4 UNI has home
 
 update ncaa_pbp.matrix_field
 set field='home'
 where year=2016
 and round_id in (3,4)
-and school_id in (311);
+and school_id in (504);
 
 update ncaa_pbp.matrix_field
 set field='away'
 where year=2016
 and round_id in (3,4)
-and opponent_id in (311);
+and opponent_id in (504);
 
 -- Rounds 3&4 San Diego has home
 
