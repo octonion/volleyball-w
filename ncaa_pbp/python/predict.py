@@ -27,10 +27,10 @@ ts.game_date as game_date,
 end) as site,
 t.team_name as team,
 'D'||t.division as tdiv,
-(tf.exp_factor*td.exp_factor*sft.offensive) as to,
+(tf.exp_factor*td.exp_factor*sft.offensive*sfo.defensive) as to,
 o.team_name as opponent,
 'D'||o.division as odiv,
-(of.exp_factor*od.exp_factor*sfo.offensive) as oo
+(of.exp_factor*od.exp_factor*sfo.offensive*sft.defensive) as oo
 --ts.neutral_site,
 --ts.home_game,
 --tf.exp_factor,
@@ -262,6 +262,7 @@ for row in rows:
     e_l4 = "%4.1f" % (e_l4)
     e_l5 = "%4.1f" % (e_l5)
     data = [game_date,site,team,tdiv,opponent,odiv,
+            #to,oo,
             win,lose,w3,w4,w5,l3,l4,l5,
             e_m,e_w3,e_w4,e_w5,e_l3,e_l4,e_l5]
     predict.writerow(data)
