@@ -93,8 +93,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             row += [game_date]
           when 1
             game_string = element.text.strip
-            opponent_string = game_string.split(" @ ")[0]
-            neutral = game_string.split(" @ ")[1]
+            opponent_string = game_string.split("@")[0]
+            neutral = game_string.split("@")[1]
 
             if (neutral==nil)
               neutral_site = FALSE
