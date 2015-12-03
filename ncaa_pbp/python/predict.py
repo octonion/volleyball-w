@@ -43,7 +43,9 @@ join ncaa_pbp._schedule_factors sft
 join ncaa_pbp._factors td
   on (td.parameter,td.level::integer)=('o_div',t.division)
 join ncaa_pbp.teams o
-  on (o.team_name,o.year)=(ts.opponent_name,ts.year)
+  on (o.team_name,o.year)=(
+      trim(both from split_part(ts.opponent_name,'@',1))||
+      trim(both from split_part(ts.opponent_name,'@',2)),ts.year)
 join ncaa_pbp._schedule_factors sfo
   on (sfo.school_id,sfo.year)=(o.team_id,o.year)
 join ncaa_pbp._factors od
