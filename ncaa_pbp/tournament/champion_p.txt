@@ -1,58 +1,58 @@
 BEGIN
         team_name         |   p   
 --------------------------+-------
- Washington               | 0.254
- Southern California      | 0.188
- Penn St.                 | 0.175
- Minnesota                | 0.082
- Nebraska                 | 0.079
- Texas                    | 0.077
- Wisconsin                | 0.025
- Florida                  | 0.025
- Kansas                   | 0.023
- BYU                      | 0.020
+ Washington               | 0.256
+ Southern California      | 0.194
+ Penn St.                 | 0.147
+ Minnesota                | 0.088
+ Nebraska                 | 0.081
+ Texas                    | 0.081
+ Florida                  | 0.026
+ Wisconsin                | 0.026
+ Kansas                   | 0.024
+ BYU                      | 0.021
+ UCLA                     | 0.016
  Stanford                 | 0.016
- UCLA                     | 0.015
  Illinois                 | 0.007
- Ohio St.                 | 0.004
+ Ohio St.                 | 0.005
  Louisville               | 0.003
- Hawaii                   | 0.002
  North Carolina           | 0.002
+ Hawaii                   | 0.002
  Florida St.              | 0.001
  San Diego                | 0.001
- Michigan St.             | 0.000
+ Denver                   | 0.000
  Missouri                 | 0.000
- Ohio                     | 0.000
- Purdue                   | 0.000
- Robert Morris            | 0.000
- Santa Clara              | 0.000
- Southern Ill.            | 0.000
- TCU                      | 0.000
- Texas A&M                | 0.000
- Texas A&M Corpus Christi | 0.000
- UNI                      | 0.000
- Villanova                | 0.000
- Western Ky.              | 0.000
  Wichita St.              | 0.000
- UNCW                     | 0.000
+ Arkansas St.             | 0.000
+ Jackson St.              | 0.000
+ Michigan St.             | 0.000
+ Robert Morris            | 0.000
+ Loyola Marymount         | 0.000
+ Texas A&M Corpus Christi | 0.000
+ Texas A&M                | 0.000
+ Coastal Caro.            | 0.000
  American                 | 0.000
  Arizona                  | 0.000
- Arkansas St.             | 0.000
- Belmont                  | 0.000
- Coastal Caro.            | 0.000
- Creighton                | 0.000
- Dayton                   | 0.000
- Denver                   | 0.000
- Harvard                  | 0.000
- Howard                   | 0.000
- Iowa St.                 | 0.000
- Jackson St.              | 0.000
  Kansas St.               | 0.000
- Kentucky                 | 0.000
+ Western Ky.              | 0.000
  Lipscomb                 | 0.000
- Loyola Marymount         | 0.000
- Marquette                | 0.000
  Michigan                 | 0.000
+ Iowa St.                 | 0.000
+ Harvard                  | 0.000
+ Creighton                | 0.000
+ Marquette                | 0.000
+ Kentucky                 | 0.000
+ UNCW                     | 0.000
+ Ohio                     | 0.000
+ UNI                      | 0.000
+ TCU                      | 0.000
+ Howard                   | 0.000
+ Belmont                  | 0.000
+ Purdue                   | 0.000
+ Southern Ill.            | 0.000
+ Villanova                | 0.000
+ Santa Clara              | 0.000
+ Dayton                   | 0.000
 (52 rows)
 
 COPY 52
