@@ -1,26 +1,25 @@
 BEGIN
         team_name         |   p   
 --------------------------+-------
- Washington               | 0.242
- Penn St.                 | 0.185
- Southern California      | 0.185
- Texas                    | 0.107
- Nebraska                 | 0.093
- Minnesota                | 0.061
- Kansas                   | 0.026
- Florida                  | 0.021
- Wisconsin                | 0.020
+ Washington               | 0.253
+ Southern California      | 0.192
+ Penn St.                 | 0.175
+ Minnesota                | 0.082
+ Nebraska                 | 0.079
+ Texas                    | 0.078
+ Florida                  | 0.027
+ Kansas                   | 0.024
+ Wisconsin                | 0.022
+ BYU                      | 0.020
+ UCLA                     | 0.015
  Stanford                 | 0.014
- BYU                      | 0.013
- UCLA                     | 0.011
  Illinois                 | 0.007
- Hawaii                   | 0.005
  Ohio St.                 | 0.004
  Louisville               | 0.003
- North Carolina           | 0.003
- Iowa St.                 | 0.000
- Jackson St.              | 0.000
- Kansas St.               | 0.000
+ Hawaii                   | 0.002
+ North Carolina           | 0.002
+ San Diego                | 0.001
+ Florida St.              | 0.001
  Kentucky                 | 0.000
  Lipscomb                 | 0.000
  Loyola Marymount         | 0.000
@@ -38,7 +37,6 @@ BEGIN
  Purdue                   | 0.000
  Robert Morris            | 0.000
  SMU                      | 0.000
- San Diego                | 0.000
  Santa Clara              | 0.000
  Southern Ill.            | 0.000
  TCU                      | 0.000
@@ -61,10 +59,12 @@ BEGIN
  Dayton                   | 0.000
  Denver                   | 0.000
  Fairfield                | 0.000
- Florida St.              | 0.000
  Furman                   | 0.000
  Harvard                  | 0.000
  Howard                   | 0.000
+ Iowa St.                 | 0.000
+ Jackson St.              | 0.000
+ Kansas St.               | 0.000
 (64 rows)
 
 COPY 64

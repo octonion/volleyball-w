@@ -108,23 +108,29 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
             row += [game_date]
           when 1
             game_string = element.text.strip
-            opponent_string = game_string.split("@")[0]
-            neutral = game_string.split("@")[1]
+            part1 = game_string.split("@")[0].strip rescue nil
+            part2 = game_string.split("@")[1].strip rescue nil
 
-            if (neutral==nil)
+            if (part2==nil) # Home
               neutral_site = FALSE
               neutral_location = nil
-            else
+              opponent_name = game_string
+            elsif (part1=='') # Away
+              neutral_site = FALSE
+              neutral_location = nil
+              opponent_name = part2
+            else # Neutral
               neutral_site = TRUE
-              neutral_location = neutral.strip
+              neutral_location = part2
+              opponent_name = part1
             end
-            if (opponent_string.include?("@"))
+            if (game_string.include?("@"))
               home_game = FALSE
             else
               home_game = TRUE
             end
 
-            opponent_name = opponent_string.gsub("@","").strip
+            #opponent_name = opponent_string.gsub("@","").strip
 
             link = element.search("a").first
             if (link==nil)
