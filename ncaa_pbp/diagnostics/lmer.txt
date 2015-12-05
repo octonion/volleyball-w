@@ -11,12 +11,12 @@ Formula: cbind(team_score, opponent_score) ~ year + field + o_div + d_div +
 1460819.1 1460935.0 -730398.5 1460797.1    280257 
 Random effects:
  Groups  Name        Std.Dev.
- offense (Intercept) 0.2935  
+ offense (Intercept) 0.2934  
  defense (Intercept) 0.2935  
 Number of obs: 280268, groups:  offense, 3170; defense, 3170
 Fixed Effects:
       (Intercept)           year2015           year2016  fielddefense_home  
-        1.965e-09         -1.949e-09         -1.533e-09         -4.135e-02  
+        8.471e-09         -8.400e-09         -6.608e-09         -4.135e-02  
 fieldoffense_home             o_div2             o_div3             d_div2  
         4.135e-02         -2.964e-01         -6.365e-01          2.964e-01  
            d_div3  
@@ -38,15 +38,15 @@ Scaled residuals:
 
 Random effects:
  Groups  Name        Variance Std.Dev.
- offense (Intercept) 0.08612  0.2935  
- defense (Intercept) 0.08612  0.2935  
+ offense (Intercept) 0.08611  0.2934  
+ defense (Intercept) 0.08611  0.2935  
 Number of obs: 280268, groups:  offense, 3170; defense, 3170
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        1.965e-09  1.685e-02    0.00        1    
-year2015          -1.949e-09  1.815e-02    0.00        1    
-year2016          -1.533e-09  1.812e-02    0.00        1    
+(Intercept)        8.471e-09  1.685e-02    0.00        1    
+year2015          -8.400e-09  1.814e-02    0.00        1    
+year2016          -6.608e-09  1.812e-02    0.00        1    
 fielddefense_home -4.135e-02  1.569e-03  -26.36   <2e-16 ***
 fieldoffense_home  4.135e-02  1.569e-03   26.36   <2e-16 ***
 o_div2            -2.964e-01  2.550e-02  -11.62   <2e-16 ***
@@ -69,7 +69,7 @@ d_div3      -0.187 -0.001 -0.001  0.004  0.000 -0.664 -0.795  0.788
 Analysis of Variance Table
       Df Sum Sq Mean Sq  F value
 year   2    0.0    0.00    0.000
-field  2 3487.5 1743.73 1743.726
-o_div  2  132.5   66.24   66.237
-d_div  2  653.6  326.82  326.816
+field  2 3487.5 1743.73 1743.730
+o_div  2  132.5   66.24   66.238
+d_div  2  653.6  326.82  326.817
 [1] TRUE
