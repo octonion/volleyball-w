@@ -18551,6 +18551,13 @@ game_id	section_id	team_id	team_name	team_url	period_scores
 3962954	1	689	Tampa	http://stats.ncaa.org/team/index/12221?org_id=689	[25, 25, 25, 3]
 3962954	2		Ties		[10, 8, 3, 21]
 3962954	3		Lead changes		[2, 3, 2, 7]
+<<<<<<< HEAD
+=======
+3962964	0	30105	Ark.-Fort Smith	http://stats.ncaa.org/team/index/12221?org_id=30105	[25, 23, 22, 25, 15, 3]
+3962964	1	413	MSU Denver	http://stats.ncaa.org/team/index/12221?org_id=413	[16, 25, 25, 18, 10, 2]
+3962964	2		Ties		[1, 10, 5, 4, 3, 23]
+3962964	3		Lead changes		[0, 6, 3, 2, 2, 13]
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 3962969	0	765	West Chester	http://stats.ncaa.org/team/index/12221?org_id=765	[22, 25, 25, 25, 3]
 3962969	1	546	Pitt.-Johnstown	http://stats.ncaa.org/team/index/12221?org_id=546	[25, 16, 15, 23, 1]
 3962969	2		Ties		[10, 3, 7, 9, 29]
@@ -18595,6 +18602,13 @@ game_id	section_id	team_id	team_name	team_url	period_scores
 3963135	1	12799	Wheeling Jesuit	http://stats.ncaa.org/team/index/12221?org_id=12799	[25, 25, 25, 3]
 3963135	2		Ties		[1, 1, 0, 2]
 3963135	3		Lead changes		[0, 0, 0, 0]
+<<<<<<< HEAD
+=======
+3963147	0	280	Hillsdale	http://stats.ncaa.org/team/index/12221?org_id=280	[26, 25, 13, 17, 1]
+3963147	1	1079	Findlay	http://stats.ncaa.org/team/index/12221?org_id=1079	[28, 15, 25, 25, 3]
+3963147	2		Ties		[7, 3, 0, 0, 10]
+3963147	3		Lead changes		[2, 1, 0, 0, 3]
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 3963156	0	8744	Southwestern Okla.	http://stats.ncaa.org/team/index/12221?org_id=8744	[12, 11, 15, 0]
 3963156	1	9081	Concordia-St. Paul	http://stats.ncaa.org/team/index/12221?org_id=9081	[25, 25, 25, 3]
 3963156	2		Ties		[2, 1, 6, 9]
@@ -18611,6 +18625,7 @@ game_id	section_id	team_id	team_name	team_url	period_scores
 3963263	1	477	NYIT	http://stats.ncaa.org/team/index/12221?org_id=477	[16, 25, 25, 17, 15, 3]
 3963263	2		Ties		[10, 0, 3, 8, 7, 28]
 3963263	3		Lead changes		[5, 0, 2, 5, 2, 14]
+<<<<<<< HEAD
 3963404	0	241	Franklin Pierce	http://stats.ncaa.org/team/index/12221?org_id=241	[22, 25, 17, 27, 15, 3]
 3963404	1	533	Pace	http://stats.ncaa.org/team/index/12221?org_id=533	[25, 17, 25, 25, 9, 2]
 3963404	2		Ties		[8, 4, 5, 11, 0, 28]
@@ -18707,3 +18722,5 @@ game_id	section_id	team_id	team_name	team_url	period_scores
 3963799	1	11	Alas. Anchorage	http://stats.ncaa.org/team/index/12221?org_id=11	[25, 15, 25, 20, 15, 3]
 3963799	2		Ties		[1, 7, 0, 6, 4, 18]
 3963799	3		Lead changes		[0, 3, 0, 4, 2, 9]
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4

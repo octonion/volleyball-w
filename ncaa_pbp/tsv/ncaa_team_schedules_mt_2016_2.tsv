@@ -334,9 +334,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	25	Angelo St.	11/19/2015	West Tex. A&M @ Stephenville, TX	767	West Tex. A&M	http://stats.ncaa.org/team/index/12221?org_id=767	true	Stephenville, TX	false	W 3 - 0	true	3 - 0	false	3	0	false		3953771	http://stats.ncaa.org/game/index/3953771?org_id=25
 2016	12221	25	Angelo St.	11/20/2015	Texas Woman's @ Stephenville, TX	701	Texas Woman's	http://stats.ncaa.org/team/index/12221?org_id=701	true	Stephenville, TX	false	W 3 - 1	true	3 - 1	false	3	1	false		3956199	http://stats.ncaa.org/game/index/3956199?org_id=25
 2016	12221	25	Angelo St.	11/21/2015	@ Tarleton St.	1395	Tarleton St.	http://stats.ncaa.org/team/index/12221?org_id=1395	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3955537	http://stats.ncaa.org/game/index/3955537?org_id=1395
+<<<<<<< HEAD
 2016	12221	25	Angelo St.	12/03/2015	Regis (CO)	568	Regis (CO)	http://stats.ncaa.org/team/index/12221?org_id=568	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3963484	http://stats.ncaa.org/game/index/3963484?org_id=25
 2016	12221	25	Angelo St.	12/04/2015	Colorado Mines	155	Colorado Mines	http://stats.ncaa.org/team/index/12221?org_id=155	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3963706	http://stats.ncaa.org/game/index/3963706?org_id=25
 2016	12221	25	Angelo St.	12/04/2015	@ Colorado Mines		Colorado Mines		false		false	-									
+=======
+2016	12221	25	Angelo St.	12/03/2015	@ Regis (CO)		Regis (CO)		false		false	-									
+2016	12221	25	Angelo St.	12/03/2015	@ Regis (CO)		Regis (CO)		false		false	-									
+2016	12221	25	Angelo St.	12/03/2015	@ Regis (CO)		Regis (CO)		false		false	-									
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	30105	Ark.-Fort Smith	09/04/2015	Southwest Minn. St. @ Pensacola, FL	8736	Southwest Minn. St.	http://stats.ncaa.org/team/index/12221?org_id=8736	true	Pensacola, FL	false	L 0 - 3	false	0 - 3	false	0	3	false		3883899	http://stats.ncaa.org/game/index/3883899?org_id=8736
 2016	12221	30105	Ark.-Fort Smith	09/04/2015	Bridgeport @ Pensacola, Fla.	74	Bridgeport	http://stats.ncaa.org/team/index/12221?org_id=74	true	Pensacola, Fla.	false	W 3 - 0	true	3 - 0	false	3	0	false		3888679	http://stats.ncaa.org/game/index/3888679?org_id=30105
 2016	12221	30105	Ark.-Fort Smith	09/05/2015	@ West Florida	11740	West Florida	http://stats.ncaa.org/team/index/12221?org_id=11740	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3917183	http://stats.ncaa.org/game/index/3917183?org_id=11740
@@ -1535,7 +1541,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1009	Central Okla.	11/20/2015	Washburn	2814	Washburn	http://stats.ncaa.org/team/index/12221?org_id=2814	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3954426	http://stats.ncaa.org/game/index/3954426?org_id=1009
 2016	12221	1009	Central Okla.	11/21/2015	Central Mo.	130	Central Mo.	http://stats.ncaa.org/team/index/12221?org_id=130	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3955566	http://stats.ncaa.org/game/index/3955566?org_id=1009
 2016	12221	1009	Central Okla.	12/03/2015	Neb.-Kearney @ St. Paul, MN	1156	Neb.-Kearney	http://stats.ncaa.org/team/index/12221?org_id=1156	true	St. Paul, MN	false	W 3 - 0	true	3 - 0	false	3	0	false		3963013	http://stats.ncaa.org/game/index/3963013?org_id=1009
+<<<<<<< HEAD
 2016	12221	1009	Central Okla.	12/04/2015	@ Concordia-St. Paul	9081	Concordia-St. Paul	http://stats.ncaa.org/team/index/12221?org_id=9081	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3963635	http://stats.ncaa.org/game/index/3963635?org_id=9081
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	30049	Central St. (OH)	09/04/2015	Cincinnati Christian		Cincinnati Christian		false		true	L 0 - 3	false	0 - 3	false	0	3	false		3888666	http://stats.ncaa.org/game/index/3888666?org_id=30049
 2016	12221	30049	Central St. (OH)	09/11/2015	Spring Hill @ Birmingham, AL	30191	Spring Hill	http://stats.ncaa.org/team/index/12221?org_id=30191	true	Birmingham, AL	false	L 0 - 3	false	0 - 3	false	0	3	false		3891825	http://stats.ncaa.org/game/index/3891825?org_id=30191
 2016	12221	30049	Central St. (OH)	09/11/2015	Miles@Birmingham, AL		Miles		true	Birmingham, AL	false	-									
@@ -1900,7 +1909,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	143	Clarion	11/20/2015	@ Pitt.-Johnstown	546	Pitt.-Johnstown	http://stats.ncaa.org/team/index/12221?org_id=546	false		false	W 3 - 2	true	3 - 2	false	3	2	false		3955647	http://stats.ncaa.org/game/index/3955647?org_id=546
 2016	12221	143	Clarion	11/21/2015	Shippensburg @ Johnstown, PA	638	Shippensburg	http://stats.ncaa.org/team/index/12221?org_id=638	true	Johnstown, PA	false	L 1 - 3	false	1 - 3	false	1	3	false		3955969	http://stats.ncaa.org/game/index/3955969?org_id=638
 2016	12221	143	Clarion	12/03/2015	Edinboro @ Wheeling, W.Va.	209	Edinboro	http://stats.ncaa.org/team/index/12221?org_id=209	true	Wheeling, W.Va.	false	W 3 - 1	true	3 - 1	false	3	1	false		3963051	http://stats.ncaa.org/game/index/3963051?org_id=209
+<<<<<<< HEAD
 2016	12221	143	Clarion	12/04/2015	@ Wheeling Jesuit	12799	Wheeling Jesuit	http://stats.ncaa.org/team/index/12221?org_id=12799	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3963647	http://stats.ncaa.org/game/index/3963647?org_id=12799
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	144	Clark Atlanta	09/05/2015	West Ga. @ Franklin Springs, GA	766	West Ga.	http://stats.ncaa.org/team/index/12221?org_id=766	true	Franklin Springs, GA	false	L 0 - 3	false	0 - 3	false	0	3	false		3957684	http://stats.ncaa.org/game/index/3957684?org_id=144
 2016	12221	144	Clark Atlanta	09/05/2015	@ Emmanuel (GA)	30193	Emmanuel (GA)	http://stats.ncaa.org/team/index/12221?org_id=30193	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3888792	http://stats.ncaa.org/game/index/3888792?org_id=30193
 2016	12221	144	Clark Atlanta	09/14/2015	Talladega		Talladega		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3911194	http://stats.ncaa.org/game/index/3911194?org_id=144
@@ -1994,8 +2006,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	11403	Colo. Christian	11/21/2015	Okla. Baptist @ Bartlesville	30202	Okla. Baptist	http://stats.ncaa.org/team/index/12221?org_id=30202	true	Bartlesville	false	W 3 - 2	true	3 - 2	false	3	2	false		3956626	http://stats.ncaa.org/game/index/3956626?org_id=30202
 2016	12221	11403	Colo. Christian	12/03/2015	Judson (IL) @ Kissimmee, FL		Judson (IL)		true	Kissimmee, FL	false	W 3 - 1	true	3 - 1	false	3	1	false		3962979	http://stats.ncaa.org/game/index/3962979?org_id=11403
 2016	12221	11403	Colo. Christian	12/03/2015	Oakland City @ Kissimmee, FL	1278	Oakland City	http://stats.ncaa.org/team/index/12221?org_id=1278	true	Kissimmee, FL	false	W 3 - 1	true	3 - 1	false	3	1	false		3963011	http://stats.ncaa.org/game/index/3963011?org_id=11403
+<<<<<<< HEAD
 2016	12221	11403	Colo. Christian	12/04/2015	Ind. Wesleyan @ Kissimmee, FL		Ind. Wesleyan		true	Kissimmee, FL	false	L 0 - 3	false	0 - 3	false	0	3	false		3963626	http://stats.ncaa.org/game/index/3963626?org_id=11403
 2016	12221	11403	Colo. Christian	12/04/2015	Southern Wesleyan @ Kissimmee, FL	30192	Southern Wesleyan	http://stats.ncaa.org/team/index/12221?org_id=30192	true	Kissimmee, FL	false	W 3 - 2	true	3 - 2	false	3	2	false		3963482	http://stats.ncaa.org/game/index/3963482?org_id=11403
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	11416	Colorado Mesa	09/04/2015	@ Point Loma	30149	Point Loma	http://stats.ncaa.org/team/index/12221?org_id=30149	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3919824	http://stats.ncaa.org/game/index/3919824?org_id=30149
 2016	12221	11416	Colorado Mesa	09/04/2015	UC San Diego @ San Diego, CA	112	UC San Diego	http://stats.ncaa.org/team/index/12221?org_id=112	true	San Diego, CA	false	L 0 - 3	false	0 - 3	false	0	3	false		3882791	http://stats.ncaa.org/game/index/3882791?org_id=112
 2016	12221	11416	Colorado Mesa	09/05/2015	San Fran. St. @ San Diego, CA (PLNU)	628	San Fran. St.	http://stats.ncaa.org/team/index/12221?org_id=628	true	San Diego, CA (PLNU)	false	W 3 - 0	true	3 - 0	false	3	0	false		3887027	http://stats.ncaa.org/game/index/3887027?org_id=11416
@@ -2026,7 +2041,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	11416	Colorado Mesa	11/20/2015	MSU Denver @ Golden, Colo.	413	MSU Denver	http://stats.ncaa.org/team/index/12221?org_id=413	true	Golden, Colo.	false	W 3 - 1	true	3 - 1	false	3	1	false		3954720	http://stats.ncaa.org/game/index/3954720?org_id=11416
 2016	12221	11416	Colorado Mesa	11/21/2015	@ Colorado Mines	155	Colorado Mines	http://stats.ncaa.org/team/index/12221?org_id=155	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3956129	http://stats.ncaa.org/game/index/3956129?org_id=155
 2016	12221	11416	Colorado Mesa	12/03/2015	Tarleton St. @ San Angelo, TX	1395	Tarleton St.	http://stats.ncaa.org/team/index/12221?org_id=1395	true	San Angelo, TX	false	W 3 - 2	true	3 - 2	false	3	2	false		3963084	http://stats.ncaa.org/game/index/3963084?org_id=1395
+<<<<<<< HEAD
 2016	12221	11416	Colorado Mesa	12/04/2015	Ark.-Fort Smith @ San Angelo, Texas	30105	Ark.-Fort Smith	http://stats.ncaa.org/team/index/12221?org_id=30105	true	San Angelo, Texas	false	L 2 - 3	false	2 - 3	false	2	3	false		3963668	http://stats.ncaa.org/game/index/3963668?org_id=30105
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	155	Colorado Mines	09/04/2015	Western Ore.	1446	Western Ore.	http://stats.ncaa.org/team/index/12221?org_id=1446	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3888608	http://stats.ncaa.org/game/index/3888608?org_id=155
 2016	12221	155	Colorado Mines	09/04/2015	Northwest Nazarene	1274	Northwest Nazarene	http://stats.ncaa.org/team/index/12221?org_id=1274	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3883902	http://stats.ncaa.org/game/index/3883902?org_id=1274
 2016	12221	155	Colorado Mines	09/05/2015	Cal St. San B'dino	93	Cal St. San B'dino	http://stats.ncaa.org/team/index/12221?org_id=93	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3885773	http://stats.ncaa.org/game/index/3885773?org_id=155
@@ -2059,8 +2077,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	155	Colorado Mines	11/20/2015	Regis (CO)	568	Regis (CO)	http://stats.ncaa.org/team/index/12221?org_id=568	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3954809	http://stats.ncaa.org/game/index/3954809?org_id=155
 2016	12221	155	Colorado Mines	11/21/2015	Colorado Mesa	11416	Colorado Mesa	http://stats.ncaa.org/team/index/12221?org_id=11416	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3956129	http://stats.ncaa.org/game/index/3956129?org_id=155
 2016	12221	155	Colorado Mines	12/03/2015	Texas Woman's @ San Angelo, Texas	701	Texas Woman's	http://stats.ncaa.org/team/index/12221?org_id=701	true	San Angelo, Texas	false	W 3 - 0	true	3 - 0	false	3	0	false		3963130	http://stats.ncaa.org/game/index/3963130?org_id=155
+<<<<<<< HEAD
 2016	12221	155	Colorado Mines	12/04/2015	@ Angelo St.	25	Angelo St.	http://stats.ncaa.org/team/index/12221?org_id=25	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3963706	http://stats.ncaa.org/game/index/3963706?org_id=25
 2016	12221	155	Colorado Mines	12/04/2015	@ Angelo St.		Angelo St.		false		false	-									
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	2720	Colorado St.-Pueblo	09/04/2015	Eastern N.M. @ Canyon, TX	206	Eastern N.M.	http://stats.ncaa.org/team/index/12221?org_id=206	true	Canyon, TX	false	W 3 - 1	true	3 - 1	false	3	1	false		3882524	http://stats.ncaa.org/game/index/3882524?org_id=2720
 2016	12221	2720	Colorado St.-Pueblo	09/04/2015	@ West Tex. A&M	767	West Tex. A&M	http://stats.ncaa.org/team/index/12221?org_id=767	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3884154	http://stats.ncaa.org/game/index/3884154?org_id=767
 2016	12221	2720	Colorado St.-Pueblo	09/05/2015	Lubbock Christian @ Canyon, TX	30177	Lubbock Christian	http://stats.ncaa.org/team/index/12221?org_id=30177	true	Canyon, TX	false	L 1 - 3	false	1 - 3	false	1	3	false		3888784	http://stats.ncaa.org/game/index/3888784?org_id=30177
@@ -2261,7 +2282,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	9081	Concordia-St. Paul	11/21/2015	Minn. Duluth	427	Minn. Duluth	http://stats.ncaa.org/team/index/12221?org_id=427	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3955473	http://stats.ncaa.org/game/index/3955473?org_id=9081
 2016	12221	9081	Concordia-St. Paul	11/22/2015	Winona St.	790	Winona St.	http://stats.ncaa.org/team/index/12221?org_id=790	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3956430	http://stats.ncaa.org/game/index/3956430?org_id=9081
 2016	12221	9081	Concordia-St. Paul	12/03/2015	Southwestern Okla.	8744	Southwestern Okla.	http://stats.ncaa.org/team/index/12221?org_id=8744	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3963156	http://stats.ncaa.org/game/index/3963156?org_id=9081
+<<<<<<< HEAD
 2016	12221	9081	Concordia-St. Paul	12/04/2015	Central Okla.	1009	Central Okla.	http://stats.ncaa.org/team/index/12221?org_id=1009	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3963635	http://stats.ncaa.org/game/index/3963635?org_id=9081
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	8935	Converse	09/04/2015	@ Flagler	30092	Flagler	http://stats.ncaa.org/team/index/12221?org_id=30092	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3883347	http://stats.ncaa.org/game/index/3883347?org_id=8935
 2016	12221	8935	Converse	09/05/2015	Anderson (SC) @ St. Augustine, Fla.	13028	Anderson (SC)	http://stats.ncaa.org/team/index/12221?org_id=13028	true	St. Augustine, Fla.	false	L 0 - 3	false	0 - 3	false	0	3	false		3884091	http://stats.ncaa.org/game/index/3884091?org_id=8935
 2016	12221	8935	Converse	09/05/2015	Dominican (NY) @ St. Augustine, Fla.	8956	Dominican (NY)	http://stats.ncaa.org/team/index/12221?org_id=8956	true	St. Augustine, Fla.	false	W 3 - 1	true	3 - 1	false	3	1	false		3884791	http://stats.ncaa.org/game/index/3884791?org_id=8956
@@ -2984,8 +3008,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	1079	Findlay	11/18/2015	Northern Mich.	506	Northern Mich.	http://stats.ncaa.org/team/index/12221?org_id=506	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3953246	http://stats.ncaa.org/game/index/3953246?org_id=1079
 2016	12221	1079	Findlay	11/21/2015	Hillsdale @ Big Rapids, Mich.	280	Hillsdale	http://stats.ncaa.org/team/index/12221?org_id=280	true	Big Rapids, Mich.	false	W 3 - 0	true	3 - 0	false	3	0	false		3956497	http://stats.ncaa.org/game/index/3956497?org_id=1079
 2016	12221	1079	Findlay	11/22/2015	@ Ferris St.	224	Ferris St.	http://stats.ncaa.org/team/index/12221?org_id=224	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3956446	http://stats.ncaa.org/game/index/3956446?org_id=224
+<<<<<<< HEAD
 2016	12221	1079	Findlay	12/03/2015	Hillsdale @ Big Rapids, Mich	280	Hillsdale	http://stats.ncaa.org/team/index/12221?org_id=280	true	Big Rapids, Mich	false	W 3 - 1	true	3 - 1	false	3	1	false		3963587	http://stats.ncaa.org/game/index/3963587?org_id=1079
 2016	12221	1079	Findlay	12/04/2015	@ Ferris St.	224	Ferris St.	http://stats.ncaa.org/team/index/12221?org_id=224	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3963571	http://stats.ncaa.org/game/index/3963571?org_id=224
+=======
+2016	12221	1079	Findlay	12/03/2015	Hillsdale @ Big Rapids, Mich	280	Hillsdale	http://stats.ncaa.org/team/index/12221?org_id=280	true	Big Rapids, Mich	false	W 3 - 1	true	3 - 1	false	3	1	false		3963147	http://stats.ncaa.org/game/index/3963147?org_id=1079
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	233	Fla. Southern	09/04/2015	@ Bentley	56	Bentley	http://stats.ncaa.org/team/index/12221?org_id=56	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3883731	http://stats.ncaa.org/game/index/3883731?org_id=56
 2016	12221	233	Fla. Southern	09/04/2015	Minn.-Crookston @ Waltham, Mass.	27854	Minn.-Crookston	http://stats.ncaa.org/team/index/12221?org_id=27854	true	Waltham, Mass.	false	W 3 - 1	true	3 - 1	false	3	1	false		3888585	http://stats.ncaa.org/game/index/3888585?org_id=233
 2016	12221	233	Fla. Southern	09/05/2015	LIU Post @ Waltham, Mass.	362	LIU Post	http://stats.ncaa.org/team/index/12221?org_id=362	true	Waltham, Mass.	false	W 3 - 0	true	3 - 0	false	3	0	false		3885217	http://stats.ncaa.org/game/index/3885217?org_id=233
@@ -3574,7 +3602,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	280	Hillsdale	11/14/2015	Lake Erie	2746	Lake Erie	http://stats.ncaa.org/team/index/12221?org_id=2746	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3949925	http://stats.ncaa.org/game/index/3949925?org_id=280
 2016	12221	280	Hillsdale	11/18/2015	Saginaw Valley	591	Saginaw Valley	http://stats.ncaa.org/team/index/12221?org_id=591	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3953226	http://stats.ncaa.org/game/index/3953226?org_id=280
 2016	12221	280	Hillsdale	11/21/2015	Findlay @ Big Rapids, Mich.	1079	Findlay	http://stats.ncaa.org/team/index/12221?org_id=1079	true	Big Rapids, Mich.	false	L 0 - 3	false	0 - 3	false	0	3	false		3956497	http://stats.ncaa.org/game/index/3956497?org_id=1079
+<<<<<<< HEAD
 2016	12221	280	Hillsdale	12/03/2015	Findlay @ Big Rapids, Mich	1079	Findlay	http://stats.ncaa.org/team/index/12221?org_id=1079	true	Big Rapids, Mich	false	L 1 - 3	false	1 - 3	false	1	3	false		3963587	http://stats.ncaa.org/game/index/3963587?org_id=1079
+=======
+2016	12221	280	Hillsdale	12/03/2015	Findlay @ Big Rapids, Mich	1079	Findlay	http://stats.ncaa.org/team/index/12221?org_id=1079	true	Big Rapids, Mich	false	L 1 - 3	false	1 - 3	false	1	3	false		3963147	http://stats.ncaa.org/game/index/3963147?org_id=1079
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	1126	Holy Family	09/04/2015	Ursuline @ WEST CHESTER, Pa.	30140	Ursuline	http://stats.ncaa.org/team/index/12221?org_id=30140	true	WEST CHESTER, Pa.	false	L 1 - 3	false	1 - 3	false	1	3	false		3888676	http://stats.ncaa.org/game/index/3888676?org_id=30140
 2016	12221	1126	Holy Family	09/05/2015	Bowie St. @ West Chester, Pa.	70	Bowie St.	http://stats.ncaa.org/team/index/12221?org_id=70	true	West Chester, Pa.	false	W 3 - 0	true	3 - 0	false	3	0	false		3886884	http://stats.ncaa.org/game/index/3886884?org_id=70
 2016	12221	1126	Holy Family	09/05/2015	@ West Chester	765	West Chester	http://stats.ncaa.org/team/index/12221?org_id=765	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3884795	http://stats.ncaa.org/game/index/3884795?org_id=765
@@ -5323,8 +5355,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	477	NYIT	11/20/2015	Dowling @ Bridgeport, Conn.	2692	Dowling	http://stats.ncaa.org/team/index/12221?org_id=2692	true	Bridgeport, Conn.	false	W 3 - 1	true	3 - 1	false	3	1	false		3954750	http://stats.ncaa.org/game/index/3954750?org_id=2692
 2016	12221	477	NYIT	11/21/2015	@ Bridgeport	74	Bridgeport	http://stats.ncaa.org/team/index/12221?org_id=74	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3955942	http://stats.ncaa.org/game/index/3955942?org_id=74
 2016	12221	477	NYIT	12/03/2015	LIU Post @ Garden City, N.Y.	362	LIU Post	http://stats.ncaa.org/team/index/12221?org_id=362	true	Garden City, N.Y.	false	W 3 - 2	true	3 - 2	false	3	2	false		3963263	http://stats.ncaa.org/game/index/3963263?org_id=362
+<<<<<<< HEAD
 2016	12221	477	NYIT	12/04/2015	@ Adelphi		Adelphi		false		false	-									
 2016	12221	477	NYIT	12/04/2015	@ Adelphi	3	Adelphi	http://stats.ncaa.org/team/index/12221?org_id=3	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3963603	http://stats.ncaa.org/game/index/3963603?org_id=3
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	1156	Neb.-Kearney	09/04/2015	@ Alas. Anchorage	11	Alas. Anchorage	http://stats.ncaa.org/team/index/12221?org_id=11	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3883985	http://stats.ncaa.org/game/index/3883985?org_id=11
 2016	12221	1156	Neb.-Kearney	09/04/2015	Azusa Pacific @ Anchorage, Alaska	30146	Azusa Pacific	http://stats.ncaa.org/team/index/12221?org_id=30146	true	Anchorage, Alaska	false	W 3 - 2	true	3 - 2	false	3	2	false		3882924	http://stats.ncaa.org/game/index/3882924?org_id=30146
 2016	12221	1156	Neb.-Kearney	09/05/2015	Cal Poly Pomona @ Anchorage, Alaska	91	Cal Poly Pomona	http://stats.ncaa.org/team/index/12221?org_id=91	true	Anchorage, Alaska	false	W 3 - 1	true	3 - 1	false	3	1	false		3888760	http://stats.ncaa.org/game/index/3888760?org_id=1156
@@ -5933,13 +5968,16 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30202	Okla. Baptist	11/03/2015	Southwestern Okla.	8744	Southwestern Okla.	http://stats.ncaa.org/team/index/12221?org_id=8744	false		true	W 3 - 2	true	3 - 2	false	3	2	false		3943420	http://stats.ncaa.org/game/index/3943420?org_id=30202
 2016	12221	30202	Okla. Baptist	11/10/2015	@ Southeastern Okla.	1371	Southeastern Okla.	http://stats.ncaa.org/team/index/12221?org_id=1371	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3947722	http://stats.ncaa.org/game/index/3947722?org_id=1371
 2016	12221	30202	Okla. Baptist	11/12/2015	Southern Nazarene	30152	Southern Nazarene	http://stats.ncaa.org/team/index/12221?org_id=30152	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3948263	http://stats.ncaa.org/game/index/3948263?org_id=30202
-2016	12221	30202	Okla. Baptist	11/19/2015	Southwestern Christ. @ Bartlesville		Southwestern Christ.		true	Bartlesville	false	W 3 - 1	true	3 - 1	false	3	1	false		3953776	http://stats.ncaa.org/game/index/3953776?org_id=30202
 2016	12221	30202	Okla. Baptist	11/19/2015	S'western Assemblies @ Bartlesville		S'western Assemblies		true	Bartlesville	false	W 3 - 0	true	3 - 0	false	3	0	false		3953671	http://stats.ncaa.org/game/index/3953671?org_id=30202
-2016	12221	30202	Okla. Baptist	11/20/2015	@ Okla. Wesleyan		Okla. Wesleyan		false		false	W 3 - 1	true	3 - 1	false	3	1	false		3954803	http://stats.ncaa.org/game/index/3954803?org_id=30202
+2016	12221	30202	Okla. Baptist	11/19/2015	Southwestern Christ. @ Bartlesville		Southwestern Christ.		true	Bartlesville	false	W 3 - 1	true	3 - 1	false	3	1	false		3953776	http://stats.ncaa.org/game/index/3953776?org_id=30202
 2016	12221	30202	Okla. Baptist	11/20/2015	McMurry @ Bartlesville	8530	McMurry	http://stats.ncaa.org/team/index/12221?org_id=8530	true	Bartlesville	false	W 3 - 0	true	3 - 0	false	3	0	false		3954283	http://stats.ncaa.org/game/index/3954283?org_id=30202
+2016	12221	30202	Okla. Baptist	11/20/2015	@ Okla. Wesleyan		Okla. Wesleyan		false		false	W 3 - 1	true	3 - 1	false	3	1	false		3954803	http://stats.ncaa.org/game/index/3954803?org_id=30202
 2016	12221	30202	Okla. Baptist	11/21/2015	Colo. Christian @ Bartlesville	11403	Colo. Christian	http://stats.ncaa.org/team/index/12221?org_id=11403	true	Bartlesville	false	L 2 - 3	false	2 - 3	false	2	3	false		3956626	http://stats.ncaa.org/game/index/3956626?org_id=30202
 2016	12221	30202	Okla. Baptist	12/03/2015	Warner @ Kissimmee, Fla.		Warner		true	Kissimmee, Fla.	false	W 3 - 2	true	3 - 2	false	3	2	false		3963247	http://stats.ncaa.org/game/index/3963247?org_id=30202
+<<<<<<< HEAD
 2016	12221	30202	Okla. Baptist	12/04/2015	Ind. Wesleyan @ Kissimmee, Fla.		Ind. Wesleyan		true	Kissimmee, Fla.	false	W 3 - 2	true	3 - 2	false	3	2	false		3963695	http://stats.ncaa.org/game/index/3963695?org_id=30202
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	24342	Okla. Panhandle	09/04/2015	Northwestern Okla.	30178	Northwestern Okla.	http://stats.ncaa.org/team/index/12221?org_id=30178	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3915507	http://stats.ncaa.org/game/index/3915507?org_id=24342
 2016	12221	24342	Okla. Panhandle	09/04/2015	Fort Lewis	1083	Fort Lewis	http://stats.ncaa.org/team/index/12221?org_id=1083	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3888767	http://stats.ncaa.org/game/index/3888767?org_id=24342
 2016	12221	24342	Okla. Panhandle	09/05/2015	Sterling (KS)		Sterling (KS)		false		true	W 3 - 0	true	3 - 0	false	3	0	false		3888869	http://stats.ncaa.org/game/index/3888869?org_id=24342
@@ -6137,7 +6175,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	30045	Palm Beach Atl.	11/20/2015	@ Fla. Southern	233	Fla. Southern	http://stats.ncaa.org/team/index/12221?org_id=233	false		false	L 2 - 3	false	2 - 3	false	2	3	false		3954774	http://stats.ncaa.org/game/index/3954774?org_id=233
 2016	12221	30045	Palm Beach Atl.	11/21/2015	@ Florida Tech	230	Florida Tech	http://stats.ncaa.org/team/index/12221?org_id=230	false		false	W 3 - 1	true	3 - 1	false	3	1	false		3955928	http://stats.ncaa.org/game/index/3955928?org_id=230
 2016	12221	30045	Palm Beach Atl.	12/03/2015	Kentucky St.	332	Kentucky St.	http://stats.ncaa.org/team/index/12221?org_id=332	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3963239	http://stats.ncaa.org/game/index/3963239?org_id=30045
+<<<<<<< HEAD
 2016	12221	30045	Palm Beach Atl.	12/04/2015	@ Saint Leo		Saint Leo		false		false	-									
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	542	Pfeiffer	09/04/2015	Johnson C. Smith	323	Johnson C. Smith	http://stats.ncaa.org/team/index/12221?org_id=323	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3932745	http://stats.ncaa.org/game/index/3932745?org_id=542
 2016	12221	542	Pfeiffer	09/04/2015	Salem Int'l	19117	Salem Int'l	http://stats.ncaa.org/team/index/12221?org_id=19117	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3932519	http://stats.ncaa.org/game/index/3932519?org_id=542
 2016	12221	542	Pfeiffer	09/05/2015	Slippery Rock	643	Slippery Rock	http://stats.ncaa.org/team/index/12221?org_id=643	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3932734	http://stats.ncaa.org/game/index/3932734?org_id=542
@@ -6406,10 +6447,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	561	Quincy	11/14/2015	William Jewell	30120	William Jewell	http://stats.ncaa.org/team/index/12221?org_id=30120	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3949829	http://stats.ncaa.org/game/index/3949829?org_id=561
 2016	12221	568	Regis (CO)	09/04/2015	@ Point Loma	30149	Point Loma	http://stats.ncaa.org/team/index/12221?org_id=30149	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3883924	http://stats.ncaa.org/game/index/3883924?org_id=30149
 2016	12221	568	Regis (CO)	09/04/2015	San Fran. St. @ San Diego, CA (PLNU)	628	San Fran. St.	http://stats.ncaa.org/team/index/12221?org_id=628	true	San Diego, CA (PLNU)	false	W 3 - 1	true	3 - 1	false	3	1	false		3883002	http://stats.ncaa.org/game/index/3883002?org_id=568
-2016	12221	568	Regis (CO)	09/05/2015	UC San Diego @ San Diego, CA	112	UC San Diego	http://stats.ncaa.org/team/index/12221?org_id=112	true	San Diego, CA	false	L 1 - 3	false	1 - 3	false	1	3	false		3885239	http://stats.ncaa.org/game/index/3885239?org_id=568
 2016	12221	568	Regis (CO)	09/05/2015	Concordia (CA) @ San Diego, CA (PLNU)	30199	Concordia (CA)	http://stats.ncaa.org/team/index/12221?org_id=30199	true	San Diego, CA (PLNU)	false	W 3 - 1	true	3 - 1	false	3	1	false		3885333	http://stats.ncaa.org/game/index/3885333?org_id=30199
-2016	12221	568	Regis (CO)	09/11/2015	Colorado Mesa	11416	Colorado Mesa	http://stats.ncaa.org/team/index/12221?org_id=11416	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3891711	http://stats.ncaa.org/game/index/3891711?org_id=568
+2016	12221	568	Regis (CO)	09/05/2015	UC San Diego @ San Diego, CA	112	UC San Diego	http://stats.ncaa.org/team/index/12221?org_id=112	true	San Diego, CA	false	L 1 - 3	false	1 - 3	false	1	3	false		3885239	http://stats.ncaa.org/game/index/3885239?org_id=568
 2016	12221	568	Regis (CO)	09/11/2015	Southwest Minn. St.	8736	Southwest Minn. St.	http://stats.ncaa.org/team/index/12221?org_id=8736	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3891427	http://stats.ncaa.org/game/index/3891427?org_id=568
+2016	12221	568	Regis (CO)	09/11/2015	Colorado Mesa	11416	Colorado Mesa	http://stats.ncaa.org/team/index/12221?org_id=11416	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3891711	http://stats.ncaa.org/game/index/3891711?org_id=568
 2016	12221	568	Regis (CO)	09/12/2015	West Florida	11740	West Florida	http://stats.ncaa.org/team/index/12221?org_id=11740	false		true	L 0 - 3	false	0 - 3	false	0	3	false		3892249	http://stats.ncaa.org/game/index/3892249?org_id=568
 2016	12221	568	Regis (CO)	09/12/2015	Central Mo.	130	Central Mo.	http://stats.ncaa.org/team/index/12221?org_id=130	false		true	L 1 - 3	false	1 - 3	false	1	3	false		3893152	http://stats.ncaa.org/game/index/3893152?org_id=568
 2016	12221	568	Regis (CO)	09/18/2015	Adams St.	929	Adams St.	http://stats.ncaa.org/team/index/12221?org_id=929	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3912096	http://stats.ncaa.org/game/index/3912096?org_id=568
@@ -6434,7 +6475,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	568	Regis (CO)	11/14/2015	@ Chadron St.	1012	Chadron St.	http://stats.ncaa.org/team/index/12221?org_id=1012	false		false	W 3 - 0	true	3 - 0	false	3	0	false		3950466	http://stats.ncaa.org/game/index/3950466?org_id=1012
 2016	12221	568	Regis (CO)	11/17/2015	Western N.M.	1445	Western N.M.	http://stats.ncaa.org/team/index/12221?org_id=1445	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3953018	http://stats.ncaa.org/game/index/3953018?org_id=568
 2016	12221	568	Regis (CO)	11/20/2015	@ Colorado Mines	155	Colorado Mines	http://stats.ncaa.org/team/index/12221?org_id=155	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3954809	http://stats.ncaa.org/game/index/3954809?org_id=155
+<<<<<<< HEAD
 2016	12221	568	Regis (CO)	12/03/2015	@ Angelo St.	25	Angelo St.	http://stats.ncaa.org/team/index/12221?org_id=25	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3963484	http://stats.ncaa.org/game/index/3963484?org_id=25
+=======
+2016	12221	568	Regis (CO)	12/03/2015	@ Angelo St.		Angelo St.		false		false	-									
+2016	12221	568	Regis (CO)	12/03/2015	@ Angelo St.		Angelo St.		false		false	-									
+2016	12221	568	Regis (CO)	12/03/2015	@ Angelo St.		Angelo St.		false		false	-									
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	30150	Roberts Wesleyan	09/01/2015	Brockport	78	Brockport	http://stats.ncaa.org/team/index/12221?org_id=78	false		true	L 0 - 3	false	0 - 3	true	0	3	false		3881936	http://stats.ncaa.org/game/index/3881936?org_id=78
 2016	12221	30150	Roberts Wesleyan	09/05/2015	@ Georgian Court	9004	Georgian Court	http://stats.ncaa.org/team/index/12221?org_id=9004	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3917131	http://stats.ncaa.org/game/index/3917131?org_id=9004
 2016	12221	30150	Roberts Wesleyan	09/05/2015	Caldwell @ Lakewood, N.J.	995	Caldwell	http://stats.ncaa.org/team/index/12221?org_id=995	true	Lakewood, N.J.	false	L 0 - 3	false	0 - 3	false	0	3	false		3888770	http://stats.ncaa.org/game/index/3888770?org_id=30150
@@ -6647,7 +6694,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	608	Saint Leo	11/20/2015	Embry-Riddle (FL)	9680	Embry-Riddle (FL)	http://stats.ncaa.org/team/index/12221?org_id=9680	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3956952	http://stats.ncaa.org/game/index/3956952?org_id=608
 2016	12221	608	Saint Leo	11/21/2015	Rollins	584	Rollins	http://stats.ncaa.org/team/index/12221?org_id=584	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3956076	http://stats.ncaa.org/game/index/3956076?org_id=608
 2016	12221	608	Saint Leo	12/03/2015	West Florida @ West Palm Beach, Fla	11740	West Florida	http://stats.ncaa.org/team/index/12221?org_id=11740	true	West Palm Beach, Fla	false	W 3 - 0	true	3 - 0	false	3	0	false		3963088	http://stats.ncaa.org/game/index/3963088?org_id=608
+<<<<<<< HEAD
 2016	12221	608	Saint Leo	12/04/2015	@ Palm Beach Atl.		Palm Beach Atl.		false		false	-									
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	1343	Saint Martin's	09/04/2015	Sonoma St. @ Honolulu, HI	645	Sonoma St.	http://stats.ncaa.org/team/index/12221?org_id=645	true	Honolulu, HI	false	L 0 - 3	false	0 - 3	false	0	3	false		3883884	http://stats.ncaa.org/game/index/3883884?org_id=1343
 2016	12221	1343	Saint Martin's	09/04/2015	@ Chaminade	133	Chaminade	http://stats.ncaa.org/team/index/12221?org_id=133	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3883957	http://stats.ncaa.org/game/index/3883957?org_id=133
 2016	12221	1343	Saint Martin's	09/05/2015	@ Hawaii Pacific	2696	Hawaii Pacific	http://stats.ncaa.org/team/index/12221?org_id=2696	false		false	L 0 - 3	false	0 - 3	false	0	3	false		3888048	http://stats.ncaa.org/game/index/3888048?org_id=2696
@@ -8976,7 +9026,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2016	12221	12799	Wheeling Jesuit	11/20/2015	Shepherd	10870	Shepherd	http://stats.ncaa.org/team/index/12221?org_id=10870	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3954503	http://stats.ncaa.org/game/index/3954503?org_id=12799
 2016	12221	12799	Wheeling Jesuit	11/21/2015	Fairmont St.	1076	Fairmont St.	http://stats.ncaa.org/team/index/12221?org_id=1076	false		true	W 3 - 1	true	3 - 1	false	3	1	false		3956034	http://stats.ncaa.org/game/index/3956034?org_id=12799
 2016	12221	12799	Wheeling Jesuit	12/03/2015	Winston-Salem	791	Winston-Salem	http://stats.ncaa.org/team/index/12221?org_id=791	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3963135	http://stats.ncaa.org/game/index/3963135?org_id=12799
+<<<<<<< HEAD
 2016	12221	12799	Wheeling Jesuit	12/04/2015	Clarion	143	Clarion	http://stats.ncaa.org/team/index/12221?org_id=143	false		true	W 3 - 0	true	3 - 0	false	3	0	false		3963647	http://stats.ncaa.org/game/index/3963647?org_id=12799
+=======
+>>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 2016	12221	30120	William Jewell	09/04/2015	Trevecca Nazarene @ Huntsville, Ala.	30002	Trevecca Nazarene	http://stats.ncaa.org/team/index/12221?org_id=30002	true	Huntsville, Ala.	false	L 0 - 3	false	0 - 3	false	0	3	false		3888694	http://stats.ncaa.org/game/index/3888694?org_id=30120
 2016	12221	30120	William Jewell	09/04/2015	@ Ala.-Huntsville	10	Ala.-Huntsville	http://stats.ncaa.org/team/index/12221?org_id=10	false		false	L 1 - 3	false	1 - 3	false	1	3	false		3883755	http://stats.ncaa.org/game/index/3883755?org_id=10
 2016	12221	30120	William Jewell	09/05/2015	Ouachita Baptist @ Huntsville, Ala.	1289	Ouachita Baptist	http://stats.ncaa.org/team/index/12221?org_id=1289	true	Huntsville, Ala.	false	L 1 - 3	false	1 - 3	false	1	3	false		3900192	http://stats.ncaa.org/game/index/3900192?org_id=1289
