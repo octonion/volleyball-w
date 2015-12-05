@@ -1,5 +1,4 @@
 rd,name,p
-<<<<<<< HEAD
 3,Minnesota,0.970
 3,Penn St.,0.968
 3,Nebraska,0.958
@@ -70,189 +69,8 @@ rd,name,p
 5,Dayton,0.001
 5,Creighton,0.001
 5,Marquette,0.000
-=======
-2,Ohio St.,1.000
-2,Minnesota,1.000
-2,Penn St.,1.000
-2,Nebraska,0.999
-2,Louisville,0.997
-2,Washington,0.996
-2,UCLA,0.980
-2,BYU,0.945
-2,Illinois,0.939
-2,North Carolina,0.913
-2,Texas A&M,0.858
-2,Kentucky,0.759
-2,Hawaii,0.713
-2,Creighton,0.701
-2,Marquette,0.686
-2,Kansas St.,0.650
-2,Dayton,0.639
-2,Michigan St.,0.622
-2,Arizona,0.588
-2,Santa Clara,0.517
-2,Michigan,0.483
-2,Western Ky.,0.412
-2,Arkansas St.,0.378
-2,Villanova,0.361
-2,Wichita St.,0.350
-2,UNI,0.314
-2,Coastal Caro.,0.299
-2,TCU,0.287
-2,American,0.241
-2,Texas A&M Corpus Christi,0.142
-2,UNCW,0.087
-2,Southern Ill.,0.061
-2,Ohio,0.055
-2,Lipscomb,0.020
-2,Denver,0.004
-2,Belmont,0.003
-2,Harvard,0.001
-2,Jackson St.,0.000
-2,Howard,0.000
-2,Robert Morris,0.000
-3,Minnesota,0.976
-3,Penn St.,0.969
-3,Washington,0.955
-3,Kansas,0.930
-3,Nebraska,0.925
-3,Southern California,0.909
-3,Stanford,0.893
-3,Wisconsin,0.883
-3,Texas,0.879
-3,UCLA,0.831
-3,Ohio St.,0.831
-3,BYU,0.794
-3,North Carolina,0.782
-3,Florida,0.777
-3,Louisville,0.539
-3,Hawaii,0.494
-3,Illinois,0.457
-3,Texas A&M,0.350
-3,Florida St.,0.223
-3,Kentucky,0.154
-3,Creighton,0.146
-3,TCU,0.141
-3,Arizona,0.125
-3,Purdue,0.121
-3,Iowa St.,0.117
-3,Loyola Marymount,0.107
-3,San Diego,0.091
-3,Santa Clara,0.088
-3,Michigan,0.078
-3,Missouri,0.070
-3,Western Ky.,0.066
-3,Kansas St.,0.059
-3,UNCW,0.044
-3,Michigan St.,0.033
-3,Coastal Caro.,0.029
-3,Dayton,0.024
-3,Marquette,0.021
-3,American,0.015
-3,Wichita St.,0.015
-3,Texas A&M Corpus Christi,0.015
-3,Ohio,0.015
-3,Arkansas St.,0.011
-3,Villanova,0.006
-3,Southern Ill.,0.004
-3,UNI,0.003
-3,Lipscomb,0.003
-3,Denver,0.001
-3,Robert Morris,0.000
-3,Harvard,0.000
-3,Belmont,0.000
-3,Jackson St.,0.000
-3,Howard,0.000
-4,Penn St.,0.834
-4,Southern California,0.816
-4,Washington,0.805
-4,Minnesota,0.683
-4,Texas,0.643
-4,Nebraska,0.577
-4,Kansas,0.524
-4,Wisconsin,0.468
-4,Stanford,0.446
-4,Florida,0.428
-4,BYU,0.361
-4,UCLA,0.296
-4,Illinois,0.163
-4,Ohio St.,0.160
-4,Louisville,0.150
-4,North Carolina,0.121
-4,Hawaii,0.111
-4,Florida St.,0.081
-4,San Diego,0.054
-4,Purdue,0.037
-4,Texas A&M,0.030
-4,Arizona,0.029
-4,Iowa St.,0.024
-4,Kentucky,0.019
-4,Loyola Marymount,0.019
-4,Western Ky.,0.016
-4,TCU,0.014
-4,Kansas St.,0.014
-4,Santa Clara,0.013
-4,Michigan St.,0.012
-4,Michigan,0.011
-4,Missouri,0.011
-4,Dayton,0.009
-4,Creighton,0.008
-4,Marquette,0.003
-4,Arkansas St.,0.003
-4,Wichita St.,0.002
-4,Villanova,0.002
-4,Coastal Caro.,0.001
-4,UNCW,0.001
-4,Ohio,0.001
-4,Robert Morris,0.000
-4,American,0.000
-4,Denver,0.000
-4,Harvard,0.000
-4,Howard,0.000
-4,Southern Ill.,0.000
-4,Jackson St.,0.000
-4,Texas A&M Corpus Christi,0.000
-4,UNI,0.000
-4,Lipscomb,0.000
-4,Belmont,0.000
-5,Southern California,0.636
-5,Washington,0.576
-5,Penn St.,0.503
-5,Texas,0.439
-5,Minnesota,0.352
-5,Nebraska,0.230
-5,Wisconsin,0.195
-5,Florida,0.183
-5,Kansas,0.166
-5,UCLA,0.144
-5,Stanford,0.131
-5,BYU,0.120
-5,Illinois,0.060
-5,Ohio St.,0.057
-5,Louisville,0.044
-5,North Carolina,0.043
-5,Hawaii,0.033
-5,Florida St.,0.021
-5,San Diego,0.021
-5,Purdue,0.009
-5,Arizona,0.005
-5,Kentucky,0.005
-5,Texas A&M,0.004
-5,Western Ky.,0.003
-5,Iowa St.,0.003
-5,Michigan St.,0.003
-5,Santa Clara,0.003
-5,Loyola Marymount,0.002
-5,Kansas St.,0.002
-5,TCU,0.002
-5,Michigan,0.002
-5,Dayton,0.001
-5,Creighton,0.001
-5,Missouri,0.001
->>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 5,American,0.000
 5,Wichita St.,0.000
-<<<<<<< HEAD
 6,Washington,0.366
 6,Southern California,0.351
 6,Penn St.,0.339
@@ -272,52 +90,10 @@ rd,name,p
 6,Western Ky.,0.001
 6,Michigan St.,0.001
 6,Loyola Marymount,0.001
-=======
-5,Arkansas St.,0.000
-5,Denver,0.000
-5,Belmont,0.000
-5,Villanova,0.000
-5,Howard,0.000
-5,Jackson St.,0.000
-5,Southern Ill.,0.000
-5,Texas A&M Corpus Christi,0.000
-5,Lipscomb,0.000
-5,Ohio,0.000
-5,UNCW,0.000
-5,UNI,0.000
-5,Marquette,0.000
-6,Washington,0.374
-6,Southern California,0.317
-6,Penn St.,0.315
-6,Texas,0.208
-6,Minnesota,0.206
-6,Nebraska,0.133
-6,Wisconsin,0.080
-6,Florida,0.077
-6,Kansas,0.055
-6,UCLA,0.054
-6,BYU,0.049
-6,Stanford,0.040
-6,Illinois,0.026
-6,Ohio St.,0.017
-6,Louisville,0.015
-6,Hawaii,0.010
-6,North Carolina,0.009
-6,Florida St.,0.005
-6,San Diego,0.003
-6,Purdue,0.002
-6,Kentucky,0.001
-6,Arizona,0.001
-6,UNI,0.000
-6,Texas A&M,0.000
-6,Texas A&M Corpus Christi,0.000
-6,Creighton,0.000
->>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 6,Marquette,0.000
 6,Creighton,0.000
 6,Wichita St.,0.000
 6,Dayton,0.000
-<<<<<<< HEAD
 6,Michigan,0.000
 6,American,0.000
 6,Texas A&M,0.000
@@ -332,27 +108,8 @@ rd,name,p
 7,Wisconsin,0.024
 7,BYU,0.021
 7,UCLA,0.013
-=======
-6,Coastal Caro.,0.000
-6,Howard,0.000
-6,Jackson St.,0.000
-6,Southern Ill.,0.000
-6,Iowa St.,0.000
-7,Washington,0.256
-7,Southern California,0.194
-7,Penn St.,0.147
-7,Minnesota,0.088
-7,Texas,0.081
-7,Nebraska,0.081
-7,Wisconsin,0.026
-7,Florida,0.026
-7,Kansas,0.024
-7,BYU,0.021
-7,Stanford,0.016
-7,UCLA,0.016
->>>>>>> 6786ce0d781ebcf81d2719539e0b9f6117e95ee4
 7,Illinois,0.007
-7,Ohio St.,0.005
+7,Ohio St.,0.004
 7,Louisville,0.003
 7,Hawaii,0.002
 7,North Carolina,0.002
