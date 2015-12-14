@@ -1,33 +1,11 @@
 BEGIN
-      team_name      |   p   
----------------------+-------
- Washington          | 0.245
- Southern California | 0.210
- Penn St.            | 0.166
- Texas               | 0.085
- Minnesota           | 0.080
- Nebraska            | 0.077
- Kansas              | 0.034
- Florida             | 0.028
- Wisconsin           | 0.024
- BYU                 | 0.021
- UCLA                | 0.013
- Illinois            | 0.007
- Ohio St.            | 0.004
- Louisville          | 0.003
- North Carolina      | 0.002
- Hawaii              | 0.002
- Western Ky.         | 0.000
- Wichita St.         | 0.000
- Loyola Marymount    | 0.000
- American            | 0.000
- Marquette           | 0.000
- Michigan            | 0.000
- Michigan St.        | 0.000
- Dayton              | 0.000
- Creighton           | 0.000
- Texas A&M           | 0.000
-(26 rows)
+ team_name |   p   
+-----------+-------
+ Nebraska  | 0.407
+ Minnesota | 0.254
+ Texas     | 0.202
+ Kansas    | 0.137
+(4 rows)
 
-COPY 26
+COPY 4
 COMMIT
