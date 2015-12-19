@@ -1,15 +1,9 @@
 BEGIN
- rd |   name    |   p   
-----+-----------+-------
-  6 | Nebraska  | 0.676
-  6 | Minnesota | 0.538
-  6 | Texas     | 0.462
-  6 | Kansas    | 0.324
-  7 | Nebraska  | 0.407
-  7 | Minnesota | 0.254
-  7 | Texas     | 0.202
-  7 | Kansas    | 0.137
-(8 rows)
+ rd |   name   |   p   
+----+----------+-------
+  7 | Nebraska | 0.622
+  7 | Texas    | 0.378
+(2 rows)
 
-COPY 8
+COPY 2
 COMMIT

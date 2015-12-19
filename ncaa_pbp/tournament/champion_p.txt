@@ -1,11 +1,9 @@
 BEGIN
  team_name |   p   
 -----------+-------
- Nebraska  | 0.407
- Minnesota | 0.254
- Texas     | 0.202
- Kansas    | 0.137
-(4 rows)
+ Nebraska  | 0.622
+ Texas     | 0.378
+(2 rows)
 
-COPY 4
+COPY 2
 COMMIT
