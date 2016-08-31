@@ -25,7 +25,7 @@ end
 
 base_url = 'http://stats.ncaa.org'
 
-box_scores_xpath = '//*[@id="contentArea"]/table[position()>4]/tr[position()>2]'
+box_scores_xpath = '//*[@id="contentarea"]/table[position()>4]/tr[position()>2]'
 
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_mt_#{year}_#{division}.tsv",
                                "r",

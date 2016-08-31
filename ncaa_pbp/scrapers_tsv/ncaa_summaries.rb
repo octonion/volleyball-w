@@ -51,9 +51,9 @@ ncaa_teams.each do |team|
 
   players_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr[position()>1]'
+  teams_xpath = '//*[@id="stat_grid"]/tfoot/tr' #[position()>1]'
 
-  stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
+  stat_url = "http://stats.ncaa.org/team/#{team_id}/stats/#{year_id}"
 
   print "Sleep #{sleep_time} ... "
   sleep sleep_time

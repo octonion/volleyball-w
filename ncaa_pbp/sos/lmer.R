@@ -23,7 +23,7 @@ r.team_score::float/(r.team_score+r.opponent_score)::float as pp
 from ncaa_pbp.results r
 
 where
-    r.year between 2014 and 2016
+    r.year between 2014 and 2017
 and r.team_div_id is not null
 and r.opponent_div_id is not null
 

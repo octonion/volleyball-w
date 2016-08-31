@@ -16,7 +16,7 @@ base_url = 'http://stats.ncaa.org'
 year = ARGV[0].to_i
 division = ARGV[1].to_i
 
-game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
 ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv",
                       "r",
