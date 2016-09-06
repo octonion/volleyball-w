@@ -55,8 +55,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	929	Adams St.	11/05/2016	Colo. Christian		Colo. Christian		false		true	-									
 2017	12426	929	Adams St.	11/09/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-									
 2017	12426	929	Adams St.	11/13/2016	@ Western St.		Western St.		false		false	-									
-2017	12426	3	Adelphi	09/02/2016	Ark.-Monticello@Fort Lauderdale, FL		Ark.-Monticello		true	Fort Lauderdale, FL	false	-									
 2017	12426	3	Adelphi	09/02/2016	@ Nova Southeastern		Nova Southeastern		false		false	-									
+2017	12426	3	Adelphi	09/02/2016	Ark.-Monticello		Ark.-Monticello	http://stats.ncaa.org/team/8411/12426	false		true	-									
 2017	12426	3	Adelphi	09/03/2016	Rockhurst@Fort Lauderdale, FL		Rockhurst		true	Fort Lauderdale, FL	false	-									
 2017	12426	3	Adelphi	09/03/2016	Lynn @ Ft. Lauderdale, Fla.		Lynn	http://stats.ncaa.org/team/20794/12426	true	Ft. Lauderdale, Fla.	false	L 2 - 3	false	2 - 3	false	2	3	false		4160401	http://stats.ncaa.org/game/index/4160401?org_id=20794
 2017	12426	3	Adelphi	09/03/2016	@ Saint Leo		Saint Leo		false		false	-									
@@ -269,7 +269,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	22	American Int'l	11/05/2016	Southern N.H.		Southern N.H.		false		true	-									
 2017	12426	22	American Int'l	11/09/2016	@ Franklin Pierce		Franklin Pierce		false		false	-									
 2017	12426	22	American Int'l	11/12/2016	@ Bentley		Bentley		false		false	-									
-2017	12426	13028	Anderson (SC)	09/02/2016	Clark Atlanta @ Columbus, Ga.		Clark Atlanta	http://stats.ncaa.org/team/144/12426	true	Columbus, Ga.	false	W 3 - 0	true	3 - 0	false	3	0	false		4158711	http://stats.ncaa.org/game/index/4158711?org_id=13028
+2017	12426	13028	Anderson (SC)	09/02/2016	Clark Atlanta		Clark Atlanta	http://stats.ncaa.org/team/144/12426	false		true	-									
 2017	12426	13028	Anderson (SC)	09/03/2016	@ West Ga.		West Ga.		false		false	-									
 2017	12426	13028	Anderson (SC)	09/03/2016	Armstrong St.		Armstrong St.	http://stats.ncaa.org/team/33/12426	false		true	-									
 2017	12426	13028	Anderson (SC)	09/08/2016	@ Coker		Coker		false		false	-									
@@ -300,12 +300,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	13028	Anderson (SC)	11/12/2016	Queens (NC)		Queens (NC)		false		true	-									
 2017	12426	25	Angelo St.	09/02/2016	St. Mary's (TX)		St. Mary's (TX)	http://stats.ncaa.org/team/1346/12426	false		true	-									
 2017	12426	25	Angelo St.	09/02/2016	@ South Dakota Mines		South Dakota Mines		false		false	-									
-2017	12426	25	Angelo St.	09/03/2016	@ Regis (CO)		Regis (CO)		false		false	-									
+2017	12426	25	Angelo St.	09/02/2016	@ St. Mary's (TX)		St. Mary's (TX)		false		false	-									
 2017	12426	25	Angelo St.	09/03/2016	@ St. Edward's		St. Edward's		false		false	-									
-2017	12426	25	Angelo St.	09/07/2016	Adams St.@Pueblo, CO		Adams St.		true	Pueblo, CO	false	-									
+2017	12426	25	Angelo St.	09/03/2016	@ Regis (CO)		Regis (CO)		false		false	-									
 2017	12426	25	Angelo St.	09/07/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-									
-2017	12426	25	Angelo St.	09/09/2016	@ MSU Denver		MSU Denver		false		false	-									
+2017	12426	25	Angelo St.	09/07/2016	Adams St.@Pueblo, CO		Adams St.		true	Pueblo, CO	false	-									
 2017	12426	25	Angelo St.	09/09/2016	Central Mo.@Denver, CO		Central Mo.		true	Denver, CO	false	-									
+2017	12426	25	Angelo St.	09/09/2016	@ MSU Denver		MSU Denver		false		false	-									
 2017	12426	25	Angelo St.	09/10/2016	TBA@Denver, CO		TBA		true	Denver, CO	false	-									
 2017	12426	25	Angelo St.	09/10/2016	TBA@Denver, CO		TBA		true	Denver, CO	false	-									
 2017	12426	25	Angelo St.	09/16/2016	Texas Woman's		Texas Woman's		false		true	-									
@@ -323,14 +324,14 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	25	Angelo St.	10/26/2016	Tarleton St.		Tarleton St.		false		true	-									
 2017	12426	25	Angelo St.	10/28/2016	West Tex. A&M		West Tex. A&M		false		true	-									
 2017	12426	25	Angelo St.	10/29/2016	Tex. Permian Basin		Tex. Permian Basin		false		true	-									
-2017	12426	25	Angelo St.	11/01/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-									
 2017	12426	25	Angelo St.	11/01/2016	Tex. A&M Int'l@Kingsville, TX		Tex. A&M Int'l		true	Kingsville, TX	false	-									
+2017	12426	25	Angelo St.	11/01/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-									
 2017	12426	25	Angelo St.	11/04/2016	Cameron		Cameron		false		true	-									
 2017	12426	25	Angelo St.	11/05/2016	Midwestern St.		Midwestern St.		false		true	-									
 2017	12426	25	Angelo St.	11/11/2016	@ Eastern N.M.		Eastern N.M.		false		false	-									
 2017	12426	25	Angelo St.	11/12/2016	@ Western N.M.		Western N.M.		false		false	-									
 2017	12426	30105	Ark.-Fort Smith	09/02/2016	Westminster (UT) @ Anchorage, AK		Westminster (UT)	http://stats.ncaa.org/team/30209/12426	true	Anchorage, AK	false	W 3 - 0	true	3 - 0	false	3	0	false		4159308	http://stats.ncaa.org/game/index/4159308?org_id=30209
-2017	12426	30105	Ark.-Fort Smith	09/02/2016	Rollins @ Anchorage, Alaska		Rollins	http://stats.ncaa.org/team/584/12426	true	Anchorage, Alaska	false	W 3 - 0	true	3 - 0	false	3	0	false		4158514	http://stats.ncaa.org/game/index/4158514?org_id=30105
+2017	12426	30105	Ark.-Fort Smith	09/02/2016	Rollins @ Anchorage, Alaska		Rollins	http://stats.ncaa.org/team/584/12426	true	Anchorage, Alaska	false	W 3 - 0	true	3 - 0	false	3	0	false		4161575	http://stats.ncaa.org/game/index/4161575?org_id=584
 2017	12426	30105	Ark.-Fort Smith	09/03/2016	@ Alas. Anchorage		Alas. Anchorage	http://stats.ncaa.org/team/11/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4160632	http://stats.ncaa.org/game/index/4160632?org_id=11
 2017	12426	30105	Ark.-Fort Smith	09/03/2016	Stanislaus St. @ Anchorage, Alaska		Stanislaus St.	http://stats.ncaa.org/team/103/12426	true	Anchorage, Alaska	false	W 3 - 1	true	3 - 1	false	3	1	false		4160569	http://stats.ncaa.org/game/index/4160569?org_id=30105
 2017	12426	30105	Ark.-Fort Smith	09/09/2016	@ Regis (CO)		Regis (CO)		false		false	-									
@@ -356,7 +357,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30105	Ark.-Fort Smith	11/03/2016	St. Mary's (TX)		St. Mary's (TX)		false		true	-									
 2017	12426	30105	Ark.-Fort Smith	11/05/2016	Tex. A&M Int'l		Tex. A&M Int'l		false		true	-									
 2017	12426	30105	Ark.-Fort Smith	11/11/2016	@ Newman		Newman		false		false	-									
-2017	12426	8411	Ark.-Monticello	09/02/2016	Adelphi@Fort Lauderdale, FL		Adelphi		true	Fort Lauderdale, FL	false	-									
+2017	12426	8411	Ark.-Monticello	09/02/2016	Adelphi		Adelphi	http://stats.ncaa.org/team/3/12426	false		true	-									
 2017	12426	8411	Ark.-Monticello	09/02/2016	@ Nova Southeastern		Nova Southeastern		false		false	-									
 2017	12426	8411	Ark.-Monticello	09/03/2016	Lynn @ Ft. Lauderdale, Fla.		Lynn	http://stats.ncaa.org/team/20794/12426	true	Ft. Lauderdale, Fla.	false	L 1 - 3	false	1 - 3	false	1	3	false		4160322	http://stats.ncaa.org/game/index/4160322?org_id=8411
 2017	12426	8411	Ark.-Monticello	09/03/2016	@ Saint Leo		Saint Leo		false		false	-									
@@ -449,7 +450,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	33	Armstrong St.	11/12/2016	UNC Pembroke		UNC Pembroke		false		true	-									
 2017	12426	33	Armstrong St.	11/12/2016	Francis Marion		Francis Marion		false		true	-									
 2017	12426	35	Ashland	09/01/2016	@ Lock Haven		Lock Haven	http://stats.ncaa.org/team/360/12426	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4158123	http://stats.ncaa.org/game/index/4158123?org_id=360
-2017	12426	35	Ashland	09/02/2016	California (PA)		California (PA)	http://stats.ncaa.org/team/106/12426	false		true	-									
+2017	12426	35	Ashland	09/02/2016	California (PA) @ Lock Haven, PA		California (PA)	http://stats.ncaa.org/team/106/12426	true	Lock Haven, PA	false	W 3 - 1	true	3 - 1	false	3	1	false		4161394	http://stats.ncaa.org/game/index/4161394?org_id=106
 2017	12426	35	Ashland	09/02/2016	Charleston (WV) @ Lock Haven, Pa.		Charleston (WV)	http://stats.ncaa.org/team/1013/12426	true	Lock Haven, Pa.	false	W 3 - 0	true	3 - 0	false	3	0	false		4158566	http://stats.ncaa.org/game/index/4158566?org_id=35
 2017	12426	35	Ashland	09/03/2016	Shepherd @ Lock Haven, Pa.		Shepherd	http://stats.ncaa.org/team/10870/12426	true	Lock Haven, Pa.	false	W 3 - 1	true	3 - 1	false	3	1	false		4159656	http://stats.ncaa.org/game/index/4159656?org_id=35
 2017	12426	35	Ashland	09/09/2016	West Tex. A&M@Indianapolis, IN		West Tex. A&M		true	Indianapolis, IN	false	-									
@@ -909,7 +910,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	985	Bluefield St.	11/03/2016	Saint Augustine's		Saint Augustine's		false		true	-									
 2017	12426	985	Bluefield St.	11/08/2016	@ Salem Int'l		Salem Int'l		false		false	-									
 2017	12426	985	Bluefield St.	11/14/2016	Livingstone		Livingstone		false		true	-									
-2017	12426	70	Bowie St.	09/03/2016	@ Notre Dame (MD)		Notre Dame (MD)	http://stats.ncaa.org/team/8600/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4159999	http://stats.ncaa.org/game/index/4159999?org_id=8600
+2017	12426	70	Bowie St.	09/03/2016	@ Notre Dame (MD)		Notre Dame (MD)	http://stats.ncaa.org/team/8600/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4161750	http://stats.ncaa.org/game/index/4161750?org_id=8600
 2017	12426	70	Bowie St.	09/06/2016	Goldey-Beacom		Goldey-Beacom		false		true	-									
 2017	12426	70	Bowie St.	09/17/2016	Johnson C. Smith		Johnson C. Smith		false		true	-									
 2017	12426	70	Bowie St.	09/17/2016	Livingstone		Livingstone		false		true	-									
@@ -936,8 +937,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	70	Bowie St.	11/12/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-									
 2017	12426	30094	Brevard	09/02/2016	Southern Ind. @ St. Augustine, FL		Southern Ind.	http://stats.ncaa.org/team/661/12426	true	St. Augustine, FL	false	L 0 - 3	false	0 - 3	false	0	3	false		4158515	http://stats.ncaa.org/game/index/4158515?org_id=661
 2017	12426	30094	Brevard	09/02/2016	@ Valdosta St.		Valdosta St.		false		false	-									
-2017	12426	30094	Brevard	09/03/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	30094	Brevard	09/02/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	30094	Brevard	09/02/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	30094	Brevard	09/02/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	30094	Brevard	09/02/2016	@ Valdosta St.		Valdosta St.		false		false	-									
 2017	12426	30094	Brevard	09/03/2016	@ Flagler		Flagler		false		false	-									
+2017	12426	30094	Brevard	09/03/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	30094	Brevard	09/03/2016	@ Southern Ind.		Southern Ind.		false		false	-									
 2017	12426	30094	Brevard	09/06/2016	Queens (NC)		Queens (NC)		false		true	-									
 2017	12426	30094	Brevard	09/09/2016	Catawba		Catawba		false		true	-									
 2017	12426	30094	Brevard	09/13/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-									
@@ -947,8 +953,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30094	Brevard	09/24/2016	Anderson (SC)		Anderson (SC)		false		true	-									
 2017	12426	30094	Brevard	09/27/2016	@ North Greenville		North Greenville		false		false	-									
 2017	12426	30094	Brevard	09/30/2016	@ Coker		Coker		false		false	-									
-2017	12426	30094	Brevard	10/01/2016	@ Wingate		Wingate		false		false	-									
 2017	12426	30094	Brevard	10/01/2016	Wheeling Jesuit@Wingate, NC		Wheeling Jesuit		true	Wingate, NC	false	-									
+2017	12426	30094	Brevard	10/01/2016	@ Wingate		Wingate		false		false	-									
 2017	12426	30094	Brevard	10/07/2016	Carson-Newman		Carson-Newman		false		true	-									
 2017	12426	30094	Brevard	10/08/2016	Lincoln Memorial		Lincoln Memorial		false		true	-									
 2017	12426	30094	Brevard	10/11/2016	North Greenville		North Greenville		false		true	-									
@@ -1199,9 +1205,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	995	Caldwell	11/09/2016	Post		Post		false		true	-									
 2017	12426	995	Caldwell	11/12/2016	@ Felician		Felician		false		false	-									
 2017	12426	106	California (PA)	09/02/2016	Stonehill @ Lock Haven, Pa.		Stonehill	http://stats.ncaa.org/team/682/12426	true	Lock Haven, Pa.	false	W 3 - 1	true	3 - 1	false	3	1	false		4158598	http://stats.ncaa.org/game/index/4158598?org_id=682
-2017	12426	106	California (PA)	09/02/2016	Ashland		Ashland	http://stats.ncaa.org/team/35/12426	false		true	-									
+2017	12426	106	California (PA)	09/02/2016	Ashland @ Lock Haven, PA		Ashland	http://stats.ncaa.org/team/35/12426	true	Lock Haven, PA	false	L 1 - 3	false	1 - 3	false	1	3	false		4161394	http://stats.ncaa.org/game/index/4161394?org_id=106
 2017	12426	106	California (PA)	09/03/2016	Charleston (WV)@Lock Haven, PA		Charleston (WV)		true	Lock Haven, PA	false	-									
-2017	12426	106	California (PA)	09/03/2016	Shepherd		Shepherd	http://stats.ncaa.org/team/10870/12426	false		true	-									
+2017	12426	106	California (PA)	09/03/2016	Shepherd @ Lock Haven, PA		Shepherd	http://stats.ncaa.org/team/10870/12426	true	Lock Haven, PA	false	W 3 - 0	true	3 - 0	false	3	0	false		4161398	http://stats.ncaa.org/game/index/4161398?org_id=106
 2017	12426	106	California (PA)	09/03/2016	@ Charleston (WV)		Charleston (WV)	http://stats.ncaa.org/team/1013/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4160823	http://stats.ncaa.org/game/index/4160823?org_id=1013
 2017	12426	106	California (PA)	09/08/2016	Davis & Elkins		Davis & Elkins		false		true	-									
 2017	12426	106	California (PA)	09/09/2016	Charleston (WV)		Charleston (WV)		false		true	-									
@@ -1618,6 +1624,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	21323	Chestnut Hill	11/12/2016	@ Goldey-Beacom		Goldey-Beacom		false		false	-									
 2017	12426	135	Cheyney	09/03/2016	LIU Post		LIU Post	http://stats.ncaa.org/team/362/12426	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4160224	http://stats.ncaa.org/game/index/4160224?org_id=135
 2017	12426	135	Cheyney	09/03/2016	Nyack		Nyack	http://stats.ncaa.org/team/1277/12426	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4160713	http://stats.ncaa.org/game/index/4160713?org_id=135
+2017	12426	135	Cheyney	09/03/2016	@ Nyack		Nyack		false		false	-									
 2017	12426	135	Cheyney	09/08/2016	@ Goldey-Beacom		Goldey-Beacom		false		false	-									
 2017	12426	135	Cheyney	09/13/2016	@ USciences		USciences		false		false	-									
 2017	12426	135	Cheyney	09/15/2016	Lincoln (PA)		Lincoln (PA)		false		true	-									
@@ -1631,8 +1638,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	135	Cheyney	10/08/2016	Pitt.-Johnstown		Pitt.-Johnstown		false		true	-									
 2017	12426	135	Cheyney	10/11/2016	West Chester		West Chester		false		true	-									
 2017	12426	135	Cheyney	10/14/2016	@ Millersville		Millersville		false		false	-									
-2017	12426	135	Cheyney	10/15/2016	@ Shippensburg		Shippensburg		false		false	-									
 2017	12426	135	Cheyney	10/15/2016	Ursuline@Shippensburg, PA		Ursuline		true	Shippensburg, PA	false	-									
+2017	12426	135	Cheyney	10/15/2016	@ Shippensburg		Shippensburg		false		false	-									
 2017	12426	135	Cheyney	10/18/2016	@ Bowie St.		Bowie St.		false		false	-									
 2017	12426	135	Cheyney	10/21/2016	@ East Stroudsburg		East Stroudsburg		false		false	-									
 2017	12426	135	Cheyney	10/22/2016	@ Kutztown		Kutztown		false		false	-									
@@ -1674,7 +1681,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	8875	Chowan	09/02/2016	Lees-McRae		Lees-McRae	http://stats.ncaa.org/team/13302/12426	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4159158	http://stats.ncaa.org/game/index/4159158?org_id=13302
 2017	12426	8875	Chowan	09/02/2016	Lees-McRae		Lees-McRae		false		true	-									
 2017	12426	8875	Chowan	09/03/2016	Mount Olive@Winston-Salem, NC		Mount Olive		true	Winston-Salem, NC	false	-									
-2017	12426	8875	Chowan	09/03/2016	Kutztown @ Winston-Salem, N.C.		Kutztown	http://stats.ncaa.org/team/339/12426	true	Winston-Salem, N.C.	false	W 3 - 2	true	3 - 2	false	3	2	false		4159923	http://stats.ncaa.org/game/index/4159923?org_id=339
+2017	12426	8875	Chowan	09/03/2016	Kutztown @ Winston-Salem, N.C.		Kutztown	http://stats.ncaa.org/team/339/12426	true	Winston-Salem, N.C.	false	W 3 - 2	true	3 - 2	false	3	2	false		4161717	http://stats.ncaa.org/game/index/4161717?org_id=339
 2017	12426	8875	Chowan	09/06/2016	@ Barton		Barton		false		false	-									
 2017	12426	8875	Chowan	09/08/2016	@ North Greenville		North Greenville		false		false	-									
 2017	12426	8875	Chowan	09/09/2016	@ Coker		Coker		false		false	-									
@@ -1786,17 +1793,20 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	143	Clarion	11/08/2016	Indiana (PA)		Indiana (PA)		false		true	-									
 2017	12426	143	Clarion	11/11/2016	@ Seton Hill		Seton Hill		false		false	-									
 2017	12426	143	Clarion	11/12/2016	@ California (PA)		California (PA)		false		false	-									
-2017	12426	144	Clark Atlanta	09/02/2016	Anderson (SC) @ Columbus, Ga.		Anderson (SC)	http://stats.ncaa.org/team/13028/12426	true	Columbus, Ga.	false	L 0 - 3	false	0 - 3	false	0	3	false		4158711	http://stats.ncaa.org/game/index/4158711?org_id=13028
-2017	12426	144	Clark Atlanta	09/03/2016	Converse@Columbus, GA		Converse		true	Columbus, GA	false	-									
+2017	12426	144	Clark Atlanta	09/02/2016	Anderson (SC)		Anderson (SC)	http://stats.ncaa.org/team/13028/12426	false		true	-									
+2017	12426	144	Clark Atlanta	09/03/2016	@ Converse		Converse		false		false	-									
 2017	12426	144	Clark Atlanta	09/03/2016	@ West Ga.		West Ga.		false		false	-									
+2017	12426	144	Clark Atlanta	09/03/2016	@ Converse		Converse		false		false	-									
+2017	12426	144	Clark Atlanta	09/03/2016	@ West Ga.		West Ga.		false		false	-									
+2017	12426	144	Clark Atlanta	09/03/2016	@ Converse		Converse		false		false	-									
 2017	12426	144	Clark Atlanta	09/13/2016	@ Montevallo		Montevallo		false		false	-									
 2017	12426	144	Clark Atlanta	09/17/2016	Talladega		Talladega		false		true	-									
-2017	12426	144	Clark Atlanta	09/22/2016	Spring Hill@Albany, GA		Spring Hill		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/22/2016	Lane@Albany, GA		Lane		true	Albany, GA	false	-									
+2017	12426	144	Clark Atlanta	09/22/2016	Spring Hill@Albany, GA		Spring Hill		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/22/2016	LeMoyne-Owen@Albany, GA		LeMoyne-Owen		true	Albany, GA	false	-									
-2017	12426	144	Clark Atlanta	09/23/2016	Central St. (OH)@Albany, GA		Central St. (OH)		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/23/2016	Kentucky St.@Albany, GA		Kentucky St.		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/23/2016	Tuskegee@Albany, GA		Tuskegee		true	Albany, GA	false	-									
+2017	12426	144	Clark Atlanta	09/23/2016	Central St. (OH)@Albany, GA		Central St. (OH)		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/24/2016	Miles@Albany, GA		Miles		true	Albany, GA	false	-									
 2017	12426	144	Clark Atlanta	09/28/2016	Oglethorpe		Oglethorpe		false		true	-									
 2017	12426	144	Clark Atlanta	09/30/2016	@ Claflin		Claflin		false		false	-									
@@ -1985,7 +1995,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1028	Concord	09/02/2016	Dominican (NY) @ Shippensburg, PA		Dominican (NY)	http://stats.ncaa.org/team/8956/12426	true	Shippensburg, PA	false	W 3 - 0	true	3 - 0	false	3	0	false		4158860	http://stats.ncaa.org/game/index/4158860?org_id=8956
 2017	12426	1028	Concord	09/02/2016	@ Shippensburg		Shippensburg	http://stats.ncaa.org/team/638/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4159099	http://stats.ncaa.org/game/index/4159099?org_id=638
 2017	12426	1028	Concord	09/03/2016	@ Southern N.H.		Southern N.H.		false		false	-									
-2017	12426	1028	Concord	09/03/2016	Seton Hill		Seton Hill	http://stats.ncaa.org/team/30063/12426	false		true	-									
+2017	12426	1028	Concord	09/03/2016	Seton Hill @ Shippensburg, PA		Seton Hill	http://stats.ncaa.org/team/30063/12426	true	Shippensburg, PA	false	L 1 - 3	false	1 - 3	false	1	3	false		4160074	http://stats.ncaa.org/game/index/4160074?org_id=30063
 2017	12426	1028	Concord	09/09/2016	@ Gannon		Gannon		false		false	-									
 2017	12426	1028	Concord	09/09/2016	Edinboro@Erie, PA		Edinboro		true	Erie, PA	false	-									
 2017	12426	1028	Concord	09/10/2016	@ Mercyhurst		Mercyhurst		false		false	-									
@@ -2123,10 +2133,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	9081	Concordia-St. Paul	11/12/2016	Minn.-Crookston		Minn.-Crookston		false		true	-									
 2017	12426	9081	Concordia-St. Paul	11/12/2016	Bemidji St.		Bemidji St.		false		true	-									
 2017	12426	8935	Converse	09/02/2016	@ West Ga.		West Ga.		false		false	-									
-2017	12426	8935	Converse	09/03/2016	Clark Atlanta@Columbus, GA		Clark Atlanta		true	Columbus, GA	false	-									
 2017	12426	8935	Converse	09/03/2016	@ Columbus St.		Columbus St.		false		false	-									
-2017	12426	8935	Converse	09/09/2016	Chowan@Hartsville, SC		Chowan		true	Hartsville, SC	false	-									
+2017	12426	8935	Converse	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-									
+2017	12426	8935	Converse	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-									
+2017	12426	8935	Converse	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-									
 2017	12426	8935	Converse	09/09/2016	@ Coker		Coker		false		false	-									
+2017	12426	8935	Converse	09/09/2016	Chowan@Hartsville, SC		Chowan		true	Hartsville, SC	false	-									
 2017	12426	8935	Converse	09/13/2016	@ North Greenville		North Greenville		false		false	-									
 2017	12426	8935	Converse	09/16/2016	@ Lees-McRae		Lees-McRae		false		false	-									
 2017	12426	8935	Converse	09/17/2016	@ King (TN)		King (TN)		false		false	-									
@@ -2203,7 +2215,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1045	Dallas Baptist	11/03/2016	@ Lubbock Christian		Lubbock Christian		false		false	-									
 2017	12426	1045	Dallas Baptist	11/05/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-									
 2017	12426	1045	Dallas Baptist	11/12/2016	St. Edward's		St. Edward's		false		true	-									
-2017	12426	174	Davis & Elkins	09/02/2016	Fairmont St. @ North Canton, Ohio		Fairmont St.	http://stats.ncaa.org/team/1076/12426	true	North Canton, Ohio	false	W 3 - 2	true	3 - 2	false	3	2	false		4158640	http://stats.ncaa.org/game/index/4158640?org_id=1076
+2017	12426	174	Davis & Elkins	09/02/2016	Fairmont St.		Fairmont St.	http://stats.ncaa.org/team/1076/12426	false		true	-									
 2017	12426	174	Davis & Elkins	09/02/2016	@ Bellarmine		Bellarmine		false		false	-									
 2017	12426	174	Davis & Elkins	09/03/2016	@ Walsh		Walsh		false		false	-									
 2017	12426	174	Davis & Elkins	09/03/2016	@ Urbana		Urbana		false		false	-									
@@ -2480,10 +2492,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	208	Eckerd	11/19/2016	@ Florida Tech		Florida Tech		false		false	-									
 2017	12426	209	Edinboro	09/02/2016	@ UIndy		UIndy		false		false	-									
 2017	12426	209	Edinboro	09/02/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-									
-2017	12426	209	Edinboro	09/03/2016	@ St. Cloud St.		St. Cloud St.		false		false	-									
+2017	12426	209	Edinboro	09/02/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-									
 2017	12426	209	Edinboro	09/03/2016	@ Colorado Mines		Colorado Mines		false		false	-									
-2017	12426	209	Edinboro	09/09/2016	West Virginia St.@Erie, PA		West Virginia St.		true	Erie, PA	false	-									
+2017	12426	209	Edinboro	09/03/2016	@ St. Cloud St.		St. Cloud St.		false		false	-									
 2017	12426	209	Edinboro	09/09/2016	Concord@Erie, PA		Concord		true	Erie, PA	false	-									
+2017	12426	209	Edinboro	09/09/2016	West Virginia St.@Erie, PA		West Virginia St.		true	Erie, PA	false	-									
 2017	12426	209	Edinboro	09/10/2016	Fairmont St.@Erie, PA		Fairmont St.		true	Erie, PA	false	-									
 2017	12426	209	Edinboro	09/10/2016	Urbana@Erie, PA		Urbana		true	Erie, PA	false	-									
 2017	12426	209	Edinboro	09/13/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-									
@@ -2561,9 +2574,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30193	Emmanuel (GA)	09/02/2016	@ Armstrong St.		Armstrong St.		false		false	-									
 2017	12426	30193	Emmanuel (GA)	09/03/2016	@ Columbus St.		Columbus St.		false		false	-									
 2017	12426	30193	Emmanuel (GA)	09/03/2016	@ Mars Hill		Mars Hill		false		false	-									
+2017	12426	30193	Emmanuel (GA)	09/03/2016	@ Mars Hill		Mars Hill		false		false	-									
 2017	12426	30193	Emmanuel (GA)	09/07/2016	@ Georgia College		Georgia College		false		false	-									
-2017	12426	30193	Emmanuel (GA)	09/09/2016	UNC Pembroke@Florence, SC		UNC Pembroke		true	Florence, SC	false	-									
 2017	12426	30193	Emmanuel (GA)	09/09/2016	Newberry@Florence, SC		Newberry		true	Florence, SC	false	-									
+2017	12426	30193	Emmanuel (GA)	09/09/2016	UNC Pembroke@Florence, SC		UNC Pembroke		true	Florence, SC	false	-									
 2017	12426	30193	Emmanuel (GA)	09/10/2016	Anderson (SC)@Florence, SC		Anderson (SC)		true	Florence, SC	false	-									
 2017	12426	30193	Emmanuel (GA)	09/10/2016	@ Francis Marion		Francis Marion		false		false	-									
 2017	12426	30193	Emmanuel (GA)	09/16/2016	@ Barton		Barton		false		false	-									
@@ -2640,7 +2654,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1072	Erskine	11/04/2016	Lees-McRae		Lees-McRae		false		true	-									
 2017	12426	1072	Erskine	11/05/2016	King (TN)		King (TN)		false		true	-									
 2017	12426	1076	Fairmont St.	09/02/2016	@ Glenville St.		Glenville St.		false		false	-									
-2017	12426	1076	Fairmont St.	09/02/2016	Davis & Elkins @ North Canton, Ohio		Davis & Elkins	http://stats.ncaa.org/team/174/12426	true	North Canton, Ohio	false	L 2 - 3	false	2 - 3	false	2	3	false		4158640	http://stats.ncaa.org/game/index/4158640?org_id=1076
+2017	12426	1076	Fairmont St.	09/02/2016	Davis & Elkins		Davis & Elkins	http://stats.ncaa.org/team/174/12426	false		true	-									
 2017	12426	1076	Fairmont St.	09/03/2016	Bellarmine@North Canton, OH		Bellarmine		true	North Canton, OH	false	-									
 2017	12426	1076	Fairmont St.	09/03/2016	@ Walsh		Walsh		false		false	-									
 2017	12426	1076	Fairmont St.	09/09/2016	Indiana (PA)@Erie, PA		Indiana (PA)		true	Erie, PA	false	-									
@@ -3437,7 +3451,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30050	Ill.-Springfield	09/02/2016	@ Upper Iowa		Upper Iowa		false		false	-									
 2017	12426	30050	Ill.-Springfield	09/02/2016	@ Ohio Valley		Ohio Valley		false		false	-									
 2017	12426	30050	Ill.-Springfield	09/03/2016	@ West Ala.		West Ala.		false		false	-									
-2017	12426	30050	Ill.-Springfield	09/03/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-									
+2017	12426	30050	Ill.-Springfield	09/03/2016	Wayne St. (MI)		Wayne St. (MI)	http://stats.ncaa.org/team/757/12426	false		true	-									
 2017	12426	30050	Ill.-Springfield	09/09/2016	Harding@Bolivar, MO		Harding		true	Bolivar, MO	false	-									
 2017	12426	30050	Ill.-Springfield	09/09/2016	@ Southwest Baptist		Southwest Baptist		false		false	-									
 2017	12426	30050	Ill.-Springfield	09/10/2016	Okla. Panhandle@Bolivar, MO		Okla. Panhandle		true	Bolivar, MO	false	-									
@@ -3571,7 +3585,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	339	Kutztown	09/02/2016	@ Mount Olive		Mount Olive		false		false	-									
 2017	12426	339	Kutztown	09/02/2016	@ Winston-Salem		Winston-Salem		false		false	-									
 2017	12426	339	Kutztown	09/03/2016	Lees-McRae @ Winston-Salem, N.C.		Lees-McRae	http://stats.ncaa.org/team/13302/12426	true	Winston-Salem, N.C.	false	W 3 - 2	true	3 - 2	false	3	2	false		4159454	http://stats.ncaa.org/game/index/4159454?org_id=339
-2017	12426	339	Kutztown	09/03/2016	Chowan @ Winston-Salem, N.C.		Chowan	http://stats.ncaa.org/team/8875/12426	true	Winston-Salem, N.C.	false	L 2 - 3	false	2 - 3	false	2	3	false		4159923	http://stats.ncaa.org/game/index/4159923?org_id=339
+2017	12426	339	Kutztown	09/03/2016	Chowan @ Winston-Salem, N.C.		Chowan	http://stats.ncaa.org/team/8875/12426	true	Winston-Salem, N.C.	false	L 2 - 3	false	2 - 3	false	2	3	false		4161717	http://stats.ncaa.org/game/index/4161717?org_id=339
 2017	12426	339	Kutztown	09/07/2016	Holy Family		Holy Family		false		true	-									
 2017	12426	339	Kutztown	09/10/2016	@ USciences		USciences		false		false	-									
 2017	12426	339	Kutztown	09/13/2016	Wilmington (DE)		Wilmington (DE)		false		true	-									
@@ -4259,6 +4273,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1199	Mars Hill	09/02/2016	Columbus St.		Columbus St.	http://stats.ncaa.org/team/159/12426	false		true	-									
 2017	12426	1199	Mars Hill	09/03/2016	Armstrong St.		Armstrong St.	http://stats.ncaa.org/team/33/12426	false		true	-									
 2017	12426	1199	Mars Hill	09/03/2016	@ Emmanuel (GA)		Emmanuel (GA)		false		false	-									
+2017	12426	1199	Mars Hill	09/03/2016	@ Emmanuel (GA)		Emmanuel (GA)		false		false	-									
 2017	12426	1199	Mars Hill	09/09/2016	@ Carson-Newman		Carson-Newman		false		false	-									
 2017	12426	1199	Mars Hill	09/13/2016	@ Tusculum		Tusculum		false		false	-									
 2017	12426	1199	Mars Hill	09/16/2016	Lenoir-Rhyne		Lenoir-Rhyne		false		true	-									
@@ -4923,10 +4938,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1245	Mount Olive	09/02/2016	@ Winston-Salem		Winston-Salem		false		false	-									
 2017	12426	1245	Mount Olive	09/03/2016	Chowan@Winston-Salem, NC		Chowan		true	Winston-Salem, NC	false	-									
 2017	12426	1245	Mount Olive	09/03/2016	Slippery Rock		Slippery Rock	http://stats.ncaa.org/team/643/12426	false		true	-									
-2017	12426	1245	Mount Olive	09/09/2016	Merrimack@Aiken, SC		Merrimack		true	Aiken, SC	false	-									
+2017	12426	1245	Mount Olive	09/03/2016	@ Slippery Rock		Slippery Rock		false		false	-									
 2017	12426	1245	Mount Olive	09/09/2016	@ S.C. Aiken		S.C. Aiken		false		false	-									
-2017	12426	1245	Mount Olive	09/10/2016	Lenoir-Rhyne@Aiken, SC		Lenoir-Rhyne		true	Aiken, SC	false	-									
+2017	12426	1245	Mount Olive	09/09/2016	Merrimack@Aiken, SC		Merrimack		true	Aiken, SC	false	-									
 2017	12426	1245	Mount Olive	09/10/2016	Lander@Aiken, SC		Lander		true	Aiken, SC	false	-									
+2017	12426	1245	Mount Olive	09/10/2016	Lenoir-Rhyne@Aiken, SC		Lenoir-Rhyne		true	Aiken, SC	false	-									
 2017	12426	1245	Mount Olive	09/16/2016	Erskine		Erskine		false		true	-									
 2017	12426	1245	Mount Olive	09/17/2016	Emmanuel (GA)		Emmanuel (GA)		false		true	-									
 2017	12426	1245	Mount Olive	09/20/2016	Fayetteville St.		Fayetteville St.		false		true	-									
@@ -4936,13 +4952,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1245	Mount Olive	09/30/2016	@ Converse		Converse		false		false	-									
 2017	12426	1245	Mount Olive	10/01/2016	@ Limestone		Limestone		false		false	-									
 2017	12426	1245	Mount Olive	10/07/2016	Pfeiffer		Pfeiffer		false		true	-									
-2017	12426	1245	Mount Olive	10/08/2016	Francis Marion		Francis Marion		false		true	-									
 2017	12426	1245	Mount Olive	10/08/2016	Belmont Abbey		Belmont Abbey		false		true	-									
+2017	12426	1245	Mount Olive	10/08/2016	Francis Marion		Francis Marion		false		true	-									
 2017	12426	1245	Mount Olive	10/14/2016	@ Lees-McRae		Lees-McRae		false		false	-									
 2017	12426	1245	Mount Olive	10/15/2016	@ King (TN)		King (TN)		false		false	-									
 2017	12426	1245	Mount Olive	10/18/2016	@ Fayetteville St.		Fayetteville St.		false		false	-									
-2017	12426	1245	Mount Olive	10/22/2016	Virginia St.		Virginia St.		false		true	-									
 2017	12426	1245	Mount Olive	10/22/2016	Coker		Coker		false		true	-									
+2017	12426	1245	Mount Olive	10/22/2016	Virginia St.		Virginia St.		false		true	-									
 2017	12426	1245	Mount Olive	10/25/2016	@ Barton		Barton		false		false	-									
 2017	12426	1245	Mount Olive	10/28/2016	Lees-McRae		Lees-McRae		false		true	-									
 2017	12426	1245	Mount Olive	10/29/2016	King (TN)		King (TN)		false		true	-									
@@ -5005,18 +5021,19 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	477	NYIT	11/11/2016	Bridgeport		Bridgeport		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/02/2016	@ Edinboro		Edinboro		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/02/2016	@ Colorado Mesa		Colorado Mesa		false		false	-									
+2017	12426	1156	Neb.-Kearney	09/02/2016	@ Edinboro		Edinboro		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/03/2016	@ Cal St. L.A.		Cal St. L.A.		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/03/2016	@ St. Cloud St.		St. Cloud St.		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/09/2016	Northwestern Okla.		Northwestern Okla.		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/09/2016	Mary		Mary		false		true	-									
-2017	12426	1156	Neb.-Kearney	09/10/2016	Newman		Newman		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/10/2016	Black Hills St.		Black Hills St.		false		true	-									
+2017	12426	1156	Neb.-Kearney	09/10/2016	Newman		Newman		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/15/2016	@ Southern N.H.		Southern N.H.		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/16/2016	@ Merrimack		Merrimack		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/16/2016	American Int'l@North Andover, MA		American Int'l		true	North Andover, MA	false	-									
-2017	12426	1156	Neb.-Kearney	09/17/2016	@ Merrimack		Merrimack		false		false	-									
-2017	12426	1156	Neb.-Kearney	09/17/2016	Bentley@North Andover, MA		Bentley		true	North Andover, MA	false	-									
 2017	12426	1156	Neb.-Kearney	09/17/2016	East Stroudsburg@North Andover, MA		East Stroudsburg		true	North Andover, MA	false	-									
+2017	12426	1156	Neb.-Kearney	09/17/2016	Bentley@North Andover, MA		Bentley		true	North Andover, MA	false	-									
+2017	12426	1156	Neb.-Kearney	09/17/2016	@ Merrimack		Merrimack		false		false	-									
 2017	12426	1156	Neb.-Kearney	09/20/2016	Fort Hays St.		Fort Hays St.		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/23/2016	Washburn		Washburn		false		true	-									
 2017	12426	1156	Neb.-Kearney	09/24/2016	Emporia St.		Emporia St.		false		true	-									
@@ -5446,11 +5463,12 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	24639	Nova Southeastern	11/19/2016	Tampa		Tampa		false		true	-									
 2017	12426	1277	Nyack	09/03/2016	LIU Post@Cheyney, PA		LIU Post		true	Cheyney, PA	false	-									
 2017	12426	1277	Nyack	09/03/2016	@ Cheyney		Cheyney	http://stats.ncaa.org/team/135/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4160713	http://stats.ncaa.org/game/index/4160713?org_id=135
+2017	12426	1277	Nyack	09/03/2016	@ Cheyney		Cheyney		false		false	-									
 2017	12426	1277	Nyack	09/06/2016	American Int'l		American Int'l		false		true	-									
 2017	12426	1277	Nyack	09/09/2016	St. Anselm@East Stroudsburg, PA		St. Anselm		true	East Stroudsburg, PA	false	-									
 2017	12426	1277	Nyack	09/09/2016	Molloy@East Stroudsburg, PA		Molloy		true	East Stroudsburg, PA	false	-									
-2017	12426	1277	Nyack	09/10/2016	West Liberty@East Stroudsburg, PA		West Liberty		true	East Stroudsburg, PA	false	-									
 2017	12426	1277	Nyack	09/10/2016	@ East Stroudsburg		East Stroudsburg		false		false	-									
+2017	12426	1277	Nyack	09/10/2016	West Liberty@East Stroudsburg, PA		West Liberty		true	East Stroudsburg, PA	false	-									
 2017	12426	1277	Nyack	09/13/2016	Pace		Pace		false		true	-									
 2017	12426	1277	Nyack	09/16/2016	Felician		Felician		false		true	-									
 2017	12426	1277	Nyack	09/17/2016	@ Goldey-Beacom		Goldey-Beacom		false		false	-									
@@ -5505,7 +5523,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30119	Ohio Dominican	11/05/2016	@ Ashland		Ashland		false		false	-									
 2017	12426	30119	Ohio Dominican	11/11/2016	@ Walsh		Walsh		false		false	-									
 2017	12426	15207	Ohio Valley	09/02/2016	@ Ill.-Springfield		Ill.-Springfield		false		false	-									
-2017	12426	15207	Ohio Valley	09/02/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-									
+2017	12426	15207	Ohio Valley	09/02/2016	Wayne St. (MI)		Wayne St. (MI)	http://stats.ncaa.org/team/757/12426	false		true	-									
 2017	12426	15207	Ohio Valley	09/03/2016	@ William Jewell		William Jewell		false		false	-									
 2017	12426	15207	Ohio Valley	09/03/2016	@ West Ala.		West Ala.		false		false	-									
 2017	12426	15207	Ohio Valley	09/06/2016	West Liberty		West Liberty		false		true	-									
@@ -5705,10 +5723,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30045	Palm Beach Atl.	11/11/2016	@ Florida Tech		Florida Tech		false		false	-									
 2017	12426	30045	Palm Beach Atl.	11/18/2016	Tampa		Tampa		false		true	-									
 2017	12426	30045	Palm Beach Atl.	11/19/2016	Saint Leo		Saint Leo		false		true	-									
-2017	12426	542	Pfeiffer	09/03/2016	Saint Augustine's@Petersburg, VA		Saint Augustine's		true	Petersburg, VA	false	-									
+2017	12426	542	Pfeiffer	09/03/2016	@ Saint Augustine's		Saint Augustine's		false		false	-									
 2017	12426	542	Pfeiffer	09/03/2016	@ Virginia St.		Virginia St.		false		false	-									
-2017	12426	542	Pfeiffer	09/04/2016	Methodist		Methodist	http://stats.ncaa.org/team/412/12426	false		true	-									
+2017	12426	542	Pfeiffer	09/03/2016	Saint Augustine's		Saint Augustine's	http://stats.ncaa.org/team/594/12426	false		true	-									
 2017	12426	542	Pfeiffer	09/04/2016	@ Virginia Union		Virginia Union		false		false	-									
+2017	12426	542	Pfeiffer	09/04/2016	Methodist		Methodist	http://stats.ncaa.org/team/412/12426	false		true	-									
 2017	12426	542	Pfeiffer	09/07/2016	@ Greensboro		Greensboro		false		false	-									
 2017	12426	542	Pfeiffer	09/16/2016	North Greenville		North Greenville		false		true	-									
 2017	12426	542	Pfeiffer	09/17/2016	Southern Wesleyan		Southern Wesleyan		false		true	-									
@@ -6043,8 +6062,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	1328	Rockhurst	11/11/2016	Quincy		Quincy		false		true	-									
 2017	12426	1328	Rockhurst	11/12/2016	Truman		Truman		false		true	-									
 2017	12426	584	Rollins	09/02/2016	@ Alas. Anchorage		Alas. Anchorage	http://stats.ncaa.org/team/11/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4159376	http://stats.ncaa.org/game/index/4159376?org_id=11
-2017	12426	584	Rollins	09/02/2016	Ark.-Fort Smith @ Anchorage, Alaska		Ark.-Fort Smith	http://stats.ncaa.org/team/30105/12426	true	Anchorage, Alaska	false	L 0 - 3	false	0 - 3	false	0	3	false		4158514	http://stats.ncaa.org/game/index/4158514?org_id=30105
-2017	12426	584	Rollins	09/03/2016	Westminster (UT) @ Anchorage, AK		Westminster (UT)	http://stats.ncaa.org/team/30209/12426	true	Anchorage, AK	false	W 3 - 1	true	3 - 1	false	3	1	false		4159686	http://stats.ncaa.org/game/index/4159686?org_id=30209
+2017	12426	584	Rollins	09/02/2016	Ark.-Fort Smith @ Anchorage, Alaska		Ark.-Fort Smith	http://stats.ncaa.org/team/30105/12426	true	Anchorage, Alaska	false	L 0 - 3	false	0 - 3	false	0	3	false		4161575	http://stats.ncaa.org/game/index/4161575?org_id=584
+2017	12426	584	Rollins	09/03/2016	Westminster (UT) @ Anchorage, Alaska		Westminster (UT)	http://stats.ncaa.org/team/30209/12426	true	Anchorage, Alaska	false	W 3 - 1	true	3 - 1	false	3	1	false		4161577	http://stats.ncaa.org/game/index/4161577?org_id=584
 2017	12426	584	Rollins	09/03/2016	Stanislaus St. @ Anchorage, Alaska		Stanislaus St.	http://stats.ncaa.org/team/103/12426	true	Anchorage, Alaska	false	W 3 - 0	true	3 - 0	false	3	0	false		4160431	http://stats.ncaa.org/game/index/4160431?org_id=103
 2017	12426	584	Rollins	09/09/2016	UC-Colo. Springs@Lakeland, FL		UC-Colo. Springs		true	Lakeland, FL	false	-									
 2017	12426	584	Rollins	09/10/2016	Texas Woman's@Lakeland, FL		Texas Woman's		true	Lakeland, FL	false	-									
@@ -6129,21 +6148,25 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	591	Saginaw Valley	11/05/2016	Ferris St.		Ferris St.		false		true	-									
 2017	12426	591	Saginaw Valley	11/11/2016	@ Michigan Tech		Michigan Tech		false		false	-									
 2017	12426	591	Saginaw Valley	11/12/2016	@ Northern Mich.		Northern Mich.		false		false	-									
-2017	12426	594	Saint Augustine's	09/03/2016	Pfeiffer@Petersburg, VA		Pfeiffer		true	Petersburg, VA	false	-									
 2017	12426	594	Saint Augustine's	09/03/2016	@ Virginia Union		Virginia Union		false		false	-									
+2017	12426	594	Saint Augustine's	09/03/2016	Pfeiffer		Pfeiffer	http://stats.ncaa.org/team/542/12426	false		true	-									
+2017	12426	594	Saint Augustine's	09/03/2016	@ Pfeiffer		Pfeiffer		false		false	-									
+2017	12426	594	Saint Augustine's	09/04/2016	@ Methodist		Methodist		false		false	-									
+2017	12426	594	Saint Augustine's	09/04/2016	@ Virginia St.		Virginia St.		false		false	-									
 2017	12426	594	Saint Augustine's	09/04/2016	Methodist		Methodist	http://stats.ncaa.org/team/412/12426	false		true	-									
 2017	12426	594	Saint Augustine's	09/04/2016	@ Virginia St.		Virginia St.		false		false	-									
-2017	12426	594	Saint Augustine's	09/10/2016	Meredith@Raleigh, NC		Meredith		true	Raleigh, NC	false	-									
+2017	12426	594	Saint Augustine's	09/04/2016	@ Methodist		Methodist		false		false	-									
 2017	12426	594	Saint Augustine's	09/10/2016	@ William Peace		William Peace		false		false	-									
+2017	12426	594	Saint Augustine's	09/10/2016	Meredith@Raleigh, NC		Meredith		true	Raleigh, NC	false	-									
 2017	12426	594	Saint Augustine's	09/17/2016	@ Chowan		Chowan		false		false	-									
 2017	12426	594	Saint Augustine's	09/17/2016	Virginia St.@Murfreesboro, NC		Virginia St.		true	Murfreesboro, NC	false	-									
 2017	12426	594	Saint Augustine's	09/18/2016	Elizabeth City St.@Murfreesboro, NC		Elizabeth City St.		true	Murfreesboro, NC	false	-									
 2017	12426	594	Saint Augustine's	09/22/2016	Johnson C. Smith		Johnson C. Smith		false		true	-									
 2017	12426	594	Saint Augustine's	09/26/2016	@ Winston-Salem		Winston-Salem		false		false	-									
 2017	12426	594	Saint Augustine's	09/29/2016	William Peace		William Peace		false		true	-									
-2017	12426	594	Saint Augustine's	10/01/2016	Lincoln (PA)@Raleigh, NC		Lincoln (PA)		true	Raleigh, NC	false	-									
 2017	12426	594	Saint Augustine's	10/01/2016	Virginia Union@Raleigh, NC		Virginia Union		true	Raleigh, NC	false	-									
 2017	12426	594	Saint Augustine's	10/01/2016	Bowie St.@Raleigh, NC		Bowie St.		true	Raleigh, NC	false	-									
+2017	12426	594	Saint Augustine's	10/01/2016	Lincoln (PA)@Raleigh, NC		Lincoln (PA)		true	Raleigh, NC	false	-									
 2017	12426	594	Saint Augustine's	10/06/2016	@ Fayetteville St.		Fayetteville St.		false		false	-									
 2017	12426	594	Saint Augustine's	10/10/2016	Livingstone		Livingstone		false		true	-									
 2017	12426	594	Saint Augustine's	10/13/2016	@ Shaw		Shaw		false		false	-									
@@ -6342,11 +6365,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	634	Seattle Pacific	11/12/2016	@ Simon Fraser		Simon Fraser		false		false	-									
 2017	12426	634	Seattle Pacific	11/17/2016	Alas. Anchorage		Alas. Anchorage		false		true	-									
 2017	12426	634	Seattle Pacific	11/19/2016	Alas. Fairbanks		Alas. Fairbanks		false		true	-									
-2017	12426	30063	Seton Hill	09/01/2016	Southern N.H.		Southern N.H.	http://stats.ncaa.org/team/468/12426	false		true	-									
+2017	12426	30063	Seton Hill	09/01/2016	Southern N.H. @ Shippensburg, PA		Southern N.H.	http://stats.ncaa.org/team/468/12426	true	Shippensburg, PA	false	W 3 - 1	true	3 - 1	false	3	1	false		4161374	http://stats.ncaa.org/game/index/4161374?org_id=30063
 2017	12426	30063	Seton Hill	09/02/2016	Southern N.H.@Shippensburg, PA		Southern N.H.		true	Shippensburg, PA	false	-									
 2017	12426	30063	Seton Hill	09/02/2016	Dominican (NY) @ Shippensburg, PA		Dominican (NY)	http://stats.ncaa.org/team/8956/12426	true	Shippensburg, PA	false	W 3 - 0	true	3 - 0	false	3	0	false		4158742	http://stats.ncaa.org/game/index/4158742?org_id=30063
-2017	12426	30063	Seton Hill	09/03/2016	Concord		Concord	http://stats.ncaa.org/team/1028/12426	false		true	-									
-2017	12426	30063	Seton Hill	09/03/2016	Shippensburg		Shippensburg	http://stats.ncaa.org/team/638/12426	false		true	-									
+2017	12426	30063	Seton Hill	09/03/2016	Concord @ Shippensburg, PA		Concord	http://stats.ncaa.org/team/1028/12426	true	Shippensburg, PA	false	W 3 - 1	true	3 - 1	false	3	1	false		4160074	http://stats.ncaa.org/game/index/4160074?org_id=30063
+2017	12426	30063	Seton Hill	09/03/2016	@ Shippensburg		Shippensburg	http://stats.ncaa.org/team/638/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4160379	http://stats.ncaa.org/game/index/4160379?org_id=638
 2017	12426	30063	Seton Hill	09/09/2016	St. Joseph's (IN)@Detroit, MI		St. Joseph's (IN)		true	Detroit, MI	false	-									
 2017	12426	30063	Seton Hill	09/09/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-									
 2017	12426	30063	Seton Hill	09/10/2016	Northwood@Detroit, MI		Northwood		true	Detroit, MI	false	-									
@@ -6403,7 +6426,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	636	Shaw	11/11/2016	@ Saint Augustine's		Saint Augustine's		false		false	-									
 2017	12426	10870	Shepherd	09/02/2016	@ Stonehill		Stonehill		false		false	-									
 2017	12426	10870	Shepherd	09/02/2016	@ Lock Haven		Lock Haven	http://stats.ncaa.org/team/360/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4158218	http://stats.ncaa.org/game/index/4158218?org_id=360
-2017	12426	10870	Shepherd	09/03/2016	California (PA)		California (PA)	http://stats.ncaa.org/team/106/12426	false		true	-									
+2017	12426	10870	Shepherd	09/03/2016	California (PA) @ Lock Haven, PA		California (PA)	http://stats.ncaa.org/team/106/12426	true	Lock Haven, PA	false	L 0 - 3	false	0 - 3	false	0	3	false		4161398	http://stats.ncaa.org/game/index/4161398?org_id=106
 2017	12426	10870	Shepherd	09/03/2016	Ashland @ Lock Haven, Pa.		Ashland	http://stats.ncaa.org/team/35/12426	true	Lock Haven, Pa.	false	L 1 - 3	false	1 - 3	false	1	3	false		4159656	http://stats.ncaa.org/game/index/4159656?org_id=35
 2017	12426	10870	Shepherd	09/09/2016	Philadelphia U.@Shippensburg, PA		Philadelphia U.		true	Shippensburg, PA	false	-									
 2017	12426	10870	Shepherd	09/09/2016	Virginia St.@Shippensburg, PA		Virginia St.		true	Shippensburg, PA	false	-									
@@ -6428,15 +6451,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	10870	Shepherd	10/28/2016	@ Urbana		Urbana		false		false	-									
 2017	12426	10870	Shepherd	10/29/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-									
 2017	12426	10870	Shepherd	11/01/2016	Fairmont St.		Fairmont St.		false		true	-									
-2017	12426	10870	Shepherd	11/04/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-									
 2017	12426	10870	Shepherd	11/04/2016	Bowie St.		Bowie St.		false		true	-									
+2017	12426	10870	Shepherd	11/04/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-									
 2017	12426	10870	Shepherd	11/05/2016	Salem Int'l		Salem Int'l		false		true	-									
 2017	12426	10870	Shepherd	11/12/2016	@ UVa-Wise		UVa-Wise		false		false	-									
 2017	12426	10870	Shepherd	11/12/2016	@ Concord		Concord		false		false	-									
 2017	12426	638	Shippensburg	09/02/2016	@ Southern N.H.		Southern N.H.		false		false	-									
 2017	12426	638	Shippensburg	09/02/2016	Concord		Concord	http://stats.ncaa.org/team/1028/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4159099	http://stats.ncaa.org/game/index/4159099?org_id=638
 2017	12426	638	Shippensburg	09/03/2016	Dominican (NY)		Dominican (NY)	http://stats.ncaa.org/team/8956/12426	false		true	-									
-2017	12426	638	Shippensburg	09/03/2016	Seton Hill		Seton Hill	http://stats.ncaa.org/team/30063/12426	false		true	-									
+2017	12426	638	Shippensburg	09/03/2016	Seton Hill		Seton Hill	http://stats.ncaa.org/team/30063/12426	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4160379	http://stats.ncaa.org/game/index/4160379?org_id=638
 2017	12426	638	Shippensburg	09/09/2016	Philadelphia U.		Philadelphia U.		false		true	-									
 2017	12426	638	Shippensburg	09/09/2016	UVa-Wise		UVa-Wise		false		true	-									
 2017	12426	638	Shippensburg	09/10/2016	Virginia St.		Virginia St.		false		true	-									
@@ -6550,14 +6573,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30128	Sioux Falls	11/12/2016	Mary		Mary		false		true	-									
 2017	12426	643	Slippery Rock	09/02/2016	Lees-McRae @ Winston-Salem, N.C.		Lees-McRae	http://stats.ncaa.org/team/13302/12426	true	Winston-Salem, N.C.	false	W 3 - 0	true	3 - 0	false	3	0	false		4159128	http://stats.ncaa.org/game/index/4159128?org_id=13302
 2017	12426	643	Slippery Rock	09/02/2016	Chowan @ Winston-Salem, N.C.		Chowan	http://stats.ncaa.org/team/8875/12426	true	Winston-Salem, N.C.	false	W 3 - 1	true	3 - 1	false	3	1	false		4158926	http://stats.ncaa.org/game/index/4158926?org_id=8875
-2017	12426	643	Slippery Rock	09/03/2016	@ Winston-Salem		Winston-Salem		false		false	-									
 2017	12426	643	Slippery Rock	09/03/2016	Mount Olive		Mount Olive	http://stats.ncaa.org/team/1245/12426	false		true	-									
+2017	12426	643	Slippery Rock	09/03/2016	@ Winston-Salem		Winston-Salem		false		false	-									
+2017	12426	643	Slippery Rock	09/03/2016	@ Mount Olive		Mount Olive		false		false	-									
 2017	12426	643	Slippery Rock	09/09/2016	Roberts Wesleyan@Amherst, NY		Roberts Wesleyan		true	Amherst, NY	false	-									
 2017	12426	643	Slippery Rock	09/09/2016	@ Daemen		Daemen		false		false	-									
-2017	12426	643	Slippery Rock	09/10/2016	Assumption@Amherst, NY		Assumption		true	Amherst, NY	false	-									
 2017	12426	643	Slippery Rock	09/10/2016	Saint Rose@Amherst, NY		Saint Rose		true	Amherst, NY	false	-									
-2017	12426	643	Slippery Rock	09/16/2016	@ Wheeling Jesuit		Wheeling Jesuit		false		false	-									
+2017	12426	643	Slippery Rock	09/10/2016	Assumption@Amherst, NY		Assumption		true	Amherst, NY	false	-									
 2017	12426	643	Slippery Rock	09/16/2016	Fairmont St.@Wheeling, WV		Fairmont St.		true	Wheeling, WV	false	-									
+2017	12426	643	Slippery Rock	09/16/2016	@ Wheeling Jesuit		Wheeling Jesuit		false		false	-									
 2017	12426	643	Slippery Rock	09/17/2016	UVa-Wise@West Liberty, WV		UVa-Wise		true	West Liberty, WV	false	-									
 2017	12426	643	Slippery Rock	09/17/2016	@ West Liberty		West Liberty		false		false	-									
 2017	12426	643	Slippery Rock	09/20/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-									
@@ -6730,7 +6754,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	658	Southern Conn. St.	11/11/2016	@ New Haven		New Haven		false		false	-									
 2017	12426	661	Southern Ind.	09/02/2016	Brevard @ St. Augustine, FL		Brevard	http://stats.ncaa.org/team/30094/12426	true	St. Augustine, FL	false	W 3 - 0	true	3 - 0	false	3	0	false		4158515	http://stats.ncaa.org/game/index/4158515?org_id=661
 2017	12426	661	Southern Ind.	09/02/2016	@ Flagler		Flagler	http://stats.ncaa.org/team/30092/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4159024	http://stats.ncaa.org/game/index/4159024?org_id=30092
+2017	12426	661	Southern Ind.	09/02/2016	@ Brevard		Brevard		false		false	-									
+2017	12426	661	Southern Ind.	09/02/2016	@ Brevard		Brevard		false		false	-									
+2017	12426	661	Southern Ind.	09/02/2016	@ Brevard		Brevard		false		false	-									
 2017	12426	661	Southern Ind.	09/03/2016	@ Valdosta St.		Valdosta St.		false		false	-									
+2017	12426	661	Southern Ind.	09/03/2016	@ Brevard		Brevard		false		false	-									
 2017	12426	661	Southern Ind.	09/03/2016	@ Brevard		Brevard		false		false	-									
 2017	12426	661	Southern Ind.	09/09/2016	Winona St.@Sioux Falls, SD		Winona St.		true	Sioux Falls, SD	false	-									
 2017	12426	661	Southern Ind.	09/09/2016	@ Augustana (SD)		Augustana (SD)		false		false	-									
@@ -6754,9 +6782,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	661	Southern Ind.	11/04/2016	@ Mo.-St. Louis		Mo.-St. Louis		false		false	-									
 2017	12426	661	Southern Ind.	11/05/2016	@ Maryville (MO)		Maryville (MO)		false		false	-									
 2017	12426	661	Southern Ind.	11/09/2016	@ Bellarmine		Bellarmine		false		false	-									
-2017	12426	661	Southern Ind.	11/12/2016	@ Ill.-Springfield		Ill.-Springfield		false		false	-									
 2017	12426	661	Southern Ind.	11/12/2016	@ McKendree		McKendree		false		false	-									
-2017	12426	468	Southern N.H.	09/01/2016	Seton Hill		Seton Hill	http://stats.ncaa.org/team/30063/12426	false		true	-									
+2017	12426	661	Southern Ind.	11/12/2016	@ Ill.-Springfield		Ill.-Springfield		false		false	-									
+2017	12426	468	Southern N.H.	09/01/2016	Seton Hill @ Shippensburg, PA		Seton Hill	http://stats.ncaa.org/team/30063/12426	true	Shippensburg, PA	false	L 1 - 3	false	1 - 3	false	1	3	false		4161374	http://stats.ncaa.org/game/index/4161374?org_id=30063
 2017	12426	468	Southern N.H.	09/02/2016	Seton Hill@Shippensburg, PA		Seton Hill		true	Shippensburg, PA	false	-									
 2017	12426	468	Southern N.H.	09/02/2016	@ Shippensburg		Shippensburg		false		false	-									
 2017	12426	468	Southern N.H.	09/03/2016	@ Concord		Concord		false		false	-									
@@ -7068,12 +7096,13 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	604	St. Joseph's (IN)	11/11/2016	@ Wis.-Parkside		Wis.-Parkside		false		false	-									
 2017	12426	604	St. Joseph's (IN)	11/12/2016	@ Lewis		Lewis		false		false	-									
 2017	12426	1346	St. Mary's (TX)	09/02/2016	Angelo St.		Angelo St.	http://stats.ncaa.org/team/25/12426	false		true	-									
-2017	12426	1346	St. Mary's (TX)	09/02/2016	Tarleton St. @ San Angelo, TX		Tarleton St.	http://stats.ncaa.org/team/1395/12426	true	San Angelo, TX	false	L 0 - 3	false	0 - 3	false	0	3	false		4158832	http://stats.ncaa.org/game/index/4158832?org_id=1395
-2017	12426	1346	St. Mary's (TX)	09/03/2016	@ Regis (CO)		Regis (CO)		false		false	-									
+2017	12426	1346	St. Mary's (TX)	09/02/2016	Tarleton St.		Tarleton St.	http://stats.ncaa.org/team/1395/12426	false		true	-									
+2017	12426	1346	St. Mary's (TX)	09/02/2016	@ Angelo St.		Angelo St.		false		false	-									
 2017	12426	1346	St. Mary's (TX)	09/03/2016	@ South Dakota Mines		South Dakota Mines		false		false	-									
+2017	12426	1346	St. Mary's (TX)	09/03/2016	@ Regis (CO)		Regis (CO)		false		false	-									
 2017	12426	1346	St. Mary's (TX)	09/06/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-									
-2017	12426	1346	St. Mary's (TX)	09/09/2016	West Ga.@Louisville, KY		West Ga.		true	Louisville, KY	false	-									
 2017	12426	1346	St. Mary's (TX)	09/09/2016	@ Bellarmine		Bellarmine		false		false	-									
+2017	12426	1346	St. Mary's (TX)	09/09/2016	West Ga.@Louisville, KY		West Ga.		true	Louisville, KY	false	-									
 2017	12426	1346	St. Mary's (TX)	09/10/2016	Alderson Broaddus@Louisville, KY		Alderson Broaddus		true	Louisville, KY	false	-									
 2017	12426	1346	St. Mary's (TX)	09/10/2016	Ohio Valley@Louisville, KY		Ohio Valley		true	Louisville, KY	false	-									
 2017	12426	1346	St. Mary's (TX)	09/13/2016	@ Howard Payne		Howard Payne		false		false	-									
@@ -7178,7 +7207,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	689	Tampa	11/18/2016	@ Palm Beach Atl.		Palm Beach Atl.		false		false	-									
 2017	12426	689	Tampa	11/19/2016	@ Nova Southeastern		Nova Southeastern		false		false	-									
 2017	12426	1395	Tarleton St.	09/02/2016	@ Regis (CO)		Regis (CO)		false		false	-									
-2017	12426	1395	Tarleton St.	09/02/2016	St. Mary's (TX) @ San Angelo, TX		St. Mary's (TX)	http://stats.ncaa.org/team/1346/12426	true	San Angelo, TX	false	W 3 - 0	true	3 - 0	false	3	0	false		4158832	http://stats.ncaa.org/game/index/4158832?org_id=1395
+2017	12426	1395	Tarleton St.	09/02/2016	St. Mary's (TX)		St. Mary's (TX)	http://stats.ncaa.org/team/1346/12426	false		true	-									
 2017	12426	1395	Tarleton St.	09/03/2016	@ South Dakota Mines		South Dakota Mines		false		false	-									
 2017	12426	1395	Tarleton St.	09/03/2016	St. Edward's		St. Edward's	http://stats.ncaa.org/team/1334/12426	false		true	-									
 2017	12426	1395	Tarleton St.	09/08/2016	Lubbock Christian		Lubbock Christian		false		true	-									
@@ -7489,8 +7518,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	720	Tuskegee	09/22/2016	Benedict@Albany, GA		Benedict		true	Albany, GA	false	-									
 2017	12426	720	Tuskegee	09/22/2016	Claflin@Albany, GA		Claflin		true	Albany, GA	false	-									
 2017	12426	720	Tuskegee	09/23/2016	Paine@Albany, GA		Paine		true	Albany, GA	false	-									
-2017	12426	720	Tuskegee	09/23/2016	Clark Atlanta@Albany, GA		Clark Atlanta		true	Albany, GA	false	-									
 2017	12426	720	Tuskegee	09/23/2016	Fort Valley St.@Albany, GA		Fort Valley St.		true	Albany, GA	false	-									
+2017	12426	720	Tuskegee	09/23/2016	Clark Atlanta@Albany, GA		Clark Atlanta		true	Albany, GA	false	-									
 2017	12426	720	Tuskegee	09/24/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-									
 2017	12426	720	Tuskegee	09/27/2016	@ Mississippi Val.		Mississippi Val.		false		false	-									
 2017	12426	720	Tuskegee	10/06/2016	Lane		Lane		false		true	-									
@@ -7708,7 +7737,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30153	Union (TN)	11/12/2016	West Ga.		West Ga.		false		true	-									
 2017	12426	728	Upper Iowa	09/02/2016	@ Ill.-Springfield		Ill.-Springfield		false		false	-									
 2017	12426	728	Upper Iowa	09/02/2016	@ West Ala.		West Ala.		false		false	-									
-2017	12426	728	Upper Iowa	09/03/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-									
+2017	12426	728	Upper Iowa	09/03/2016	Wayne St. (MI)		Wayne St. (MI)	http://stats.ncaa.org/team/757/12426	false		true	-									
 2017	12426	728	Upper Iowa	09/03/2016	@ William Jewell		William Jewell		false		false	-									
 2017	12426	728	Upper Iowa	09/09/2016	@ Wis.-Parkside		Wis.-Parkside		false		false	-									
 2017	12426	728	Upper Iowa	09/09/2016	Michigan Tech@Kenosha, WI		Michigan Tech		true	Kenosha, WI	false	-									
@@ -7800,8 +7829,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30140	Ursuline	11/11/2016	@ Davis & Elkins		Davis & Elkins		false		false	-									
 2017	12426	30140	Ursuline	11/12/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-									
 2017	12426	734	Valdosta St.	09/02/2016	@ Brevard		Brevard		false		false	-									
-2017	12426	734	Valdosta St.	09/03/2016	@ Southern Ind.		Southern Ind.		false		false	-									
+2017	12426	734	Valdosta St.	09/02/2016	@ Brevard		Brevard		false		false	-									
 2017	12426	734	Valdosta St.	09/03/2016	@ Flagler		Flagler		false		false	-									
+2017	12426	734	Valdosta St.	09/03/2016	@ Southern Ind.		Southern Ind.		false		false	-									
 2017	12426	734	Valdosta St.	09/09/2016	Southern Conn. St.@Miami Shores , FL		Southern Conn. St.		true	Miami Shores , FL	false	-									
 2017	12426	734	Valdosta St.	09/09/2016	@ Barry		Barry		false		false	-									
 2017	12426	734	Valdosta St.	09/10/2016	Lynn@Miami Shores, FL		Lynn		true	Miami Shores, FL	false	-									
@@ -7829,10 +7859,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	743	Virginia St.	09/03/2016	@ Pfeiffer		Pfeiffer		false		false	-									
 2017	12426	743	Virginia St.	09/03/2016	@ Methodist		Methodist		false		false	-									
 2017	12426	743	Virginia St.	09/04/2016	@ Saint Augustine's		Saint Augustine's		false		false	-									
+2017	12426	743	Virginia St.	09/04/2016	@ Saint Augustine's		Saint Augustine's		false		false	-									
 2017	12426	743	Virginia St.	09/09/2016	Shepherd@Shippensburg, PA		Shepherd		true	Shippensburg, PA	false	-									
 2017	12426	743	Virginia St.	09/09/2016	UVa-Wise@Shippensburg, PA		UVa-Wise		true	Shippensburg, PA	false	-									
-2017	12426	743	Virginia St.	09/10/2016	Philadelphia U.@Shippensburg, PA		Philadelphia U.		true	Shippensburg, PA	false	-									
 2017	12426	743	Virginia St.	09/10/2016	@ Shippensburg		Shippensburg		false		false	-									
+2017	12426	743	Virginia St.	09/10/2016	Philadelphia U.@Shippensburg, PA		Philadelphia U.		true	Shippensburg, PA	false	-									
 2017	12426	743	Virginia St.	09/17/2016	Shaw@Murfreesboro, NC		Shaw		true	Murfreesboro, NC	false	-									
 2017	12426	743	Virginia St.	09/17/2016	Saint Augustine's@Murfreesboro, NC		Saint Augustine's		true	Murfreesboro, NC	false	-									
 2017	12426	743	Virginia St.	09/18/2016	Fayetteville St.@Murfreesboro, NC		Fayetteville St.		true	Murfreesboro, NC	false	-									
@@ -7848,8 +7879,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	743	Virginia St.	10/22/2016	@ Mount Olive		Mount Olive		false		false	-									
 2017	12426	743	Virginia St.	10/22/2016	Coker@Mount Olive, NC		Coker		true	Mount Olive, NC	false	-									
 2017	12426	743	Virginia St.	10/23/2016	Elizabeth City St.		Elizabeth City St.		false		true	-									
-2017	12426	743	Virginia St.	10/29/2016	Bluefield St.@Athens, WV		Bluefield St.		true	Athens, WV	false	-									
 2017	12426	743	Virginia St.	10/29/2016	@ Concord		Concord		false		false	-									
+2017	12426	743	Virginia St.	10/29/2016	Bluefield St.@Athens, WV		Bluefield St.		true	Athens, WV	false	-									
 2017	12426	743	Virginia St.	10/31/2016	Lincoln (PA)		Lincoln (PA)		false		true	-									
 2017	12426	743	Virginia St.	11/07/2016	@ Chowan		Chowan		false		false	-									
 2017	12426	743	Virginia St.	11/11/2016	@ Elizabeth City St.		Elizabeth City St.		false		false	-									
@@ -7934,10 +7965,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	2814	Washburn	11/05/2016	@ Central Mo.		Central Mo.		false		false	-									
 2017	12426	2814	Washburn	11/12/2016	Pittsburg St.		Pittsburg St.		false		true	-									
 2017	12426	2814	Washburn	11/12/2016	Central Okla.		Central Okla.		false		true	-									
-2017	12426	757	Wayne St. (MI)	09/02/2016	@ Ohio Valley		Ohio Valley		false		false	-									
+2017	12426	757	Wayne St. (MI)	09/02/2016	Ohio Valley		Ohio Valley	http://stats.ncaa.org/team/15207/12426	false		true	-									
 2017	12426	757	Wayne St. (MI)	09/02/2016	William Jewell		William Jewell	http://stats.ncaa.org/team/30120/12426	false		true	-									
-2017	12426	757	Wayne St. (MI)	09/03/2016	@ Ill.-Springfield		Ill.-Springfield		false		false	-									
-2017	12426	757	Wayne St. (MI)	09/03/2016	@ Upper Iowa		Upper Iowa		false		false	-									
+2017	12426	757	Wayne St. (MI)	09/03/2016	Ill.-Springfield		Ill.-Springfield	http://stats.ncaa.org/team/30050/12426	false		true	-									
+2017	12426	757	Wayne St. (MI)	09/03/2016	Upper Iowa		Upper Iowa	http://stats.ncaa.org/team/728/12426	false		true	-									
 2017	12426	757	Wayne St. (MI)	09/09/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-									
 2017	12426	757	Wayne St. (MI)	09/09/2016	Seton Hill		Seton Hill		false		true	-									
 2017	12426	757	Wayne St. (MI)	09/10/2016	Northwood		Northwood		false		true	-									
@@ -8084,10 +8115,11 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	766	West Ga.	09/02/2016	@ Converse		Converse		false		false	-									
 2017	12426	766	West Ga.	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-									
 2017	12426	766	West Ga.	09/03/2016	@ Anderson (SC)		Anderson (SC)		false		false	-									
+2017	12426	766	West Ga.	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-									
 2017	12426	766	West Ga.	09/09/2016	Alderson Broaddus@Louisville, KY		Alderson Broaddus		true	Louisville, KY	false	-									
 2017	12426	766	West Ga.	09/09/2016	St. Mary's (TX)@Louisville, KY		St. Mary's (TX)		true	Louisville, KY	false	-									
-2017	12426	766	West Ga.	09/10/2016	Ohio Valley@Louisville, KY		Ohio Valley		true	Louisville, KY	false	-									
 2017	12426	766	West Ga.	09/10/2016	@ Bellarmine		Bellarmine		false		false	-									
+2017	12426	766	West Ga.	09/10/2016	Ohio Valley@Louisville, KY		Ohio Valley		true	Louisville, KY	false	-									
 2017	12426	766	West Ga.	09/13/2016	@ Ala.-Huntsville		Ala.-Huntsville		false		false	-									
 2017	12426	766	West Ga.	09/16/2016	West Florida		West Florida		false		true	-									
 2017	12426	766	West Ga.	09/17/2016	Valdosta St.		Valdosta St.		false		true	-									
@@ -8353,7 +8385,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	30209	Westminster (UT)	09/01/2016	@ Alas. Anchorage		Alas. Anchorage	http://stats.ncaa.org/team/11/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4159315	http://stats.ncaa.org/game/index/4159315?org_id=11
 2017	12426	30209	Westminster (UT)	09/02/2016	Stanislaus St. @ Anchorage, AK		Stanislaus St.	http://stats.ncaa.org/team/103/12426	true	Anchorage, AK	false	L 0 - 3	false	0 - 3	false	0	3	false		4158741	http://stats.ncaa.org/game/index/4158741?org_id=30209
 2017	12426	30209	Westminster (UT)	09/02/2016	Ark.-Fort Smith @ Anchorage, AK		Ark.-Fort Smith	http://stats.ncaa.org/team/30105/12426	true	Anchorage, AK	false	L 0 - 3	false	0 - 3	false	0	3	false		4159308	http://stats.ncaa.org/game/index/4159308?org_id=30209
-2017	12426	30209	Westminster (UT)	09/03/2016	Rollins @ Anchorage, AK		Rollins	http://stats.ncaa.org/team/584/12426	true	Anchorage, AK	false	L 1 - 3	false	1 - 3	false	1	3	false		4159686	http://stats.ncaa.org/game/index/4159686?org_id=30209
+2017	12426	30209	Westminster (UT)	09/03/2016	Rollins @ Anchorage, Alaska		Rollins	http://stats.ncaa.org/team/584/12426	true	Anchorage, Alaska	false	L 1 - 3	false	1 - 3	false	1	3	false		4161577	http://stats.ncaa.org/game/index/4161577?org_id=584
 2017	12426	30209	Westminster (UT)	09/09/2016	Minot St.		Minot St.		false		true	-									
 2017	12426	30209	Westminster (UT)	09/09/2016	Tex. A&M Int'l		Tex. A&M Int'l		false		true	-									
 2017	12426	30209	Westminster (UT)	09/10/2016	Fort Hays St.		Fort Hays St.		false		true	-									
