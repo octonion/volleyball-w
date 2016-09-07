@@ -45,78 +45,79 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	721	Air Force	19		Ssozi, Denise		OH	5-8	Fr	0	0
 2017	12426	721	Air Force	7	1791901.0	Vanecek, Alina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791901.0	OH	5-11	Fr	2	0
 2017	12426	721	Air Force	4	1791902.0	Walker, Bianca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791902.0	MB	6-2	Fr	10	0
-2017	12426	5	Akron	11	1604276.0	Baer, Madi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604276.0	RS	6-2	So	18	0
-2017	12426	5	Akron	10	1454987.0	Bedell, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454987.0	RS	6-0	Sr	17	0
-2017	12426	5	Akron	1	1683221.0	Brown, Patience	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683221.0	MB	5-9	So	17	0
-2017	12426	5	Akron	6	1683222.0	Gwozdz, Kayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683222.0	OH	5-10	So	17	0
-2017	12426	5	Akron	4	1791444.0	Karsner, Elya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791444.0	OH	6-1	Fr	6	0
+2017	12426	5	Akron	11	1604276.0	Baer, Madi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604276.0	RS	6-2	So	21	0
+2017	12426	5	Akron	10	1454987.0	Bedell, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454987.0	RS	6-0	Sr	21	0
+2017	12426	5	Akron	1	1683221.0	Brown, Patience	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683221.0	MB	5-9	So	21	0
+2017	12426	5	Akron	6	1683222.0	Gwozdz, Kayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683222.0	OH	5-10	So	21	0
+2017	12426	5	Akron	4	1791444.0	Karsner, Elya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791444.0	OH	6-1	Fr	7	0
 2017	12426	5	Akron	15	1454990.0	Kloehn, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454990.0	MB	6-0	Jr	13	0
-2017	12426	5	Akron	16	1604274.0	Kozer, Aubrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604274.0	DS	5-9	Jr	18	0
-2017	12426	5	Akron	5	1454986.0	Kusan, Karley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454986.0	S	5-11	Sr	18	0
-2017	12426	5	Akron	2	1454984.0	Mack, Callie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454984.0	DS	5-7	Sr	18	0
-2017	12426	5	Akron	13	1454989.0	Mack, Brenna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454989.0	DS	5-7	Sr	18	0
-2017	12426	5	Akron	7		Park, Cara		S	5-9	Fr	0	0
-2017	12426	5	Akron	8	1683223.0	Pawlak, Abbey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683223.0	DS	5-4	So	18	0
-2017	12426	5	Akron	9	1791446.0	Richardson, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791446.0	MB	6-1	Fr	8	0
+2017	12426	5	Akron	16	1604274.0	Kozer, Aubrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604274.0	DS	5-9	Jr	22	0
+2017	12426	5	Akron	5	1454986.0	Kusan, Karley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454986.0	S	5-11	Sr	22	0
+2017	12426	5	Akron	13	1454989.0	Mack, Brenna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454989.0	DS	5-7	Sr	22	0
+2017	12426	5	Akron	2	1454984.0	Mack, Callie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454984.0	DS	5-7	Sr	22	0
+2017	12426	5	Akron	7	1791445.0	Park, Cara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791445.0	S	5-9	Fr	1	0
+2017	12426	5	Akron	8	1683223.0	Pawlak, Abbey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683223.0	DS	5-4	So	22	0
+2017	12426	5	Akron	9	1791446.0	Richardson, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791446.0	MB	6-1	Fr	12	0
 2017	12426	5	Akron	12	1454988.0	Shallman, Julie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454988.0	MB	6-3	Jr	3	0
 2017	12426	5	Akron	3	1454985.0	Smagacz, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454985.0	OH	6-0	Sr	2	0
 2017	12426	8	Alabama	7	1794298.0	Casillas, Jennifer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794298.0	OH	6-2	Jr	3	0
-2017	12426	8	Alabama	16	1574396.0	Feld, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574396.0	DS	5-3	Jr	11	0
-2017	12426	8	Alabama	4	1678008.0	Gary, Quincey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678008.0	DS	5-10	So	26	0
+2017	12426	8	Alabama	16	1574396.0	Feld, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574396.0	DS	5-3	Jr	13	0
+2017	12426	8	Alabama	4	1678008.0	Gary, Quincey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678008.0	DS	5-10	So	30	0
 2017	12426	8	Alabama	6		Hall, Cidavia		MB	6-1	Jr	0	0
-2017	12426	8	Alabama	3	1574397.0	Hutson, Kat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574397.0	OH	6-3	Jr	26	0
-2017	12426	8	Alabama	15	1574398.0	Lawrence, Leah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574398.0	MB	6-3	Jr	26	0
-2017	12426	8	Alabama	23	1794302.0	McSparin, Hayley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794302.0	MB	6-2	Fr	24	0
-2017	12426	8	Alabama	17	1678010.0	Mikesky, Shannon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678010.0	S	6-0	Fr	26	0
-2017	12426	8	Alabama	2	1574400.0	Murison, Natalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574400.0	DS	5-5	Jr	26	0
-2017	12426	8	Alabama	1	1794295.0	Onipede, Abolanle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794295.0	MB	6-0	Jr	5	0
-2017	12426	8	Alabama	13	1348466.0	Rivers, Krystal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1348466.0	MB	5-11	Sr	26	0
+2017	12426	8	Alabama	3	1574397.0	Hutson, Kat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574397.0	OH	6-3	Jr	30	0
+2017	12426	8	Alabama	15	1574398.0	Lawrence, Leah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574398.0	MB	6-3	Jr	28	0
+2017	12426	8	Alabama	23	1794302.0	McSparin, Hayley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794302.0	MB	6-2	Fr	26	0
+2017	12426	8	Alabama	17	1678010.0	Mikesky, Shannon	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678010.0	S	6-0	Fr	30	0
+2017	12426	8	Alabama	2	1574400.0	Murison, Natalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574400.0	DS	5-5	Jr	30	0
+2017	12426	8	Alabama	1	1794295.0	Onipede, Abolanle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794295.0	MB	6-0	Jr	9	0
+2017	12426	8	Alabama	13	1348466.0	Rivers, Krystal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1348466.0	MB	5-11	Sr	30	0
 2017	12426	8	Alabama	5	1794296.0	Robinson, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794296.0	OH	5-9	Fr	1	0
 2017	12426	8	Alabama	11	1574402.0	Stebbins, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574402.0	MB	6-2	Jr	0	0
 2017	12426	8	Alabama	18	1794301.0	Swink, Mahalia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794301.0	OH	6-0	Fr	7	0
-2017	12426	8	Alabama	9	1453632.0	Thomas, Brittany	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1453632.0	OH	6-0	Sr	24	0
+2017	12426	8	Alabama	9	1453632.0	Thomas, Brittany	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1453632.0	OH	6-0	Sr	28	0
 2017	12426	8	Alabama	14	1794300.0	Tomlak, Alexa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794300.0	S	5-9	Fr	3	0
 2017	12426	8	Alabama	8		Whitner, Kayla		OH	5-7	Fr	0	0
 2017	12426	6	Alabama A&M	1	1482478.0	Ballou, Jada	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1482478.0	DS	5-2	Sr	0	0
-2017	12426	6	Alabama A&M	1	1704946.0	Balsmeyer, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704946.0	""	-	Fr	24	0
-2017	12426	6	Alabama A&M	13	1809165.0	Balsmeyer, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809165.0	""	-	N/A	23	0
+2017	12426	6	Alabama A&M	1	1704946.0	Balsmeyer, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704946.0	""	-	Fr	30	0
+2017	12426	6	Alabama A&M	13	1809165.0	Balsmeyer, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809165.0	""	-	N/A	29	0
 2017	12426	6	Alabama A&M	14	1729433.0	Bell, Demesha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1729433.0	""	-	Fr	0	0
-2017	12426	6	Alabama A&M	4	1809162.0	Biggs, Nina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809162.0	""	-	N/A	23	0
-2017	12426	6	Alabama A&M	17	1809166.0	Brooks, Terra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809166.0	""	-	N/A	15	0
+2017	12426	6	Alabama A&M	4	1809162.0	Biggs, Nina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809162.0	""	-	N/A	29	0
+2017	12426	6	Alabama A&M	17	1809166.0	Brooks, Terra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809166.0	""	-	N/A	21	0
+2017	12426	6	Alabama A&M	14	1838196.0	Daffin, Josie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1838196.0	""	-	N/A	1	0
 2017	12426	6	Alabama A&M	5	1704947.0	Davis, Tamar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704947.0	""	-	Fr	7	0
-2017	12426	6	Alabama A&M	2	1809161.0	Gant, Jaelin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809161.0	""	-	N/A	15	0
-2017	12426	6	Alabama A&M	16	1815573.0	Gray, Astonia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1815573.0	""	-	N/A	8	0
+2017	12426	6	Alabama A&M	2	1809161.0	Gant, Jaelin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809161.0	""	-	N/A	20	0
+2017	12426	6	Alabama A&M	16	1815573.0	Gray, Astonia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1815573.0	""	-	N/A	13	0
 2017	12426	6	Alabama A&M	10	1581990.0	Green, Alexandria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1581990.0	MH	5-11	Jr	0	0
 2017	12426	6	Alabama A&M	16	1729434.0	Hood, Solana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1729434.0	""	-	Fr	0	0
-2017	12426	6	Alabama A&M	12	1704948.0	Jones, Ariana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704948.0	""	-	Fr	5	0
-2017	12426	6	Alabama A&M	10	1707176.0	Jordan, Indonesia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1707176.0	""	-	Fr	13	0
+2017	12426	6	Alabama A&M	12	1704948.0	Jones, Ariana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704948.0	""	-	Fr	7	0
+2017	12426	6	Alabama A&M	10	1707176.0	Jordan, Indonesia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1707176.0	""	-	Fr	14	0
 2017	12426	6	Alabama A&M	3	1704949.0	Matthews, Drea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704949.0	OH	4-0	Sr	0	0
-2017	12426	6	Alabama A&M	9	1482532.0	McNeal, Ashundria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1482532.0	MB	6-0	Sr	24	0
-2017	12426	6	Alabama A&M	8	1809164.0	Oliver, Courtney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809164.0	""	-	N/A	24	0
-2017	12426	6	Alabama A&M	7	1809163.0	Parks, Spenser	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809163.0	""	-	N/A	15	0
-2017	12426	6	Alabama A&M	19	1730509.0	Pierce, Rebecca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1730509.0	""	-	Fr	5	0
+2017	12426	6	Alabama A&M	9	1482532.0	McNeal, Ashundria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1482532.0	MB	6-0	Sr	30	0
+2017	12426	6	Alabama A&M	8	1809164.0	Oliver, Courtney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809164.0	""	-	N/A	30	0
+2017	12426	6	Alabama A&M	7	1809163.0	Parks, Spenser	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809163.0	""	-	N/A	21	0
+2017	12426	6	Alabama A&M	19	1730509.0	Pierce, Rebecca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1730509.0	""	-	Fr	11	0
 2017	12426	6	Alabama A&M	4	1616551.0	Powell, Charity	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1616551.0	""	-	So	0	0
 2017	12426	6	Alabama A&M	15	1581993.0	Rhodes, Arsheana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1581993.0	OH	5-7	Jr	0	0
 2017	12426	6	Alabama A&M	3	1815572.0	Smith, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1815572.0	""	-	N/A	3	0
 2017	12426	6	Alabama A&M	2	1726663.0	White, J'Tia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1726663.0	""	-	Fr	0	0
 2017	12426	6	Alabama A&M	21	1811166.0	Williams, Chelyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1811166.0	""	-	N/A	7	0
-2017	12426	7	Alabama St.	11	1791719.0	Bennett, Bayle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791719.0	OH	5-10	Fr	19	0
-2017	12426	7	Alabama St.	6	1604313.0	Brown, Brittany	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604313.0	OH	5-8	Jr	21	0
-2017	12426	7	Alabama St.	17	1791723.0	Brown, Ni'Yesha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791723.0	OH	6-0	Jr	21	0
+2017	12426	7	Alabama St.	11	1791719.0	Bennett, Bayle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791719.0	OH	5-10	Fr	22	0
+2017	12426	7	Alabama St.	6	1604313.0	Brown, Brittany	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604313.0	OH	5-8	Jr	22	0
+2017	12426	7	Alabama St.	17	1791723.0	Brown, Ni'Yesha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791723.0	OH	6-0	Jr	24	0
 2017	12426	7	Alabama St.	1	1791714.0	Claiborne, Korynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791714.0	DS	5-8	Jr	1	0
 2017	12426	7	Alabama St.	15	1791722.0	Clopton, Micha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791722.0	OH	5-10	So	0	0
-2017	12426	7	Alabama St.	3	1459085.0	Coleman, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459085.0	L/DS	5-8	Sr	22	0
+2017	12426	7	Alabama St.	3	1459085.0	Coleman, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459085.0	L/DS	5-8	Sr	25	0
 2017	12426	7	Alabama St.	10	1791718.0	Daniels, Asha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791718.0	S	5-6	Fr	1	0
-2017	12426	7	Alabama St.	16	1604285.0	Dorsey, Briana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604285.0	MB	6-0	Jr	22	0
-2017	12426	7	Alabama St.	9	1681125.0	Kutsch, Kori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681125.0	S	5-9	So	22	0
-2017	12426	7	Alabama St.	18	1604314.0	Martin, Candace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604314.0	MH	6-0	Jr	18	0
-2017	12426	7	Alabama St.	13	1615440.0	Martin, Tamara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1615440.0	RS	6-1	Jr	9	0
+2017	12426	7	Alabama St.	16	1604285.0	Dorsey, Briana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604285.0	MB	6-0	Jr	25	0
+2017	12426	7	Alabama St.	9	1681125.0	Kutsch, Kori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681125.0	S	5-9	So	25	0
+2017	12426	7	Alabama St.	18	1604314.0	Martin, Candace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604314.0	MH	6-0	Jr	20	0
+2017	12426	7	Alabama St.	13	1615440.0	Martin, Tamara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1615440.0	RS	6-1	Jr	12	0
 2017	12426	7	Alabama St.	19		McWilliams, Tynesha		OH	5-8	Fr	0	0
-2017	12426	7	Alabama St.	8	1791717.0	Medearis, Krysta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791717.0	OH	6-0	Fr	22	0
+2017	12426	7	Alabama St.	8	1791717.0	Medearis, Krysta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791717.0	OH	6-0	Fr	25	0
 2017	12426	7	Alabama St.	14		Monroe, Alaina		OH	5-8	Fr	0	0
 2017	12426	7	Alabama St.	4		Murdock, Diana		MB	6-0	Fr	0	0
-2017	12426	7	Alabama St.	5	1681128.0	Torres, Kayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681128.0	L/DS	5-5	So	22	0
-2017	12426	7	Alabama St.	12	1791720.0	Tuiolosega, Justus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791720.0	S	5-8	Jr	22	0
+2017	12426	7	Alabama St.	5	1681128.0	Torres, Kayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681128.0	L/DS	5-5	So	25	0
+2017	12426	7	Alabama St.	12	1791720.0	Tuiolosega, Justus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791720.0	S	5-8	Jr	25	0
 2017	12426	7	Alabama St.	2	1791715.0	Worthy, Bronwyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791715.0	OH	6-0	Fr	2	0
 2017	12426	14	Albany (NY)	11	1786579.0	Cameron, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786579.0	S	6-0	Fr	11	0
 2017	12426	14	Albany (NY)	24	1457909.0	Dolan, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1457909.0	RS	6-3	Sr	17	0
@@ -518,22 +519,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	83	Bucknell	17	1619639.0	Alpert, Stefanie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1619639.0	OH	6-0	Jr	1	0
 2017	12426	83	Bucknell	7	1680271.0	Baker, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680271.0	OH	6-0	So	0	0
 2017	12426	83	Bucknell	12	1605085.0	Barker, Celeste	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1605085.0	MB	6-0	Jr	3	0
-2017	12426	83	Bucknell	2	1680272.0	Buchholz, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680272.0	OH	5-9	So	16	0
-2017	12426	83	Bucknell	22	1810611.0	Bullard, Sophie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810611.0	""	-	N/A	14	0
-2017	12426	83	Bucknell	15	1458300.0	Eastley, Erika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458300.0	MB	6-2	Sr	11	0
+2017	12426	83	Bucknell	2	1680272.0	Buchholz, Blake	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680272.0	OH	5-9	So	19	0
+2017	12426	83	Bucknell	22	1810611.0	Bullard, Sophie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810611.0	""	-	N/A	17	0
+2017	12426	83	Bucknell	15	1458300.0	Eastley, Erika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458300.0	MB	6-2	Sr	12	0
 2017	12426	83	Bucknell	6	1458298.0	Forbes, Rebecca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458298.0	RS	5-10	Sr	0	0
-2017	12426	83	Bucknell	14	1810609.0	Holland, Bridgette	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810609.0	""	-	N/A	17	0
+2017	12426	83	Bucknell	14	1810609.0	Holland, Bridgette	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810609.0	""	-	N/A	20	0
 2017	12426	83	Bucknell	8	1602619.0	Nagle, Luz	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1602619.0	S	6-0	Jr	4	0
 2017	12426	83	Bucknell	11	1680273.0	Occhiogrosso, Stephanie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680273.0	OH	6-1	So	0	0
 2017	12426	83	Bucknell	1	1458297.0	Parks, Kristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458297.0	L/DS	5-7	Sr	8	0
-2017	12426	83	Bucknell	16	1810610.0	Richards, Mimi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810610.0	""	-	N/A	12	0
+2017	12426	83	Bucknell	16	1810610.0	Richards, Mimi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810610.0	""	-	N/A	15	0
 2017	12426	83	Bucknell	10	1680274.0	Risdal, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680274.0	MB	6-2	So	0	0
-2017	12426	83	Bucknell	3	1602617.0	Sawanobori, Hana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1602617.0	L/DS	5-8	Jr	12	0
-2017	12426	83	Bucknell	9	1810612.0	Schnobrich, Selby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810612.0	""	-	N/A	17	0
+2017	12426	83	Bucknell	3	1602617.0	Sawanobori, Hana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1602617.0	L/DS	5-8	Jr	15	0
+2017	12426	83	Bucknell	9	1810612.0	Schnobrich, Selby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810612.0	""	-	N/A	20	0
 2017	12426	83	Bucknell	4	1615455.0	Slusar, Jenna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1615455.0	DS	5-7	Jr	5	0
-2017	12426	83	Bucknell	23	1810613.0	Stark, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810613.0	""	-	N/A	12	0
-2017	12426	83	Bucknell	5	1602618.0	Stout, Hailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1602618.0	OH	6-1	Jr	17	0
-2017	12426	83	Bucknell	20	1458301.0	Walker, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458301.0	OH	5-11	Sr	13	0
+2017	12426	83	Bucknell	23	1810613.0	Stark, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810613.0	""	-	N/A	15	0
+2017	12426	83	Bucknell	5	1602618.0	Stout, Hailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1602618.0	OH	6-1	Jr	20	0
+2017	12426	83	Bucknell	20	1458301.0	Walker, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458301.0	OH	5-11	Sr	15	0
 2017	12426	86	Buffalo	13	1786874.0	Benitez, Taina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786874.0	OH	6-0	Fr	8	0
 2017	12426	86	Buffalo	8		Boskat, Ally		MB	6-2	Fr	0	0
 2017	12426	86	Buffalo	3	1679319.0	Clark, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679319.0	S	6-2	So	16	0
@@ -741,7 +742,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	48	Charleston So.	16	1790931.0	Schwiebert, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790931.0	S	5-10	Fr	1	0
 2017	12426	48	Charleston So.	11	1790927.0	Smith, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790927.0	S	5-7	Fr	32	0
 2017	12426	48	Charleston So.	8	1689476.0	Western, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1689476.0	OH	5-10	So	32	0
-2017	12426	48	Charleston So.	4	1790924.0	Windsor, Siraya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790924.0	OH	5-9	Sr	1	0
+2017	12426	48	Charleston So.	4	1790924.0	Windsor, Siraya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790924.0	OH	5-9	Sr	0	0
 2017	12426	48	Charleston So.	2	1790923.0	Windsor, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790923.0	OH	5-9	Fr	13	0
 2017	12426	458	Charlotte	14	1785096.0	Alvey, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785096.0	DS	5-7	Fr	5	0
 2017	12426	458	Charlotte	11	1453863.0	Barker, Morgan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1453863.0	DS	5-6	Sr	23	0
@@ -784,7 +785,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	136	Chicago St.	12	1785670.0	Klavitter, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785670.0	DS	5-3	Fr	20	0
 2017	12426	136	Chicago St.	2	1785668.0	Milivojev, Marija	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785668.0	DS	5-3	Jr	15	0
 2017	12426	136	Chicago St.	8	1785671.0	Smith, Shedella	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785671.0	MB	6-3	Jr	16	0
-2017	12426	136	Chicago St.	15	1673648.0	Stewart, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673648.0	RS	5-11	So	1	0
+2017	12426	136	Chicago St.	15	1673648.0	Stewart, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673648.0	RS	5-11	So	0	0
 2017	12426	136	Chicago St.	5	1784949.0	Taylor, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1784949.0	S	5-8	Jr	20	0
 2017	12426	136	Chicago St.	16	1683885.0	Vaimaona, Arieta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683885.0	MB	6-7	Jr	9	0
 2017	12426	136	Chicago St.	4	1785669.0	Viera, Thais	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785669.0	OH	6-0	Jr	5	0
@@ -930,18 +931,18 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	158	Columbia	9	1498010.0	Wes, Cassie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1498010.0	L	5-8	Sr	9	0
 2017	12426	158	Columbia	13	1677766.0	Wilkins, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677766.0	OH	6-1	So	7	0
 2017	12426	158	Columbia	3	1784641.0	Wood, Kalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1784641.0	L	5-8	Fr	8	0
-2017	12426	165	Coppin St.	8	1792262.0	Barnes, Valiyah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792262.0	MB	6-0	Jr	12	0
-2017	12426	165	Coppin St.	1	1792258.0	Curtis, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792258.0	MB	6-0	Fr	10	0
-2017	12426	165	Coppin St.	3	1792259.0	Froberg, Guro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792259.0	OH	5-11	Jr	17	0
-2017	12426	165	Coppin St.	5	1799886.0	Gell, Jennifer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1799886.0	DS	5-4	Jr	9	0
-2017	12426	165	Coppin St.	9	1675462.0	Guice, Marlena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675462.0	OH	5-7	So	5	0
-2017	12426	165	Coppin St.	11	1573950.0	Jackson, Bailee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573950.0	OH	5-9	Jr	17	0
-2017	12426	165	Coppin St.	4	1792261.0	Jamerson, Angel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792261.0	S	5-9	Fr	3	0
+2017	12426	165	Coppin St.	8	1792262.0	Barnes, Valiyah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792262.0	MB	6-0	Jr	15	0
+2017	12426	165	Coppin St.	1	1792258.0	Curtis, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792258.0	MB	6-0	Fr	13	0
+2017	12426	165	Coppin St.	3	1792259.0	Froberg, Guro	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792259.0	OH	5-11	Jr	20	0
+2017	12426	165	Coppin St.	5	1799886.0	Gell, Jennifer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1799886.0	DS	5-4	Jr	12	0
+2017	12426	165	Coppin St.	9	1675462.0	Guice, Marlena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675462.0	OH	5-7	So	6	0
+2017	12426	165	Coppin St.	11	1573950.0	Jackson, Bailee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573950.0	OH	5-9	Jr	20	0
+2017	12426	165	Coppin St.	4	1792261.0	Jamerson, Angel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792261.0	S	5-9	Fr	4	0
 2017	12426	165	Coppin St.	14		Johnson, Christa		MB	5-9	Fr	0	0
-2017	12426	165	Coppin St.	13	1799888.0	Lougheed, Jasmine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1799888.0	MB	5-11	Fr	16	0
-2017	12426	165	Coppin St.	12	1792263.0	Madarang, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792263.0	S	5-6	Fr	17	0
-2017	12426	165	Coppin St.	10	1704242.0	Rosado, Glorines	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704242.0	L/DS	5-2	Jr	17	0
-2017	12426	165	Coppin St.	2	1792260.0	Stennis, Asia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792260.0	OH	5-9	Fr	16	0
+2017	12426	165	Coppin St.	13	1799888.0	Lougheed, Jasmine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1799888.0	MB	5-11	Fr	19	0
+2017	12426	165	Coppin St.	12	1792263.0	Madarang, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792263.0	S	5-6	Fr	20	0
+2017	12426	165	Coppin St.	10	1704242.0	Rosado, Glorines	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704242.0	L/DS	5-2	Jr	20	0
+2017	12426	165	Coppin St.	2	1792260.0	Stennis, Asia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792260.0	OH	5-9	Fr	19	0
 2017	12426	167	Cornell	9	1789402.0	Arenas, Samanta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789402.0	OH	5-9	Fr	1	0
 2017	12426	167	Cornell	6	1789400.0	Barber, Lily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789400.0	DS	5-6	Fr	11	0
 2017	12426	167	Cornell	7	1680342.0	Bauchens, Shae	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680342.0	DS	5-5	So	1	0
@@ -1121,20 +1122,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	193	Duke	4	1788425.0	Stivers, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788425.0	OH	6-2	Fr	20	0
 2017	12426	193	Duke	11	1455715.0	Tucker, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455715.0	MB	6-0	Sr	20	0
 2017	12426	193	Duke	6	1455716.0	Whitaker, Alyse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455716.0	MB	6-2	Sr	13	0
-2017	12426	194	Duquesne	12	1676497.0	Bazelak, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676497.0	OH	5-11	So	15	0
+2017	12426	194	Duquesne	12	1676497.0	Bazelak, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676497.0	OH	5-11	So	27	0
 2017	12426	194	Duquesne	3		Boe, Claire		S	5-8	Fr	0	0
-2017	12426	194	Duquesne	2	1464907.0	Burnham, Madelynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1464907.0	OH	6-2	Sr	15	0
-2017	12426	194	Duquesne	10	1565273.0	Davet, Molly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565273.0	OH	5-10	Jr	15	0
-2017	12426	194	Duquesne	7	1565272.0	Glover, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565272.0	MB	6-0	Jr	0	0
-2017	12426	194	Duquesne	6	1676499.0	Johnson, Kori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676499.0	MH	5-11	So	0	0
-2017	12426	194	Duquesne	13	1464909.0	Kline, Sammy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1464909.0	L	5-5	Sr	15	0
-2017	12426	194	Duquesne	1		Knurek, Kaitlyn		OH	6-0	Fr	0	0
+2017	12426	194	Duquesne	2	1464907.0	Burnham, Madelynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1464907.0	OH	6-2	Sr	27	0
+2017	12426	194	Duquesne	10	1565273.0	Davet, Molly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565273.0	OH	5-10	Jr	27	0
+2017	12426	194	Duquesne	7	1565272.0	Glover, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565272.0	MB	6-0	Jr	2	0
+2017	12426	194	Duquesne	6	1676499.0	Johnson, Kori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676499.0	MH	5-11	So	12	0
+2017	12426	194	Duquesne	13	1464909.0	Kline, Sammy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1464909.0	L	5-5	Sr	27	0
+2017	12426	194	Duquesne	1	1790125.0	Knurek, Kaitlyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790125.0	OH	6-0	Fr	1	0
 2017	12426	194	Duquesne	8	1464908.0	Levers, Lacey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1464908.0	MH	6-1	Sr	15	0
-2017	12426	194	Duquesne	4	1676500.0	Martini, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676500.0	DS	5-8	So	0	0
-2017	12426	194	Duquesne	11	1676501.0	McGinn, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676501.0	S	5-11	So	8	0
-2017	12426	194	Duquesne	15	1790128.0	Suiter, Dani	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790128.0	S	6-0	Fr	7	0
-2017	12426	194	Duquesne	5	1702576.0	Trzeciak, Abbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1702576.0	MH	6-0	Jr	15	0
-2017	12426	194	Duquesne	14	1676502.0	Vecera, Camryn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676502.0	L	5-5	So	15	0
+2017	12426	194	Duquesne	4	1676500.0	Martini, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676500.0	DS	5-8	So	4	0
+2017	12426	194	Duquesne	11	1676501.0	McGinn, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676501.0	S	5-11	So	10	0
+2017	12426	194	Duquesne	15	1790128.0	Suiter, Dani	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790128.0	S	6-0	Fr	19	0
+2017	12426	194	Duquesne	5	1702576.0	Trzeciak, Abbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1702576.0	MH	6-0	Jr	27	0
+2017	12426	194	Duquesne	14	1676502.0	Vecera, Camryn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676502.0	L	5-5	So	27	0
 2017	12426	194	Duquesne	16		Wayne, Liz		MH	6-0	Fr	0	0
 2017	12426	198	ETSU	1	1680846.0	Aguilar, Hailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680846.0	L/DS	5-5	So	19	0
 2017	12426	198	ETSU	4	1463649.0	Allmon, Briana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1463649.0	OH	6-0	Sr	19	0
@@ -1235,20 +1236,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	1068	Elon	16	1674173.0	Terry, Kam	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674173.0	OH	5-11	So	25	0
 2017	12426	1068	Elon	3	1788827.0	Thomas, Nori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788827.0	RS	6-1	N/A	1	0
 2017	12426	1068	Elon	4	1674169.0	Wood, Rox	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674169.0	S	6-0	Fr	9	0
-2017	12426	219	Evansville	10	1810606.0	Clark, Deja	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810606.0	""	-	N/A	15	0
-2017	12426	219	Evansville	4	1678974.0	Coronel, Joselyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678974.0	RS	6-3	So	14	0
-2017	12426	219	Evansville	15	1678978.0	Fortuny, Rocio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678978.0	RS	6-2	So	6	0
-2017	12426	219	Evansville	2	1678973.0	Giller, Elizabeth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678973.0	RS	6-0	So	9	0
-2017	12426	219	Evansville	8	1678975.0	Goldstein, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678975.0	L	5-8	So	15	0
-2017	12426	219	Evansville	6	1810605.0	Griffith, Erlicia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810605.0	""	-	N/A	12	0
-2017	12426	219	Evansville	1	1810608.0	Jones, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810608.0	""	-	N/A	0	0
-2017	12426	219	Evansville	16	1678979.0	Merseli, Jelena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678979.0	S	5-11	Jr	13	0
+2017	12426	219	Evansville	10	1810606.0	Clark, Deja	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810606.0	OH	6-0	Fr	20	0
+2017	12426	219	Evansville	4	1678974.0	Coronel, Joselyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678974.0	RS	6-3	So	18	0
+2017	12426	219	Evansville	15	1678978.0	Fortuny, Rocio	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678978.0	RS	6-2	So	11	0
+2017	12426	219	Evansville	2	1678973.0	Giller, Elizabeth	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678973.0	RS	6-0	So	12	0
+2017	12426	219	Evansville	8	1678975.0	Goldstein, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678975.0	L	5-8	So	20	0
+2017	12426	219	Evansville	6	1810605.0	Griffith, Erlicia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810605.0	RS	6-3	Jr	17	0
+2017	12426	219	Evansville	1	1810608.0	Jones, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810608.0	S	5-7	Fr	0	0
+2017	12426	219	Evansville	16	1678979.0	Merseli, Jelena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678979.0	S	5-11	Jr	18	0
 2017	12426	219	Evansville	12	1604550.0	Miranda, Genesis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604550.0	OH	6-1	Jr	0	0
-2017	12426	219	Evansville	13	1678977.0	Rodriguez, Mildrelis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678977.0	OH	5-9	So	15	0
+2017	12426	219	Evansville	13	1678977.0	Rodriguez, Mildrelis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678977.0	OH	5-9	So	20	0
 2017	12426	219	Evansville	14	1604544.0	Rosa, Lillian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604544.0	DS	5-6	Jr	0	0
-2017	12426	219	Evansville	11	1604546.0	Schafer, Montana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604546.0	MB	6-3	Jr	10	0
-2017	12426	219	Evansville	7	1604547.0	Schreiber, Cathy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604547.0	MH	6-3	Jr	12	0
-2017	12426	219	Evansville	12	1810607.0	Tam, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810607.0	""	-	N/A	14	0
+2017	12426	219	Evansville	11	1604546.0	Schafer, Montana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604546.0	MB	6-3	Jr	12	0
+2017	12426	219	Evansville	7	1604547.0	Schreiber, Cathy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604547.0	MH	6-3	Jr	17	0
+2017	12426	219	Evansville	12	1810607.0	Tam, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810607.0	OH	5-9	Fr	19	0
 2017	12426	28755	FGCU	18	1684268.0	Adami, Marina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684268.0	S	6-1	Sr	5	0
 2017	12426	28755	FGCU	2	1785635.0	Borgiotti, Giovanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785635.0	OH	5-9	Fr	3	0
 2017	12426	28755	FGCU	14	1684267.0	Carroll, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684267.0	OH	5-10	So	19	0
@@ -1431,26 +1432,26 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	244	Furman	5		Sleet, Catia		DS	5-9	Fr	0	0
 2017	12426	244	Furman	13	1492559.0	Stocker, Ashton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492559.0	S	6-1	Sr	22	0
 2017	12426	244	Furman	10	1572312.0	Thompson, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572312.0	S	5-10	So	23	0
-2017	12426	253	Ga. Southern	9	1790530.0	Adams, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790530.0	OH	5-10	Fr	1	0
+2017	12426	253	Ga. Southern	9	1790530.0	Adams, Kendall	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790530.0	OH	5-10	Fr	2	0
 2017	12426	253	Ga. Southern	12		Baker, Kacey		MH	6-3	Fr	0	0
-2017	12426	253	Ga. Southern	13	1456246.0	Bange, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456246.0	RS	6-4	Sr	23	0
-2017	12426	253	Ga. Southern	8	1346911.0	Beecher, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1346911.0	DS	5-9	Sr	23	0
+2017	12426	253	Ga. Southern	13	1456246.0	Bange, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456246.0	RS	6-4	Sr	28	0
+2017	12426	253	Ga. Southern	8	1346911.0	Beecher, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1346911.0	DS	5-9	Sr	28	0
 2017	12426	253	Ga. Southern	1	1790527.0	Birch, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790527.0	DS	5-1	Fr	3	0
-2017	12426	253	Ga. Southern	21	1790526.0	Bosworth, Reilly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790526.0	MH	6-1	Fr	25	0
+2017	12426	253	Ga. Southern	21	1790526.0	Bosworth, Reilly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790526.0	MH	6-1	Fr	30	0
 2017	12426	253	Ga. Southern	20		Cahill, Kali		S	5-11	Fr	0	0
 2017	12426	253	Ga. Southern	7	1456243.0	Chevalier, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456243.0	RS	6-3	Jr	9	0
 2017	12426	253	Ga. Southern	16	1790525.0	Dean, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790525.0	DS	5-7	So	1	0
-2017	12426	253	Ga. Southern	14	1682687.0	Koetter, Kendra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682687.0	S	5-8	So	25	0
+2017	12426	253	Ga. Southern	14	1682687.0	Koetter, Kendra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682687.0	S	5-8	So	30	0
 2017	12426	253	Ga. Southern	19	1682689.0	Landavazo, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682689.0	OH	5-9	So	1	0
-2017	12426	253	Ga. Southern	18	1682688.0	McColl, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682688.0	DS	5-5	So	22	0
-2017	12426	253	Ga. Southern	5	1790529.0	Meins, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790529.0	DS	5-4	Fr	11	0
-2017	12426	253	Ga. Southern	2	1682683.0	Morrow, Joscelin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682683.0	DS	5-3	So	4	0
-2017	12426	253	Ga. Southern	10	1569214.0	Murray, Cathrine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569214.0	OH	5-11	Jr	22	0
-2017	12426	253	Ga. Southern	6	1682685.0	Reichard, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682685.0	MH	6-0	So	25	0
-2017	12426	253	Ga. Southern	4	1682684.0	Spencer, Stephanie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682684.0	OH	6-1	So	21	0
-2017	12426	253	Ga. Southern	11	1790531.0	Turner, Carly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790531.0	OH	6-3	Fr	7	0
-2017	12426	253	Ga. Southern	3	1790528.0	Tuten, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790528.0	OH	5-7	Fr	5	0
-2017	12426	253	Ga. Southern	17	1790533.0	Wenger, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790533.0	OH	6-0	Jr	22	0
+2017	12426	253	Ga. Southern	18	1682688.0	McColl, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682688.0	DS	5-5	So	26	0
+2017	12426	253	Ga. Southern	5	1790529.0	Meins, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790529.0	DS	5-4	Fr	14	0
+2017	12426	253	Ga. Southern	2	1682683.0	Morrow, Joscelin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682683.0	DS	5-3	So	6	0
+2017	12426	253	Ga. Southern	10	1569214.0	Murray, Cathrine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569214.0	OH	5-11	Jr	27	0
+2017	12426	253	Ga. Southern	6	1682685.0	Reichard, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682685.0	MH	6-0	So	30	0
+2017	12426	253	Ga. Southern	4	1682684.0	Spencer, Stephanie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682684.0	OH	6-1	So	23	0
+2017	12426	253	Ga. Southern	11	1790531.0	Turner, Carly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790531.0	OH	6-3	Fr	9	0
+2017	12426	253	Ga. Southern	3	1790528.0	Tuten, Ryan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790528.0	OH	5-7	Fr	9	0
+2017	12426	253	Ga. Southern	17	1790533.0	Wenger, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790533.0	OH	6-0	Jr	27	0
 2017	12426	1092	Gardner-Webb	20	1704673.0	Celarek, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704673.0	OH	6-2	Jr	21	0
 2017	12426	1092	Gardner-Webb	4	1806680.0	Coleman, Charissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1806680.0	DS	5-4	Fr	13	0
 2017	12426	1092	Gardner-Webb	13	1806683.0	Driscoll, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1806683.0	MB	6-1	Jr	21	0
@@ -1530,7 +1531,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	257	Georgia	23	1348168.0	McCray, Desiree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1348168.0	MB	6-2	Sr	21	0
 2017	12426	257	Georgia	21	1674699.0	Ostman, Caroline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674699.0	OH	5-11	So	12	0
 2017	12426	257	Georgia	3	1348164.0	Spencer, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1348164.0	RS	6-1	Sr	13	0
-2017	12426	257	Georgia	17	1791546.0	Young, Kianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791546.0	MB	6-3	Fr	1	0
+2017	12426	257	Georgia	17	1791546.0	Young, Kianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791546.0	MB	6-3	Fr	0	0
 2017	12426	254	Georgia St.	14	1681573.0	Chapman, Shae	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681573.0	MB	6-0	So	0	0
 2017	12426	254	Georgia St.	21	1789023.0	Creger, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789023.0	MB	6-1	So	16	0
 2017	12426	254	Georgia St.	2	1681569.0	Dachs, Kaitlyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1681569.0	DS	5-9	So	10	0
@@ -1689,7 +1690,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	277	Hawaii	14	1343594.0	Taylor, Nikki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1343594.0	OH	6-3	Sr	9	0
 2017	12426	19651	High Point	10	1343518.0	Angel, Savannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1343518.0	MB	6-4	Sr	24	0
 2017	12426	19651	High Point	20	1574936.0	Barnes, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574936.0	OH	6-0	Jr	24	0
-2017	12426	19651	High Point	8	1683814.0	Barr, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683814.0	OH	5-11	Fr	1	0
+2017	12426	19651	High Point	8	1683814.0	Barr, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683814.0	OH	5-11	Fr	0	0
 2017	12426	19651	High Point	3	1683815.0	Broadstreet, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683815.0	OH	6-1	So	12	0
 2017	12426	19651	High Point	12	1462183.0	Griswold, Greta	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462183.0	DS	5-5	Sr	5	0
 2017	12426	19651	High Point	1	1683813.0	Hefner, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683813.0	MB	6-1	So	24	0
@@ -1918,22 +1919,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	305	Indiana St.	4	1573008.0	Peterson, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573008.0	OH	6-0	Jr	4	0
 2017	12426	305	Indiana St.	12	1458640.0	Spangler, Bree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1458640.0	OH	6-1	Sr	24	0
 2017	12426	305	Indiana St.	11		Toombs, Alex		MH	6-1	Fr	0	0
-2017	12426	310	Iona	3	1673396.0	Archibald, Claire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673396.0	OH	5-10	So	18	0
+2017	12426	310	Iona	3	1673396.0	Archibald, Claire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673396.0	OH	5-10	So	21	0
 2017	12426	310	Iona	24	1673402.0	Bannister, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673402.0	RS	5-11	So	10	0
-2017	12426	310	Iona	18	1673400.0	Bonsignore, Mia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673400.0	MB	5-11	So	20	0
-2017	12426	310	Iona	7	1565150.0	Campbell, Shaina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565150.0	MB	6-0	Jr	1	0
-2017	12426	310	Iona	37	1810503.0	Connolly, Tess	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810503.0	""	-	N/A	10	0
-2017	12426	310	Iona	5	1565160.0	Darnaby, Kassandra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565160.0	OH	5-11	Jr	19	0
+2017	12426	310	Iona	18	1673400.0	Bonsignore, Mia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673400.0	MB	5-11	So	23	0
+2017	12426	310	Iona	7	1565150.0	Campbell, Shaina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565150.0	MB	6-0	Jr	4	0
+2017	12426	310	Iona	37	1810503.0	Connolly, Tess	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810503.0	""	-	N/A	13	0
+2017	12426	310	Iona	5	1565160.0	Darnaby, Kassandra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565160.0	OH	5-11	Jr	21	0
 2017	12426	310	Iona	22	1810502.0	Donahugh, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810502.0	""	-	N/A	4	0
-2017	12426	310	Iona	22	1673401.0	Dunahugh, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673401.0	L	5-4	So	7	0
-2017	12426	310	Iona	1	1673395.0	Ferretti, Kait	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673395.0	S	5-5	So	15	0
-2017	12426	310	Iona	10	1673399.0	Gannon, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673399.0	OH	5-11	So	16	0
+2017	12426	310	Iona	22	1673401.0	Dunahugh, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673401.0	L	5-4	So	8	0
+2017	12426	310	Iona	1	1673395.0	Ferretti, Kait	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673395.0	S	5-5	So	17	0
+2017	12426	310	Iona	10	1673399.0	Gannon, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673399.0	OH	5-11	So	18	0
 2017	12426	310	Iona	23	1815575.0	Johnson, Karla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1815575.0	""	-	N/A	2	0
-2017	12426	310	Iona	6	1810501.0	Pacatte, Gabrielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810501.0	""	-	N/A	20	0
-2017	12426	310	Iona	8	1673398.0	Paolucci, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673398.0	L	5-7	So	20	0
-2017	12426	310	Iona	4	1673397.0	Rose, Emma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673397.0	S	5-9	So	13	0
-2017	12426	310	Iona	2	1811165.0	Russo, Alexandra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1811165.0	""	-	N/A	7	0
-2017	12426	310	Iona	11	1456619.0	White, Karly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456619.0	MB	6-0	Sr	20	0
+2017	12426	310	Iona	6	1810501.0	Pacatte, Gabrielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810501.0	""	-	N/A	23	0
+2017	12426	310	Iona	8	1673398.0	Paolucci, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673398.0	L	5-7	So	23	0
+2017	12426	310	Iona	4	1673397.0	Rose, Emma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673397.0	S	5-9	So	16	0
+2017	12426	310	Iona	2	1811165.0	Russo, Alexandra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1811165.0	""	-	N/A	8	0
+2017	12426	310	Iona	11	1456619.0	White, Karly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456619.0	MB	6-0	Sr	22	0
 2017	12426	312	Iowa	19	1567255.0	Alm, Taylin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567255.0	RS	6-4	Jr	0	0
 2017	12426	312	Iowa	18	1454489.0	Brobst, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454489.0	OH	6-1	Sr	22	0
 2017	12426	312	Iowa	12	1791925.0	Bushman, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791925.0	DS	5-8	Fr	3	0
@@ -1951,7 +1952,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	312	Iowa	9	1693622.0	Olsen, Annika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1693622.0	DS	5-8	Jr	23	0
 2017	12426	312	Iowa	6	1791922.0	Reuter, Kasey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791922.0	OH	6-1	So	6	0
 2017	12426	311	Iowa St.	1	1678184.0	Bailey, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678184.0	RS	6-3	So	5	0
-2017	12426	311	Iowa St.	13	1574646.0	Berta, Branen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574646.0	L/DS	5-7	Jr	15	0
+2017	12426	311	Iowa St.	13	1574646.0	Berta, Branen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574646.0	L/DS	5-7	Jr	14	0
 2017	12426	311	Iowa St.	11	1454437.0	Capezio, Ciara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454437.0	OH	6-3	Sr	14	0
 2017	12426	311	Iowa St.	6	1574645.0	Conaway, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574645.0	MB	6-0	Jr	13	0
 2017	12426	311	Iowa St.	8	1604364.0	Harris, Monique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604364.0	S	5-9	Jr	7	0
@@ -2042,24 +2043,24 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	328	Kansas	12	1680450.0	Smith, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680450.0	OH	6-0	Fr	5	0
 2017	12426	328	Kansas	10	1453144.0	Soucie, Tayler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1453144.0	MB	6-1	Sr	15	0
 2017	12426	328	Kansas	5	1453142.0	Wait, Cassie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1453142.0	L	5-8	Sr	14	0
-2017	12426	327	Kansas St.	10	1455580.0	Batchelder, Mattie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455580.0	DS	5-8	Jr	6	0
-2017	12426	327	Kansas St.	6	1342226.0	Brand, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1342226.0	S	6-1	Sr	23	0
+2017	12426	327	Kansas St.	10	1455580.0	Batchelder, Mattie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455580.0	DS	5-8	Jr	5	0
+2017	12426	327	Kansas St.	6	1342226.0	Brand, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1342226.0	S	6-1	Sr	20	0
 2017	12426	327	Kansas St.	4		Dixon, Sarah		S	5-9	So	0	0
-2017	12426	327	Kansas St.	21	1562283.0	Fairfield, Devan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562283.0	DS	5-7	So	23	0
-2017	12426	327	Kansas St.	12	1674016.0	Flowers, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674016.0	MB	6-3	So	19	0
-2017	12426	327	Kansas St.	16	1674018.0	Gyimes, Zsofia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674018.0	MB	6-3	So	9	0
-2017	12426	327	Kansas St.	15	1785860.0	Hooper, Cheyenne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785860.0	OPP	6-6	So	3	0
-2017	12426	327	Kansas St.	1	1455576.0	Kober, Kersten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455576.0	L/DS	5-7	Sr	20	0
+2017	12426	327	Kansas St.	21	1562283.0	Fairfield, Devan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562283.0	DS	5-7	So	20	0
+2017	12426	327	Kansas St.	12	1674016.0	Flowers, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674016.0	MB	6-3	So	16	0
+2017	12426	327	Kansas St.	16	1674018.0	Gyimes, Zsofia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674018.0	MB	6-3	So	8	0
+2017	12426	327	Kansas St.	15	1785860.0	Hooper, Cheyenne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785860.0	OPP	6-6	So	2	0
+2017	12426	327	Kansas St.	1	1455576.0	Kober, Kersten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455576.0	L/DS	5-7	Sr	17	0
 2017	12426	327	Kansas St.	5		Penning, Kylie		S	5-7	Sr	0	0
-2017	12426	327	Kansas St.	9	1455579.0	Reininger, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455579.0	MB	6-1	Sr	20	0
+2017	12426	327	Kansas St.	9	1455579.0	Reininger, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1455579.0	MB	6-1	Sr	17	0
 2017	12426	327	Kansas St.	2	1785855.0	Sandbothe, Elle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785855.0	MB	6-0	Fr	4	0
-2017	12426	327	Kansas St.	17	1562279.0	Sassin, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562279.0	OH	6-0	Sr	22	0
+2017	12426	327	Kansas St.	17	1562279.0	Sassin, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562279.0	OH	6-0	Sr	19	0
 2017	12426	327	Kansas St.	19	1785861.0	Schick, Maureen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785861.0	DS	5-7	Fr	2	0
-2017	12426	327	Kansas St.	3	1674015.0	Schultejans, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674015.0	OH	6-3	So	6	0
+2017	12426	327	Kansas St.	3	1674015.0	Schultejans, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674015.0	OH	6-3	So	5	0
 2017	12426	327	Kansas St.	8		Stark, Rachel		OH	5-11	Fr	0	0
-2017	12426	327	Kansas St.	18	1562280.0	Vogel, Bryna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562280.0	OPP	6-0	Jr	22	0
+2017	12426	327	Kansas St.	18	1562280.0	Vogel, Bryna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562280.0	OPP	6-0	Jr	19	0
 2017	12426	327	Kansas St.	11		Williams, Peyton		MB	6-3	Fr	0	0
-2017	12426	327	Kansas St.	7	1562276.0	Zumach, Kylee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562276.0	OH	6-4	So	21	0
+2017	12426	327	Kansas St.	7	1562276.0	Zumach, Kylee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562276.0	OH	6-4	So	18	0
 2017	12426	1157	Kennesaw St.	12	1569306.0	Boyer, Amariah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569306.0	OH	5-9	So	20	0
 2017	12426	1157	Kennesaw St.	7	1569304.0	Boyer, Anaiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569304.0	OPP	5-9	Jr	28	0
 2017	12426	1157	Kennesaw St.	2		Broadwater, Lexi		S	5-8	Fr	0	0
@@ -2639,24 +2640,24 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	434	Missouri	3	1678173.0	Sents, Riley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678173.0	L	5-4	Fr	3	0
 2017	12426	434	Missouri	2	1451864.0	Thater, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451864.0	MB	6-3	Sr	24	0
 2017	12426	434	Missouri	7	1451865.0	Towler, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451865.0	RS	6-2	Sr	14	0
-2017	12426	669	Missouri St.	6	1563035.0	Boone, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563035.0	S	6-1	Jr	16	0
-2017	12426	669	Missouri St.	8	1673372.0	Butters, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673372.0	L	5-8	So	19	0
-2017	12426	669	Missouri St.	10	1786624.0	Cheffey, Aubrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786624.0	OH	6-2	Fr	5	0
-2017	12426	669	Missouri St.	7	1786625.0	Dake, Laynie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786625.0	MB	6-2	Fr	5	0
-2017	12426	669	Missouri St.	1	1563033.0	Dixon, Brianne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563033.0	DS	5-7	Jr	19	0
+2017	12426	669	Missouri St.	6	1563035.0	Boone, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563035.0	S	6-1	Jr	20	0
+2017	12426	669	Missouri St.	8	1673372.0	Butters, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673372.0	L	5-8	So	23	0
+2017	12426	669	Missouri St.	10	1786624.0	Cheffey, Aubrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786624.0	OH	6-2	Fr	9	0
+2017	12426	669	Missouri St.	7	1786625.0	Dake, Laynie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786625.0	MB	6-2	Fr	6	0
+2017	12426	669	Missouri St.	1	1563033.0	Dixon, Brianne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563033.0	DS	5-7	Jr	23	0
 2017	12426	669	Missouri St.	12	1563038.0	Finnell, Caroline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563038.0	MB	6-2	So	0	0
 2017	12426	669	Missouri St.	2		Hanson, Julia		OH	6-0	Fr	0	0
-2017	12426	669	Missouri St.	9	1336156.0	House, Simone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1336156.0	MB	6-3	Sr	19	0
-2017	12426	669	Missouri St.	13	1786628.0	Idos, Gerri	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786628.0	DS	5-1	Fr	2	0
+2017	12426	669	Missouri St.	9	1336156.0	House, Simone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1336156.0	MB	6-3	Sr	23	0
+2017	12426	669	Missouri St.	13	1786628.0	Idos, Gerri	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786628.0	DS	5-1	Fr	4	0
 2017	12426	669	Missouri St.	14	1673374.0	Irwin, Mackenzie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673374.0	MB	6-1	So	9	0
-2017	12426	669	Missouri St.	17	1563039.0	Johnson, Lily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563039.0	OH	5-11	Jr	19	0
-2017	12426	669	Missouri St.	15	1452496.0	Marshall, Tatum	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452496.0	DS	5-7	Sr	17	0
-2017	12426	669	Missouri St.	22	1786629.0	Messa, Daniele	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786629.0	S	5-7	Fr	15	0
-2017	12426	669	Missouri St.	19	1673375.0	Mosquera, Mikaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673375.0	MB	6-1	So	5	0
-2017	12426	669	Missouri St.	11	1673373.0	Ophoven, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673373.0	OH	6-1	So	14	0
+2017	12426	669	Missouri St.	17	1563039.0	Johnson, Lily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563039.0	OH	5-11	Jr	23	0
+2017	12426	669	Missouri St.	15	1452496.0	Marshall, Tatum	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452496.0	DS	5-7	Sr	20	0
+2017	12426	669	Missouri St.	22	1786629.0	Messa, Daniele	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786629.0	S	5-7	Fr	18	0
+2017	12426	669	Missouri St.	19	1673375.0	Mosquera, Mikaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673375.0	MB	6-1	So	6	0
+2017	12426	669	Missouri St.	11	1673373.0	Ophoven, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673373.0	OH	6-1	So	18	0
 2017	12426	669	Missouri St.	21		Perry, Paige		DS	5-9	Fr	0	0
 2017	12426	669	Missouri St.	23	1673376.0	Villarreal, Cambree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673376.0	OH	6-2	So	9	0
-2017	12426	669	Missouri St.	5	1563034.0	Wright, Lynsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563034.0	MB	6-0	Jr	19	0
+2017	12426	669	Missouri St.	5	1563034.0	Wright, Lynsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1563034.0	MB	6-0	Jr	23	0
 2017	12426	441	Montana	1	1335323.0	Ahearn, Sadie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1335323.0	DS	5-2	Sr	14	0
 2017	12426	441	Montana	16		Cantrell, Hannah		OH	6-0	Fr	0	0
 2017	12426	441	Montana	9		Casale, Shannon		DS	5-8	Fr	0	0
@@ -2740,7 +2741,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	488	N.C. A&T	15	1678134.0	Rivera, Keniah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678134.0	L	5-3	So	19	0
 2017	12426	488	N.C. A&T	11	1791125.0	Uadiale, Camille	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791125.0	MB	6-0	Fr	2	0
 2017	12426	488	N.C. A&T	7	1791123.0	Wilson, Christa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791123.0	OH	5-9	Fr	12	0
-2017	12426	489	N.C. Central	15	1680101.0	Curran, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680101.0	S	5-11	Sr	9	0
+2017	12426	489	N.C. Central	1	1680101.0	Curran, Casey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680101.0	S	5-11	Sr	9	0
 2017	12426	489	N.C. Central	4	1680110.0	Daye, Jazmine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680110.0	MB	6-3	So	9	0
 2017	12426	489	N.C. Central	11	1480240.0	Johnson, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1480240.0	MB	6-0	Sr	0	0
 2017	12426	489	N.C. Central	2	1480235.0	Murphy, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1480235.0	OH	5-10	Sr	9	0
@@ -2837,22 +2838,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	469	New Hampshire	11	1788868.0	Welti, Logan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788868.0	OH	5-10	Fr	17	0
 2017	12426	469	New Hampshire	2		Weston, Jenny		RS	5-9	Fr	0	0
 2017	12426	469	New Hampshire	10	1565617.0	Wotton, Molly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565617.0	MB	6-0	Jr	17	0
-2017	12426	473	New Mexico	6	1699578.0	Askew, Allie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699578.0	L	5-2	So	9	0
-2017	12426	473	New Mexico	21	1568866.0	Carrasco, Mariessa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1568866.0	MB	6-0	So	21	0
+2017	12426	473	New Mexico	6	1699578.0	Askew, Allie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699578.0	L	5-2	So	13	0
+2017	12426	473	New Mexico	21	1568866.0	Carrasco, Mariessa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1568866.0	MB	6-0	So	25	0
 2017	12426	473	New Mexico	9		Cisar, Jane		MB	5-11	Fr	0	0
-2017	12426	473	New Mexico	17	1785703.0	Clark, J'Kaylee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785703.0	MB	5-11	Fr	6	0
+2017	12426	473	New Mexico	17	1785703.0	Clark, J'Kaylee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785703.0	MB	5-11	Fr	8	0
 2017	12426	473	New Mexico	18	1699579.0	Doran, Marisa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699579.0	OH	6-0	Sr	5	0
-2017	12426	473	New Mexico	4	1699580.0	Heilborn, Carson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699580.0	S	6-0	So	22	0
-2017	12426	473	New Mexico	12	1452033.0	House, Cassie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452033.0	OH	6-2	Sr	20	0
-2017	12426	473	New Mexico	8	1342269.0	Kelsey, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1342269.0	OH	6-0	Jr	21	0
+2017	12426	473	New Mexico	4	1699580.0	Heilborn, Carson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699580.0	S	6-0	So	26	0
+2017	12426	473	New Mexico	12	1452033.0	House, Cassie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452033.0	OH	6-2	Sr	21	0
+2017	12426	473	New Mexico	8	1342269.0	Kelsey, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1342269.0	OH	6-0	Jr	25	0
 2017	12426	473	New Mexico	2	1785704.0	Leo, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785704.0	S	5-6	Fr	3	0
-2017	12426	473	New Mexico	14	1785706.0	Mayfield, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785706.0	L/DS	5-4	Jr	14	0
-2017	12426	473	New Mexico	3	1699581.0	Pacheco, Mercedes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699581.0	L/DS	5-2	So	18	0
+2017	12426	473	New Mexico	14	1785706.0	Mayfield, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785706.0	L/DS	5-4	Jr	17	0
+2017	12426	473	New Mexico	3	1699581.0	Pacheco, Mercedes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699581.0	L/DS	5-2	So	22	0
 2017	12426	473	New Mexico	11	1452035.0	Rugland, Lise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452035.0	S	5-9	Jr	14	0
-2017	12426	473	New Mexico	1	1452031.0	Sours, Devanne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452031.0	OH	6-2	Sr	21	0
-2017	12426	473	New Mexico	7	1568862.0	Spragg, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1568862.0	MB	6-5	So	18	0
-2017	12426	473	New Mexico	10	1785705.0	Twitty, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785705.0	OH	6-2	Fr	8	0
-2017	12426	473	New Mexico	5	1452032.0	Warren, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452032.0	OH	6-1	Sr	21	0
+2017	12426	473	New Mexico	1	1452031.0	Sours, Devanne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452031.0	OH	6-2	Sr	25	0
+2017	12426	473	New Mexico	7	1568862.0	Spragg, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1568862.0	MB	6-5	So	22	0
+2017	12426	473	New Mexico	10	1785705.0	Twitty, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785705.0	OH	6-2	Fr	12	0
+2017	12426	473	New Mexico	5	1452032.0	Warren, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452032.0	OH	6-1	Sr	25	0
 2017	12426	472	New Mexico St.	3	1566361.0	Abalos, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1566361.0	OH	5-11	Jr	22	0
 2017	12426	472	New Mexico St.	2	1788715.0	Acosta, Analyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788715.0	DS	5-5	Fr	1	0
 2017	12426	472	New Mexico St.	1	1696036.0	Ainsworth, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1696036.0	S	5-8	So	24	0
@@ -3047,22 +3048,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	500	Northeastern	1	1683193.0	Wang, Sherrie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683193.0	DS	5-4	So	2	0
 2017	12426	500	Northeastern	4	1795659.0	White, Shaina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795659.0	MB	6-1	Fr	15	0
 2017	12426	500	Northeastern	14	1683195.0	Whitehead, Laynie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1683195.0	OH	6-2	So	18	0
-2017	12426	501	Northern Ariz.	9	1786972.0	Akin, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786972.0	MB	6-3	Fr	27	0
-2017	12426	501	Northern Ariz.	11	1675341.0	Anderson, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675341.0	DS	5-6	So	27	0
-2017	12426	501	Northern Ariz.	6	1456220.0	Barton, Jensen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456220.0	S	5-9	Sr	27	0
-2017	12426	501	Northern Ariz.	13	1675342.0	Cherry, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675342.0	OH	5-10	Fr	7	0
-2017	12426	501	Northern Ariz.	16	1786975.0	Donnelly, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786975.0	DS	5-1	Jr	27	0
-2017	12426	501	Northern Ariz.	4	1564199.0	Dorsey, Brittni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564199.0	MB	5-11	So	27	0
-2017	12426	501	Northern Ariz.	2	1675344.0	Ewalefo, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675344.0	MB	6-1	Fr	2	0
+2017	12426	501	Northern Ariz.	9	1786972.0	Akin, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786972.0	MB	6-3	Fr	25	0
+2017	12426	501	Northern Ariz.	11	1675341.0	Anderson, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675341.0	DS	5-6	So	26	0
+2017	12426	501	Northern Ariz.	6	1456220.0	Barton, Jensen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456220.0	S	5-9	Sr	25	0
+2017	12426	501	Northern Ariz.	13	1675342.0	Cherry, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675342.0	OH	5-10	Fr	9	0
+2017	12426	501	Northern Ariz.	16	1786975.0	Donnelly, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786975.0	DS	5-1	Jr	26	0
+2017	12426	501	Northern Ariz.	4	1564199.0	Dorsey, Brittni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564199.0	MB	5-11	So	24	0
+2017	12426	501	Northern Ariz.	2	1675344.0	Ewalefo, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675344.0	MB	6-1	Fr	5	0
 2017	12426	501	Northern Ariz.	15		Gilfert, Kasie		MB	6-0	Fr	0	0
-2017	12426	501	Northern Ariz.	7	1564201.0	Grimsrud, Emma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564201.0	MB	6-3	So	0	0
-2017	12426	501	Northern Ariz.	5	1564200.0	Jacobsen, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564200.0	OH	6-0	Sr	27	0
-2017	12426	501	Northern Ariz.	12	1564203.0	Jorgenson, Kaylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564203.0	OH	6-0	So	6	0
+2017	12426	501	Northern Ariz.	7	1564201.0	Grimsrud, Emma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564201.0	MB	6-3	So	1	0
+2017	12426	501	Northern Ariz.	5	1564200.0	Jacobsen, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564200.0	OH	6-0	Sr	26	0
+2017	12426	501	Northern Ariz.	12	1564203.0	Jorgenson, Kaylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564203.0	OH	6-0	So	8	0
 2017	12426	501	Northern Ariz.	1		Larson, Emiley		DS	5-3	Fr	0	0
-2017	12426	501	Northern Ariz.	10	1786973.0	Lema, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786973.0	OH	6-0	Fr	27	0
-2017	12426	501	Northern Ariz.	14	1456222.0	Lofstedt, Addy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456222.0	OH	5-10	Sr	27	0
+2017	12426	501	Northern Ariz.	10	1786973.0	Lema, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786973.0	OH	6-0	Fr	25	0
+2017	12426	501	Northern Ariz.	14	1456222.0	Lofstedt, Addy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456222.0	OH	5-10	Sr	26	0
 2017	12426	501	Northern Ariz.	8		Shirley, Ohiyah		OH	5-11	Fr	0	0
-2017	12426	501	Northern Ariz.	17		Stomp, Abby		S	5-9	Fr	0	0
+2017	12426	501	Northern Ariz.	17	1786976.0	Stomp, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786976.0	S	5-9	Fr	2	0
 2017	12426	502	Northern Colo.	10	1787700.0	Chisholm, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787700.0	DS	5-4	Fr	5	0
 2017	12426	502	Northern Colo.	13		Detlefsen, Kaitlyn		MB	6-0	Fr	0	0
 2017	12426	502	Northern Colo.	6	1787699.0	Els, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787699.0	DS	5-6	Fr	24	0
@@ -3342,7 +3343,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	539	Penn St.	24	1452611.0	Broerman, Laura	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452611.0	DS	5-4	Sr	8	0
 2017	12426	539	Penn St.	9		DeMure, Emily		OH	6-1	Fr	0	0
 2017	12426	539	Penn St.	7	1792324.0	Detering, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792324.0	S	6-0	Jr	11	0
-2017	12426	539	Penn St.	18	1792320.0	Farrell, Allison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792320.0	DS	5-6	Fr	1	0
+2017	12426	539	Penn St.	18	1792320.0	Farrell, Allison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792320.0	DS	5-6	Fr	0	0
 2017	12426	539	Penn St.	5	1572631.0	Frantti, Ali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572631.0	OH	6-1	Jr	19	0
 2017	12426	539	Penn St.	11	1679517.0	Gorrell, Tori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679517.0	MB	6-2	Fr	19	0
 2017	12426	539	Penn St.	14		Graham, Caroline		S	5-3	Fr	0	0
@@ -3355,8 +3356,8 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	539	Penn St.	8	1572633.0	Pierce, Lainy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572633.0	DS	5-8	Jr	11	0
 2017	12426	539	Penn St.	23	1792323.0	Powers, Clare	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792323.0	OH	6-3	So	1	0
 2017	12426	539	Penn St.	6	1572634.0	Reed, Nia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572634.0	OH	6-2	So	1	0
-2017	12426	539	Penn St.	4	1679515.0	Rivera, Wilma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679515.0	S	5-8	So	11	0
-2017	12426	539	Penn St.	2	1792318.0	Sciorra, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792318.0	DS	5-4	Fr	1	0
+2017	12426	539	Penn St.	4	1679515.0	Rivera, Wilma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679515.0	S	5-8	So	10	0
+2017	12426	539	Penn St.	2	1792318.0	Sciorra, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792318.0	DS	5-4	Fr	0	0
 2017	12426	539	Penn St.	19	1572635.0	Thelen, Heidi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572635.0	MB	6-2	Jr	18	0
 2017	12426	539	Penn St.	15	1572636.0	Washington, Haleigh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572636.0	MB	6-3	Jr	19	0
 2017	12426	539	Penn St.	21	1572637.0	Weiskircher, Bryanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572637.0	S	6-1	So	12	0
@@ -3691,18 +3692,18 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	590	Sacred Heart	7	1468609.0	Robinson, Kiki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1468609.0	S	5-10	Jr	16	0
 2017	12426	590	Sacred Heart	5	1799745.0	Scioletti, Gianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1799745.0	MB	6-3	Fr	4	0
 2017	12426	590	Sacred Heart	11	1684366.0	Slevin, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684366.0	L/DS	5-6	So	1	0
-2017	12426	600	Saint Francis (PA)	8	1803369.0	Dumouchelle, Elise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803369.0	OH	5-10	Fr	16	0
-2017	12426	600	Saint Francis (PA)	16	1803371.0	Esposito, Cecilia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803371.0	MB	6-3	Fr	10	0
-2017	12426	600	Saint Francis (PA)	7	1684858.0	Esposito, Sophia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684858.0	OH	6-1	Jr	13	0
-2017	12426	600	Saint Francis (PA)	5	1599882.0	Marcinowski, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599882.0	OH	5-10	Jr	22	0
-2017	12426	600	Saint Francis (PA)	6	1684857.0	Metzler, Amelia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684857.0	S	5-9	So	22	0
-2017	12426	600	Saint Francis (PA)	17	1463410.0	Murdock, Sophie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1463410.0	MH	6-3	Sr	17	0
-2017	12426	600	Saint Francis (PA)	13	1463408.0	Opera, Breanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1463408.0	OH	5-11	Sr	22	0
+2017	12426	600	Saint Francis (PA)	8	1803369.0	Dumouchelle, Elise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803369.0	OH	5-10	Fr	19	0
+2017	12426	600	Saint Francis (PA)	16	1803371.0	Esposito, Cecilia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803371.0	MB	6-3	Fr	11	0
+2017	12426	600	Saint Francis (PA)	7	1684858.0	Esposito, Sophia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684858.0	OH	6-1	Jr	15	0
+2017	12426	600	Saint Francis (PA)	5	1599882.0	Marcinowski, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599882.0	OH	5-10	Jr	25	0
+2017	12426	600	Saint Francis (PA)	6	1684857.0	Metzler, Amelia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684857.0	S	5-9	So	25	0
+2017	12426	600	Saint Francis (PA)	17	1463410.0	Murdock, Sophie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1463410.0	MH	6-3	Sr	20	0
+2017	12426	600	Saint Francis (PA)	13	1463408.0	Opera, Breanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1463408.0	OH	5-11	Sr	25	0
 2017	12426	600	Saint Francis (PA)	14		Pisano, Cecelia		L/DS	5-2	Fr	0	0
-2017	12426	600	Saint Francis (PA)	11	1599884.0	Roush, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599884.0	OH	6-0	Jr	22	0
-2017	12426	600	Saint Francis (PA)	3	1684856.0	Schiavo, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684856.0	DS	5-7	Sr	15	0
-2017	12426	600	Saint Francis (PA)	4	1599881.0	Veres, Jenna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599881.0	DS	5-6	Jr	22	0
-2017	12426	600	Saint Francis (PA)	1	1684855.0	White, Christa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684855.0	MB	6-1	So	5	0
+2017	12426	600	Saint Francis (PA)	11	1599884.0	Roush, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599884.0	OH	6-0	Jr	25	0
+2017	12426	600	Saint Francis (PA)	3	1684856.0	Schiavo, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684856.0	DS	5-7	Sr	18	0
+2017	12426	600	Saint Francis (PA)	4	1599881.0	Veres, Jenna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599881.0	DS	5-6	Jr	25	0
+2017	12426	600	Saint Francis (PA)	1	1684855.0	White, Christa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1684855.0	MB	6-1	So	6	0
 2017	12426	600	Saint Francis (PA)	2	1599880.0	Williams, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1599880.0	S	5-9	Jr	5	0
 2017	12426	609	Saint Louis	2	1679753.0	Backus, Jenny	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679753.0	DS	5-4	So	1	0
 2017	12426	609	Saint Louis	11		Bright, Katelyn		DS	5-6	Fr	0	0
@@ -3769,23 +3770,23 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	625	Samford	12	1794981.0	Tiesman, Grace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1794981.0	DS	5-8	Fr	24	0
 2017	12426	625	Samford	11	1452302.0	Wicks, Kiahna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452302.0	MB	6-0	Sr	24	0
 2017	12426	627	San Diego	6	1678810.0	Alex, Gigi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678810.0	DS	5-5	So	0	0
-2017	12426	627	San Diego	15		Douglass, Payton		L	5-6	Fr	0	0
-2017	12426	627	San Diego	13	1678813.0	Edwards, Kaity	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678813.0	MB	6-2	Jr	12	0
+2017	12426	627	San Diego	15	1793310.0	Douglass, Payton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793310.0	L	5-6	Fr	1	0
+2017	12426	627	San Diego	13	1678813.0	Edwards, Kaity	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678813.0	MB	6-2	Jr	15	0
 2017	12426	627	San Diego	11	1793309.0	Eylers, Allyson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793309.0	S	6-1	Fr	1	0
-2017	12426	627	San Diego	17	1793311.0	Fayad, Thana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793311.0	OH	6-2	Fr	12	0
+2017	12426	627	San Diego	17	1793311.0	Fayad, Thana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793311.0	OH	6-2	Fr	15	0
 2017	12426	627	San Diego	3	1678808.0	Fellows, Allie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678808.0	S	5-7	So	0	0
-2017	12426	627	San Diego	12	1678812.0	Fuller, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678812.0	OH	6-3	So	12	0
-2017	12426	627	San Diego	8	1571969.0	Gengenbacher, Kristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571969.0	S	5-9	Jr	12	0
+2017	12426	627	San Diego	12	1678812.0	Fuller, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678812.0	OH	6-3	So	15	0
+2017	12426	627	San Diego	8	1571969.0	Gengenbacher, Kristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571969.0	S	5-9	Jr	15	0
 2017	12426	627	San Diego	9	1793308.0	Jacobsen, Mehan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793308.0	MB	6-2	Fr	1	0
-2017	12426	627	San Diego	16	1456281.0	Jennings, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456281.0	L	5-5	Sr	12	0
-2017	12426	627	San Diego	2	1571967.0	Kennedy, Jaydan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571967.0	OH	6-2	Jr	12	0
+2017	12426	627	San Diego	16	1456281.0	Jennings, Hunter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456281.0	L	5-5	Sr	15	0
+2017	12426	627	San Diego	2	1571967.0	Kennedy, Jaydan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571967.0	OH	6-2	Jr	15	0
 2017	12426	627	San Diego	7	1343301.0	Kramer, Lisa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1343301.0	OH	4-0	Sr	3	0
-2017	12426	627	San Diego	18	1793312.0	Newsome, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793312.0	S	5-6	Fr	9	0
-2017	12426	627	San Diego	4	1678809.0	Picha, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678809.0	MB	6-2	So	8	0
+2017	12426	627	San Diego	18	1793312.0	Newsome, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793312.0	S	5-6	Fr	12	0
+2017	12426	627	San Diego	4	1678809.0	Picha, Addison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678809.0	MB	6-2	So	11	0
 2017	12426	627	San Diego	1		Priest, Megan		L	5-8	Fr	0	0
-2017	12426	627	San Diego	10	1456279.0	Schad, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456279.0	OPP	6-2	Sr	12	0
-2017	12426	627	San Diego	14	1571971.0	Tanyel, Merve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571971.0	OH	5-10	Jr	8	0
-2017	12426	627	San Diego	5	1571968.0	Tardieu, Lizzy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571968.0	L	5-4	Jr	11	0
+2017	12426	627	San Diego	10	1456279.0	Schad, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456279.0	OPP	6-2	Sr	15	0
+2017	12426	627	San Diego	14	1571971.0	Tanyel, Merve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571971.0	OH	5-10	Jr	11	0
+2017	12426	627	San Diego	5	1571968.0	Tardieu, Lizzy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571968.0	L	5-4	Jr	13	0
 2017	12426	626	San Diego St.	8	1452979.0	Bolden, Danielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452979.0	DS	5-7	Sr	20	0
 2017	12426	626	San Diego St.	18	1452982.0	Cage, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452982.0	OH	6-2	Sr	22	0
 2017	12426	626	San Diego St.	6	1786035.0	Dunbar, Ashlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786035.0	OH	6-0	Fr	17	0
@@ -3852,20 +3853,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	631	Santa Clara	29	1704169.0	San Juan, Tatiana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704169.0	L/DS	5-7	Jr	19	0
 2017	12426	631	Santa Clara	9	1492689.0	Shepherd, Mary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492689.0	L/DS	5-7	Sr	22	0
 2017	12426	631	Santa Clara	17		Willems, Laura		MB	6-0	Fr	0	0
-2017	12426	632	Savannah St.	8	1726660.0	Colbert, Charlinda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1726660.0	MH	5-11	So	13	0
-2017	12426	632	Savannah St.	5	1810622.0	Dilworth, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810622.0	OH	5-9	Sr	17	0
-2017	12426	632	Savannah St.	10	1706817.0	Gallon, Ayree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1706817.0	OH	5-11	So	8	0
-2017	12426	632	Savannah St.	15	1577022.0	Harris, Elexius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1577022.0	OH	5-9	Jr	18	0
-2017	12426	632	Savannah St.	11	1732187.0	Hunter, Omara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1732187.0	DS	5-2	Jr	4	0
-2017	12426	632	Savannah St.	16	1810620.0	Ingraham, Dominic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810620.0	OH	6-0	Fr	22	0
-2017	12426	632	Savannah St.	12	1618501.0	Jones, Jademone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1618501.0	OH	5-9	Sr	10	0
-2017	12426	632	Savannah St.	14	1706818.0	Lipscomb, Autumn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1706818.0	MB	6-0	Jr	7	0
-2017	12426	632	Savannah St.	7	1451966.0	Masoe, Caitlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451966.0	S	5-9	Sr	22	0
-2017	12426	632	Savannah St.	6	1810621.0	Monroe, Alaina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810621.0	OH	5-8	So	11	0
-2017	12426	632	Savannah St.	3	1451967.0	Nathaniel, Gabrielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451967.0	MH	5-9	Sr	22	0
+2017	12426	632	Savannah St.	8	1726660.0	Colbert, Charlinda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1726660.0	MH	5-11	So	15	0
+2017	12426	632	Savannah St.	5	1810622.0	Dilworth, Justice	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810622.0	OH	5-9	Sr	18	0
+2017	12426	632	Savannah St.	10	1706817.0	Gallon, Ayree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1706817.0	OH	5-11	So	10	0
+2017	12426	632	Savannah St.	15	1577022.0	Harris, Elexius	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1577022.0	OH	5-9	Jr	22	0
+2017	12426	632	Savannah St.	11	1732187.0	Hunter, Omara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1732187.0	DS	5-2	Jr	2	0
+2017	12426	632	Savannah St.	16	1810620.0	Ingraham, Dominic	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810620.0	OH	6-0	Fr	25	0
+2017	12426	632	Savannah St.	12	1618501.0	Jones, Jademone	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1618501.0	OH	5-9	Sr	13	0
+2017	12426	632	Savannah St.	14	1706818.0	Lipscomb, Autumn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1706818.0	MB	6-0	Jr	8	0
+2017	12426	632	Savannah St.	7	1451966.0	Masoe, Caitlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451966.0	S	5-9	Sr	25	0
+2017	12426	632	Savannah St.	6	1810621.0	Monroe, Alaina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810621.0	OH	5-8	So	16	0
+2017	12426	632	Savannah St.	3	1451967.0	Nathaniel, Gabrielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451967.0	MH	5-9	Sr	25	0
 2017	12426	632	Savannah St.	9	1706816.0	Ofodile, Chinenye	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1706816.0	OH	5-9	So	12	0
-2017	12426	632	Savannah St.	2	1810619.0	Quint, Alee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810619.0	S	5-5	Jr	19	0
-2017	12426	632	Savannah St.	4	1451965.0	Washington, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451965.0	L	5-4	Sr	22	0
+2017	12426	632	Savannah St.	2	1810619.0	Quint, Alee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810619.0	S	5-5	Jr	25	0
+2017	12426	632	Savannah St.	4	1451965.0	Washington, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451965.0	L	5-4	Sr	25	0
 2017	12426	1356	Seattle	3	1787593.0	Borje-Bonkowski, Aly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787593.0	DS	5-4	Fr	18	0
 2017	12426	1356	Seattle	17	1676422.0	Duarte, Mila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676422.0	OH	6-4	So	21	0
 2017	12426	1356	Seattle	14	1787595.0	Elliott, Kahle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787595.0	OH	6-3	Fr	9	0
@@ -3881,19 +3882,19 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	1356	Seattle	9	1787594.0	White, Kory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787594.0	MB	6-0	Fr	9	0
 2017	12426	1356	Seattle	8	1676420.0	Wu, Cecilia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1676420.0	MB	6-1	So	4	0
 2017	12426	635	Seton Hall	4	1687983.0	Coffey, Sophia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687983.0	S	5-8	So	20	0
-2017	12426	635	Seton Hall	10	1791133.0	Cvelbar, Maggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791133.0	S	5-9	Fr	17	0
+2017	12426	635	Seton Hall	10	1791133.0	Cvelbar, Maggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791133.0	S	5-9	Fr	19	0
 2017	12426	635	Seton Hall	6	1791131.0	Flores, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791131.0	OH	6-1	Jr	1	0
-2017	12426	635	Seton Hall	17	1687989.0	Forren, Grace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687989.0	OH	5-11	So	10	0
-2017	12426	635	Seton Hall	3	1492757.0	Fournier, Tessa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492757.0	L	5-6	Sr	11	0
+2017	12426	635	Seton Hall	17	1687989.0	Forren, Grace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687989.0	OH	5-11	So	6	0
+2017	12426	635	Seton Hall	3	1492757.0	Fournier, Tessa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492757.0	L	5-6	Sr	7	0
 2017	12426	635	Seton Hall	9	1791132.0	Gasser, Haylee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791132.0	MB	6-0	Fr	20	0
 2017	12426	635	Seton Hall	8	1687986.0	Hennigan, Cherise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687986.0	OH	5-10	So	20	0
-2017	12426	635	Seton Hall	13	1687988.0	Higginbotham, Miranda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687988.0	L/DS	5-7	So	4	0
+2017	12426	635	Seton Hall	13	1687988.0	Higginbotham, Miranda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687988.0	L/DS	5-7	So	8	0
 2017	12426	635	Seton Hall	1	1566955.0	Kenneweg, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1566955.0	L/DS	5-0	Jr	20	0
-2017	12426	635	Seton Hall	7	1687985.0	Koska, Caitlin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687985.0	OH	5-10	So	20	0
-2017	12426	635	Seton Hall	5	1791130.0	Mason, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791130.0	OH	5-10	Jr	6	0
-2017	12426	635	Seton Hall	18	1791134.0	Salkowski, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791134.0	MB	6-0	Fr	20	0
-2017	12426	635	Seton Hall	12	1492759.0	Schroeder, Danielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492759.0	OH	6-1	Sr	20	0
-2017	12426	635	Seton Hall	11	1687987.0	Thelen, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687987.0	MB	6-1	So	9	0
+2017	12426	635	Seton Hall	7	1687985.0	Koska, Caitlin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687985.0	OH	5-10	So	16	0
+2017	12426	635	Seton Hall	5	1791130.0	Mason, Dominique	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791130.0	OH	5-10	Jr	10	0
+2017	12426	635	Seton Hall	18	1791134.0	Salkowski, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791134.0	MB	6-0	Fr	16	0
+2017	12426	635	Seton Hall	12	1492759.0	Schroeder, Danielle	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492759.0	OH	6-1	Sr	16	0
+2017	12426	635	Seton Hall	11	1687987.0	Thelen, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1687987.0	MB	6-1	So	11	0
 2017	12426	639	Siena	42	1677252.0	Burzynski, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677252.0	OH	6-1	Fr	22	0
 2017	12426	639	Siena	5	1787938.0	Chaney, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787938.0	MH	6-2	Fr	2	0
 2017	12426	639	Siena	8	1787939.0	Davila, Camila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787939.0	DS	5-2	Fr	3	0
@@ -3973,49 +3974,49 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	650	South Dakota	11	1565037.0	Schmidt, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565037.0	OH	6-1	So	19	0
 2017	12426	650	South Dakota	9	1673978.0	Susak, Kristina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673978.0	OH	5-10	So	8	0
 2017	12426	650	South Dakota	14	1789982.0	West, Raquel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789982.0	S	5-4	Jr	5	0
-2017	12426	649	South Dakota St.	11	1569307.0	Beaner, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569307.0	RS	5-11	Sr	21	0
-2017	12426	649	South Dakota St.	16	1569312.0	Benson, Ellie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569312.0	DS	5-7	Jr	21	0
+2017	12426	649	South Dakota St.	11	1569307.0	Beaner, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569307.0	RS	5-11	Sr	24	0
+2017	12426	649	South Dakota St.	16	1569312.0	Benson, Ellie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569312.0	DS	5-7	Jr	24	0
 2017	12426	649	South Dakota St.	12	1788604.0	Czapiewska, Emilia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788604.0	MH	6-0	Fr	6	0
-2017	12426	649	South Dakota St.	2	1459523.0	Farnham, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459523.0	DS	5-8	Sr	21	0
+2017	12426	649	South Dakota St.	2	1459523.0	Farnham, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459523.0	DS	5-8	Sr	24	0
 2017	12426	649	South Dakota St.	10		Harding, Fiona		MB	6-1	Fr	0	0
-2017	12426	649	South Dakota St.	3	1788600.0	Hennen, Makenzie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788600.0	OH	5-11	Fr	21	0
-2017	12426	649	South Dakota St.	14	1459525.0	Hora, Mikala	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459525.0	OH	5-10	Sr	7	0
+2017	12426	649	South Dakota St.	3	1788600.0	Hennen, Makenzie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788600.0	OH	5-11	Fr	24	0
+2017	12426	649	South Dakota St.	14	1459525.0	Hora, Mikala	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459525.0	OH	5-10	Sr	8	0
 2017	12426	649	South Dakota St.	5	1459526.0	Leetham, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459526.0	S	5-10	Sr	6	0
-2017	12426	649	South Dakota St.	24	1459527.0	Miliner, Garet	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459527.0	DS	5-5	Sr	0	0
+2017	12426	649	South Dakota St.	24	1459527.0	Miliner, Garet	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459527.0	DS	5-5	Sr	1	0
 2017	12426	649	South Dakota St.	9		Morrison, Alexandra		MB	6-2	Fr	0	0
-2017	12426	649	South Dakota St.	7	1677921.0	Munger, Mattison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677921.0	S	5-8	So	21	0
-2017	12426	649	South Dakota St.	1	1788605.0	Peterson, Sierra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788605.0	OH	6-0	So	20	0
-2017	12426	649	South Dakota St.	4	1788601.0	Smith, Ashlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788601.0	MB	5-11	Fr	21	0
-2017	12426	649	South Dakota St.	6	1788606.0	Thies, Nazya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788606.0	OH	5-9	Sr	20	0
-2017	12426	651	South Fla.	14	1789631.0	Austin, T'Ara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789631.0	OH	5-8	Sr	12	0
-2017	12426	651	South Fla.	3	1680709.0	Belcher, Denise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680709.0	OH	6-0	Sr	5	0
+2017	12426	649	South Dakota St.	7	1677921.0	Munger, Mattison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677921.0	S	5-8	So	24	0
+2017	12426	649	South Dakota St.	1	1788605.0	Peterson, Sierra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788605.0	OH	6-0	So	23	0
+2017	12426	649	South Dakota St.	4	1788601.0	Smith, Ashlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788601.0	MB	5-11	Fr	24	0
+2017	12426	649	South Dakota St.	6	1788606.0	Thies, Nazya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1788606.0	OH	5-9	Sr	23	0
+2017	12426	651	South Fla.	14	1789631.0	Austin, T'Ara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789631.0	OH	5-8	Sr	13	0
+2017	12426	651	South Fla.	3	1680709.0	Belcher, Denise	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680709.0	OH	6-0	Sr	12	0
 2017	12426	651	South Fla.	23	1570905.0	Ehieze, Priscilla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570905.0	RS	5-10	Jr	2	0
 2017	12426	651	South Fla.	12	1789632.0	Embry, Claire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789632.0	OH	5-11	Fr	4	0
 2017	12426	651	South Fla.	5	1570906.0	Goodnight, Adyson	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570906.0	RS	5-11	Jr	3	0
-2017	12426	651	South Fla.	11	1465943.0	Hampton, Dakota	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1465943.0	OH	6-0	Sr	13	0
+2017	12426	651	South Fla.	11	1465943.0	Hampton, Dakota	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1465943.0	OH	6-0	Sr	20	0
 2017	12426	651	South Fla.	16	1465945.0	Heidelberg, Alexus	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1465945.0	RS	5-9	Sr	0	0
-2017	12426	651	South Fla.	6	1570907.0	Holland, Joli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570907.0	MB	5-11	Jr	13	0
-2017	12426	651	South Fla.	19	1570909.0	Mendoza, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570909.0	S	5-11	Jr	13	0
+2017	12426	651	South Fla.	6	1570907.0	Holland, Joli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570907.0	MB	5-11	Jr	20	0
+2017	12426	651	South Fla.	19	1570909.0	Mendoza, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570909.0	S	5-11	Jr	20	0
 2017	12426	651	South Fla.	13		Musemuna, Nyemba		MB	6-1	Fr	0	0
-2017	12426	651	South Fla.	15	1680712.0	Panick, Elyse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680712.0	RS	6-2	Sr	12	0
-2017	12426	651	South Fla.	1	1680708.0	Payne, Clara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680708.0	MB	6-2	So	13	0
+2017	12426	651	South Fla.	15	1680712.0	Panick, Elyse	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680712.0	RS	6-2	Sr	19	0
+2017	12426	651	South Fla.	1	1680708.0	Payne, Clara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680708.0	MB	6-2	So	20	0
 2017	12426	651	South Fla.	8	1789634.0	Smith, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789634.0	MB	6-3	Jr	1	0
-2017	12426	651	South Fla.	4	1465942.0	Van Sant, Amy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1465942.0	DS	5-7	Sr	13	0
-2017	12426	651	South Fla.	2	1789635.0	Weber, Amber	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789635.0	L/DS	5-4	Fr	2	0
-2017	12426	654	Southeast Mo. St.	9	1803631.0	Berns, Krista	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803631.0	MB	6-3	Fr	14	0
-2017	12426	654	Southeast Mo. St.	13	1803628.0	Boggetto, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803628.0	DS	5-8	Fr	18	0
-2017	12426	654	Southeast Mo. St.	16	1569484.0	Clarke, Nzingha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569484.0	MB	6-1	Jr	23	0
+2017	12426	651	South Fla.	4	1465942.0	Van Sant, Amy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1465942.0	DS	5-7	Sr	20	0
+2017	12426	651	South Fla.	2	1789635.0	Weber, Amber	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789635.0	L/DS	5-4	Fr	3	0
+2017	12426	654	Southeast Mo. St.	9	1803631.0	Berns, Krista	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803631.0	MB	6-3	Fr	17	0
+2017	12426	654	Southeast Mo. St.	13	1803628.0	Boggetto, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803628.0	DS	5-8	Fr	23	0
+2017	12426	654	Southeast Mo. St.	16	1569484.0	Clarke, Nzingha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569484.0	MB	6-1	Jr	28	0
 2017	12426	654	Southeast Mo. St.	1	1677067.0	Fornoff, Keegan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677067.0	S	5-9	So	0	0
-2017	12426	654	Southeast Mo. St.	5	1569486.0	Gearring, Krissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569486.0	OH	5-8	Jr	23	0
-2017	12426	654	Southeast Mo. St.	10	1677069.0	Grimm, Madeline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677069.0	OH	5-9	So	21	0
+2017	12426	654	Southeast Mo. St.	5	1569486.0	Gearring, Krissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569486.0	OH	5-8	Jr	28	0
+2017	12426	654	Southeast Mo. St.	10	1677069.0	Grimm, Madeline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677069.0	OH	5-9	So	26	0
 2017	12426	654	Southeast Mo. St.	12	1803632.0	Kuhlmann, Mikayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803632.0	OH	6-0	Fr	3	0
 2017	12426	654	Southeast Mo. St.	6	1569488.0	Lambert, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569488.0	L	5-3	Jr	0	0
-2017	12426	654	Southeast Mo. St.	11	1677070.0	Less, Marie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677070.0	OH	5-11	Jr	21	0
-2017	12426	654	Southeast Mo. St.	7	1569489.0	McElderry, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569489.0	MB	5-10	Jr	23	0
-2017	12426	654	Southeast Mo. St.	15	1490103.0	Mortimer, Jade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490103.0	L	5-8	Sr	23	0
+2017	12426	654	Southeast Mo. St.	11	1677070.0	Less, Marie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677070.0	OH	5-11	Jr	26	0
+2017	12426	654	Southeast Mo. St.	7	1569489.0	McElderry, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569489.0	MB	5-10	Jr	28	0
+2017	12426	654	Southeast Mo. St.	15	1490103.0	Mortimer, Jade	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490103.0	L	5-8	Sr	28	0
 2017	12426	654	Southeast Mo. St.	4	1803629.0	Poole, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803629.0	S	5-8	Jr	17	0
-2017	12426	654	Southeast Mo. St.	3	1492457.0	Rotta, Katarina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492457.0	S	5-9	Sr	13	0
-2017	12426	654	Southeast Mo. St.	8	1803630.0	Wolslegel, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803630.0	RS	6-0	Fr	4	0
+2017	12426	654	Southeast Mo. St.	3	1492457.0	Rotta, Katarina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492457.0	S	5-9	Sr	18	0
+2017	12426	654	Southeast Mo. St.	8	1803630.0	Wolslegel, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803630.0	RS	6-0	Fr	7	0
 2017	12426	655	Southeastern La.	9	1785411.0	Alcazar, Savannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785411.0	MB	5-11	Fr	23	0
 2017	12426	655	Southeastern La.	17	1674958.0	Baker, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674958.0	S	5-10	So	25	0
 2017	12426	655	Southeastern La.	13	1451752.0	Bullock, Landry	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451752.0	MB	6-0	Sr	6	0
@@ -4119,21 +4120,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	599	St. Francis Brooklyn	20	1803866.0	Pittman, Taris	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803866.0	OH	6-0	Fr	14	0
 2017	12426	599	St. Francis Brooklyn	12	1685938.0	Ramirez, Mireya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685938.0	L	5-1	So	20	0
 2017	12426	599	St. Francis Brooklyn	15	1468855.0	Sosa, Niehely	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1468855.0	MH	6-0	Sr	20	0
-2017	12426	603	St. John's (NY)	8	1672889.0	Bianchin, Margherita	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1672889.0	OH	6-0	So	10	0
-2017	12426	603	St. John's (NY)	32	1574691.0	Cast, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574691.0	MB	6-3	Jr	10	0
-2017	12426	603	St. John's (NY)	1	1347690.0	Chin, Melissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1347690.0	L/DS	5-4	Sr	2	0
-2017	12426	603	St. John's (NY)	24	1574692.0	D'Amore, Delaney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574692.0	L/DS	5-9	Jr	10	0
+2017	12426	603	St. John's (NY)	8	1672889.0	Bianchin, Margherita	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1672889.0	OH	6-0	So	19	0
+2017	12426	603	St. John's (NY)	32	1574691.0	Cast, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574691.0	MB	6-3	Jr	19	0
+2017	12426	603	St. John's (NY)	1	1347690.0	Chin, Melissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1347690.0	L/DS	5-4	Sr	11	0
+2017	12426	603	St. John's (NY)	24	1574692.0	D'Amore, Delaney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1574692.0	L/DS	5-9	Jr	13	0
 2017	12426	603	St. John's (NY)	21	1484369.0	Demel, Hope	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484369.0	S	6-0	Jr	0	0
-2017	12426	603	St. John's (NY)	17	1791890.0	Di Maulo, Erica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791890.0	S	5-11	Fr	10	0
-2017	12426	603	St. John's (NY)	14		Diaz, Nia		MH	6-0	Fr	0	0
-2017	12426	603	St. John's (NY)	18	1484365.0	Karkkainen, Mona	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484365.0	OH	6-2	Sr	10	0
-2017	12426	603	St. John's (NY)	3	1672887.0	Lobdell, Alexandria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1672887.0	OH	6-0	So	8	0
-2017	12426	603	St. John's (NY)	28	1484366.0	Moss, Danisha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484366.0	MB	6-1	Jr	10	0
+2017	12426	603	St. John's (NY)	17	1791890.0	Di Maulo, Erica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791890.0	S	5-11	Fr	19	0
+2017	12426	603	St. John's (NY)	14	1672888.0	Diaz, Nia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1672888.0	MH	6-0	Fr	2	0
+2017	12426	603	St. John's (NY)	18	1484365.0	Karkkainen, Mona	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484365.0	OH	6-2	Sr	19	0
+2017	12426	603	St. John's (NY)	3	1672887.0	Lobdell, Alexandria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1672887.0	OH	6-0	So	15	0
+2017	12426	603	St. John's (NY)	28	1484366.0	Moss, Danisha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484366.0	MB	6-1	Jr	19	0
 2017	12426	603	St. John's (NY)	6		O'Neal, Raya		S	5-10	So	0	0
-2017	12426	603	St. John's (NY)	4	1835605.0	Sanabia, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1835605.0	L/DS	5-5	Fr	3	0
-2017	12426	603	St. John's (NY)	25	1484370.0	Sen, Nikki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484370.0	L	5-5	Jr	1	0
-2017	12426	603	St. John's (NY)	5	1791889.0	Traballi, Gaia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791889.0	OH	6-1	Fr	10	0
-2017	12426	603	St. John's (NY)	10		Wagner, Hanna		MB	6-3	Fr	0	0
+2017	12426	603	St. John's (NY)	4	1835605.0	Sanabia, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1835605.0	L/DS	5-5	Fr	4	0
+2017	12426	603	St. John's (NY)	25	1484370.0	Sen, Nikki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1484370.0	L	5-5	Jr	2	0
+2017	12426	603	St. John's (NY)	5	1791889.0	Traballi, Gaia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791889.0	OH	6-1	Fr	19	0
+2017	12426	603	St. John's (NY)	10	1791891.0	Wagner, Hanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1791891.0	MB	6-3	Fr	1	0
 2017	12426	610	St. Mary's (CA)	14	1792541.0	Bible, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792541.0	OH	5-9	So	15	0
 2017	12426	610	St. Mary's (CA)	2	1673915.0	Calvin, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673915.0	MB	6-2	So	15	0
 2017	12426	610	St. Mary's (CA)	15	1673918.0	Chase, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673918.0	OH	6-0	So	15	0
@@ -4226,17 +4227,17 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	698	TCU	15	1677411.0	Valle Hernandez, Paty	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677411.0	MB	6-4	So	4	0
 2017	12426	698	TCU	22		Waggle, Ashley		MB	6-0	Fr	0	0
 2017	12426	698	TCU	6	1787996.0	Walsh, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787996.0	MB	6-2	So	19	0
-2017	12426	690	Temple	1	1699205.0	Asci, Irem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699205.0	OH	5-11	Jr	10	0
+2017	12426	690	Temple	1	1699205.0	Asci, Irem	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699205.0	OH	5-11	Jr	14	0
 2017	12426	690	Temple	13		Bevenour, Geena		S	5-5	Jr	0	0
-2017	12426	690	Temple	7	1810589.0	Coundourides, Kyra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810589.0	""	-	N/A	9	0
-2017	12426	690	Temple	15	1452903.0	Davis, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452903.0	OH	6-0	Sr	7	0
-2017	12426	690	Temple	4	1810588.0	Deak, Iva	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810588.0	""	-	N/A	9	0
-2017	12426	690	Temple	12	1452904.0	Grattan, Caroline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452904.0	OH	6-1	Sr	4	0
+2017	12426	690	Temple	7	1810589.0	Coundourides, Kyra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810589.0	""	-	N/A	13	0
+2017	12426	690	Temple	15	1452903.0	Davis, Tyler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452903.0	OH	6-0	Sr	10	0
+2017	12426	690	Temple	4	1810588.0	Deak, Iva	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810588.0	""	-	N/A	13	0
+2017	12426	690	Temple	12	1452904.0	Grattan, Caroline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452904.0	OH	6-1	Sr	8	0
 2017	12426	690	Temple	8	1699207.0	Guennewig, Carla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699207.0	MB	6-2	So	3	0
-2017	12426	690	Temple	3	1699206.0	Heirakuji, Mia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699206.0	DS	5-5	So	12	0
-2017	12426	690	Temple	11	1452906.0	Overton, Kirsten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452906.0	MB	6-1	Sr	9	0
-2017	12426	690	Temple	5	1573191.0	Peric, Dara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573191.0	OH	6-0	Jr	12	0
-2017	12426	690	Temple	16	1573192.0	Rapacz, Izabella	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573192.0	OH	6-2	Jr	12	0
+2017	12426	690	Temple	3	1699206.0	Heirakuji, Mia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699206.0	DS	5-5	So	16	0
+2017	12426	690	Temple	11	1452906.0	Overton, Kirsten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452906.0	MB	6-1	Sr	13	0
+2017	12426	690	Temple	5	1573191.0	Peric, Dara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573191.0	OH	6-0	Jr	16	0
+2017	12426	690	Temple	16	1573192.0	Rapacz, Izabella	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573192.0	OH	6-2	Jr	16	0
 2017	12426	690	Temple	2	1573193.0	Simmons, Janine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573193.0	MB	6-2	Jr	3	0
 2017	12426	690	Temple	9	1573194.0	Smith, Malia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573194.0	DS	5-7	Jr	0	0
 2017	12426	690	Temple	10	1699208.0	Vandegrift, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699208.0	S	6-0	So	5	0
@@ -4329,26 +4330,26 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	697	Texas A&M	24		Shadricks, Ellianna		MB	6-1	Fr	0	0
 2017	12426	697	Texas A&M	17	1452309.0	Shebeneck, Kaysie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452309.0	S	6-1	Sr	0	0
 2017	12426	697	Texas A&M	21		Slocum, Haley		S	5-8	Fr	0	0
-2017	12426	699	Texas Southern	4	1576896.0	Adams, Erin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576896.0	DS	5-7	Jr	13	0
-2017	12426	699	Texas Southern	12		Anderson, Kirby		MB	5-11	Jr	0	0
-2017	12426	699	Texas Southern	18	1809449.0	Austin, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809449.0	DS	5-9	Fr	13	0
+2017	12426	699	Texas Southern	4	1576896.0	Adams, Erin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576896.0	DS	5-7	Jr	16	0
+2017	12426	699	Texas Southern	12	1836702.0	Anderson, Kirby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1836702.0	MB	5-11	Jr	1	0
+2017	12426	699	Texas Southern	18	1809449.0	Austin, Alexis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809449.0	DS	5-9	Fr	21	0
 2017	12426	699	Texas Southern	14	1812500.0	Briggman, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1812500.0	MB	5-9	Fr	8	0
-2017	12426	699	Texas Southern	13	1701941.0	Caldwell, Ashlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701941.0	MB	6-1	Sr	18	0
-2017	12426	699	Texas Southern	9	1477113.0	Carson, Audriana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1477113.0	S	5-8	Sr	17	0
-2017	12426	699	Texas Southern	2	1809445.0	Favor, Jillian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809445.0	L	5-4	Fr	8	0
-2017	12426	699	Texas Southern	11	1477114.0	Fluke, Kali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1477114.0	MB	6-1	Sr	18	0
-2017	12426	699	Texas Southern	3	1701938.0	Howard, Asia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701938.0	S	5-9	So	16	0
-2017	12426	699	Texas Southern	5		Howard, Desiree		OH	5-10	Fr	0	0
-2017	12426	699	Texas Southern	7	1701940.0	Jannson, Cassidy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701940.0	OH	5-9	So	12	0
-2017	12426	699	Texas Southern	17	1809448.0	McKay, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809448.0	OH	5-9	Fr	10	0
-2017	12426	699	Texas Southern	15	1576902.0	Powell, Jemiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576902.0	MB	5-11	Jr	0	0
-2017	12426	699	Texas Southern	16	1809447.0	Powell, Michaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809447.0	OH	5-11	Fr	13	0
-2017	12426	699	Texas Southern	10	1576899.0	Robinson, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576899.0	OH	6-1	Jr	5	0
-2017	12426	699	Texas Southern	20	1812499.0	Stone, Nia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1812499.0	MB	5-9	Fr	15	0
+2017	12426	699	Texas Southern	13	1701941.0	Caldwell, Ashlynn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701941.0	MB	6-1	Sr	26	0
+2017	12426	699	Texas Southern	9	1477113.0	Carson, Audriana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1477113.0	S	5-8	Sr	25	0
+2017	12426	699	Texas Southern	2	1809445.0	Favor, Jillian	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809445.0	L	5-4	Fr	10	0
+2017	12426	699	Texas Southern	11	1477114.0	Fluke, Kali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1477114.0	MB	6-1	Sr	26	0
+2017	12426	699	Texas Southern	3	1701938.0	Howard, Asia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701938.0	S	5-9	So	22	0
+2017	12426	699	Texas Southern	5	1836701.0	Howard, Desiree	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1836701.0	OH	5-10	Fr	1	0
+2017	12426	699	Texas Southern	7	1701940.0	Jannson, Cassidy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701940.0	OH	5-9	So	19	0
+2017	12426	699	Texas Southern	17	1809448.0	McKay, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809448.0	OH	5-9	Fr	16	0
+2017	12426	699	Texas Southern	16	1809447.0	Powell, Michaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809447.0	OH	5-11	Fr	14	0
+2017	12426	699	Texas Southern	15	1576902.0	Powell, Jemiah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576902.0	MB	5-11	Jr	2	0
+2017	12426	699	Texas Southern	10	1576899.0	Robinson, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576899.0	OH	6-1	Jr	13	0
+2017	12426	699	Texas Southern	20	1812499.0	Stone, Nia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1812499.0	MB	5-9	Fr	23	0
 2017	12426	699	Texas Southern	19	1576905.0	Thompson, Chelsea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1576905.0	S	5-6	Jr	0	0
-2017	12426	699	Texas Southern	21	1809444.0	Torres, Ellena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809444.0	S	5-8	Jr	17	0
-2017	12426	699	Texas Southern	1	1701937.0	Woods, Allison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701937.0	DS	5-6	Sr	18	0
-2017	12426	699	Texas Southern	8	1809446.0	York, Breyanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809446.0	S	5-11	Fr	9	0
+2017	12426	699	Texas Southern	21	1809444.0	Torres, Ellena	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809444.0	S	5-8	Jr	25	0
+2017	12426	699	Texas Southern	1	1701937.0	Woods, Allison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1701937.0	DS	5-6	Sr	26	0
+2017	12426	699	Texas Southern	8	1809446.0	York, Breyanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809446.0	S	5-11	Fr	13	0
 2017	12426	670	Texas St.	14	1798098.0	Adams, Mattie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1798098.0	DS	5-2	Fr	19	0
 2017	12426	670	Texas St.	16	1680376.0	Bolden, Jaliyah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680376.0	MB	6-1	Jr	18	0
 2017	12426	670	Texas St.	10	1680372.0	Daigle, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680372.0	MB	6-1	So	10	0
@@ -4368,29 +4369,29 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	670	Texas St.	6	1787125.0	Vecchi, Camila	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787125.0	DS	5-7	Fr	3	0
 2017	12426	670	Texas St.	8	1462395.0	Weynand, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462395.0	OH	6-0	Sr	25	0
 2017	12426	670	Texas St.	11	1787126.0	Wood, Konner	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1787126.0	DS	4-11	Fr	2	0
-2017	12426	700	Texas Tech	7	1677105.0	Akiu, Reyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677105.0	L/DS	5-7	So	15	0
-2017	12426	700	Texas Tech	18		Atwood, Chandler		OH	6-0	Fr	0	0
-2017	12426	700	Texas Tech	26	1677109.0	Bryant, Katelyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677109.0	DS	5-4	So	15	0
+2017	12426	700	Texas Tech	7	1677105.0	Akiu, Reyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677105.0	L/DS	5-7	So	26	0
+2017	12426	700	Texas Tech	18	1801637.0	Atwood, Chandler	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801637.0	OH	6-0	Fr	7	0
+2017	12426	700	Texas Tech	26	1677109.0	Bryant, Katelyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677109.0	DS	5-4	So	26	0
 2017	12426	700	Texas Tech	8		Canales, Sophia		S	5-9	Fr	0	0
-2017	12426	700	Texas Tech	3	1801630.0	Cowan, Kyndal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801630.0	S	5-10	So	2	0
-2017	12426	700	Texas Tech	10	1801632.0	Dobbins, Eighmy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801632.0	DS	5-10	Fr	5	0
-2017	12426	700	Texas Tech	5	1456323.0	Douglass, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456323.0	MB	6-2	Sr	15	0
-2017	12426	700	Texas Tech	15	1801634.0	Ensch, Courtney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801634.0	RS	6-0	Jr	11	0
+2017	12426	700	Texas Tech	3	1801630.0	Cowan, Kyndal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801630.0	S	5-10	So	4	0
+2017	12426	700	Texas Tech	10	1801632.0	Dobbins, Eighmy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801632.0	DS	5-10	Fr	6	0
+2017	12426	700	Texas Tech	5	1456323.0	Douglass, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456323.0	MB	6-2	Sr	26	0
+2017	12426	700	Texas Tech	15	1801634.0	Ensch, Courtney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801634.0	RS	6-0	Jr	20	0
 2017	12426	700	Texas Tech	13	1570528.0	Fragniere, Audrey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570528.0	OH	5-9	Jr	0	0
-2017	12426	700	Texas Tech	4	1456319.0	Grubb, Marguerite	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456319.0	S	5-11	Sr	15	0
+2017	12426	700	Texas Tech	4	1456319.0	Grubb, Marguerite	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456319.0	S	5-11	Sr	26	0
 2017	12426	700	Texas Tech	27		Haskins, Taylor		OH	6-1	So	0	0
-2017	12426	700	Texas Tech	33	1801660.0	Henriksen, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801660.0	OH	6-3	Jr	13	0
-2017	12426	700	Texas Tech	1	1456322.0	Hinneburg, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456322.0	RS	6-4	Jr	2	0
+2017	12426	700	Texas Tech	33	1801660.0	Henriksen, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801660.0	OH	6-3	Jr	16	0
+2017	12426	700	Texas Tech	1	1456322.0	Hinneburg, Victoria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1456322.0	RS	6-4	Jr	5	0
 2017	12426	700	Texas Tech	23		Irvin, Michelle		OH	6-1	So	0	0
-2017	12426	700	Texas Tech	12	1677106.0	Keenan, Katy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677106.0	MB	6-4	So	15	0
+2017	12426	700	Texas Tech	12	1677106.0	Keenan, Katy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677106.0	MB	6-4	So	26	0
 2017	12426	700	Texas Tech	24		Martinez, Taylor		MB	6-1	Fr	0	0
-2017	12426	700	Texas Tech	16	1801635.0	McDougald, Toni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801635.0	OH	5-11	Fr	6	0
+2017	12426	700	Texas Tech	16	1801635.0	McDougald, Toni	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801635.0	OH	5-11	Fr	17	0
 2017	12426	700	Texas Tech	9	1570525.0	Morgan, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570525.0	DS	5-8	Jr	0	0
 2017	12426	700	Texas Tech	6	1677104.0	Redding, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677104.0	OH	6-3	So	7	0
-2017	12426	700	Texas Tech	2	1801629.0	Rittimann, Kylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801629.0	DS	5-10	Fr	15	0
-2017	12426	700	Texas Tech	17	1801636.0	Sagers, Maggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801636.0	DS	5-9	Fr	3	0
+2017	12426	700	Texas Tech	2	1801629.0	Rittimann, Kylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801629.0	DS	5-10	Fr	25	0
+2017	12426	700	Texas Tech	17	1801636.0	Sagers, Maggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1801636.0	DS	5-9	Fr	14	0
 2017	12426	700	Texas Tech	14		Standard, Ally		MB	6-4	So	0	0
-2017	12426	700	Texas Tech	11	1570524.0	Ybanez, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570524.0	OH	5-11	Jr	12	0
+2017	12426	700	Texas Tech	11	1570524.0	Ybanez, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570524.0	OH	5-11	Jr	17	0
 2017	12426	141	The Citadel	15	1786377.0	Barbot, Jen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786377.0	RS	5-10	Fr	17	0
 2017	12426	141	The Citadel	6	1564363.0	Barnes, Gracie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1564363.0	OH	5-9	Jr	14	0
 2017	12426	141	The Citadel	11	1786360.0	Bennett, Autumn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786360.0	OH	5-10	Fr	2	0
@@ -4423,25 +4424,25 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	709	Toledo	15	1680467.0	Townsend, Carly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680467.0	S	5-11	So	26	0
 2017	12426	709	Toledo	19	1680470.0	Tuifua, Gracey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680470.0	OH	6-0	So	26	0
 2017	12426	709	Toledo	6	1565143.0	Vidourek, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1565143.0	MH	6-1	Jr	24	0
-2017	12426	711	Towson	9		Amelio, Gabby		S	5-10	Fr	0	0
-2017	12426	711	Towson	10		Bates, Sydney		L/DS	5-4	Fr	0	0
-2017	12426	711	Towson	13	1673804.0	Biver, Carola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673804.0	OH	5-8	So	7	0
+2017	12426	711	Towson	9	1786316.0	Amelio, Gabby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786316.0	S	5-10	Fr	4	0
+2017	12426	711	Towson	10	1786317.0	Bates, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786317.0	L/DS	5-4	Fr	4	0
+2017	12426	711	Towson	13	1673804.0	Biver, Carola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673804.0	OH	5-8	So	4	0
 2017	12426	711	Towson	18		Chervenak, Catie		L/DS	5-2	Fr	0	0
-2017	12426	711	Towson	4	1673802.0	Dignan, Meredith	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673802.0	L/DS	5-6	So	10	0
-2017	12426	711	Towson	19	1786322.0	Ertz, Annie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786322.0	OH	6-1	Fr	20	0
-2017	12426	711	Towson	20	1451948.0	Flaherty, Lindsay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451948.0	MB	6-1	Sr	21	0
-2017	12426	711	Towson	8	1569460.0	Holehouse, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569460.0	L/DS	5-3	So	22	0
-2017	12426	711	Towson	16		Holmes, Callan		OH	6-0	Fr	0	0
+2017	12426	711	Towson	4	1673802.0	Dignan, Meredith	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673802.0	L/DS	5-6	So	12	0
+2017	12426	711	Towson	19	1786322.0	Ertz, Annie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786322.0	OH	6-1	Fr	18	0
+2017	12426	711	Towson	20	1451948.0	Flaherty, Lindsay	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451948.0	MB	6-1	Sr	17	0
+2017	12426	711	Towson	8	1569460.0	Holehouse, Anna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569460.0	L/DS	5-3	So	18	0
+2017	12426	711	Towson	16	1786320.0	Holmes, Callan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786320.0	OH	6-0	Fr	4	0
 2017	12426	711	Towson	6	1673808.0	Kuilan, Jocelyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673808.0	RS	6-2	So	22	0
-2017	12426	711	Towson	17	1673809.0	Lewis, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673809.0	OH	5-9	Sr	22	0
-2017	12426	711	Towson	1	1673800.0	Otero, Julymar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673800.0	RS	5-11	Jr	21	0
-2017	12426	711	Towson	2	1786314.0	Pope, Anabella	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786314.0	OH	5-11	Fr	4	0
-2017	12426	711	Towson	14	1673807.0	Rigterink, Annika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673807.0	MB	6-2	Jr	6	0
-2017	12426	711	Towson	5	1786315.0	Russell, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786315.0	MB	6-0	Fr	10	0
+2017	12426	711	Towson	17	1673809.0	Lewis, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673809.0	OH	5-9	Sr	18	0
+2017	12426	711	Towson	1	1673800.0	Otero, Julymar	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673800.0	RS	5-11	Jr	19	0
+2017	12426	711	Towson	2	1786314.0	Pope, Anabella	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786314.0	OH	5-11	Fr	6	0
+2017	12426	711	Towson	14	1673807.0	Rigterink, Annika	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673807.0	MB	6-2	Jr	7	0
+2017	12426	711	Towson	5	1786315.0	Russell, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786315.0	MB	6-0	Fr	11	0
 2017	12426	711	Towson	3	1673801.0	Sher, Nur	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673801.0	S	5-8	So	6	0
-2017	12426	711	Towson	11	1345913.0	Steadman, Candace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1345913.0	MB	5-11	Sr	21	0
-2017	12426	711	Towson	15		Svoboda, Mallory		S	5-10	Fr	0	0
-2017	12426	711	Towson	7	1569459.0	Windell, Payton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569459.0	OH	5-10	Jr	12	0
+2017	12426	711	Towson	11	1345913.0	Steadman, Candace	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1345913.0	MB	5-11	Sr	20	0
+2017	12426	711	Towson	15	1786319.0	Svoboda, Mallory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786319.0	S	5-10	Fr	2	0
+2017	12426	711	Towson	7	1569459.0	Windell, Payton	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569459.0	OH	5-10	Jr	9	0
 2017	12426	711	Towson	12	1786318.0	Wonders, Marrisa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786318.0	S	5-11	Fr	22	0
 2017	12426	711	Towson	21		Young, Jenni		OH	6-2	Fr	0	0
 2017	12426	716	Troy	3	1803868.0	Barrett, Kiara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1803868.0	S	5-11	Fr	19	0
@@ -4541,24 +4542,24 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	109	UC Irvine	4	1798242.0	Montgomery, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1798242.0	OH	5-11	Jr	6	0
 2017	12426	109	UC Irvine	8	1682580.0	Tsujimoto, Luna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682580.0	DS	5-6	Jr	23	0
 2017	12426	109	UC Irvine	5	1798243.0	Wolfe, Makayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1798243.0	MB	6-3	Fr	3	0
-2017	12426	111	UC Riverside	7	1704405.0	Alejo, Kristie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704405.0	DS	5-9	So	11	0
+2017	12426	111	UC Riverside	7	1704405.0	Alejo, Kristie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704405.0	DS	5-9	So	14	0
 2017	12426	111	UC Riverside	14	1795069.0	Boutwell, Peyten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795069.0	MB	6-3	Fr	5	0
-2017	12426	111	UC Riverside	3	1795092.0	Callahan, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795092.0	MB	5-11	So	17	0
-2017	12426	111	UC Riverside	16	1795093.0	Camandang, Frances	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795093.0	L/DS	5-3	Fr	19	0
-2017	12426	111	UC Riverside	9	1704404.0	Doyle, Chelsea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704404.0	S	5-8	So	19	0
+2017	12426	111	UC Riverside	3	1795092.0	Callahan, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795092.0	MB	5-11	So	19	0
+2017	12426	111	UC Riverside	16	1795093.0	Camandang, Frances	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795093.0	L/DS	5-3	Fr	23	0
+2017	12426	111	UC Riverside	9	1704404.0	Doyle, Chelsea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704404.0	S	5-8	So	23	0
 2017	12426	111	UC Riverside	6		Gonzalez, Angela		S	5-4	Fr	0	0
-2017	12426	111	UC Riverside	19	1573211.0	Graham, Meg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573211.0	MB	6-2	Jr	19	0
+2017	12426	111	UC Riverside	19	1573211.0	Graham, Meg	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573211.0	MB	6-2	Jr	23	0
 2017	12426	111	UC Riverside	17		Griggs, Jordyn		MB	6-2	So	0	0
-2017	12426	111	UC Riverside	1	1459285.0	Hubbell, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459285.0	L/DS	5-3	Sr	19	0
-2017	12426	111	UC Riverside	29	1795096.0	Kline, Morgan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795096.0	S	5-10	Fr	3	0
-2017	12426	111	UC Riverside	10	1459286.0	Maietta, Cristina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459286.0	OH	5-11	Sr	6	0
+2017	12426	111	UC Riverside	1	1459285.0	Hubbell, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459285.0	L/DS	5-3	Sr	23	0
+2017	12426	111	UC Riverside	29	1795096.0	Kline, Morgan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795096.0	S	5-10	Fr	4	0
+2017	12426	111	UC Riverside	10	1459286.0	Maietta, Cristina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459286.0	OH	5-11	Sr	10	0
 2017	12426	111	UC Riverside	12	1704406.0	Marcus, Mallory	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1704406.0	DS	5-7	So	3	0
 2017	12426	111	UC Riverside	24	1795097.0	Newell, Leanne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795097.0	OH	6-0	Fr	9	0
-2017	12426	111	UC Riverside	11	1795098.0	Rodriguez, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795098.0	L/DS	5-5	Fr	18	0
-2017	12426	111	UC Riverside	4	1795099.0	Rojes, Natalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795099.0	MB	5-11	Fr	1	0
+2017	12426	111	UC Riverside	11	1795098.0	Rodriguez, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795098.0	L/DS	5-5	Fr	19	0
+2017	12426	111	UC Riverside	4	1795099.0	Rojes, Natalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795099.0	MB	5-11	Fr	5	0
 2017	12426	111	UC Riverside	21	1459287.0	Rosas, Fabiana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459287.0	OH	5-7	Sr	10	0
-2017	12426	111	UC Riverside	8	1795100.0	Sherman, Mickayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795100.0	OH	6-1	Fr	19	0
-2017	12426	111	UC Riverside	5	1795101.0	Ushakova, Yuliya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795101.0	MB	6-1	Fr	18	0
+2017	12426	111	UC Riverside	8	1795100.0	Sherman, Mickayla	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795100.0	OH	6-1	Fr	23	0
+2017	12426	111	UC Riverside	5	1795101.0	Ushakova, Yuliya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795101.0	MB	6-1	Fr	22	0
 2017	12426	104	UC Santa Barbara	22	1793268.0	Allen, Chloe	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793268.0	OH	6-0	Fr	5	0
 2017	12426	104	UC Santa Barbara	1	1604485.0	Bast, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604485.0	DS	5-6	So	13	0
 2017	12426	104	UC Santa Barbara	10	1793266.0	Burke, Maxine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793266.0	DS	5-3	Fr	17	0
@@ -4579,7 +4580,7 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	128	UCF	9		Harper, Lache		OH	6-2	Fr	0	0
 2017	12426	128	UCF	1	1566884.0	Hervey, Jale	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1566884.0	OH	5-11	Sr	25	0
 2017	12426	128	UCF	13	1682330.0	Imirie, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682330.0	RS	6-1	Fr	1	0
-2017	12426	128	UCF	7	1786689.0	Moravec, Nerissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786689.0	MB	6-2	Fr	1	0
+2017	12426	128	UCF	7	1786689.0	Moravec, Nerissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786689.0	MB	6-2	Fr	0	0
 2017	12426	128	UCF	4	1682333.0	Pingel, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1682333.0	L	5-7	So	25	0
 2017	12426	128	UCF	15	1786694.0	Rajaee, Farah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786694.0	S	5-5	So	25	0
 2017	12426	128	UCF	19	1566888.0	Richards, Ann	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1566888.0	MB	6-2	Jr	25	0
@@ -4590,21 +4591,21 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	128	UCF	11	1786692.0	Westney, Jeanne	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786692.0	MB	6-3	Fr	25	0
 2017	12426	128	UCF	12	1459247.0	Wickey, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1459247.0	OPP	6-4	Jr	25	0
 2017	12426	128	UCF	8	1786690.0	Zimroth, Abby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786690.0	OH	5-10	Fr	2	0
-2017	12426	110	UCLA	1	1674719.0	Anderson, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674719.0	OH	6-0	Sr	16	0
-2017	12426	110	UCLA	3	1567200.0	Buechler, Reily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567200.0	OH	6-1	Jr	17	0
-2017	12426	110	UCLA	12	1674720.0	Chandler, Ryann	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674720.0	S	5-9	Jr	17	0
+2017	12426	110	UCLA	1	1674719.0	Anderson, Jordan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674719.0	OH	6-0	Sr	20	0
+2017	12426	110	UCLA	3	1567200.0	Buechler, Reily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567200.0	OH	6-1	Jr	21	0
+2017	12426	110	UCLA	12	1674720.0	Chandler, Ryann	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674720.0	S	5-9	Jr	21	0
 2017	12426	110	UCLA	9	1674721.0	Dreyer, Alexa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674721.0	MB	6-3	Fr	2	0
-2017	12426	110	UCLA	8	1454718.0	Felix, Claire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454718.0	MB	6-6	Sr	12	0
-2017	12426	110	UCLA	11	1567203.0	Formico, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567203.0	L/DS	5-7	Sr	17	0
-2017	12426	110	UCLA	10	1567202.0	Frager, Jennie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567202.0	MB	6-5	Sr	17	0
+2017	12426	110	UCLA	8	1454718.0	Felix, Claire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454718.0	MB	6-6	Sr	16	0
+2017	12426	110	UCLA	11	1567203.0	Formico, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567203.0	L/DS	5-7	Sr	21	0
+2017	12426	110	UCLA	10	1567202.0	Frager, Jennie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567202.0	MB	6-5	Sr	21	0
 2017	12426	110	UCLA	16	1793828.0	Gates, Madeleine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793828.0	MB	6-3	Fr	9	0
 2017	12426	110	UCLA	4	1340846.0	Lawless, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1340846.0	OH	6-3	Sr	3	0
 2017	12426	110	UCLA	6	1793829.0	Miller, Kylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793829.0	S	5-11	Fr	3	0
-2017	12426	110	UCLA	7	1674722.0	Muno, Zana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674722.0	S	5-10	So	17	0
+2017	12426	110	UCLA	7	1674722.0	Muno, Zana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674722.0	S	5-10	So	21	0
 2017	12426	110	UCLA	20	1793830.0	Robbins, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793830.0	OH	6-1	Fr	3	0
-2017	12426	110	UCLA	19	1674723.0	Rogers, Kyra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674723.0	MB	6-0	So	13	0
-2017	12426	110	UCLA	18	1567206.0	Schlener, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567206.0	L/DS	5-2	So	3	0
-2017	12426	110	UCLA	24	1793831.0	Simo, Savvy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793831.0	L/DS	5-10	Fr	17	0
+2017	12426	110	UCLA	19	1674723.0	Rogers, Kyra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674723.0	MB	6-0	So	15	0
+2017	12426	110	UCLA	18	1567206.0	Schlener, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1567206.0	L/DS	5-2	So	7	0
+2017	12426	110	UCLA	24	1793831.0	Simo, Savvy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1793831.0	L/DS	5-10	Fr	21	0
 2017	12426	110	UCLA	5		Van Winden, Torrey		OH	6-3	Fr	0	0
 2017	12426	164	UConn	13	1569813.0	Adeniyi, Tosin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569813.0	MB	6-2	Jr	17	0
 2017	12426	164	UConn	18	1678313.0	Arundel, Kennedy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678313.0	DS	5-6	So	14	0
@@ -4640,22 +4641,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	671	UL Lafayette	12		Turner, Kailyn		MB	5-10	Sr	0	0
 2017	12426	671	UL Lafayette	4	1795642.0	Young, Katherine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1795642.0	OH	6-1	So	21	0
 2017	12426	391	UMBC	20	1675781.0	Alexander, Taylor	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675781.0	DS	5-4	So	2	0
-2017	12426	391	UMBC	6	1675773.0	De Jesus, Carola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675773.0	DS	5-3	So	22	0
+2017	12426	391	UMBC	6	1675773.0	De Jesus, Carola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675773.0	DS	5-3	So	26	0
 2017	12426	391	UMBC	21		Dervishi, Megi		OH	6-0	Sr	0	0
-2017	12426	391	UMBC	7	1571224.0	Duncan, Marissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571224.0	MB	6-0	Jr	11	0
+2017	12426	391	UMBC	7	1571224.0	Duncan, Marissa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571224.0	MB	6-0	Jr	15	0
 2017	12426	391	UMBC	5		Dunn, Taylor		S	5-8	Fr	0	0
-2017	12426	391	UMBC	2	1792326.0	Hayden, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792326.0	OPP	5-10	Fr	20	0
-2017	12426	391	UMBC	14	1571235.0	Lopez, Claudia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571235.0	S	5-6	So	15	0
-2017	12426	391	UMBC	3	1571265.0	Mirabella, Abbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571265.0	OH	6-0	Jr	20	0
+2017	12426	391	UMBC	2	1792326.0	Hayden, Brooke	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792326.0	OPP	5-10	Fr	24	0
+2017	12426	391	UMBC	14	1571235.0	Lopez, Claudia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571235.0	S	5-6	So	19	0
+2017	12426	391	UMBC	3	1571265.0	Mirabella, Abbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571265.0	OH	6-0	Jr	22	0
 2017	12426	391	UMBC	18	1675779.0	Mortimer, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675779.0	MB	6-2	Fr	9	0
-2017	12426	391	UMBC	17	1675772.0	Negron, Krytsia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675772.0	S	5-9	So	11	0
-2017	12426	391	UMBC	25	1792331.0	Panchak, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792331.0	OH	6-1	Fr	19	0
-2017	12426	391	UMBC	12	1792330.0	Ramos, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792330.0	OH	5-10	Jr	16	0
-2017	12426	391	UMBC	9	1792327.0	Reed, Franchesca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792327.0	MB	6-0	Fr	14	0
+2017	12426	391	UMBC	17	1675772.0	Negron, Krytsia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675772.0	S	5-9	So	13	0
+2017	12426	391	UMBC	25	1792331.0	Panchak, Emily	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792331.0	OH	6-1	Fr	21	0
+2017	12426	391	UMBC	12	1792330.0	Ramos, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792330.0	OH	5-10	Jr	20	0
+2017	12426	391	UMBC	9	1792327.0	Reed, Franchesca	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792327.0	MB	6-0	Fr	18	0
 2017	12426	391	UMBC	4	1571269.0	Rojas, Paola	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1571269.0	MB	6-1	So	0	0
-2017	12426	391	UMBC	19	1675780.0	Stolz, Allie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675780.0	DS	5-5	So	9	0
-2017	12426	391	UMBC	11	1490154.0	Trendafilova, Zoya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490154.0	MB	5-11	Sr	14	0
-2017	12426	391	UMBC	8	1675774.0	Watson, Kristin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675774.0	DS	5-5	So	19	0
+2017	12426	391	UMBC	19	1675780.0	Stolz, Allie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675780.0	DS	5-5	So	12	0
+2017	12426	391	UMBC	11	1490154.0	Trendafilova, Zoya	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490154.0	MB	5-11	Sr	17	0
+2017	12426	391	UMBC	8	1675774.0	Watson, Kristin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675774.0	DS	5-5	So	23	0
 2017	12426	393	UMES	18	1832282.0	Adams, Sierra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1832282.0	""	-	N/A	5	0
 2017	12426	393	UMES	15	1674525.0	Babic, Lucia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674525.0	OH	5-10	So	27	0
 2017	12426	393	UMES	7	1809168.0	Blazevic, Ivana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809168.0	""	-	N/A	26	0
@@ -4702,23 +4703,20 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	368	UMass Lowell	5	1677078.0	Visvardis, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677078.0	L/DS	5-5	So	21	0
 2017	12426	368	UMass Lowell	9	1604378.0	Yelsukova, Masha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604378.0	OH	6-0	Jr	15	0
 2017	12426	368	UMass Lowell	9	1492875.0	Young, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1492875.0	OH	5-10	Sr	14	0
-2017	12426	456	UNC Asheville	13	1569820.0	Austin, Savanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569820.0	DS	5-7	Jr	0	0
-2017	12426	456	UNC Asheville	2	1674319.0	Borschell, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674319.0	OH	5-10	So	0	0
-2017	12426	456	UNC Asheville	8	1569821.0	Clay, Kristen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569821.0	L	5-3	Jr	0	0
-2017	12426	456	UNC Asheville	12	1569822.0	Creger, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569822.0	OH	6-1	Jr	0	0
-2017	12426	456	UNC Asheville	4	1810627.0	Cunningham, Fiona	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810627.0	""	-	N/A	1	0
-2017	12426	456	UNC Asheville	1	1569823.0	Enriquez, Diana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569823.0	MB	6-2	Jr	0	0
+2017	12426	456	UNC Asheville	2	1674319.0	Borschel, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674319.0	OH	5-10	So	0	0
+2017	12426	456	UNC Asheville	4	1810627.0	Cunningham, Fiona	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810627.0	S	5-8	Jr	1	0
 2017	12426	456	UNC Asheville	15	1451924.0	Erickson, Shelby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451924.0	OH	6-1	Sr	11	0
+2017	12426	456	UNC Asheville	3		Gundling, Ashley		DS	5-4	Fr	0	0
 2017	12426	456	UNC Asheville	9	1674318.0	Guthrie, Cara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1674318.0	OH	5-10	So	11	0
-2017	12426	456	UNC Asheville	1	1810624.0	Hackett, Kailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810624.0	""	-	N/A	11	0
-2017	12426	456	UNC Asheville	6	1810628.0	Kennedy, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810628.0	""	-	N/A	11	0
-2017	12426	456	UNC Asheville	7	1810625.0	Loveday, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810625.0	""	-	N/A	11	0
-2017	12426	456	UNC Asheville	4	1569824.0	Powers, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569824.0	S	5-11	Jr	0	0
-2017	12426	456	UNC Asheville	7	1569825.0	Pryor, Cameron	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1569825.0	MB	6-1	Jr	0	0
-2017	12426	456	UNC Asheville	12	1810629.0	Salisbury, Sheridan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810629.0	""	-	N/A	11	0
-2017	12426	456	UNC Asheville	10	1810626.0	Tatum, Tearra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810626.0	""	-	N/A	11	0
+2017	12426	456	UNC Asheville	1	1810624.0	Hackett, Kailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810624.0	DS	5-10	Fr	11	0
+2017	12426	456	UNC Asheville	6	1810628.0	Kennedy, Carter	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810628.0	S	5-7	Fr	11	0
+2017	12426	456	UNC Asheville	7	1810625.0	Loveday, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810625.0	MB	5-11	Fr	11	0
+2017	12426	456	UNC Asheville	13		McMurrer, Lauren		DS	5-9	Fr	0	0
+2017	12426	456	UNC Asheville	5		Rooks, Ansley		OPP	5-9	Fr	0	0
+2017	12426	456	UNC Asheville	12	1810629.0	Salisbury, Sheridan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810629.0	L/DS	5-9	Fr	11	0
+2017	12426	456	UNC Asheville	10	1810626.0	Tatum, Tearra	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810626.0	OH	5-10	Fr	11	0
 2017	12426	456	UNC Asheville	14	1451603.0	Vaughn, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451603.0	MH	6-3	Sr	11	0
-2017	12426	456	UNC Asheville	16	1810630.0	Zyburt, Madisen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810630.0	""	-	N/A	11	0
+2017	12426	456	UNC Asheville	16	1810630.0	Zyburt, Madisen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810630.0	L/DS	5-8	So	11	0
 2017	12426	459	UNCG	4	1450550.0	Brezwyn, Jessica	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450550.0	OH	5-9	Sr	23	0
 2017	12426	459	UNCG	16	1678933.0	Gregory, Christina	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678933.0	DS	5-6	So	26	0
 2017	12426	459	UNCG	6	1450551.0	Hohman, Sara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450551.0	S	5-9	Sr	17	0
@@ -4816,33 +4814,33 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	702	UT Arlington	9	1784723.0	St. Germain, Madelyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1784723.0	L	5-6	Fr	19	0
 2017	12426	702	UT Arlington	4	1784722.0	Vickers, Libbie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1784722.0	OH	5-9	So	17	0
 2017	12426	702	UT Arlington	7	1457295.0	Wheeler, Cassidy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1457295.0	S	5-9	Sr	29	0
-2017	12426	695	UT Martin	4	1790881.0	Catlett, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790881.0	L/DS	5-4	Fr	16	0
-2017	12426	695	UT Martin	5	1460214.0	Erves, Alisha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460214.0	MB	5-11	Sr	15	0
+2017	12426	695	UT Martin	4	1790881.0	Catlett, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790881.0	L/DS	5-4	Fr	18	0
+2017	12426	695	UT Martin	5	1460214.0	Erves, Alisha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460214.0	MB	5-11	Sr	18	0
 2017	12426	695	UT Martin	14	1790885.0	Gray, Hayley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790885.0	OPP	6-0	Jr	4	0
-2017	12426	695	UT Martin	12	1790884.0	Idemudia, Jemima	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790884.0	MB	6-2	Jr	27	0
-2017	12426	695	UT Martin	2	1460213.0	Larson, Colleen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460213.0	L/DS	5-5	Sr	27	0
-2017	12426	695	UT Martin	19	1790886.0	Lean, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790886.0	S	5-9	Jr	27	0
-2017	12426	695	UT Martin	8	1675967.0	Noffsinger, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675967.0	MB	6-0	Jr	25	0
+2017	12426	695	UT Martin	12	1790884.0	Idemudia, Jemima	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790884.0	MB	6-2	Jr	30	0
+2017	12426	695	UT Martin	2	1460213.0	Larson, Colleen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460213.0	L/DS	5-5	Sr	30	0
+2017	12426	695	UT Martin	19	1790886.0	Lean, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790886.0	S	5-9	Jr	30	0
+2017	12426	695	UT Martin	8	1675967.0	Noffsinger, Rachel	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675967.0	MB	6-0	Jr	28	0
 2017	12426	695	UT Martin	11		Phillips, Hannah		OH	6-1	Fr	0	0
-2017	12426	695	UT Martin	10	1790882.0	Reigelsperger, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790882.0	MB	5-10	Jr	27	0
-2017	12426	695	UT Martin	6	1675966.0	Scherb, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675966.0	L/DS	5-7	So	23	0
-2017	12426	695	UT Martin	13	1675969.0	Shaw, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675969.0	MB	5-11	So	27	0
-2017	12426	695	UT Martin	35	1460218.0	Wessling, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460218.0	OH	5-10	Sr	27	0
-2017	12426	704	UTEP	10	1790675.0	Arellano, Briana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790675.0	OH	5-10	Fr	12	0
-2017	12426	704	UTEP	12	1790676.0	Austin, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790676.0	OH	6-0	Fr	18	0
-2017	12426	704	UTEP	18	1573219.0	Baumgartner, Kylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573219.0	MB	6-0	So	19	0
-2017	12426	704	UTEP	4	1678560.0	Cebak, Niki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678560.0	DS	5-7	Fr	18	0
-2017	12426	704	UTEP	17	1678563.0	Grzebeniak, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678563.0	OH	5-10	So	11	0
-2017	12426	704	UTEP	8	1790677.0	King, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790677.0	S	5-8	Jr	21	0
-2017	12426	704	UTEP	16	1338087.0	Larson, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1338087.0	S	5-9	Sr	21	0
+2017	12426	695	UT Martin	10	1790882.0	Reigelsperger, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790882.0	MB	5-10	Jr	30	0
+2017	12426	695	UT Martin	6	1675966.0	Scherb, Jamie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675966.0	L/DS	5-7	So	26	0
+2017	12426	695	UT Martin	13	1675969.0	Shaw, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1675969.0	MB	5-11	So	30	0
+2017	12426	695	UT Martin	35	1460218.0	Wessling, Madison	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1460218.0	OH	5-10	Sr	30	0
+2017	12426	704	UTEP	10	1790675.0	Arellano, Briana	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790675.0	OH	5-10	Fr	14	0
+2017	12426	704	UTEP	12	1790676.0	Austin, Macy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790676.0	OH	6-0	Fr	20	0
+2017	12426	704	UTEP	18	1573219.0	Baumgartner, Kylie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573219.0	MB	6-0	So	22	0
+2017	12426	704	UTEP	4	1678560.0	Cebak, Niki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678560.0	DS	5-7	Fr	21	0
+2017	12426	704	UTEP	17	1678563.0	Grzebeniak, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678563.0	OH	5-10	So	14	0
+2017	12426	704	UTEP	8	1790677.0	King, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1790677.0	S	5-8	Jr	24	0
+2017	12426	704	UTEP	16	1338087.0	Larson, Lindsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1338087.0	S	5-9	Sr	24	0
 2017	12426	704	UTEP	5	1573221.0	Luther, April	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573221.0	S	6-1	So	0	0
-2017	12426	704	UTEP	20	1678564.0	Morgan, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678564.0	MB	6-2	So	21	0
-2017	12426	704	UTEP	1	1809796.0	Orozco, Dania	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809796.0	DS	5-2	Jr	11	0
+2017	12426	704	UTEP	20	1678564.0	Morgan, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678564.0	MB	6-2	So	24	0
+2017	12426	704	UTEP	1	1809796.0	Orozco, Dania	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1809796.0	DS	5-2	Jr	14	0
 2017	12426	704	UTEP	3	1573223.0	Perry, Dalainee	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573223.0	OH	6-1	Jr	8	0
 2017	12426	704	UTEP	15	1678562.0	Rodriguez, Idalis	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678562.0	OH	5-10	So	0	0
-2017	12426	704	UTEP	2	1678559.0	Vidali, Ali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678559.0	OH	5-11	Fr	10	0
-2017	12426	704	UTEP	7	1454674.0	Villa, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454674.0	DS	5-6	Sr	21	0
-2017	12426	704	UTEP	6	1678561.0	Winter, Tatum	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678561.0	MB	6-0	Sr	18	0
+2017	12426	704	UTEP	2	1678559.0	Vidali, Ali	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678559.0	OH	5-11	Fr	12	0
+2017	12426	704	UTEP	7	1454674.0	Villa, Sarah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1454674.0	DS	5-6	Sr	24	0
+2017	12426	704	UTEP	6	1678561.0	Winter, Tatum	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678561.0	MB	6-0	Sr	21	0
 2017	12426	536	UTRGV	16	1695412.0	Boronczyk, Joanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1695412.0	MB	6-2	Sr	1	0
 2017	12426	536	UTRGV	6	1695407.0	Dacosta, Fatoumata	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1695407.0	L	5-10	Sr	24	0
 2017	12426	536	UTRGV	15	1695411.0	Dempsey, Megan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1695411.0	OH	6-0	Sr	0	0
@@ -4969,22 +4967,22 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	739	Villanova	99	1695891.0	Pedersen-Henry, Amanda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1695891.0	MB	6-0	So	19	0
 2017	12426	739	Villanova	68	1695890.0	Wolf, Darcy	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1695890.0	OH	6-0	So	6	0
 2017	12426	746	Virginia	8	1786697.0	Anukwuem, Chino	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786697.0	MB	6-0	Fr	4	0
-2017	12426	746	Virginia	12	1786699.0	Banker, Kiley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786699.0	MB	6-2	Fr	17	0
-2017	12426	746	Virginia	9	1461221.0	Burton, Jasmine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461221.0	OH	6-0	Sr	18	0
-2017	12426	746	Virginia	22	1685143.0	Ejesieme, Krystal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685143.0	OH	5-10	Jr	4	0
-2017	12426	746	Virginia	18	1572296.0	Fauntleroy, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572296.0	MH	6-3	Jr	0	0
-2017	12426	746	Virginia	5	1786696.0	Horner, Jane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786696.0	DS	5-10	Fr	18	0
-2017	12426	746	Virginia	6	1685139.0	Kazaroff, Coral	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685139.0	DS	5-3	So	13	0
-2017	12426	746	Virginia	2	1461219.0	Kole, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461219.0	OH	6-1	Sr	18	0
+2017	12426	746	Virginia	12	1786699.0	Banker, Kiley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786699.0	MB	6-2	Fr	20	0
+2017	12426	746	Virginia	9	1461221.0	Burton, Jasmine	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461221.0	OH	6-0	Sr	21	0
+2017	12426	746	Virginia	22	1685143.0	Ejesieme, Krystal	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685143.0	OH	5-10	Jr	6	0
+2017	12426	746	Virginia	18	1572296.0	Fauntleroy, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572296.0	MH	6-3	Jr	1	0
+2017	12426	746	Virginia	5	1786696.0	Horner, Jane	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786696.0	DS	5-10	Fr	21	0
+2017	12426	746	Virginia	6	1685139.0	Kazaroff, Coral	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685139.0	DS	5-3	So	16	0
+2017	12426	746	Virginia	2	1461219.0	Kole, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461219.0	OH	6-1	Sr	21	0
 2017	12426	746	Virginia	4	1572295.0	Lind, Haley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572295.0	DS	5-8	Jr	0	0
 2017	12426	746	Virginia	25	1461224.0	McDowell, Meghan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461224.0	S	6-2	Jr	13	0
-2017	12426	746	Virginia	3	1786695.0	Miller, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786695.0	DS	5-10	Fr	18	0
-2017	12426	746	Virginia	17	1461222.0	Riccolo, Lexi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461222.0	DS	5-7	Sr	18	0
-2017	12426	746	Virginia	11		Scrafford, Caroline		OH	6-3	Fr	0	0
-2017	12426	746	Virginia	15	1685141.0	Sebastian, Harley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685141.0	OH	6-4	So	6	0
-2017	12426	746	Virginia	1	1461218.0	Thorson, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461218.0	OH	6-2	Jr	17	0
-2017	12426	746	Virginia	16	1786700.0	Wineholt, Jennifer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786700.0	S	6-1	Fr	8	0
-2017	12426	746	Virginia	13	1685142.0	Young, Kat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685142.0	MH	6-3	Fr	17	0
+2017	12426	746	Virginia	3	1786695.0	Miller, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786695.0	DS	5-10	Fr	21	0
+2017	12426	746	Virginia	17	1461222.0	Riccolo, Lexi	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461222.0	DS	5-7	Sr	21	0
+2017	12426	746	Virginia	11	1786698.0	Scrafford, Caroline	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786698.0	OH	6-3	Fr	1	0
+2017	12426	746	Virginia	15	1685141.0	Sebastian, Harley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685141.0	OH	6-4	So	8	0
+2017	12426	746	Virginia	1	1461218.0	Thorson, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1461218.0	OH	6-2	Jr	20	0
+2017	12426	746	Virginia	16	1786700.0	Wineholt, Jennifer	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786700.0	S	6-1	Fr	11	0
+2017	12426	746	Virginia	13	1685142.0	Young, Kat	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1685142.0	MH	6-3	Fr	19	0
 2017	12426	742	Virginia Tech	17	1466956.0	Battle, Ashley	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1466956.0	RS	6-2	Jr	14	0
 2017	12426	742	Virginia Tech	21		Caloyannides, Melody		OH	6-0	Fr	0	0
 2017	12426	742	Virginia Tech	6	1466952.0	Christy, Stacey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1466952.0	MB	6-2	Jr	16	0
@@ -5075,18 +5073,18 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	768	West Virginia	9	1792938.0	Slinde, Erin	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1792938.0	S	6-0	Fr	14	0
 2017	12426	768	West Virginia	7		Smith, Zuri		OH	6-5	Fr	0	0
 2017	12426	768	West Virginia	6	1679535.0	Swanegan, Mia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1679535.0	MB	6-1	Jr	14	0
-2017	12426	769	Western Caro.	1	1570461.0	Cermin, Kaycey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570461.0	MB	6-1	Jr	14	0
-2017	12426	769	Western Caro.	10	1789775.0	Edmondson, Gabby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789775.0	OH	5-10	Jr	21	0
-2017	12426	769	Western Caro.	11	1677844.0	Hawkins, Dakoda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677844.0	S	5-8	So	21	0
-2017	12426	769	Western Caro.	21	1789776.0	Keaton, Aleah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789776.0	MB	5-10	Fr	9	0
-2017	12426	769	Western Caro.	14	1570462.0	O'Connor, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570462.0	MB	6-1	Jr	21	0
-2017	12426	769	Western Caro.	18	1677845.0	Osbey, Moea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677845.0	OH	6-0	So	10	0
-2017	12426	769	Western Caro.	16	1570463.0	Reinsborough, Reeve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570463.0	L	5-9	Jr	21	0
-2017	12426	769	Western Caro.	2	1789777.0	Sanchez, Meagan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789777.0	L	5-2	Fr	21	0
-2017	12426	769	Western Caro.	12	1490940.0	Saxby, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490940.0	OH	5-10	Sr	7	0
-2017	12426	769	Western Caro.	17	1789778.0	Veit, Abigail	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789778.0	OH	5-11	Fr	21	0
-2017	12426	769	Western Caro.	20	1570464.0	VerVelde, Jo-Leigh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570464.0	S	5-10	Jr	21	0
-2017	12426	769	Western Caro.	7	1677842.0	Zupan, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677842.0	OH	6-0	So	19	0
+2017	12426	769	Western Caro.	1	1570461.0	Cermin, Kaycey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570461.0	MB	6-1	Jr	17	0
+2017	12426	769	Western Caro.	10	1789775.0	Edmondson, Gabby	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789775.0	OH	5-10	Jr	27	0
+2017	12426	769	Western Caro.	11	1677844.0	Hawkins, Dakoda	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677844.0	S	5-8	So	27	0
+2017	12426	769	Western Caro.	21	1789776.0	Keaton, Aleah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789776.0	MB	5-10	Fr	13	0
+2017	12426	769	Western Caro.	14	1570462.0	O'Connor, Katie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570462.0	MB	6-1	Jr	27	0
+2017	12426	769	Western Caro.	18	1677845.0	Osbey, Moea	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677845.0	OH	6-0	So	14	0
+2017	12426	769	Western Caro.	16	1570463.0	Reinsborough, Reeve	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570463.0	L	5-9	Jr	27	0
+2017	12426	769	Western Caro.	2	1789777.0	Sanchez, Meagan	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789777.0	L	5-2	Fr	27	0
+2017	12426	769	Western Caro.	12	1490940.0	Saxby, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1490940.0	OH	5-10	Sr	8	0
+2017	12426	769	Western Caro.	17	1789778.0	Veit, Abigail	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1789778.0	OH	5-11	Fr	27	0
+2017	12426	769	Western Caro.	20	1570464.0	VerVelde, Jo-Leigh	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1570464.0	S	5-10	Jr	26	0
+2017	12426	769	Western Caro.	7	1677842.0	Zupan, Alyssa	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1677842.0	OH	6-0	So	25	0
 2017	12426	771	Western Ill.	18		Bouse, Makenzie		S	5-7	Fr	0	0
 2017	12426	771	Western Ill.	11		Bryan, Jenna		OH	5-10	Fr	0	0
 2017	12426	771	Western Ill.	9	1678986.0	Bullock, Morgyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1678986.0	DS	5-7	So	0	0
@@ -5118,17 +5116,17 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	772	Western Ky.	8	1699566.0	Martin, Mary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1699566.0	S	5-11	So	14	0
 2017	12426	772	Western Ky.	12	1451600.0	O'Connell, Georgia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1451600.0	DS	5-3	Sr	21	0
 2017	12426	772	Western Ky.	2	1785709.0	Singleton, Maggie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785709.0	MH	6-2	Jr	4	0
-2017	12426	774	Western Mich.	6	1450944.0	Baznik, Alysia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450944.0	OH	5-10	Sr	29	0
-2017	12426	774	Western Mich.	8	1810584.0	Carey, Kate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810584.0	""	-	N/A	24	0
-2017	12426	774	Western Mich.	11	1573084.0	Cheatham, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573084.0	DS	5-8	Jr	11	0
-2017	12426	774	Western Mich.	13	1673073.0	Kinser, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673073.0	MB	6-1	Sr	11	0
-2017	12426	774	Western Mich.	1	1573079.0	Kofie, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573079.0	MB	6-1	Jr	29	0
-2017	12426	774	Western Mich.	10	1573083.0	LeMay, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573083.0	MB	6-3	Jr	29	0
-2017	12426	774	Western Mich.	2	1810582.0	Martin, Willow	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810582.0	""	-	N/A	19	0
-2017	12426	774	Western Mich.	12	1673072.0	Murphy, Mary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673072.0	S	5-8	So	28	0
-2017	12426	774	Western Mich.	3	1810583.0	Reilly, Kathleen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810583.0	""	-	N/A	29	0
-2017	12426	774	Western Mich.	24	1573085.0	Ryshytylo, Mikaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573085.0	OH	6-2	Sr	29	0
-2017	12426	774	Western Mich.	7	1673071.0	Schnell, Bailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673071.0	OH	5-9	So	23	0
+2017	12426	774	Western Mich.	6	1450944.0	Baznik, Alysia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450944.0	OH	5-10	Sr	25	0
+2017	12426	774	Western Mich.	8	1810584.0	Carey, Kate	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810584.0	""	-	N/A	21	0
+2017	12426	774	Western Mich.	11	1573084.0	Cheatham, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573084.0	DS	5-8	Jr	8	0
+2017	12426	774	Western Mich.	13	1673073.0	Kinser, Nicole	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673073.0	MB	6-1	Sr	9	0
+2017	12426	774	Western Mich.	1	1573079.0	Kofie, Olivia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573079.0	MB	6-1	Jr	25	0
+2017	12426	774	Western Mich.	10	1573083.0	LeMay, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573083.0	MB	6-3	Jr	25	0
+2017	12426	774	Western Mich.	2	1810582.0	Martin, Willow	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810582.0	""	-	N/A	15	0
+2017	12426	774	Western Mich.	12	1673072.0	Murphy, Mary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673072.0	S	5-8	So	24	0
+2017	12426	774	Western Mich.	3	1810583.0	Reilly, Kathleen	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810583.0	""	-	N/A	25	0
+2017	12426	774	Western Mich.	24	1573085.0	Ryshytylo, Mikaela	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1573085.0	OH	6-2	Sr	25	0
+2017	12426	774	Western Mich.	7	1673071.0	Schnell, Bailey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1673071.0	OH	5-9	So	21	0
 2017	12426	782	Wichita St.	16		Bown, Kara		DS	5-8	Fr	0	0
 2017	12426	782	Wichita St.	21	1452383.0	Brisso, Natalie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1452383.0	MB	6-3	Jr	0	0
 2017	12426	782	Wichita St.	10	1786953.0	Brown, Tabitha	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1786953.0	OH	5-10	So	18	0
@@ -5169,27 +5167,29 @@ year	year_id	team_id	team_name	jersey_number	player_id	player_name	player_url	po
 2017	12426	786	William & Mary	4	1572079.0	Sanford, Maddie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572079.0	OH	5-11	Jr	0	0
 2017	12426	786	William & Mary	8	1785175.0	Stein, Alex	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1785175.0	OH	6-1	Fr	20	0
 2017	12426	786	William & Mary	1	1572080.0	Zumbach, Sara	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1572080.0	DS	5-7	Jr	9	0
-2017	12426	792	Winthrop	1	1810519.0	Al-Hong, Sammie-Jo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810519.0	""	-	N/A	15	0
+2017	12426	792	Winthrop	1	1810519.0	Al-Hong, Sammie-Jo	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810519.0	""	-	N/A	25	0
+2017	12426	792	Winthrop	24	1838198.0	Dartis, Zaire	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1838198.0	""	-	N/A	2	0
 2017	12426	792	Winthrop	10	1680786.0	Den Otter, Dorien	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680786.0	S	5-8	Jr	0	0
 2017	12426	792	Winthrop	12	1680787.0	Dokter, Annelies	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680787.0	OH	6-1	Sr	0	0
 2017	12426	792	Winthrop	09	1604429.0	Drost, Nikki	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604429.0	OH	5-11	Jr	0	0
-2017	12426	792	Winthrop	05	1619026.0	Fey, Keaupono	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1619026.0	MB	6-0	Jr	5	0
-2017	12426	792	Winthrop	04	1462825.0	Gray, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462825.0	MB	6-1	Sr	15	0
-2017	12426	792	Winthrop	12	1810523.0	Gunter, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810523.0	""	-	N/A	13	0
+2017	12426	792	Winthrop	05	1619026.0	Fey, Keaupono	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1619026.0	MB	6-0	Jr	15	0
+2017	12426	792	Winthrop	04	1462825.0	Gray, Brianna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462825.0	MB	6-1	Sr	25	0
+2017	12426	792	Winthrop	12	1810523.0	Gunter, Sydney	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810523.0	""	-	N/A	14	0
 2017	12426	792	Winthrop	18	1680790.0	Jones, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680790.0	OH	5-9	So	0	0
 2017	12426	792	Winthrop	17	1620042.0	Kuhl, Kirsten	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1620042.0	S	6-1	Sr	0	0
-2017	12426	792	Winthrop	20	1810522.0	Lackey, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810522.0	""	-	N/A	15	0
+2017	12426	792	Winthrop	20	1810522.0	Lackey, Hannah	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810522.0	""	-	N/A	25	0
 2017	12426	792	Winthrop	16	1620041.0	Lucht, Hayden	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1620041.0	MB	6-3	Sr	0	0
 2017	12426	792	Winthrop	13	1680788.0	McCarty, Madilyn	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680788.0	S	6-0	So	0	0
-2017	12426	792	Winthrop	02	1604427.0	Mcfadden, Mallary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604427.0	DS	5-10	Jr	15	0
-2017	12426	792	Winthrop	08	1680785.0	Rosario, Lourdes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680785.0	OH	5-10	So	15	0
-2017	12426	792	Winthrop	15	1810521.0	Schroll, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810521.0	""	-	N/A	14	0
+2017	12426	792	Winthrop	02	1604427.0	Mcfadden, Mallary	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604427.0	DS	5-10	Jr	25	0
+2017	12426	792	Winthrop	08	1680785.0	Rosario, Lourdes	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680785.0	OH	5-10	So	23	0
+2017	12426	792	Winthrop	15	1810521.0	Schroll, Kelsey	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810521.0	""	-	N/A	24	0
 2017	12426	792	Winthrop	07	1604508.0	Scott, Kelly	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1604508.0	S	6-2	Sr	0	0
 2017	12426	792	Winthrop	14	1680789.0	Scott, Julia	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680789.0	DS	5-4	So	0	0
-2017	12426	792	Winthrop	03	1680784.0	Skelton, Carlie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680784.0	DS	5-2	So	15	0
+2017	12426	792	Winthrop	03	1680784.0	Skelton, Carlie	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1680784.0	DS	5-2	So	25	0
+2017	12426	792	Winthrop	6	1838197.0	Spevak, Hanna	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1838197.0	""	-	N/A	1	0
 2017	12426	792	Winthrop	11	1462830.0	Volstad, Maria	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462830.0	L	5-6	Sr	0	0
 2017	12426	792	Winthrop	19	1462835.0	Weakland, Emma	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1462835.0	MH	6-0	Sr	5	0
-2017	12426	792	Winthrop	9	1810520.0	Yamaguchi, Siani	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810520.0	""	-	N/A	15	0
+2017	12426	792	Winthrop	9	1810520.0	Yamaguchi, Siani	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1810520.0	""	-	N/A	25	0
 2017	12426	796	Wisconsin	4	1562197.0	Bates, Kelli	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1562197.0	OH	5-11	Jr	16	0
 2017	12426	796	Wisconsin	10	1450437.0	Blake, Tori	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450437.0	MB	6-3	Sr	3	0
 2017	12426	796	Wisconsin	1	1450434.0	Carlini, Lauren	http://stats.ncaa.org/player/index?game_sport_year_ctl_id=12426&stats_player_seq=1450434.0	S	6-2	Sr	16	0
