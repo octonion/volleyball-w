@@ -16,7 +16,7 @@ Random effects:
 Number of obs: 359472, groups:  offense, 4215; defense, 4215
 Fixed Effects:
       (Intercept)           year2015           year2016           year2017  
-        2.090e-09          2.058e-09          1.382e-09         -3.075e-08  
+        2.889e-09          2.846e-09          1.911e-09         -4.251e-08  
 fielddefense_home  fieldoffense_home             o_div2             o_div3  
        -4.268e-02          4.268e-02         -3.135e-01         -6.490e-01  
            d_div2             d_div3  
@@ -44,10 +44,10 @@ Number of obs: 359472, groups:  offense, 4215; defense, 4215
 
 Fixed effects:
                     Estimate Std. Error z value Pr(>|z|)    
-(Intercept)        2.090e-09  1.524e-02    0.00        1    
-year2015           2.058e-09  1.731e-02    0.00        1    
-year2016           1.382e-09  1.728e-02    0.00        1    
-year2017          -3.075e-08  1.752e-02    0.00        1    
+(Intercept)        2.889e-09  1.524e-02    0.00        1    
+year2015           2.846e-09  1.731e-02    0.00        1    
+year2016           1.911e-09  1.728e-02    0.00        1    
+year2017          -4.251e-08  1.752e-02    0.00        1    
 fielddefense_home -4.268e-02  1.409e-03  -30.28   <2e-16 ***
 fieldoffense_home  4.268e-02  1.409e-03   30.28   <2e-16 ***
 o_div2            -3.135e-01  2.251e-02  -13.93   <2e-16 ***
@@ -70,8 +70,8 @@ d_div2      -0.173  0.000 -0.001  0.001  0.003  0.000 -0.750 -0.674
 d_div3      -0.160  0.000  0.000  0.001  0.004 -0.001 -0.674 -0.822  0.782
 Analysis of Variance Table
       Df Sum Sq Mean Sq  F value
-year   3    0.0     0.0    0.000
-field  2 4804.5  2402.2 2402.238
-o_div  2  130.4    65.2   65.201
-d_div  2  825.8   412.9  412.905
+year   3    0.0    0.00    0.000
+field  2 4804.5 2402.24 2402.238
+o_div  2  130.4   65.20   65.201
+d_div  2  825.8  412.91  412.905
 [1] TRUE

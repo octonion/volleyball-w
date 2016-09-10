@@ -139,16 +139,14 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_url = nil
             else
               link_url = link.attributes["href"].text
-              parameters = link_url.split("/")[-1]
 
               # opponent_id
 
-              opponent_id = parameters.split("=")[1]
+              opponent_id = link_url.split("/")[-2] 
 
               # opponent URL
 
               opponent_url = base_url+link_url
-              #opponent_url = link_url.split("cgi/")[1]
             end
 
             row += [game_string, opponent_id, opponent_name, opponent_url, neutral_site, neutral_location, home_game]
