@@ -45,8 +45,11 @@ rpl "]" "}" /tmp/ncaa_games_periods.tsv
 psql volleyball-w -f loaders_tsv/load_ncaa_games_periods.sql
 rm /tmp/ncaa_games_periods.tsv
 
-#cp tsv/ncaa_games_play_by_play_mt.tsv /tmp/ncaa_games_play_by_play.tsv
-#psql volleyball-w -f loaders_tsv/load_ncaa_games_play_by_play.sql
-#rm /tmp/ncaa_games_play_by_play.tsv
+cp tsv/ncaa_games_play_by_play_mt_*.tsv.gz /tmp/data
+pigz -d /tmp/data/ncaa_games_play_by_play_mt_*.tsv.gz
+tail -q -n+2 /tmp/data/ncaa_games_play_by_play_mt*.tsv >> /tmp/ncaa_games_play_by_play.tsv
+psql volleyball-w -f loaders_tsv/load_ncaa_games_play_by_play.sql
+rm /tmp/ncaa_games_play_by_play.tsv
+rm /tmp/data/ncaa_games_play_by_play_mt_*.tsv
 
 rmdir /tmp/data

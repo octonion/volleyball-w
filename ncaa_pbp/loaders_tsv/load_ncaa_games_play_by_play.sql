@@ -6,22 +6,25 @@ create table ncaa_pbp.play_by_play (
 	game_id		      integer,
 	period_id	      integer,
 	event_id	      integer,
-	time		      interval,
---	time		      text,
+	time		      text,
+	score		      text,
+--	time		      interval,
         team_player	      text,
 	team_event	      text,
 	team_text	      text,
-	team_score	      integer,
-	opponent_score	      integer,
-	socre		      text,
+	team_score	      text, --integer,
+	opponent_score	      text, --integer,
         opponent_player	      text,
 	opponent_event	      text,
-	opponent_text	      text
+	opponent_text	      text,
+	extra		      text
 );
 
 --truncate table ncaa_pbp.play_by_play;
 
-copy ncaa_pbp.play_by_play from '/tmp/ncaa_games_play_by_play.tsv' with delimiter as E'\t' csv header;
+copy ncaa_pbp.play_by_play from '/tmp/ncaa_games_play_by_play.tsv' with delimiter as E'\t' csv;
+
+-- header;
 
 /*
 delete from ncaa_pbp.pbp where game_id=1380752;
