@@ -371,7 +371,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	29	Arizona	11/26/2016	@ Arizona St.	28	Arizona St.	http://stats.ncaa.org/team/28/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4245654	http://stats.ncaa.org/game/index/4245654?org_id=28
 2017	12426	29	Arizona	12/02/2016	Cleveland St. @ East Lansing, Mich.	148	Cleveland St.	http://stats.ncaa.org/team/148/12426	true	East Lansing, Mich.	false	W 3 - 0	true	3 - 0	false	3	0	false		4250984	http://stats.ncaa.org/game/index/4250984?org_id=148
 2017	12426	29	Arizona	12/03/2016	@ Michigan St.	416	Michigan St.	http://stats.ncaa.org/team/416/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4250827	http://stats.ncaa.org/game/index/4250827?org_id=416
-2017	12426	29	Arizona	12/09/2016	Washington@Lincoln, NE		Washington		true	Lincoln, NE	false	-									
+2017	12426	29	Arizona	12/09/2016	Washington @ Lincoln, Nebraska	756	Washington	http://stats.ncaa.org/team/756/12426	true	Lincoln, Nebraska	false	L 0 - 3	false	0 - 3	false	0	3	false		4254596	http://stats.ncaa.org/game/index/4254596?org_id=756
 2017	12426	28	Arizona St.	08/26/2016	@ New Mexico	473	New Mexico	http://stats.ncaa.org/team/473/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4156084	http://stats.ncaa.org/game/index/4156084?org_id=473
 2017	12426	28	Arizona St.	08/26/2016	Fairfield @ Albuquerque, N.M.	220	Fairfield	http://stats.ncaa.org/team/220/12426	true	Albuquerque, N.M.	false	W 3 - 0	true	3 - 0	false	3	0	false		4156099	http://stats.ncaa.org/game/index/4156099?org_id=28
 2017	12426	28	Arizona St.	08/27/2016	Abilene Christian @ Albuquerque, N.M.	2	Abilene Christian	http://stats.ncaa.org/team/2/12426	true	Albuquerque, N.M.	false	W 3 - 0	true	3 - 0	false	3	0	false		4156366	http://stats.ncaa.org/game/index/4156366?org_id=28
@@ -1787,8 +1787,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	169	Creighton	09/09/2016	TCU	698	TCU	http://stats.ncaa.org/team/698/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4166255	http://stats.ncaa.org/game/index/4166255?org_id=169
 2017	12426	169	Creighton	09/10/2016	Chattanooga	693	Chattanooga	http://stats.ncaa.org/team/693/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4168451	http://stats.ncaa.org/game/index/4168451?org_id=169
 2017	12426	169	Creighton	09/13/2016	@ Kansas St.	327	Kansas St.	http://stats.ncaa.org/team/327/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4172437	http://stats.ncaa.org/game/index/4172437?org_id=169
-2017	12426	169	Creighton	09/16/2016	Gonzaga @ LINCOLN, NEBRASKA	260	Gonzaga	http://stats.ncaa.org/team/260/12426	true	LINCOLN, NEBRASKA	false	W 3 - 0	true	3 - 0	false	3	0	false		4176034	http://stats.ncaa.org/game/index/4176034?org_id=260
 2017	12426	169	Creighton	09/16/2016	@ Montana St.	440	Montana St.	http://stats.ncaa.org/team/440/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4175191	http://stats.ncaa.org/game/index/4175191?org_id=440
+2017	12426	169	Creighton	09/16/2016	Gonzaga @ LINCOLN, NEBRASKA	260	Gonzaga	http://stats.ncaa.org/team/260/12426	true	LINCOLN, NEBRASKA	false	W 3 - 0	true	3 - 0	false	3	0	false		4176034	http://stats.ncaa.org/game/index/4176034?org_id=260
 2017	12426	169	Creighton	09/17/2016	@ Nebraska	463	Nebraska	http://stats.ncaa.org/team/463/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4177690	http://stats.ncaa.org/game/index/4177690?org_id=463
 2017	12426	169	Creighton	09/23/2016	Marquette	387	Marquette	http://stats.ncaa.org/team/387/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4183766	http://stats.ncaa.org/game/index/4183766?org_id=169
 2017	12426	169	Creighton	09/25/2016	DePaul	176	DePaul	http://stats.ncaa.org/team/176/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4185979	http://stats.ncaa.org/game/index/4185979?org_id=169
@@ -1813,6 +1813,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	169	Creighton	12/01/2016	UNI @ Lawrence, KS	504	UNI	http://stats.ncaa.org/team/504/12426	true	Lawrence, KS	false	W 3 - 2	true	3 - 2	false	3	2	false		4249322	http://stats.ncaa.org/game/index/4249322?org_id=169
 2017	12426	169	Creighton	12/02/2016	@ Kansas	328	Kansas	http://stats.ncaa.org/team/328/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4249785	http://stats.ncaa.org/game/index/4249785?org_id=328
 2017	12426	169	Creighton	12/09/2016	Michigan @ Austin, Texas	418	Michigan	http://stats.ncaa.org/team/418/12426	true	Austin, Texas	false	W 3 - 2	true	3 - 2	false	3	2	false		4254454	http://stats.ncaa.org/game/index/4254454?org_id=169
+2017	12426	169	Creighton	12/10/2016	@ Texas	703	Texas	http://stats.ncaa.org/team/703/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4255399	http://stats.ncaa.org/game/index/4255399?org_id=703
 2017	12426	172	Dartmouth	09/02/2016	Milwaukee @ Sacred Heart	797	Milwaukee	http://stats.ncaa.org/team/797/12426	true	Sacred Heart	false	W 3 - 0	true	3 - 0	false	3	0	false		4159721	http://stats.ncaa.org/game/index/4159721?org_id=797
 2017	12426	172	Dartmouth	09/03/2016	@ Sacred Heart	590	Sacred Heart	http://stats.ncaa.org/team/590/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4166620	http://stats.ncaa.org/game/index/4166620?org_id=590
 2017	12426	172	Dartmouth	09/03/2016	George Mason @ Sacred Heart	248	George Mason	http://stats.ncaa.org/team/248/12426	true	Sacred Heart	false	W 3 - 0	true	3 - 0	false	3	0	false		4159511	http://stats.ncaa.org/game/index/4159511?org_id=172
@@ -4958,7 +4959,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	428	Minnesota	11/26/2016	Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/796/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4245749	http://stats.ncaa.org/game/index/4245749?org_id=428
 2017	12426	428	Minnesota	12/02/2016	North Dakota	494	North Dakota	http://stats.ncaa.org/team/494/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249801	http://stats.ncaa.org/game/index/4249801?org_id=428
 2017	12426	428	Minnesota	12/03/2016	Hawaii	277	Hawaii	http://stats.ncaa.org/team/277/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4250823	http://stats.ncaa.org/game/index/4250823?org_id=428
-2017	12426	428	Minnesota	12/09/2016	Missouri	434	Missouri	http://stats.ncaa.org/team/434/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4254478	http://stats.ncaa.org/game/index/4254478?org_id=434
+2017	12426	428	Minnesota	12/09/2016	Missouri	434	Missouri	http://stats.ncaa.org/team/434/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4254508	http://stats.ncaa.org/game/index/4254508?org_id=428
+2017	12426	428	Minnesota	12/10/2016	UCLA	110	UCLA	http://stats.ncaa.org/team/110/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4255447	http://stats.ncaa.org/game/index/4255447?org_id=428
 2017	12426	430	Mississippi St.	08/26/2016	Kansas	328	Kansas	http://stats.ncaa.org/team/328/12426	false		true	L 0 - 3	false	0 - 3	false	0	3	false		4156041	http://stats.ncaa.org/game/index/4156041?org_id=430
 2017	12426	430	Mississippi St.	08/27/2016	Eastern Wash.	207	Eastern Wash.	http://stats.ncaa.org/team/207/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4156446	http://stats.ncaa.org/game/index/4156446?org_id=430
 2017	12426	430	Mississippi St.	08/27/2016	Lamar University	346	Lamar University	http://stats.ncaa.org/team/346/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4156445	http://stats.ncaa.org/game/index/4156445?org_id=430
@@ -5052,7 +5054,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	434	Missouri	11/26/2016	Tennessee	694	Tennessee	http://stats.ncaa.org/team/694/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4245677	http://stats.ncaa.org/game/index/4245677?org_id=434
 2017	12426	434	Missouri	12/01/2016	Northern Ill.	503	Northern Ill.	http://stats.ncaa.org/team/503/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249253	http://stats.ncaa.org/game/index/4249253?org_id=434
 2017	12426	434	Missouri	12/02/2016	Purdue	559	Purdue	http://stats.ncaa.org/team/559/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4249799	http://stats.ncaa.org/game/index/4249799?org_id=434
-2017	12426	434	Missouri	12/09/2016	@ Minnesota	428	Minnesota	http://stats.ncaa.org/team/428/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4254478	http://stats.ncaa.org/game/index/4254478?org_id=434
+2017	12426	434	Missouri	12/09/2016	@ Minnesota	428	Minnesota	http://stats.ncaa.org/team/428/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4254508	http://stats.ncaa.org/game/index/4254508?org_id=428
 2017	12426	669	Missouri St.	08/26/2016	Xavier @ Champaign, Ill.	812	Xavier	http://stats.ncaa.org/team/812/12426	true	Champaign, Ill.	false	L 2 - 3	false	2 - 3	false	2	3	false		4156966	http://stats.ncaa.org/game/index/4156966?org_id=669
 2017	12426	669	Missouri St.	08/27/2016	Arkansas @ Champaign, Ill.	31	Arkansas	http://stats.ncaa.org/team/31/12426	true	Champaign, Ill.	false	W 3 - 0	true	3 - 0	false	3	0	false		4156982	http://stats.ncaa.org/game/index/4156982?org_id=669
 2017	12426	669	Missouri St.	08/27/2016	@ Illinois	301	Illinois	http://stats.ncaa.org/team/301/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4156452	http://stats.ncaa.org/game/index/4156452?org_id=301
@@ -5371,6 +5373,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	463	Nebraska	12/02/2016	New Hampshire	469	New Hampshire	http://stats.ncaa.org/team/469/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249818	http://stats.ncaa.org/game/index/4249818?org_id=463
 2017	12426	463	Nebraska	12/03/2016	TCU	698	TCU	http://stats.ncaa.org/team/698/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4250851	http://stats.ncaa.org/game/index/4250851?org_id=463
 2017	12426	463	Nebraska	12/09/2016	Penn St.	539	Penn St.	http://stats.ncaa.org/team/539/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4254337	http://stats.ncaa.org/game/index/4254337?org_id=463
+2017	12426	463	Nebraska	12/10/2016	Washington	756	Washington	http://stats.ncaa.org/team/756/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4255126	http://stats.ncaa.org/game/index/4255126?org_id=463
 2017	12426	466	Nevada	08/26/2016	Texas A&M @ Denton, Texas	697	Texas A&M	http://stats.ncaa.org/team/697/12426	true	Denton, Texas	false	L 0 - 3	false	0 - 3	false	0	3	false		4188036	http://stats.ncaa.org/game/index/4188036?org_id=466
 2017	12426	466	Nevada	08/26/2016	@ North Texas	497	North Texas	http://stats.ncaa.org/team/497/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4156710	http://stats.ncaa.org/game/index/4156710?org_id=497
 2017	12426	466	Nevada	08/27/2016	Texas St. @ Denton, Texas	670	Texas St.	http://stats.ncaa.org/team/670/12426	true	Denton, Texas	false	W 3 - 0	true	3 - 0	false	3	0	false		4188056	http://stats.ncaa.org/game/index/4188056?org_id=466
@@ -5648,7 +5651,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	457	North Carolina	11/26/2016	Wake Forest	749	Wake Forest	http://stats.ncaa.org/team/749/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4245147	http://stats.ncaa.org/game/index/4245147?org_id=457
 2017	12426	457	North Carolina	12/02/2016	High Point	19651	High Point	http://stats.ncaa.org/team/19651/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249744	http://stats.ncaa.org/game/index/4249744?org_id=457
 2017	12426	457	North Carolina	12/03/2016	Coastal Caro.	149	Coastal Caro.	http://stats.ncaa.org/team/149/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4251087	http://stats.ncaa.org/game/index/4251087?org_id=149
-2017	12426	457	North Carolina	12/09/2016	UCLA@Minneapolis, MN		UCLA		true	Minneapolis, MN	false	-									
+2017	12426	457	North Carolina	12/09/2016	UCLA @ Minneapolis, Minn.	110	UCLA	http://stats.ncaa.org/team/110/12426	true	Minneapolis, Minn.	false	L 1 - 3	false	1 - 3	false	1	3	false		4254537	http://stats.ncaa.org/game/index/4254537?org_id=110
 2017	12426	490	North Carolina St.	08/26/2016	Northwestern St. @ Fort Wort, Texas	508	Northwestern St.	http://stats.ncaa.org/team/508/12426	true	Fort Wort, Texas	false	W 3 - 0	true	3 - 0	false	3	0	false		4155845	http://stats.ncaa.org/game/index/4155845?org_id=508
 2017	12426	490	North Carolina St.	08/26/2016	@ TCU	698	TCU	http://stats.ncaa.org/team/698/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4155945	http://stats.ncaa.org/game/index/4155945?org_id=698
 2017	12426	490	North Carolina St.	08/27/2016	Boise St. @ Fort Worth, Texas	66	Boise St.	http://stats.ncaa.org/team/66/12426	true	Fort Worth, Texas	false	W 3 - 1	true	3 - 1	false	3	1	false		4156272	http://stats.ncaa.org/game/index/4156272?org_id=490
@@ -6132,8 +6135,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	518	Ohio St.	09/09/2016	@ Missouri St.	669	Missouri St.	http://stats.ncaa.org/team/669/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4166615	http://stats.ncaa.org/game/index/4166615?org_id=669
 2017	12426	518	Ohio St.	09/09/2016	IUPUI @ Springfield, Mo.	2699	IUPUI	http://stats.ncaa.org/team/2699/12426	true	Springfield, Mo.	false	W 3 - 0	true	3 - 0	false	3	0	false		4166388	http://stats.ncaa.org/game/index/4166388?org_id=2699
 2017	12426	518	Ohio St.	09/10/2016	Green Bay @ Springfield, Mo.	794	Green Bay	http://stats.ncaa.org/team/794/12426	true	Springfield, Mo.	false	W 3 - 2	true	3 - 2	false	3	2	false		4168107	http://stats.ncaa.org/game/index/4168107?org_id=518
-2017	12426	518	Ohio St.	09/16/2016	UNCG @ Muncie, IN	459	UNCG	http://stats.ncaa.org/team/459/12426	true	Muncie, IN	false	W 3 - 0	true	3 - 0	false	3	0	false		4175199	http://stats.ncaa.org/game/index/4175199?org_id=459
 2017	12426	518	Ohio St.	09/16/2016	Valparaiso @ Muncie, IN	735	Valparaiso	http://stats.ncaa.org/team/735/12426	true	Muncie, IN	false	W 3 - 0	true	3 - 0	false	3	0	false		4174998	http://stats.ncaa.org/game/index/4174998?org_id=518
+2017	12426	518	Ohio St.	09/16/2016	UNCG @ Muncie, IN	459	UNCG	http://stats.ncaa.org/team/459/12426	true	Muncie, IN	false	W 3 - 0	true	3 - 0	false	3	0	false		4175199	http://stats.ncaa.org/game/index/4175199?org_id=459
 2017	12426	518	Ohio St.	09/17/2016	@ Ball St.	47	Ball St.	http://stats.ncaa.org/team/47/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4177416	http://stats.ncaa.org/game/index/4177416?org_id=47
 2017	12426	518	Ohio St.	09/23/2016	@ Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/796/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4183375	http://stats.ncaa.org/game/index/4183375?org_id=796
 2017	12426	518	Ohio St.	09/24/2016	@ Minnesota	428	Minnesota	http://stats.ncaa.org/team/428/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4185311	http://stats.ncaa.org/game/index/4185311?org_id=428
@@ -6158,6 +6161,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	518	Ohio St.	12/02/2016	Missouri St. @ Manhattan, Kan.	669	Missouri St.	http://stats.ncaa.org/team/669/12426	true	Manhattan, Kan.	false	W 3 - 0	true	3 - 0	false	3	0	false		4249676	http://stats.ncaa.org/game/index/4249676?org_id=669
 2017	12426	518	Ohio St.	12/03/2016	@ Kansas St.	327	Kansas St.	http://stats.ncaa.org/team/327/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4250917	http://stats.ncaa.org/game/index/4250917?org_id=327
 2017	12426	518	Ohio St.	12/09/2016	@ Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/796/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4254286	http://stats.ncaa.org/game/index/4254286?org_id=796
+2017	12426	518	Ohio St.	12/09/2016	@ Wisconsin		Wisconsin		false		false	-									
 2017	12426	522	Oklahoma	08/26/2016	Oral Roberts	527	Oral Roberts	http://stats.ncaa.org/team/527/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4155949	http://stats.ncaa.org/game/index/4155949?org_id=522
 2017	12426	522	Oklahoma	08/27/2016	UMKC	2707	UMKC	http://stats.ncaa.org/team/2707/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4156900	http://stats.ncaa.org/game/index/4156900?org_id=522
 2017	12426	522	Oklahoma	08/27/2016	UTEP	704	UTEP	http://stats.ncaa.org/team/704/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4156228	http://stats.ncaa.org/game/index/4156228?org_id=704
@@ -6264,6 +6268,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	527	Oral Roberts	09/20/2016	Arkansas	31	Arkansas	http://stats.ncaa.org/team/31/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4180975	http://stats.ncaa.org/game/index/4180975?org_id=527
 2017	12426	527	Oral Roberts	09/23/2016	@ North Dakota St.	493	North Dakota St.	http://stats.ncaa.org/team/493/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4183450	http://stats.ncaa.org/game/index/4183450?org_id=493
 2017	12426	527	Oral Roberts	09/25/2016	@ South Dakota	650	South Dakota	http://stats.ncaa.org/team/650/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4186146	http://stats.ncaa.org/game/index/4186146?org_id=650
+2017	12426	527	Oral Roberts	09/25/2016	@ South Dakota		South Dakota		false		false	-									
 2017	12426	527	Oral Roberts	10/02/2016	Omaha	464	Omaha	http://stats.ncaa.org/team/464/12426	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4194182	http://stats.ncaa.org/game/index/4194182?org_id=527
 2017	12426	527	Oral Roberts	10/07/2016	Western Ill.	771	Western Ill.	http://stats.ncaa.org/team/771/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4201266	http://stats.ncaa.org/game/index/4201266?org_id=527
 2017	12426	527	Oral Roberts	10/09/2016	South Dakota St.	649	South Dakota St.	http://stats.ncaa.org/team/649/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4201568	http://stats.ncaa.org/game/index/4201568?org_id=527
@@ -7593,14 +7598,15 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	650	South Dakota	09/01/2016	UMKC	2707	UMKC	http://stats.ncaa.org/team/2707/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4157872	http://stats.ncaa.org/game/index/4157872?org_id=650
 2017	12426	650	South Dakota	09/03/2016	Abilene Christian @ Omaha, Neb.	2	Abilene Christian	http://stats.ncaa.org/team/2/12426	true	Omaha, Neb.	false	W 3 - 1	true	3 - 1	false	3	1	false		4160820	http://stats.ncaa.org/game/index/4160820?org_id=650
 2017	12426	650	South Dakota	09/03/2016	Ball St. @ Omaha, Neb.	47	Ball St.	http://stats.ncaa.org/team/47/12426	true	Omaha, Neb.	false	W 3 - 1	true	3 - 1	false	3	1	false		4159897	http://stats.ncaa.org/game/index/4159897?org_id=650
-2017	12426	650	South Dakota	09/09/2016	Oregon St. @ Stockton, Calif.	528	Oregon St.	http://stats.ncaa.org/team/528/12426	true	Stockton, Calif.	false	W 3 - 1	true	3 - 1	false	3	1	false		4166114	http://stats.ncaa.org/game/index/4166114?org_id=650
 2017	12426	650	South Dakota	09/09/2016	Northern Colo. @ Stockton, Calif.	502	Northern Colo.	http://stats.ncaa.org/team/502/12426	true	Stockton, Calif.	false	W 3 - 0	true	3 - 0	false	3	0	false		4165685	http://stats.ncaa.org/game/index/4165685?org_id=502
+2017	12426	650	South Dakota	09/09/2016	Oregon St. @ Stockton, Calif.	528	Oregon St.	http://stats.ncaa.org/team/528/12426	true	Stockton, Calif.	false	W 3 - 1	true	3 - 1	false	3	1	false		4166114	http://stats.ncaa.org/game/index/4166114?org_id=650
 2017	12426	650	South Dakota	09/10/2016	@ Pacific	534	Pacific	http://stats.ncaa.org/team/534/12426	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4168104	http://stats.ncaa.org/game/index/4168104?org_id=534
 2017	12426	650	South Dakota	09/16/2016	Lamar University @ Iowa City, Iowa	346	Lamar University	http://stats.ncaa.org/team/346/12426	true	Iowa City, Iowa	false	W 3 - 0	true	3 - 0	false	3	0	false		4179343	http://stats.ncaa.org/game/index/4179343?org_id=346
 2017	12426	650	South Dakota	09/17/2016	@ Iowa	312	Iowa	http://stats.ncaa.org/team/312/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4177386	http://stats.ncaa.org/game/index/4177386?org_id=312
 2017	12426	650	South Dakota	09/17/2016	Lamar University @ Iowa City, Iowa	346	Lamar University	http://stats.ncaa.org/team/346/12426	true	Iowa City, Iowa	false	W 3 - 0	true	3 - 0	false	3	0	false		4176405	http://stats.ncaa.org/game/index/4176405?org_id=650
 2017	12426	650	South Dakota	09/23/2016	@ Western Ill.	771	Western Ill.	http://stats.ncaa.org/team/771/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4183360	http://stats.ncaa.org/game/index/4183360?org_id=771
 2017	12426	650	South Dakota	09/25/2016	Oral Roberts	527	Oral Roberts	http://stats.ncaa.org/team/527/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4186146	http://stats.ncaa.org/game/index/4186146?org_id=650
+2017	12426	650	South Dakota	09/25/2016	@ Oral Roberts		Oral Roberts		false		false	-									
 2017	12426	650	South Dakota	09/30/2016	North Dakota St.	493	North Dakota St.	http://stats.ncaa.org/team/493/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4191448	http://stats.ncaa.org/game/index/4191448?org_id=650
 2017	12426	650	South Dakota	10/02/2016	@ South Dakota St.	649	South Dakota St.	http://stats.ncaa.org/team/649/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4194183	http://stats.ncaa.org/game/index/4194183?org_id=649
 2017	12426	650	South Dakota	10/07/2016	IUPUI	2699	IUPUI	http://stats.ncaa.org/team/2699/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4202957	http://stats.ncaa.org/game/index/4202957?org_id=2699
@@ -8011,6 +8017,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	674	Stanford	12/02/2016	Denver	183	Denver	http://stats.ncaa.org/team/183/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249831	http://stats.ncaa.org/game/index/4249831?org_id=183
 2017	12426	674	Stanford	12/03/2016	Boise St.	66	Boise St.	http://stats.ncaa.org/team/66/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4251038	http://stats.ncaa.org/game/index/4251038?org_id=674
 2017	12426	674	Stanford	12/09/2016	Florida St. @ Madison, Wis.	234	Florida St.	http://stats.ncaa.org/team/234/12426	true	Madison, Wis.	false	W 3 - 1	true	3 - 1	false	3	1	false		4254385	http://stats.ncaa.org/game/index/4254385?org_id=674
+2017	12426	674	Stanford	12/10/2016	@ Wisconsin	796	Wisconsin	http://stats.ncaa.org/team/796/12426	false		false	W 3 - 2	true	3 - 2	false	3	2	false		4255259	http://stats.ncaa.org/game/index/4255259?org_id=796
 2017	12426	678	Stetson	08/26/2016	Stony Brook @ Orlando, Fla.	683	Stony Brook	http://stats.ncaa.org/team/683/12426	true	Orlando, Fla.	false	L 0 - 3	false	0 - 3	false	0	3	false		4156110	http://stats.ncaa.org/game/index/4156110?org_id=683
 2017	12426	678	Stetson	08/26/2016	Kent St. @ Orlando, Fla.	331	Kent St.	http://stats.ncaa.org/team/331/12426	true	Orlando, Fla.	false	L 1 - 3	false	1 - 3	false	1	3	false		4157048	http://stats.ncaa.org/game/index/4157048?org_id=331
 2017	12426	678	Stetson	08/27/2016	@ UCF	128	UCF	http://stats.ncaa.org/team/128/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4156329	http://stats.ncaa.org/game/index/4156329?org_id=128
@@ -8279,6 +8286,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	703	Texas	12/02/2016	UTRGV	536	UTRGV	http://stats.ncaa.org/team/536/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249942	http://stats.ncaa.org/game/index/4249942?org_id=703
 2017	12426	703	Texas	12/03/2016	SMU	663	SMU	http://stats.ncaa.org/team/663/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4250809	http://stats.ncaa.org/game/index/4250809?org_id=703
 2017	12426	703	Texas	12/09/2016	BYU	77	BYU	http://stats.ncaa.org/team/77/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4254363	http://stats.ncaa.org/game/index/4254363?org_id=703
+2017	12426	703	Texas	12/10/2016	Creighton	169	Creighton	http://stats.ncaa.org/team/169/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4255399	http://stats.ncaa.org/game/index/4255399?org_id=703
 2017	12426	697	Texas A&M	08/26/2016	Nevada @ Denton, Texas	466	Nevada	http://stats.ncaa.org/team/466/12426	true	Denton, Texas	false	W 3 - 0	true	3 - 0	false	3	0	false		4188036	http://stats.ncaa.org/game/index/4188036?org_id=466
 2017	12426	697	Texas A&M	08/27/2016	Ohio St. @ Denton, Texas	518	Ohio St.	http://stats.ncaa.org/team/518/12426	true	Denton, Texas	false	L 2 - 3	false	2 - 3	false	2	3	false		4156285	http://stats.ncaa.org/game/index/4156285?org_id=518
 2017	12426	697	Texas A&M	08/27/2016	@ North Texas	497	North Texas	http://stats.ncaa.org/team/497/12426	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4156444	http://stats.ncaa.org/game/index/4156444?org_id=697
@@ -8811,7 +8819,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	110	UCLA	11/26/2016	Southern California	657	Southern California	http://stats.ncaa.org/team/657/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4245777	http://stats.ncaa.org/game/index/4245777?org_id=110
 2017	12426	110	UCLA	12/02/2016	Murray St.	454	Murray St.	http://stats.ncaa.org/team/454/12426	false		true	W 3 - 1	true	3 - 1	false	3	1	false		4249925	http://stats.ncaa.org/game/index/4249925?org_id=110
 2017	12426	110	UCLA	12/03/2016	Baylor	51	Baylor	http://stats.ncaa.org/team/51/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4250946	http://stats.ncaa.org/game/index/4250946?org_id=110
-2017	12426	110	UCLA	12/09/2016	North Carolina@Minneapolis, MN		North Carolina		true	Minneapolis, MN	false	-									
+2017	12426	110	UCLA	12/09/2016	North Carolina @ Minneapolis, Minn.	457	North Carolina	http://stats.ncaa.org/team/457/12426	true	Minneapolis, Minn.	false	W 3 - 1	true	3 - 1	false	3	1	false		4254537	http://stats.ncaa.org/game/index/4254537?org_id=110
+2017	12426	110	UCLA	12/10/2016	@ Minnesota	428	Minnesota	http://stats.ncaa.org/team/428/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4255447	http://stats.ncaa.org/game/index/4255447?org_id=428
 2017	12426	164	UConn	08/26/2016	@ Syracuse	688	Syracuse	http://stats.ncaa.org/team/688/12426	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4156161	http://stats.ncaa.org/game/index/4156161?org_id=688
 2017	12426	164	UConn	08/27/2016	@ Colgate	153	Colgate	http://stats.ncaa.org/team/153/12426	false		false	W 3 - 1	true	3 - 1	false	3	1	false		4156932	http://stats.ncaa.org/game/index/4156932?org_id=153
 2017	12426	164	UConn	09/02/2016	@ Southern Miss.	664	Southern Miss.	http://stats.ncaa.org/team/664/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4159154	http://stats.ncaa.org/game/index/4159154?org_id=664
@@ -9646,7 +9655,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	756	Washington	11/26/2016	@ Washington St.	754	Washington St.	http://stats.ncaa.org/team/754/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4245452	http://stats.ncaa.org/game/index/4245452?org_id=754
 2017	12426	756	Washington	12/02/2016	A&M-Corpus Chris	26172	A&M-Corpus Chris	http://stats.ncaa.org/team/26172/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249811	http://stats.ncaa.org/game/index/4249811?org_id=756
 2017	12426	756	Washington	12/03/2016	Kentucky	334	Kentucky	http://stats.ncaa.org/team/334/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4250941	http://stats.ncaa.org/game/index/4250941?org_id=756
-2017	12426	756	Washington	12/09/2016	Arizona@Lincoln, NE		Arizona		true	Lincoln, NE	false	-									
+2017	12426	756	Washington	12/09/2016	Arizona @ Lincoln, Nebraska	29	Arizona	http://stats.ncaa.org/team/29/12426	true	Lincoln, Nebraska	false	W 3 - 0	true	3 - 0	false	3	0	false		4254596	http://stats.ncaa.org/game/index/4254596?org_id=756
+2017	12426	756	Washington	12/10/2016	@ Nebraska	463	Nebraska	http://stats.ncaa.org/team/463/12426	false		false	L 0 - 3	false	0 - 3	false	0	3	false		4255126	http://stats.ncaa.org/game/index/4255126?org_id=463
 2017	12426	754	Washington St.	08/26/2016	@ Purdue	559	Purdue	http://stats.ncaa.org/team/559/12426	false		false	L 1 - 3	false	1 - 3	false	1	3	false		4156070	http://stats.ncaa.org/game/index/4156070?org_id=559
 2017	12426	754	Washington St.	08/26/2016	@ Kentucky	334	Kentucky	http://stats.ncaa.org/team/334/12426	false		false	W 3 - 0	true	3 - 0	false	3	0	false		4156043	http://stats.ncaa.org/game/index/4156043?org_id=754
 2017	12426	754	Washington St.	08/27/2016	Wyoming @ West Lafayette, Ind.	811	Wyoming	http://stats.ncaa.org/team/811/12426	true	West Lafayette, Ind.	false	W 3 - 1	true	3 - 1	false	3	1	false		4156435	http://stats.ncaa.org/game/index/4156435?org_id=754
@@ -9989,6 +9999,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12426	796	Wisconsin	12/01/2016	Howard	290	Howard	http://stats.ncaa.org/team/290/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249402	http://stats.ncaa.org/game/index/4249402?org_id=796
 2017	12426	796	Wisconsin	12/02/2016	Washington St.	754	Washington St.	http://stats.ncaa.org/team/754/12426	false		true	W 3 - 0	true	3 - 0	false	3	0	false		4249701	http://stats.ncaa.org/game/index/4249701?org_id=796
 2017	12426	796	Wisconsin	12/09/2016	Ohio St.	518	Ohio St.	http://stats.ncaa.org/team/518/12426	false		true	W 3 - 2	true	3 - 2	false	3	2	false		4254286	http://stats.ncaa.org/game/index/4254286?org_id=796
+2017	12426	796	Wisconsin	12/09/2016	@ Ohio St.		Ohio St.		false		false	-									
+2017	12426	796	Wisconsin	12/10/2016	Stanford	674	Stanford	http://stats.ncaa.org/team/674/12426	false		true	L 2 - 3	false	2 - 3	false	2	3	false		4255259	http://stats.ncaa.org/game/index/4255259?org_id=796
 2017	12426	2915	Wofford	08/26/2016	High Point @ Clemson, S.C.	19651	High Point	http://stats.ncaa.org/team/19651/12426	true	Clemson, S.C.	false	L 0 - 3	false	0 - 3	false	0	3	false		4156183	http://stats.ncaa.org/game/index/4156183?org_id=2915
 2017	12426	2915	Wofford	08/27/2016	William & Mary @ Clemson, S.C.	786	William & Mary	http://stats.ncaa.org/team/786/12426	true	Clemson, S.C.	false	W 3 - 2	true	3 - 2	false	3	2	false		4156413	http://stats.ncaa.org/game/index/4156413?org_id=786
 2017	12426	2915	Wofford	08/27/2016	@ Clemson	147	Clemson	http://stats.ncaa.org/team/147/12426	false		false	L 2 - 3	false	2 - 3	false	2	3	false		4156465	http://stats.ncaa.org/game/index/4156465?org_id=147
